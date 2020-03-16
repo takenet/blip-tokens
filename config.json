@@ -1,0 +1,37 @@
+{
+  "source": [
+    "properties/**/*.json"
+  ],
+  "platforms": {
+    "json": {
+      "transformGroup": "web",
+      "buildPath": "build/json/",
+      "files": [
+        {
+          "destination": "variables.json",
+          "format": "json/flat"
+        }
+      ]
+    },
+    "assets/embed/json": {
+      "transforms": [
+        "attribute/cti",
+        "name/cti/kebab",
+        "asset/base64"
+      ],
+      "buildPath": "build/json/",
+      "files": [
+        {
+          "destination": "assets_icons.json",
+          "format": "json/flat",
+          "filter": {
+            "attributes": {
+              "category": "asset",
+              "type": "icon"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

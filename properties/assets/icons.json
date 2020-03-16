@@ -1,0 +1,561 @@
+{
+  "asset": {
+    "icon": {
+      "ab-outline": {
+        "value": "assets/icons/outline/ab.svg"
+      },
+      "add-persistent-menu-outline": {
+        "value": "assets/icons/outline/add-persistent-menu.svg"
+      },
+      "add-outline": {
+        "value": "assets/icons/outline/add.svg"
+      },
+      "arrow-ball-down-outline": {
+        "value": "assets/icons/outline/arrow-ball-down.svg"
+      },
+      "arrow-ball-left-outline": {
+        "value": "assets/icons/outline/arrow-ball-left.svg"
+      },
+      "arrow-ball-right-outline": {
+        "value": "assets/icons/outline/arrow-ball-right.svg"
+      },
+      "arrow-ball-screen-fill-outline": {
+        "value": "assets/icons/outline/arrow-ball-screen-fill.svg"
+      },
+      "arrow-ball-screen-full-outline": {
+        "value": "assets/icons/outline/arrow-ball-screen-full.svg"
+      },
+      "arrow-ball-up-outline": {
+        "value": "assets/icons/outline/arrow-ball-up.svg"
+      },
+      "arrow-down-outline": {
+        "value": "assets/icons/outline/arrow-down.svg"
+      },
+      "arrow-left-outline": {
+        "value": "assets/icons/outline/arrow-left.svg"
+      },
+      "arrow-right-outline": {
+        "value": "assets/icons/outline/arrow-right.svg"
+      },
+      "arrow-up-outline": {
+        "value": "assets/icons/outline/arrow-up.svg"
+      },
+      "attach-outline": {
+        "value": "assets/icons/outline/attach.svg"
+      },
+      "attention-outline": {
+        "value": "assets/icons/outline/attention.svg"
+      },
+      "audio-outline": {
+        "value": "assets/icons/outline/audio.svg"
+      },
+      "avatar-deafult-outline": {
+        "value": "assets/icons/outline/avatar-deafult.svg"
+      },
+      "avatar-user-outline": {
+        "value": "assets/icons/outline/avatar-user.svg"
+      },
+      "back-outline": {
+        "value": "assets/icons/outline/back.svg"
+      },
+      "bell-outline": {
+        "value": "assets/icons/outline/bell.svg"
+      },
+      "builder-carrousel-outline": {
+        "value": "assets/icons/outline/builder-carrousel.svg"
+      },
+      "builder-menu-outline": {
+        "value": "assets/icons/outline/builder-menu.svg"
+      },
+      "builder-new-state-outline": {
+        "value": "assets/icons/outline/builder-new-state.svg"
+      },
+      "builder-publish-bot-outline": {
+        "value": "assets/icons/outline/builder-publish-bot.svg"
+      },
+      "builder-quick-reply-outline": {
+        "value": "assets/icons/outline/builder-quick-reply.svg"
+      },
+      "builder-router-outline": {
+        "value": "assets/icons/outline/builder-router.svg"
+      },
+      "builder-test-bot-outline": {
+        "value": "assets/icons/outline/builder-test-bot.svg"
+      },
+      "builder-text-message-outline": {
+        "value": "assets/icons/outline/builder-text-message.svg"
+      },
+      "business-outline": {
+        "value": "assets/icons/outline/business.svg"
+      },
+      "button-outline": {
+        "value": "assets/icons/outline/button.svg"
+      },
+      "calendar-outline": {
+        "value": "assets/icons/outline/calendar.svg"
+      },
+      "camera-outline": {
+        "value": "assets/icons/outline/camera.svg"
+      },
+      "chart-bar-outline": {
+        "value": "assets/icons/outline/chart-bar.svg"
+      },
+      "chart-column-outline": {
+        "value": "assets/icons/outline/chart-column.svg"
+      },
+      "chart-line-outline": {
+        "value": "assets/icons/outline/chart-line.svg"
+      },
+      "chart-pizza-outline": {
+        "value": "assets/icons/outline/chart-pizza.svg"
+      },
+      "checkball-outline": {
+        "value": "assets/icons/outline/checkball.svg"
+      },
+      "clock-outline": {
+        "value": "assets/icons/outline/clock.svg"
+      },
+      "close-outline": {
+        "value": "assets/icons/outline/close.svg"
+      },
+      "company-outline": {
+        "value": "assets/icons/outline/company.svg"
+      },
+      "contact-outline": {
+        "value": "assets/icons/outline/contact.svg"
+      },
+      "cookie-outline": {
+        "value": "assets/icons/outline/cookie.svg"
+      },
+      "copy-outline": {
+        "value": "assets/icons/outline/copy.svg"
+      },
+      "custom-channel-outline": {
+        "value": "assets/icons/outline/custom-channel.svg"
+      },
+      "date-time-outline": {
+        "value": "assets/icons/outline/date-time.svg"
+      },
+      "debug-outline": {
+        "value": "assets/icons/outline/debug.svg"
+      },
+      "deslike-outline": {
+        "value": "assets/icons/outline/deslike.svg"
+      },
+      "download-outline": {
+        "value": "assets/icons/outline/download.svg"
+      },
+      "edit-outline": {
+        "value": "assets/icons/outline/edit.svg"
+      },
+      "email-outline": {
+        "value": "assets/icons/outline/email.svg"
+      },
+      "emoji-outline": {
+        "value": "assets/icons/outline/emoji.svg"
+      },
+      "error-outline": {
+        "value": "assets/icons/outline/error.svg"
+      },
+      "external-file-outline": {
+        "value": "assets/icons/outline/external-file.svg"
+      },
+      "eye-closed-outline": {
+        "value": "assets/icons/outline/eye-closed.svg"
+      },
+      "eye-open-outline": {
+        "value": "assets/icons/outline/eye-open.svg"
+      },
+      "false-outline": {
+        "value": "assets/icons/outline/false.svg"
+      },
+      "faq-outline": {
+        "value": "assets/icons/outline/faq.svg"
+      },
+      "favorite-outline": {
+        "value": "assets/icons/outline/favorite.svg"
+      },
+      "file-csv-outline": {
+        "value": "assets/icons/outline/file-csv.svg"
+      },
+      "file-doc-outline": {
+        "value": "assets/icons/outline/file-doc.svg"
+      },
+      "file-empty-file-outline": {
+        "value": "assets/icons/outline/file-empty-file.svg"
+      },
+      "file-image-outline": {
+        "value": "assets/icons/outline/file-image.svg"
+      },
+      "file-java-script-outline": {
+        "value": "assets/icons/outline/file-java-script.svg"
+      },
+      "file-json-outline": {
+        "value": "assets/icons/outline/file-json.svg"
+      },
+      "file-new-outline": {
+        "value": "assets/icons/outline/file-new.svg"
+      },
+      "file-pdf-outline": {
+        "value": "assets/icons/outline/file-pdf.svg"
+      },
+      "file-ppt-outline": {
+        "value": "assets/icons/outline/file-ppt.svg"
+      },
+      "file-txt-outline": {
+        "value": "assets/icons/outline/file-txt.svg"
+      },
+      "filter-outline": {
+        "value": "assets/icons/outline/filter.svg"
+      },
+      "folder-outline": {
+        "value": "assets/icons/outline/folder.svg"
+      },
+      "forum-flag-outline": {
+        "value": "assets/icons/outline/forum-flag.svg"
+      },
+      "forum-settings-outline": {
+        "value": "assets/icons/outline/forum-settings.svg"
+      },
+      "heart-outline": {
+        "value": "assets/icons/outline/heart.svg"
+      },
+      "home-outline": {
+        "value": "assets/icons/outline/home.svg"
+      },
+      "ia-outline": {
+        "value": "assets/icons/outline/ia.svg"
+      },
+      "info-outline": {
+        "value": "assets/icons/outline/info.svg"
+      },
+      "integration-outline": {
+        "value": "assets/icons/outline/integration.svg"
+      },
+      "library-outline": {
+        "value": "assets/icons/outline/library.svg"
+      },
+      "like-outline": {
+        "value": "assets/icons/outline/like.svg"
+      },
+      "link-outline": {
+        "value": "assets/icons/outline/link.svg"
+      },
+      "list-outline": {
+        "value": "assets/icons/outline/list.svg"
+      },
+      "loading-outline": {
+        "value": "assets/icons/outline/loading.svg"
+      },
+      "localization-outline": {
+        "value": "assets/icons/outline/localization.svg"
+      },
+      "lock-outline": {
+        "value": "assets/icons/outline/lock.svg"
+      },
+      "logout-outline": {
+        "value": "assets/icons/outline/logout.svg"
+      },
+      "menu-dot-outline": {
+        "value": "assets/icons/outline/menu-dot.svg"
+      },
+      "menu-hamburger-outline": {
+        "value": "assets/icons/outline/menu-hamburger.svg"
+      },
+      "message-active-outline": {
+        "value": "assets/icons/outline/message-active.svg"
+      },
+      "message-ballon-outline": {
+        "value": "assets/icons/outline/message-ballon.svg"
+      },
+      "message-received-outline": {
+        "value": "assets/icons/outline/message-received.svg"
+      },
+      "message-sent-outline": {
+        "value": "assets/icons/outline/message-sent.svg"
+      },
+      "message-talk-outline": {
+        "value": "assets/icons/outline/message-talk.svg"
+      },
+      "message-total-outline": {
+        "value": "assets/icons/outline/message-total.svg"
+      },
+      "more-options-horizontal-outline": {
+        "value": "assets/icons/outline/more-options-horizontal.svg"
+      },
+      "more-options-vertical-outline": {
+        "value": "assets/icons/outline/more-options-vertical.svg"
+      },
+      "move-outline": {
+        "value": "assets/icons/outline/move.svg"
+      },
+      "notes-outline": {
+        "value": "assets/icons/outline/notes.svg"
+      },
+      "order-elements-outline": {
+        "value": "assets/icons/outline/order-elements.svg"
+      },
+      "paint-outline": {
+        "value": "assets/icons/outline/paint.svg"
+      },
+      "plus-outline": {
+        "value": "assets/icons/outline/plus.svg"
+      },
+      "question-outline": {
+        "value": "assets/icons/outline/question.svg"
+      },
+      "redo-arrow-outline": {
+        "value": "assets/icons/outline/redo-arrow.svg"
+      },
+      "refresh-outline": {
+        "value": "assets/icons/outline/refresh.svg"
+      },
+      "restore-outline": {
+        "value": "assets/icons/outline/restore.svg"
+      },
+      "robot-outline": {
+        "value": "assets/icons/outline/robot.svg"
+      },
+      "save-disk-outline": {
+        "value": "assets/icons/outline/save-disk.svg"
+      },
+      "save-flag-outline": {
+        "value": "assets/icons/outline/save-flag.svg"
+      },
+      "search-outline": {
+        "value": "assets/icons/outline/search.svg"
+      },
+      "send-outline": {
+        "value": "assets/icons/outline/send.svg"
+      },
+      "settings-outline": {
+        "value": "assets/icons/outline/settings.svg"
+      },
+      "skills-outline": {
+        "value": "assets/icons/outline/skills.svg"
+      },
+      "smile-outline": {
+        "value": "assets/icons/outline/smile.svg"
+      },
+      "sms-outline": {
+        "value": "assets/icons/outline/sms.svg"
+      },
+      "speaker-outline": {
+        "value": "assets/icons/outline/speaker.svg"
+      },
+      "sso-outline": {
+        "value": "assets/icons/outline/sso.svg"
+      },
+      "status-outline": {
+        "value": "assets/icons/outline/status.svg"
+      },
+      "tag-outline": {
+        "value": "assets/icons/outline/tag.svg"
+      },
+      "team-outline": {
+        "value": "assets/icons/outline/team.svg"
+      },
+      "text-style-bold-outline": {
+        "value": "assets/icons/outline/text-style-bold.svg"
+      },
+      "text-style-italic-outline": {
+        "value": "assets/icons/outline/text-style-italic.svg"
+      },
+      "text-style-strikethrough-outline": {
+        "value": "assets/icons/outline/text-style-strikethrough.svg"
+      },
+      "text-style-underline-outline": {
+        "value": "assets/icons/outline/text-style-underline.svg"
+      },
+      "transfer-outline": {
+        "value": "assets/icons/outline/transfer.svg"
+      },
+      "trash-outline": {
+        "value": "assets/icons/outline/trash.svg"
+      },
+      "true-outline": {
+        "value": "assets/icons/outline/true.svg"
+      },
+      "undo-arrow-outline": {
+        "value": "assets/icons/outline/undo-arrow.svg"
+      },
+      "unlock-outline": {
+        "value": "assets/icons/outline/unlock.svg"
+      },
+      "upload-outline": {
+        "value": "assets/icons/outline/upload.svg"
+      },
+      "user-active-outline": {
+        "value": "assets/icons/outline/user-active.svg"
+      },
+      "user-defaut-outline": {
+        "value": "assets/icons/outline/user-defaut.svg"
+      },
+      "user-engaged-outline": {
+        "value": "assets/icons/outline/user-engaged.svg"
+      },
+      "user-outline": {
+        "value": "assets/icons/outline/user.svg"
+      },
+      "video-outline": {
+        "value": "assets/icons/outline/video.svg"
+      },
+      "voip-outline": {
+        "value": "assets/icons/outline/voip.svg"
+      },
+      "warning-outline": {
+        "value": "assets/icons/outline/warning.svg"
+      },
+      "xml-outline": {
+        "value": "assets/icons/outline/xml.svg"
+      },
+      "add-solid": {
+        "value": "assets/icons/solid/add.svg"
+      },
+      "arrow-ball-down-solid": {
+        "value": "assets/icons/solid/arrow-ball-down.svg"
+      },
+      "arrow-ball-left-solid": {
+        "value": "assets/icons/solid/arrow-ball-left.svg"
+      },
+      "arrow-ball-right-solid": {
+        "value": "assets/icons/solid/arrow-ball-right.svg"
+      },
+      "arrow-ball-up-solid": {
+        "value": "assets/icons/solid/arrow-ball-up.svg"
+      },
+      "arrow-down-solid": {
+        "value": "assets/icons/solid/arrow-down.svg"
+      },
+      "arrow-filter-table-default-solid": {
+        "value": "assets/icons/solid/arrow-filter-table-default.svg"
+      },
+      "arrow-filter-table-down-solid": {
+        "value": "assets/icons/solid/arrow-filter-table-down.svg"
+      },
+      "arrow-filter-table-up-solid": {
+        "value": "assets/icons/solid/arrow-filter-table-up.svg"
+      },
+      "arrow-left-solid": {
+        "value": "assets/icons/solid/arrow-left.svg"
+      },
+      "arrow-response-solid": {
+        "value": "assets/icons/solid/arrow-response.svg"
+      },
+      "arrow-right-solid": {
+        "value": "assets/icons/solid/arrow-right.svg"
+      },
+      "arrow-up-solid": {
+        "value": "assets/icons/solid/arrow-up.svg"
+      },
+      "attention-solid": {
+        "value": "assets/icons/solid/attention.svg"
+      },
+      "audio-solid": {
+        "value": "assets/icons/solid/audio.svg"
+      },
+      "blip-forum-solid": {
+        "value": "assets/icons/solid/blip-forum.svg"
+      },
+      "blip-ideas-solid": {
+        "value": "assets/icons/solid/blip-ideas.svg"
+      },
+      "blip-tutorials-solid": {
+        "value": "assets/icons/solid/blip-tutorials.svg"
+      },
+      "builder-http-solid": {
+        "value": "assets/icons/solid/builder-http.svg"
+      },
+      "builder-java-script-solid": {
+        "value": "assets/icons/solid/builder-java-script.svg"
+      },
+      "builder-publish-bot-solid": {
+        "value": "assets/icons/solid/builder-publish-bot.svg"
+      },
+      "builder-redirect-solid": {
+        "value": "assets/icons/solid/builder-redirect.svg"
+      },
+      "builder-tracking-solid": {
+        "value": "assets/icons/solid/builder-tracking.svg"
+      },
+      "builder-variable-solid": {
+        "value": "assets/icons/solid/builder-variable.svg"
+      },
+      "business-solid": {
+        "value": "assets/icons/solid/business.svg"
+      },
+      "checkball-solid": {
+        "value": "assets/icons/solid/checkball.svg"
+      },
+      "data-security-solid": {
+        "value": "assets/icons/solid/data-security.svg"
+      },
+      "edit-solid": {
+        "value": "assets/icons/solid/edit.svg"
+      },
+      "email-solid": {
+        "value": "assets/icons/solid/email.svg"
+      },
+      "error-solid": {
+        "value": "assets/icons/solid/error.svg"
+      },
+      "favorite-solid": {
+        "value": "assets/icons/solid/favorite.svg"
+      },
+      "folder-save-solid": {
+        "value": "assets/icons/solid/folder-save.svg"
+      },
+      "folder-solid": {
+        "value": "assets/icons/solid/folder.svg"
+      },
+      "heart-solid": {
+        "value": "assets/icons/solid/heart.svg"
+      },
+      "info-solid": {
+        "value": "assets/icons/solid/info.svg"
+      },
+      "integration-solid": {
+        "value": "assets/icons/solid/integration.svg"
+      },
+      "operator-solid": {
+        "value": "assets/icons/solid/operator.svg"
+      },
+      "organize-blocks-solid": {
+        "value": "assets/icons/solid/organize-blocks.svg"
+      },
+      "organize-list-solid": {
+        "value": "assets/icons/solid/organize-list.svg"
+      },
+      "save-solid": {
+        "value": "assets/icons/solid/save.svg"
+      },
+      "send-solid": {
+        "value": "assets/icons/solid/send.svg"
+      },
+      "sms-solid": {
+        "value": "assets/icons/solid/sms.svg"
+      },
+      "tag-solid": {
+        "value": "assets/icons/solid/tag.svg"
+      },
+      "team-solid": {
+        "value": "assets/icons/solid/team.svg"
+      },
+      "user-default-solid": {
+        "value": "assets/icons/solid/user-default.svg"
+      },
+      "user-engaged-solid": {
+        "value": "assets/icons/solid/user-engaged.svg"
+      },
+      "user-solid": {
+        "value": "assets/icons/solid/user.svg"
+      },
+      "video-solid": {
+        "value": "assets/icons/solid/video.svg"
+      },
+      "voip-solid": {
+        "value": "assets/icons/solid/voip.svg"
+      }
+    }
+  }
+}

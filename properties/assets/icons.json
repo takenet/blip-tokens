@@ -555,6 +555,9 @@
       },
       "voip-solid": {
         "value": "assets/icons/solid/voip.svg"
+      },
+      "warning-solid": {
+        "value": "assets/icons/solid/warning.svg"
       }
     }
   }

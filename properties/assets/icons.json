@@ -409,6 +409,9 @@
       "xml-outline": {
         "value": "assets/icons/outline/xml.svg"
       },
+      "video-broken-outline": {
+        "value": "assets/icons/outline/video-broken.svg"
+      },
       "add-solid": {
         "value": "assets/icons/solid/add.svg"
       },

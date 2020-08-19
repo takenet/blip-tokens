@@ -412,8 +412,44 @@
       "video-broken-outline": {
         "value": "assets/icons/outline/video-broken.svg"
       },
+      "abkhazia_flag-solid": {
+        "value": "assets/icons/solid/abkhazia_flag.svg"
+      },
       "add-solid": {
         "value": "assets/icons/solid/add.svg"
+      },
+      "afghanistan_flag-solid": {
+        "value": "assets/icons/solid/afghanistan_flag.svg"
+      },
+      "aland-islands_flag-solid": {
+        "value": "assets/icons/solid/aland-islands_flag.svg"
+      },
+      "albania_flag-solid": {
+        "value": "assets/icons/solid/albania_flag.svg"
+      },
+      "algeria_flag-solid": {
+        "value": "assets/icons/solid/algeria_flag.svg"
+      },
+      "american-samoa_flag-solid": {
+        "value": "assets/icons/solid/american-samoa_flag.svg"
+      },
+      "andorra_flag-solid": {
+        "value": "assets/icons/solid/andorra_flag.svg"
+      },
+      "angola_flag-solid": {
+        "value": "assets/icons/solid/angola_flag.svg"
+      },
+      "anguilla_flag-solid": {
+        "value": "assets/icons/solid/anguilla_flag.svg"
+      },
+      "antigua-and-barbuda_flag-solid": {
+        "value": "assets/icons/solid/antigua-and-barbuda_flag.svg"
+      },
+      "argentina_flag-solid": {
+        "value": "assets/icons/solid/argentina_flag.svg"
+      },
+      "armenia_flag-solid": {
+        "value": "assets/icons/solid/armenia_flag.svg"
       },
       "arrow-ball-down-solid": {
         "value": "assets/icons/solid/arrow-ball-down.svg"
@@ -451,11 +487,62 @@
       "arrow-up-solid": {
         "value": "assets/icons/solid/arrow-up.svg"
       },
+      "aruba_flag-solid": {
+        "value": "assets/icons/solid/aruba_flag.svg"
+      },
       "attention-solid": {
         "value": "assets/icons/solid/attention.svg"
       },
       "audio-solid": {
         "value": "assets/icons/solid/audio.svg"
+      },
+      "australia_flag-solid": {
+        "value": "assets/icons/solid/australia_flag.svg"
+      },
+      "austria_flag-solid": {
+        "value": "assets/icons/solid/austria_flag.svg"
+      },
+      "azerbaijan_flag-solid": {
+        "value": "assets/icons/solid/azerbaijan_flag.svg"
+      },
+      "azores-islands_flag-solid": {
+        "value": "assets/icons/solid/azores-islands_flag.svg"
+      },
+      "bahamas_flag-solid": {
+        "value": "assets/icons/solid/bahamas_flag.svg"
+      },
+      "bahrain_flag-solid": {
+        "value": "assets/icons/solid/bahrain_flag.svg"
+      },
+      "balearic-islands_flag-solid": {
+        "value": "assets/icons/solid/balearic-islands_flag.svg"
+      },
+      "bangladesh_flag-solid": {
+        "value": "assets/icons/solid/bangladesh_flag.svg"
+      },
+      "barbados_flag-solid": {
+        "value": "assets/icons/solid/barbados_flag.svg"
+      },
+      "basque-country_flag-solid": {
+        "value": "assets/icons/solid/basque-country_flag.svg"
+      },
+      "belarus_flag-solid": {
+        "value": "assets/icons/solid/belarus_flag.svg"
+      },
+      "belgium_flag-solid": {
+        "value": "assets/icons/solid/belgium_flag.svg"
+      },
+      "belize_flag-solid": {
+        "value": "assets/icons/solid/belize_flag.svg"
+      },
+      "benin_flag-solid": {
+        "value": "assets/icons/solid/benin_flag.svg"
+      },
+      "bermuda_flag-solid": {
+        "value": "assets/icons/solid/bermuda_flag.svg"
+      },
+      "bhutan_flag-solid": {
+        "value": "assets/icons/solid/bhutan_flag.svg"
       },
       "blip-forum-solid": {
         "value": "assets/icons/solid/blip-forum.svg"
@@ -465,6 +552,33 @@
       },
       "blip-tutorials-solid": {
         "value": "assets/icons/solid/blip-tutorials.svg"
+      },
+      "bolivia_flag-solid": {
+        "value": "assets/icons/solid/bolivia_flag.svg"
+      },
+      "bonaire_flag-solid": {
+        "value": "assets/icons/solid/bonaire_flag.svg"
+      },
+      "bosnia-and-herzegovina_flag-solid": {
+        "value": "assets/icons/solid/bosnia-and-herzegovina_flag.svg"
+      },
+      "botswana_flag-solid": {
+        "value": "assets/icons/solid/botswana_flag.svg"
+      },
+      "brazil_flag-solid": {
+        "value": "assets/icons/solid/brazil_flag.svg"
+      },
+      "british-columbia_flag-solid": {
+        "value": "assets/icons/solid/british-columbia_flag.svg"
+      },
+      "british-indian-ocean-territory_flag-solid": {
+        "value": "assets/icons/solid/british-indian-ocean-territory_flag.svg"
+      },
+      "british-virgin-islands_flag-solid": {
+        "value": "assets/icons/solid/british-virgin-islands_flag.svg"
+      },
+      "brunei_flag-solid": {
+        "value": "assets/icons/solid/brunei_flag.svg"
       },
       "builder-http-solid": {
         "value": "assets/icons/solid/builder-http.svg"
@@ -484,26 +598,155 @@
       "builder-variable-solid": {
         "value": "assets/icons/solid/builder-variable.svg"
       },
+      "bulgaria_flag-solid": {
+        "value": "assets/icons/solid/bulgaria_flag.svg"
+      },
+      "burkina-faso_flag-solid": {
+        "value": "assets/icons/solid/burkina-faso_flag.svg"
+      },
+      "burundi_flag-solid": {
+        "value": "assets/icons/solid/burundi_flag.svg"
+      },
       "business-solid": {
         "value": "assets/icons/solid/business.svg"
+      },
+      "cambodia_flag-solid": {
+        "value": "assets/icons/solid/cambodia_flag.svg"
+      },
+      "cameroon_flag-solid": {
+        "value": "assets/icons/solid/cameroon_flag.svg"
+      },
+      "canada_flag-solid": {
+        "value": "assets/icons/solid/canada_flag.svg"
+      },
+      "canary-islands_flag-solid": {
+        "value": "assets/icons/solid/canary-islands_flag.svg"
+      },
+      "cape-verde_flag-solid": {
+        "value": "assets/icons/solid/cape-verde_flag.svg"
+      },
+      "cayman-islands_flag-solid": {
+        "value": "assets/icons/solid/cayman-islands_flag.svg"
+      },
+      "central-african-republic_flag-solid": {
+        "value": "assets/icons/solid/central-african-republic_flag.svg"
+      },
+      "ceuta_flag-solid": {
+        "value": "assets/icons/solid/ceuta_flag.svg"
+      },
+      "chad_flag-solid": {
+        "value": "assets/icons/solid/chad_flag.svg"
       },
       "checkball-solid": {
         "value": "assets/icons/solid/checkball.svg"
       },
+      "chile_flag-solid": {
+        "value": "assets/icons/solid/chile_flag.svg"
+      },
+      "china_flag-solid": {
+        "value": "assets/icons/solid/china_flag.svg"
+      },
+      "christmas-island_flag-solid": {
+        "value": "assets/icons/solid/christmas-island_flag.svg"
+      },
+      "cocos-island_flag-solid": {
+        "value": "assets/icons/solid/cocos-island_flag.svg"
+      },
+      "colombia_flag-solid": {
+        "value": "assets/icons/solid/colombia_flag.svg"
+      },
+      "comoros_flag-solid": {
+        "value": "assets/icons/solid/comoros_flag.svg"
+      },
+      "cook-islands_flag-solid": {
+        "value": "assets/icons/solid/cook-islands_flag.svg"
+      },
+      "corsica_flag-solid": {
+        "value": "assets/icons/solid/corsica_flag.svg"
+      },
+      "costa-rica_flag-solid": {
+        "value": "assets/icons/solid/costa-rica_flag.svg"
+      },
+      "croatia_flag-solid": {
+        "value": "assets/icons/solid/croatia_flag.svg"
+      },
+      "cuba_flag-solid": {
+        "value": "assets/icons/solid/cuba_flag.svg"
+      },
+      "curacao_flag-solid": {
+        "value": "assets/icons/solid/curacao_flag.svg"
+      },
+      "czech-republic_flag-solid": {
+        "value": "assets/icons/solid/czech-republic_flag.svg"
+      },
       "data-security-solid": {
         "value": "assets/icons/solid/data-security.svg"
+      },
+      "democratic-republic-of-congo_flag-solid": {
+        "value": "assets/icons/solid/democratic-republic-of-congo_flag.svg"
+      },
+      "denmark_flag-solid": {
+        "value": "assets/icons/solid/denmark_flag.svg"
+      },
+      "djibouti_flag-solid": {
+        "value": "assets/icons/solid/djibouti_flag.svg"
+      },
+      "dominican-republic_flag-solid": {
+        "value": "assets/icons/solid/dominican-republic_flag.svg"
+      },
+      "dominica_flag-solid": {
+        "value": "assets/icons/solid/dominica_flag.svg"
+      },
+      "east-timor_flag-solid": {
+        "value": "assets/icons/solid/east-timor_flag.svg"
+      },
+      "ecuador_flag-solid": {
+        "value": "assets/icons/solid/ecuador_flag.svg"
       },
       "edit-solid": {
         "value": "assets/icons/solid/edit.svg"
       },
+      "egypt_flag-solid": {
+        "value": "assets/icons/solid/egypt_flag.svg"
+      },
+      "el-salvador_flag-solid": {
+        "value": "assets/icons/solid/el-salvador_flag.svg"
+      },
       "email-solid": {
         "value": "assets/icons/solid/email.svg"
+      },
+      "england_flag-solid": {
+        "value": "assets/icons/solid/england_flag.svg"
+      },
+      "equatorial-guinea_flag-solid": {
+        "value": "assets/icons/solid/equatorial-guinea_flag.svg"
+      },
+      "eritrea_flag-solid": {
+        "value": "assets/icons/solid/eritrea_flag.svg"
       },
       "error-solid": {
         "value": "assets/icons/solid/error.svg"
       },
+      "estonia_flag-solid": {
+        "value": "assets/icons/solid/estonia_flag.svg"
+      },
+      "ethiopia_flag-solid": {
+        "value": "assets/icons/solid/ethiopia_flag.svg"
+      },
+      "european-union_flag-solid": {
+        "value": "assets/icons/solid/european-union_flag.svg"
+      },
+      "falkland-islands_flag-solid": {
+        "value": "assets/icons/solid/falkland-islands_flag.svg"
+      },
       "favorite-solid": {
         "value": "assets/icons/solid/favorite.svg"
+      },
+      "fiji_flag-solid": {
+        "value": "assets/icons/solid/fiji_flag.svg"
+      },
+      "finland_flag-solid": {
+        "value": "assets/icons/solid/finland_flag.svg"
       },
       "folder-save-solid": {
         "value": "assets/icons/solid/folder-save.svg"
@@ -511,14 +754,284 @@
       "folder-solid": {
         "value": "assets/icons/solid/folder.svg"
       },
+      "france_flag-solid": {
+        "value": "assets/icons/solid/france_flag.svg"
+      },
+      "french-polynesia_flag-solid": {
+        "value": "assets/icons/solid/french-polynesia_flag.svg"
+      },
+      "gabon_flag-solid": {
+        "value": "assets/icons/solid/gabon_flag.svg"
+      },
+      "galapagos-islands_flag-solid": {
+        "value": "assets/icons/solid/galapagos-islands_flag.svg"
+      },
+      "gambia_flag-solid": {
+        "value": "assets/icons/solid/gambia_flag.svg"
+      },
+      "georgia_flag-solid": {
+        "value": "assets/icons/solid/georgia_flag.svg"
+      },
+      "germany_flag-solid": {
+        "value": "assets/icons/solid/germany_flag.svg"
+      },
+      "ghana_flag-solid": {
+        "value": "assets/icons/solid/ghana_flag.svg"
+      },
+      "gibraltar_flag-solid": {
+        "value": "assets/icons/solid/gibraltar_flag.svg"
+      },
+      "greece_flag-solid": {
+        "value": "assets/icons/solid/greece_flag.svg"
+      },
+      "greenland_flag-solid": {
+        "value": "assets/icons/solid/greenland_flag.svg"
+      },
+      "grenada_flag-solid": {
+        "value": "assets/icons/solid/grenada_flag.svg"
+      },
+      "guam_flag-solid": {
+        "value": "assets/icons/solid/guam_flag.svg"
+      },
+      "guatemala_flag-solid": {
+        "value": "assets/icons/solid/guatemala_flag.svg"
+      },
+      "guernsey_flag-solid": {
+        "value": "assets/icons/solid/guernsey_flag.svg"
+      },
+      "guinea-bissau_flag-solid": {
+        "value": "assets/icons/solid/guinea-bissau_flag.svg"
+      },
+      "guinea_flag-solid": {
+        "value": "assets/icons/solid/guinea_flag.svg"
+      },
+      "haiti_flag-solid": {
+        "value": "assets/icons/solid/haiti_flag.svg"
+      },
+      "hawaii_flag-solid": {
+        "value": "assets/icons/solid/hawaii_flag.svg"
+      },
       "heart-solid": {
         "value": "assets/icons/solid/heart.svg"
+      },
+      "honduras_flag-solid": {
+        "value": "assets/icons/solid/honduras_flag.svg"
+      },
+      "hong-kong_flag-solid": {
+        "value": "assets/icons/solid/hong-kong_flag.svg"
+      },
+      "hungary_flag-solid": {
+        "value": "assets/icons/solid/hungary_flag.svg"
+      },
+      "iceland_flag-solid": {
+        "value": "assets/icons/solid/iceland_flag.svg"
+      },
+      "india_flag-solid": {
+        "value": "assets/icons/solid/india_flag.svg"
+      },
+      "indonesia_flag-solid": {
+        "value": "assets/icons/solid/indonesia_flag.svg"
       },
       "info-solid": {
         "value": "assets/icons/solid/info.svg"
       },
       "integration-solid": {
         "value": "assets/icons/solid/integration.svg"
+      },
+      "iran_flag-solid": {
+        "value": "assets/icons/solid/iran_flag.svg"
+      },
+      "iraq_flag-solid": {
+        "value": "assets/icons/solid/iraq_flag.svg"
+      },
+      "ireland_flag-solid": {
+        "value": "assets/icons/solid/ireland_flag.svg"
+      },
+      "isle-of-man_flag-solid": {
+        "value": "assets/icons/solid/isle-of-man_flag.svg"
+      },
+      "israel_flag-solid": {
+        "value": "assets/icons/solid/israel_flag.svg"
+      },
+      "italy_flag-solid": {
+        "value": "assets/icons/solid/italy_flag.svg"
+      },
+      "ivory-coast_flag-solid": {
+        "value": "assets/icons/solid/ivory-coast_flag.svg"
+      },
+      "jamaica_flag-solid": {
+        "value": "assets/icons/solid/jamaica_flag.svg"
+      },
+      "japan_flag-solid": {
+        "value": "assets/icons/solid/japan_flag.svg"
+      },
+      "jersey_flag-solid": {
+        "value": "assets/icons/solid/jersey_flag.svg"
+      },
+      "jordan_flag-solid": {
+        "value": "assets/icons/solid/jordan_flag.svg"
+      },
+      "kazakhstan_flag-solid": {
+        "value": "assets/icons/solid/kazakhstan_flag.svg"
+      },
+      "kenya_flag-solid": {
+        "value": "assets/icons/solid/kenya_flag.svg"
+      },
+      "kiribati_flag-solid": {
+        "value": "assets/icons/solid/kiribati_flag.svg"
+      },
+      "kosovo_flag-solid": {
+        "value": "assets/icons/solid/kosovo_flag.svg"
+      },
+      "kwait_flag-solid": {
+        "value": "assets/icons/solid/kwait_flag.svg"
+      },
+      "kyrgyzstan_flag-solid": {
+        "value": "assets/icons/solid/kyrgyzstan_flag.svg"
+      },
+      "laos_flag-solid": {
+        "value": "assets/icons/solid/laos_flag.svg"
+      },
+      "latvia_flag-solid": {
+        "value": "assets/icons/solid/latvia_flag.svg"
+      },
+      "lebanon_flag-solid": {
+        "value": "assets/icons/solid/lebanon_flag.svg"
+      },
+      "lesotho_flag-solid": {
+        "value": "assets/icons/solid/lesotho_flag.svg"
+      },
+      "liberia_flag-solid": {
+        "value": "assets/icons/solid/liberia_flag.svg"
+      },
+      "libya_flag-solid": {
+        "value": "assets/icons/solid/libya_flag.svg"
+      },
+      "liechtenstein_flag-solid": {
+        "value": "assets/icons/solid/liechtenstein_flag.svg"
+      },
+      "lithuania_flag-solid": {
+        "value": "assets/icons/solid/lithuania_flag.svg"
+      },
+      "luxembourg_flag-solid": {
+        "value": "assets/icons/solid/luxembourg_flag.svg"
+      },
+      "macao_flag-solid": {
+        "value": "assets/icons/solid/macao_flag.svg"
+      },
+      "madagascar_flag-solid": {
+        "value": "assets/icons/solid/madagascar_flag.svg"
+      },
+      "madeira_flag-solid": {
+        "value": "assets/icons/solid/madeira_flag.svg"
+      },
+      "malasya_flag-solid": {
+        "value": "assets/icons/solid/malasya_flag.svg"
+      },
+      "malawi_flag-solid": {
+        "value": "assets/icons/solid/malawi_flag.svg"
+      },
+      "maldives_flag-solid": {
+        "value": "assets/icons/solid/maldives_flag.svg"
+      },
+      "mali_flag-solid": {
+        "value": "assets/icons/solid/mali_flag.svg"
+      },
+      "malta_flag-solid": {
+        "value": "assets/icons/solid/malta_flag.svg"
+      },
+      "marshall-island_flag-solid": {
+        "value": "assets/icons/solid/marshall-island_flag.svg"
+      },
+      "martinique_flag-solid": {
+        "value": "assets/icons/solid/martinique_flag.svg"
+      },
+      "mauritania_flag-solid": {
+        "value": "assets/icons/solid/mauritania_flag.svg"
+      },
+      "mauritius_flag-solid": {
+        "value": "assets/icons/solid/mauritius_flag.svg"
+      },
+      "melilla_flag-solid": {
+        "value": "assets/icons/solid/melilla_flag.svg"
+      },
+      "mexico_flag-solid": {
+        "value": "assets/icons/solid/mexico_flag.svg"
+      },
+      "micronesia_flag-solid": {
+        "value": "assets/icons/solid/micronesia_flag.svg"
+      },
+      "moldova_flag-solid": {
+        "value": "assets/icons/solid/moldova_flag.svg"
+      },
+      "monaco_flag-solid": {
+        "value": "assets/icons/solid/monaco_flag.svg"
+      },
+      "mongolia_flag-solid": {
+        "value": "assets/icons/solid/mongolia_flag.svg"
+      },
+      "montenegro_flag-solid": {
+        "value": "assets/icons/solid/montenegro_flag.svg"
+      },
+      "montserrat_flag-solid": {
+        "value": "assets/icons/solid/montserrat_flag.svg"
+      },
+      "morocco_flag-solid": {
+        "value": "assets/icons/solid/morocco_flag.svg"
+      },
+      "mozambique_flag-solid": {
+        "value": "assets/icons/solid/mozambique_flag.svg"
+      },
+      "myanmar_flag-solid": {
+        "value": "assets/icons/solid/myanmar_flag.svg"
+      },
+      "namibia_flag-solid": {
+        "value": "assets/icons/solid/namibia_flag.svg"
+      },
+      "nato_flag-solid": {
+        "value": "assets/icons/solid/nato_flag.svg"
+      },
+      "nauru_flag-solid": {
+        "value": "assets/icons/solid/nauru_flag.svg"
+      },
+      "nepal_flag-solid": {
+        "value": "assets/icons/solid/nepal_flag.svg"
+      },
+      "netherlands_flag-solid": {
+        "value": "assets/icons/solid/netherlands_flag.svg"
+      },
+      "new-zealand_flag-solid": {
+        "value": "assets/icons/solid/new-zealand_flag.svg"
+      },
+      "nicaragua_flag-solid": {
+        "value": "assets/icons/solid/nicaragua_flag.svg"
+      },
+      "nigeria_flag-solid": {
+        "value": "assets/icons/solid/nigeria_flag.svg"
+      },
+      "niger_flag-solid": {
+        "value": "assets/icons/solid/niger_flag.svg"
+      },
+      "niue_flag-solid": {
+        "value": "assets/icons/solid/niue_flag.svg"
+      },
+      "norfolk-island_flag-solid": {
+        "value": "assets/icons/solid/norfolk-island_flag.svg"
+      },
+      "north-korea_flag-solid": {
+        "value": "assets/icons/solid/north-korea_flag.svg"
+      },
+      "northern-cyprus_flag-solid": {
+        "value": "assets/icons/solid/northern-cyprus_flag.svg"
+      },
+      "northern-marianas-islands_flag-solid": {
+        "value": "assets/icons/solid/northern-marianas-islands_flag.svg"
+      },
+      "norway_flag-solid": {
+        "value": "assets/icons/solid/norway_flag.svg"
+      },
+      "oman_flag-solid": {
+        "value": "assets/icons/solid/oman_flag.svg"
       },
       "operator-solid": {
         "value": "assets/icons/solid/operator.svg"
@@ -529,20 +1042,257 @@
       "organize-list-solid": {
         "value": "assets/icons/solid/organize-list.svg"
       },
+      "ossetia_flag-solid": {
+        "value": "assets/icons/solid/ossetia_flag.svg"
+      },
+      "pakistan_flag-solid": {
+        "value": "assets/icons/solid/pakistan_flag.svg"
+      },
+      "palau_flag-solid": {
+        "value": "assets/icons/solid/palau_flag.svg"
+      },
+      "palestine_flag-solid": {
+        "value": "assets/icons/solid/palestine_flag.svg"
+      },
+      "panama_flag-solid": {
+        "value": "assets/icons/solid/panama_flag.svg"
+      },
+      "papua-new-guinea_flag-solid": {
+        "value": "assets/icons/solid/papua-new-guinea_flag.svg"
+      },
+      "paraguay_flag-solid": {
+        "value": "assets/icons/solid/paraguay_flag.svg"
+      },
+      "peru_flag-solid": {
+        "value": "assets/icons/solid/peru_flag.svg"
+      },
+      "philippines_flag-solid": {
+        "value": "assets/icons/solid/philippines_flag.svg"
+      },
+      "pitcairn-islands_flag-solid": {
+        "value": "assets/icons/solid/pitcairn-islands_flag.svg"
+      },
+      "poland_flag-solid": {
+        "value": "assets/icons/solid/poland_flag.svg"
+      },
+      "portugal_flag-solid": {
+        "value": "assets/icons/solid/portugal_flag.svg"
+      },
+      "puerto-rico_flag-solid": {
+        "value": "assets/icons/solid/puerto-rico_flag.svg"
+      },
+      "qatar_flag-solid": {
+        "value": "assets/icons/solid/qatar_flag.svg"
+      },
+      "rapa-nui_flag-solid": {
+        "value": "assets/icons/solid/rapa-nui_flag.svg"
+      },
+      "republic-of-macedonia_flag-solid": {
+        "value": "assets/icons/solid/republic-of-macedonia_flag.svg"
+      },
+      "republic-of-the-congo_flag-solid": {
+        "value": "assets/icons/solid/republic-of-the-congo_flag.svg"
+      },
+      "romania_flag-solid": {
+        "value": "assets/icons/solid/romania_flag.svg"
+      },
+      "russia_flag-solid": {
+        "value": "assets/icons/solid/russia_flag.svg"
+      },
+      "rwanda_flag-solid": {
+        "value": "assets/icons/solid/rwanda_flag.svg"
+      },
+      "saba-island_flag-solid": {
+        "value": "assets/icons/solid/saba-island_flag.svg"
+      },
+      "sahrawi-arab-democratic-republic_flag-solid": {
+        "value": "assets/icons/solid/sahrawi-arab-democratic-republic_flag.svg"
+      },
+      "saint-kitts-and-nevis_flag-solid": {
+        "value": "assets/icons/solid/saint-kitts-and-nevis_flag.svg"
+      },
+      "samoa_flag-solid": {
+        "value": "assets/icons/solid/samoa_flag.svg"
+      },
+      "san-marino_flag-solid": {
+        "value": "assets/icons/solid/san-marino_flag.svg"
+      },
+      "sao-tome-and-prince_flag-solid": {
+        "value": "assets/icons/solid/sao-tome-and-prince_flag.svg"
+      },
+      "sardinia_flag-solid": {
+        "value": "assets/icons/solid/sardinia_flag.svg"
+      },
+      "saudi-arabia_flag-solid": {
+        "value": "assets/icons/solid/saudi-arabia_flag.svg"
+      },
       "save-solid": {
         "value": "assets/icons/solid/save.svg"
+      },
+      "scotland_flag-solid": {
+        "value": "assets/icons/solid/scotland_flag.svg"
       },
       "send-solid": {
         "value": "assets/icons/solid/send.svg"
       },
+      "senegal_flag-solid": {
+        "value": "assets/icons/solid/senegal_flag.svg"
+      },
+      "serbia_flag-solid": {
+        "value": "assets/icons/solid/serbia_flag.svg"
+      },
+      "seychelles_flag-solid": {
+        "value": "assets/icons/solid/seychelles_flag.svg"
+      },
+      "sicily_flag-solid": {
+        "value": "assets/icons/solid/sicily_flag.svg"
+      },
+      "sierra-leone_flag-solid": {
+        "value": "assets/icons/solid/sierra-leone_flag.svg"
+      },
+      "singapore_flag-solid": {
+        "value": "assets/icons/solid/singapore_flag.svg"
+      },
+      "sint-eustatius_flag-solid": {
+        "value": "assets/icons/solid/sint-eustatius_flag.svg"
+      },
+      "sint-maarten_flag-solid": {
+        "value": "assets/icons/solid/sint-maarten_flag.svg"
+      },
+      "slovakia_flag-solid": {
+        "value": "assets/icons/solid/slovakia_flag.svg"
+      },
+      "slovenia_flag-solid": {
+        "value": "assets/icons/solid/slovenia_flag.svg"
+      },
       "sms-solid": {
         "value": "assets/icons/solid/sms.svg"
+      },
+      "solomon-islands_flag-solid": {
+        "value": "assets/icons/solid/solomon-islands_flag.svg"
+      },
+      "somalia_flag-solid": {
+        "value": "assets/icons/solid/somalia_flag.svg"
+      },
+      "somaliland_flag-solid": {
+        "value": "assets/icons/solid/somaliland_flag.svg"
+      },
+      "south-africa_flag-solid": {
+        "value": "assets/icons/solid/south-africa_flag.svg"
+      },
+      "south-korea_flag-solid": {
+        "value": "assets/icons/solid/south-korea_flag.svg"
+      },
+      "south-sudan_flag-solid": {
+        "value": "assets/icons/solid/south-sudan_flag.svg"
+      },
+      "spain_flag-solid": {
+        "value": "assets/icons/solid/spain_flag.svg"
+      },
+      "sri-lanka_flag-solid": {
+        "value": "assets/icons/solid/sri-lanka_flag.svg"
+      },
+      "st-barts_flag-solid": {
+        "value": "assets/icons/solid/st-barts_flag.svg"
+      },
+      "st-lucia_flag-solid": {
+        "value": "assets/icons/solid/st-lucia_flag.svg"
+      },
+      "st-vincent-and-the-grenadines_flag-solid": {
+        "value": "assets/icons/solid/st-vincent-and-the-grenadines_flag.svg"
+      },
+      "sudan_flag-solid": {
+        "value": "assets/icons/solid/sudan_flag.svg"
+      },
+      "suriname_flag-solid": {
+        "value": "assets/icons/solid/suriname_flag.svg"
+      },
+      "swaziland_flag-solid": {
+        "value": "assets/icons/solid/swaziland_flag.svg"
+      },
+      "sweden_flag-solid": {
+        "value": "assets/icons/solid/sweden_flag.svg"
+      },
+      "switzerland_flag-solid": {
+        "value": "assets/icons/solid/switzerland_flag.svg"
+      },
+      "syria_flag-solid": {
+        "value": "assets/icons/solid/syria_flag.svg"
       },
       "tag-solid": {
         "value": "assets/icons/solid/tag.svg"
       },
+      "taiwan_flag-solid": {
+        "value": "assets/icons/solid/taiwan_flag.svg"
+      },
+      "tajikistan_flag-solid": {
+        "value": "assets/icons/solid/tajikistan_flag.svg"
+      },
+      "tanzania_flag-solid": {
+        "value": "assets/icons/solid/tanzania_flag.svg"
+      },
       "team-solid": {
         "value": "assets/icons/solid/team.svg"
+      },
+      "thailand_flag-solid": {
+        "value": "assets/icons/solid/thailand_flag.svg"
+      },
+      "tibet_flag-solid": {
+        "value": "assets/icons/solid/tibet_flag.svg"
+      },
+      "togo_flag-solid": {
+        "value": "assets/icons/solid/togo_flag.svg"
+      },
+      "tokelau_flag-solid": {
+        "value": "assets/icons/solid/tokelau_flag.svg"
+      },
+      "tonga_flag-solid": {
+        "value": "assets/icons/solid/tonga_flag.svg"
+      },
+      "transnistria_flag-solid": {
+        "value": "assets/icons/solid/transnistria_flag.svg"
+      },
+      "trinidad-and-tobago_flag-solid": {
+        "value": "assets/icons/solid/trinidad-and-tobago_flag.svg"
+      },
+      "tunisia_flag-solid": {
+        "value": "assets/icons/solid/tunisia_flag.svg"
+      },
+      "turkey_flag-solid": {
+        "value": "assets/icons/solid/turkey_flag.svg"
+      },
+      "turkmenistan_flag-solid": {
+        "value": "assets/icons/solid/turkmenistan_flag.svg"
+      },
+      "turks-and-caicos_flag-solid": {
+        "value": "assets/icons/solid/turks-and-caicos_flag.svg"
+      },
+      "tuvalu-1_flag-solid": {
+        "value": "assets/icons/solid/tuvalu-1_flag.svg"
+      },
+      "tuvalu_flag-solid": {
+        "value": "assets/icons/solid/tuvalu_flag.svg"
+      },
+      "uganda_flag-solid": {
+        "value": "assets/icons/solid/uganda_flag.svg"
+      },
+      "ukraine_flag-solid": {
+        "value": "assets/icons/solid/ukraine_flag.svg"
+      },
+      "united-arab-emirates_flag-solid": {
+        "value": "assets/icons/solid/united-arab-emirates_flag.svg"
+      },
+      "united-kingdom_flag-solid": {
+        "value": "assets/icons/solid/united-kingdom_flag.svg"
+      },
+      "united-nations_flag-solid": {
+        "value": "assets/icons/solid/united-nations_flag.svg"
+      },
+      "united-states_flag-solid": {
+        "value": "assets/icons/solid/united-states_flag.svg"
+      },
+      "uruguay_flag-solid": {
+        "value": "assets/icons/solid/uruguay_flag.svg"
       },
       "user-default-solid": {
         "value": "assets/icons/solid/user-default.svg"
@@ -553,14 +1303,44 @@
       "user-solid": {
         "value": "assets/icons/solid/user.svg"
       },
+      "uzbekistn_flag-solid": {
+        "value": "assets/icons/solid/uzbekistn_flag.svg"
+      },
+      "vanuatu_flag-solid": {
+        "value": "assets/icons/solid/vanuatu_flag.svg"
+      },
+      "vatican-city_flag-solid": {
+        "value": "assets/icons/solid/vatican-city_flag.svg"
+      },
+      "venezuela_flag-solid": {
+        "value": "assets/icons/solid/venezuela_flag.svg"
+      },
       "video-solid": {
         "value": "assets/icons/solid/video.svg"
+      },
+      "vietnam_flag-solid": {
+        "value": "assets/icons/solid/vietnam_flag.svg"
+      },
+      "virgin-islands_flag-solid": {
+        "value": "assets/icons/solid/virgin-islands_flag.svg"
       },
       "voip-solid": {
         "value": "assets/icons/solid/voip.svg"
       },
+      "wales_flag-solid": {
+        "value": "assets/icons/solid/wales_flag.svg"
+      },
       "warning-solid": {
         "value": "assets/icons/solid/warning.svg"
+      },
+      "yemen_flag-solid": {
+        "value": "assets/icons/solid/yemen_flag.svg"
+      },
+      "zambia_flag-solid": {
+        "value": "assets/icons/solid/zambia_flag.svg"
+      },
+      "zimbabwe_flag-solid": {
+        "value": "assets/icons/solid/zimbabwe_flag.svg"
       }
     }
   }

@@ -1,7 +1,5 @@
 {
-  "source": [
-    "properties/**/*.json"
-  ],
+  "source": ["properties/**/*.json"],
   "platforms": {
     "json": {
       "transformGroup": "web",
@@ -14,11 +12,7 @@
       ]
     },
     "assets/embed/json": {
-      "transforms": [
-        "attribute/cti",
-        "name/cti/kebab",
-        "asset/base64"
-      ],
+      "transforms": ["attribute/cti", "name/cti/kebab", "asset/base64"],
       "buildPath": "build/json/",
       "files": [
         {
@@ -28,6 +22,16 @@
             "attributes": {
               "category": "asset",
               "type": "icon"
+            }
+          }
+        },
+        {
+          "destination": "assets_emojis.json",
+          "format": "json/flat",
+          "filter": {
+            "attributes": {
+              "category": "asset",
+              "type": "emoji"
             }
           }
         }

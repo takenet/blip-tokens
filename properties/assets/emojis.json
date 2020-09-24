@@ -1,0 +1,114 @@
+{
+  "asset": {
+    "emoji": {
+      "beaming-face": {
+        "value": "assets/emojis/BeamingFacewithSmilingEyes.svg"
+      },
+      "confounded-face": {
+        "value": "assets/emojis/ConfoundedFace.svg"
+      },
+      "crying-face": {
+        "value": "assets/emojis/CryingFace.svg"
+      },
+      "dizzy-face": {
+        "value": "assets/emojis/DizzyFace.svg"
+      },
+      "expressionless-face": {
+        "value": "assets/emojis/ExpressionlessFace.svg"
+      },
+      "face-blowing-a-kiss": {
+        "value": "assets/emojis/FaceBlowingaKiss.svg"
+      },
+      "face-with-mask": {
+        "value": "assets/emojis/FacewithMedicalMask.svg"
+      },
+      "face-with-open-mouth": {
+        "value": "assets/emojis/FacewithOpenMouth.svg"
+      },
+      "face-without-mouth": {
+        "value": "assets/emojis/FaceWithoutMouth.svg"
+      },
+      "face-with-tears-of-joy": {
+        "value": "assets/emojis/FacewithTearsofJoy.svg"
+      },
+      "face-with-tongue": {
+        "value": "assets/emojis/FacewithTongue.svg"
+      },
+      "fearful-face": {
+        "value": "assets/emojis/FearfulFace.svg"
+      },
+      "grinning-face": {
+        "value": "assets/emojis/GrinningFace.svg"
+      },
+      "grinning-face-with-big-eyes": {
+        "value": "assets/emojis/GrinningFacewithBigEyes.svg"
+      },
+      "grinning-face-with-smilling-eyes": {
+        "value": "assets/emojis/GrinningFacewithSmilingEyes.svg"
+      },
+      "grinning-face-with-sweat": {
+        "value": "assets/emojis/GrinningFacewithSweat.svg"
+      },
+      "hushed-face": {
+        "value": "assets/emojis/HushedFace.svg"
+      },
+      "kissing-face-with-smilling-eyes": {
+        "value": "assets/emojis/KissingFacewithSmilingEyes.svg"
+      },
+      "loudly-cring-face": {
+        "value": "assets/emojis/LoudlyCryingFace.svg"
+      },
+      "nerd-face": {
+        "value": "assets/emojis/NerdFace.svg"
+      },
+      "neutral-face": {
+        "value": "assets/emojis/NeutralFace.svg"
+      },
+      "perservering-face": {
+        "value": "assets/emojis/PerseveringFace.svg"
+      },
+      "pouting-face": {
+        "value": "assets/emojis/PoutingFace.svg"
+      },
+      "relieved-face": {
+        "value": "assets/emojis/RelievedFace.svg"
+      },
+      "sleeping-face": {
+        "value": "assets/emojis/SleepingFace.svg"
+      },
+      "slightly-frowning-face": {
+        "value": "assets/emojis/SlightlyFrowningFace.svg"
+      },
+      "slightly-smiling-face": {
+        "value": "assets/emojis/SlightlySmilingFace.svg"
+      },
+      "smiling-face": {
+        "value": "assets/emojis/SmilingFace.svg"
+      },
+      "smiling-face-with-halo": {
+        "value": "assets/emojis/SmilingFacewithHalo.svg"
+      },
+      "smiling-face-with-heart-eyes": {
+        "value": "assets/emojis/SmilingFacewithHeartEyes.svg"
+      },
+      "smiling-face-with-smiling-eyes": {
+        "value": "assets/emojis/SmilingFacewithSmilingEyes.svg"
+      },
+      "smiling-face-with-sunglasses": {
+        "value": "assets/emojis/SmilingFacewithSunglasses.svg"
+      },
+      "smirking-face": {
+        "value": "assets/emojis/SmirkingFace.svg"
+      },
+      "squirting-face-with-tongue": {
+        "value": "assets/emojis/SquintingFacewithTongue.svg"
+      },
+      "winking-face": {
+        "value": "assets/emojis/WinkingFace.svg"
+      },
+      "winking-face-with-tongue": {
+        "value": "assets/emojis/WinkingFacewithTongue.svg"
+      }
+    }
+  }
+}

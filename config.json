@@ -11,6 +11,20 @@
         }
       ]
     },
+    "scss": {
+      "transformGroup": "scss",
+      "buildPath": "build/scss/",
+      "files": [{
+        "destination": "variables.scss",
+        "format": "scss/variables",
+        "filter": {
+          "attributes": {
+            "category": "style",
+            "type": "color"
+          }
+        }
+      }]
+    },
     "assets/embed/json": {
       "transforms": ["attribute/cti", "name/cti/kebab", "asset/base64"],
       "buildPath": "build/json/",

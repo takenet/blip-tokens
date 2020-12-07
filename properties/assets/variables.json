@@ -1,570 +1,211 @@
 {
-    "style": {
-        "color": {
-            "Blues": {
-                "$color-primary-light": {
-                    "type": "SOLID",
-                    "value": "#b3d4ff"
-                },
-                "$color-primary-main": {
-                    "type": "SOLID",
-                    "value": "#3f7de8"
-                },
-                "$color-primary-dark": {
-                    "type": "SOLID",
-                    "value": "#125ad5"
-                },
-                "$color-primary-night": {
-                    "type": "SOLID",
-                    "value": "#0747a6"
-                }
-            },
-            "Purples": {
-                "$color-primary-purples-unicorn": {
-                    "type": "SOLID",
-                    "value": "#cc99ff"
-                },
-                "$color-primary-purples-bell": {
-                    "type": "SOLID",
-                    "value": "#c226fb"
-                },
-                "$color-primary-purples-witch": {
-                    "type": "SOLID",
-                    "value": "#9933cc"
-                },
-                "$color-primary-purples-acai": {
-                    "type": "SOLID",
-                    "value": "#4f0e87"
-                }
-            },
-            "Greens": {
-                "$color-primary-greens-mint": {
-                    "type": "SOLID",
-                    "value": "#90e6bc"
-                },
-                "$color-primary-greens-true": {
-                    "type": "SOLID",
-                    "value": "#21cc79"
-                },
-                "$color-primary-greens-aligator": {
-                    "type": "SOLID",
-                    "value": "#008767"
-                },
-                "$color-primary-greens-forest": {
-                    "type": "SOLID",
-                    "value": "#0a6045"
-                }
-            },
-            "Pinks": {
-                "$color-primary-pinks-yogurt": {
-                    "type": "SOLID",
-                    "value": "#fdacc5"
-                },
-                "$color-primary-pinks-watermelon": {
-                    "type": "SOLID",
-                    "value": "#fb5a8b"
-                },
-                "$color-primary-pinks-barbie": {
-                    "type": "SOLID",
-                    "value": "#aa398d"
-                },
-                "$color-primary-pinks-blush": {
-                    "type": "SOLID",
-                    "value": "#821a67"
-                }
-            },
-            "Oranges": {
-                "$color-primary-oranges-sunset": {
-                    "type": "SOLID",
-                    "value": "#ffb186"
-                },
-                "$color-primary-oranges-carrot": {
-                    "type": "SOLID",
-                    "value": "#ff6e1d"
-                },
-                "$color-primary-oranges-doritos": {
-                    "type": "SOLID",
-                    "value": "#c64026"
-                },
-                "$color-primary-oranges-clay": {
-                    "type": "SOLID",
-                    "value": "#8e3925"
-                }
-            },
-            "Yellows": {
-                "$color-primary-yellows-corn": {
-                    "type": "SOLID",
-                    "value": "#fff6a8"
-                },
-                "$color-primary-yellows-sun": {
-                    "type": "SOLID",
-                    "value": "#ffec03"
-                },
-                "$color-primary-yellows-guarana": {
-                    "type": "SOLID",
-                    "value": "#b2b229"
-                },
-                "$color-primary-yellows-moss": {
-                    "type": "SOLID",
-                    "value": "#757010"
-                }
-            },
-            "Reds": {
-                "$color-extend-reds-flower": {
-                    "type": "SOLID",
-                    "value": "#ffa5a5"
-                },
-                "$color-extend-reds-delete": {
-                    "type": "SOLID",
-                    "value": "#ff4c4c"
-                },
-                "$color-extend-reds-lipstick": {
-                    "type": "SOLID",
-                    "value": "#a01c2c"
-                },
-                "$color-extend-reds-dragon": {
-                    "type": "SOLID",
-                    "value": "#6a2026"
-                }
-            },
-            "Browns": {
-                "$color-extend-browns-sand": {
-                    "type": "SOLID",
-                    "value": "#ffd29e"
-                },
-                "$color-extend-browns-cheetos": {
-                    "type": "SOLID",
-                    "value": "#f6a721"
-                },
-                "$color-extend-browns-sphinx": {
-                    "type": "SOLID",
-                    "value": "#d78935"
-                },
-                "$color-extend-browns-wood": {
-                    "type": "SOLID",
-                    "value": "#845d37"
-                }
-            },
-            "Grays": {
-                "$color-extend-grays-moon": {
-                    "type": "SOLID",
-                    "value": "#d1d3d4"
-                },
-                "$color-extend-grays-elevator": {
-                    "type": "SOLID",
-                    "value": "#a7a9ac"
-                },
-                "$color-extend-grays-street": {
-                    "type": "SOLID",
-                    "value": "#6d6f71"
-                },
-                "$color-extend-grays-blackwidow": {
-                    "type": "SOLID",
-                    "value": "#000000"
-                }
-            },
-            "Product": {
-                "$color-disabled-bg": {
-                    "type": "SOLID",
-                    "value": "#e8f2ff"
-                },
-                "$color-hover-light": {
-                    "type": "SOLID",
-                    "value": "#d1e3fa"
-                },
-                "$color-disabled-text": {
-                    "type": "SOLID",
-                    "value": "#637798"
-                },
-                "$color-disabled-delete": {
-                    "type": "SOLID",
-                    "value": "#fccccc"
-                },
-                "$color-disabled-error": {
-                    "type": "SOLID",
-                    "value": "#da7a7a"
-                },
-                "$color-disabled-wrong": {
-                    "type": "SOLID",
-                    "value": "#ba5a5a"
-                },
-                "$color-neutral-dark-eclipse": {
-                    "type": "SOLID",
-                    "value": "#0a0f1a"
-                },
-                "$color-neutral-dark-onix": {
-                    "type": "SOLID",
-                    "value": "#1a2437"
-                },
-                "$color-neutral-dark-suit": {
-                    "type": "SOLID",
-                    "value": "#212a3c"
-                },
-                "$color-neutral-dark-ico": {
-                    "type": "SOLID",
-                    "value": "#192438"
-                },
-                "$color-neutral-dark-city": {
-                    "type": "SOLID",
-                    "value": "#202c44"
-                },
-                "$color-neutral-dark-skate": {
-                    "type": "SOLID",
-                    "value": "#233049"
-                },
-                "$color-neutral-dark-desk": {
-                    "type": "SOLID",
-                    "value": "#3a4964"
-                },
-                "$color-neutral-dark-rooftop": {
-                    "type": "SOLID",
-                    "value": "#505f79"
-                },
-                "$color-neutral-medium-elephant": {
-                    "type": "SOLID",
-                    "value": "#6e7b91"
-                },
-                "$color-neutral-medium-cloud": {
-                    "type": "SOLID",
-                    "value": "#8ca0b3"
-                },
-                "$color-neutral-medium-silver": {
-                    "type": "SOLID",
-                    "value": "#b9cbd3"
-                },
-                "$color-neutral-medium-wave": {
-                    "type": "SOLID",
-                    "value": "#d2dfe6"
-                },
-                "$color-neutral-light-box": {
-                    "type": "SOLID",
-                    "value": "#e7edf4"
-                },
-                "$color-neutral-light-whisper": {
-                    "type": "SOLID",
-                    "value": "#f3f6fa"
-                },
-                "$color-neutral-light-breeze": {
-                    "type": "SOLID",
-                    "value": "#f8fbfb"
-                },
-                "$color-neutral-light-snow": {
-                    "type": "SOLID",
-                    "value": "#ffffff"
-                }
-            },
-            "Gradients": {
-                "$color-gradient-rose": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#ff4c4c"
-                    },
-                    "stop-2": {
-                        "value": "#821a67"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.25474"
-                        },
-                        "stop-2": {
-                            "value": "0.25474"
-                        },
-                        "stop-3": {
-                            "value": "0.25474"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "0.98717"
-                        },
-                        "stop-2": {
-                            "value": "0.98717"
-                        },
-                        "stop-3": {
-                            "value": "0.98717"
-                        }
-                    }
-                },
-                "$color-gradient-phoenix": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#f6a721"
-                    },
-                    "stop-2": {
-                        "value": "#fb5a8b"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.31427"
-                        },
-                        "stop-2": {
-                            "value": "0.31427"
-                        },
-                        "stop-3": {
-                            "value": "0.31427"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "1.09894"
-                        },
-                        "stop-2": {
-                            "value": "1.09894"
-                        },
-                        "stop-3": {
-                            "value": "1.09894"
-                        }
-                    }
-                },
-                "$color-gradient-cactus": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#bed42b"
-                    },
-                    "stop-2": {
-                        "value": "#167491"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.14923"
-                        },
-                        "stop-2": {
-                            "value": "0.14923"
-                        },
-                        "stop-3": {
-                            "value": "0.14923"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "0.96466"
-                        },
-                        "stop-2": {
-                            "value": "0.96466"
-                        },
-                        "stop-3": {
-                            "value": "0.96466"
-                        }
-                    }
-                },
-                "$color-gradient-tree": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#21cc79"
-                    },
-                    "stop-2": {
-                        "value": "#167491"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.15088"
-                        },
-                        "stop-2": {
-                            "value": "0.15088"
-                        },
-                        "stop-3": {
-                            "value": "0.15088"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "1.17008"
-                        },
-                        "stop-2": {
-                            "value": "1.17008"
-                        },
-                        "stop-3": {
-                            "value": "1.17008"
-                        }
-                    }
-                },
-                "$color-gradient-ocean": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#4786f1"
-                    },
-                    "stop-2": {
-                        "value": "#4f0e87"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.04933"
-                        },
-                        "stop-2": {
-                            "value": "0.04933"
-                        },
-                        "stop-3": {
-                            "value": "0.04933"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "0.94125"
-                        },
-                        "stop-2": {
-                            "value": "0.94125"
-                        },
-                        "stop-3": {
-                            "value": "0.94125"
-                        }
-                    }
-                },
-                "$color-gradient-smurf": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#00c6d7"
-                    },
-                    "stop-2": {
-                        "value": "#4786f1"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.18393"
-                        },
-                        "stop-2": {
-                            "value": "0.18393"
-                        },
-                        "stop-3": {
-                            "value": "0.18393"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "1.29206"
-                        },
-                        "stop-2": {
-                            "value": "1.29206"
-                        },
-                        "stop-3": {
-                            "value": "1.29206"
-                        }
-                    }
-                },
-                "$color-gradient-grape": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#c226fb"
-                    },
-                    "stop-2": {
-                        "value": "#0052cc"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.23411"
-                        },
-                        "stop-2": {
-                            "value": "0.23411"
-                        },
-                        "stop-3": {
-                            "value": "0.23411"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "0.80073"
-                        },
-                        "stop-2": {
-                            "value": "0.80073"
-                        },
-                        "stop-3": {
-                            "value": "0.80073"
-                        }
-                    }
-                },
-                "$color-gradient-barbie": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#fb5a8b"
-                    },
-                    "stop-2": {
-                        "value": "#9933cc"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.01525"
-                        },
-                        "stop-2": {
-                            "value": "0.01525"
-                        },
-                        "stop-3": {
-                            "value": "0.01525"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "0.91026"
-                        },
-                        "stop-2": {
-                            "value": "0.91026"
-                        },
-                        "stop-3": {
-                            "value": "0.91026"
-                        }
-                    }
-                },
-                "$color-gradient-street": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#6e7b91"
-                    },
-                    "stop-2": {
-                        "value": "#233049"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.11970"
-                        },
-                        "stop-2": {
-                            "value": "0.11970"
-                        },
-                        "stop-3": {
-                            "value": "0.11970"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "0.99184"
-                        },
-                        "stop-2": {
-                            "value": "0.99184"
-                        },
-                        "stop-3": {
-                            "value": "0.99184"
-                        }
-                    }
-                },
-                "$color-gradient-universe": {
-                    "type": "GRADIENT_LINEAR",
-                    "stop-1": {
-                        "value": "#202c44"
-                    },
-                    "stop-2": {
-                        "value": "#000000"
-                    },
-                    "transform-1": {
-                        "stop-1": {
-                            "value": "0.11970"
-                        },
-                        "stop-2": {
-                            "value": "0.11970"
-                        },
-                        "stop-3": {
-                            "value": "0.11970"
-                        }
-                    },
-                    "transform-2": {
-                        "stop-1": {
-                            "value": "0.99184"
-                        },
-                        "stop-2": {
-                            "value": "0.99184"
-                        },
-                        "stop-3": {
-                            "value": "0.99184"
-                        }
-                    }
-                }
-            }
-        }
+  "color": {
+    "$primary-light": {
+      "value": "#b3d4ff"
+    },
+    "$primary-main": {
+      "value": "#3f7de8"
+    },
+    "$primary-dark": {
+      "value": "#125ad5"
+    },
+    "$primary-night": {
+      "value": "#0747a6"
+    },
+    "$primary-purples-unicorn": {
+      "value": "#cc99ff"
+    },
+    "$primary-purples-bell": {
+      "value": "#c226fb"
+    },
+    "$primary-purples-witch": {
+      "value": "#9933cc"
+    },
+    "$primary-purples-acai": {
+      "value": "#4f0e87"
+    },
+    "$primary-greens-mint": {
+      "value": "#90e6bc"
+    },
+    "$primary-greens-true": {
+      "value": "#21cc79"
+    },
+    "$primary-greens-aligator": {
+      "value": "#008767"
+    },
+    "$primary-greens-forest": {
+      "value": "#0a6045"
+    },
+    "$primary-pinks-yogurt": {
+      "value": "#fdacc5"
+    },
+    "$primary-pinks-watermelon": {
+      "value": "#fb5a8b"
+    },
+    "$primary-pinks-barbie": {
+      "value": "#aa398d"
+    },
+    "$primary-pinks-blush": {
+      "value": "#821a67"
+    },
+    "$primary-oranges-sunset": {
+      "value": "#ffb186"
+    },
+    "$primary-oranges-carrot": {
+      "value": "#ff6e1d"
+    },
+    "$primary-oranges-doritos": {
+      "value": "#c64026"
+    },
+    "$primary-oranges-clay": {
+      "value": "#8e3925"
+    },
+    "$primary-yellows-corn": {
+      "value": "#fff6a8"
+    },
+    "$primary-yellows-sun": {
+      "value": "#ffec03"
+    },
+    "$primary-yellows-guarana": {
+      "value": "#b2b229"
+    },
+    "$primary-yellows-moss": {
+      "value": "#757010"
+    },
+    "$extend-reds-flower": {
+      "value": "#ffa5a5"
+    },
+    "$extend-reds-delete": {
+      "value": "#ff4c4c"
+    },
+    "$extend-reds-lipstick": {
+      "value": "#a01c2c"
+    },
+    "$extend-reds-dragon": {
+      "value": "#6a2026"
+    },
+    "$extend-browns-sand": {
+      "value": "#ffd29e"
+    },
+    "$extend-browns-cheetos": {
+      "value": "#f6a721"
+    },
+    "$extend-browns-sphinx": {
+      "value": "#d78935"
+    },
+    "$extend-browns-wood": {
+      "value": "#845d37"
+    },
+    "$extend-grays-moon": {
+      "value": "#d1d3d4"
+    },
+    "$extend-grays-elevator": {
+      "value": "#a7a9ac"
+    },
+    "$extend-grays-street": {
+      "value": "#6d6f71"
+    },
+    "$extend-grays-blackwidow": {
+      "value": "#000000"
+    },
+    "$disabled-bg": {
+      "value": "#e8f2ff"
+    },
+    "$hover-light": {
+      "value": "#d1e3fa"
+    },
+    "$disabled-text": {
+      "value": "#637798"
+    },
+    "$disabled-delete": {
+      "value": "#fccccc"
+    },
+    "disabled-error": {
+      "value": "#da7a7a"
+    },
+    "disabled-wrong": {
+      "value": "#ba5a5a"
+    },
+    "neutral-dark-eclipse": {
+      "value": "#0a0f1a"
+    },
+    "neutral-dark-onix": {
+      "value": "#1a2437"
+    },
+    "neutral-dark-suit": {
+      "value": "#212a3c"
+    },
+    "neutral-dark-ico": {
+      "value": "#192438"
+    },
+    "neutral-dark-city": {
+      "value": "#202c44"
+    },
+    "neutral-dark-skate": {
+      "value": "#233049"
+    },
+    "neutral-dark-desk": {
+      "value": "#3a4a65"
+    },
+    "neutral-dark-rooftop": {
+      "value": "#505f79"
+    },
+    "neutral-medium-elephant": {
+      "value": "#6e7b91"
+    },
+    "neutral-medium-cloud": {
+      "value": "#8ca0b3"
+    },
+    "neutral-medium-silver": {
+      "value": "#b9cbd3"
+    },
+    "neutral-medium-wave": {
+      "value": "#d2dfe6"
+    },
+    "neutral-light-box": {
+      "value": "#e7edf4"
+    },
+    "neutral-light-whisper": {
+      "value": "#f3f6fa"
+    },
+    "neutral-light-breeze": {
+      "value": "#f8fbfb"
+    },
+    "neutral-light-snow": {
+      "value": "#ffffff"
+    },
+    "$new-color": {
+      "value": "#ffffff"
+    },
+    "gradient-rose": {
+      "value": "linear-gradient(90deg, rgba(255,76,76,1) 0.00%,rgba(130,26,103,1) 100.00%)"
+    },
+    "gradient-phoenix": {
+      "value": "linear-gradient(90deg, rgba(246,167,33,1) 0.00%,rgba(251,90,139,1) 100.00%)"
+    },
+    "gradient-cactus": {
+      "value": "linear-gradient(90deg, rgba(190,212,43,1) 0.00%,rgba(22,116,145,1) 100.00%)"
+    },
+    "gradient-tree": {
+      "value": "linear-gradient(90deg, rgba(33,204,121,1) 0.00%,rgba(22,116,145,1) 100.00%)"
+    },
+    "gradient-ocean": {
+      "value": "linear-gradient(90deg, rgba(71,134,241,1) 0.00%,rgba(79,14,135,1) 100.00%)"
+    },
+    "gradient-smurf": {
+      "value": "linear-gradient(90deg, rgba(0,198,215,1) 0.00%,rgba(71,134,241,1) 100.00%)"
+    },
+    "gradient-grape": {
+      "value": "linear-gradient(90deg, rgba(194,38,251,1) 0.00%,rgba(0,82,204,1) 100.00%)"
+    },
+    "gradient-barbie": {
+      "value": "linear-gradient(90deg, rgba(251,90,139,1) 0.00%,rgba(153,51,204,1) 100.00%)"
+    },
+    "gradient-street": {
+      "value": "linear-gradient(90deg, rgba(110,123,145,1) 0.00%,rgba(35,48,73,1) 100.00%)"
+    },
+    "gradient-universe": {
+      "value": "linear-gradient(90deg, rgba(32,44,68,1) 0.00%,rgba(0,0,0,1) 100.00%)"
     }
+  }
 }

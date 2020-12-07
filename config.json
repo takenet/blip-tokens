@@ -19,8 +19,7 @@
         "format": "scss/variables",
         "filter": {
           "attributes": {
-            "category": "style",
-            "type": "color"
+            "category": "color"
           }
         }
       }]

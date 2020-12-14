@@ -12,7 +12,7 @@
     "$primary-night": {
       "value": "#0747a6"
     },
-    "$primary-purples-unicorn": {
+    "$primary-purples-pixie": {
       "value": "#cc99ff"
     },
     "$primary-purples-bell": {
@@ -173,6 +173,84 @@
     },
     "neutral-light-snow": {
       "value": "#ffffff"
+    },
+    "$color-illustration-hair": {
+      "value": "#2c2a46"
+    },
+    "$color-illustration-skin-oprah": {
+      "value": "#cb8591"
+    },
+    "$color-illustration-skin-tais": {
+      "value": "#bc7785"
+    },
+    "$color-illustration-skin-michelle": {
+      "value": "#a8747d"
+    },
+    "$color-illustration-skin-will": {
+      "value": "#98646d"
+    },
+    "$color-illustration-skin-zoe": {
+      "value": "#cb9685"
+    },
+    "$color-illustration-skin-jason": {
+      "value": "#c18775"
+    },
+    "$color-illustration-skin-jeniffer": {
+      "value": "#bf7d68"
+    },
+    "$color-illustration-skin-dwayne": {
+      "value": "#b5705a"
+    },
+    "$color-illustration-skin-jackie": {
+      "value": "#f3c29f"
+    },
+    "$color-illustration-skin-lucy": {
+      "value": "#edb58d"
+    },
+    "$color-illustration-skin-hideo": {
+      "value": "#e8aa7d"
+    },
+    "$color-illustration-skin-jung": {
+      "value": "#e29e6c"
+    },
+    "$color-illustration-skin-nicole": {
+      "value": "#fdc2bf"
+    },
+    "$color-illustration-skin-keanu": {
+      "value": "#ffbbb8"
+    },
+    "$color-illustration-skin-scarlett": {
+      "value": "#f4b1af"
+    },
+    "$color-illustration-skin-evaristo": {
+      "value": "#f3a6a3"
+    },
+    "$color-illustration-green-bamboo": {
+      "value": "#dfea95"
+    },
+    "$color-illustration-green-lime": {
+      "value": "#bed42b"
+    },
+    "$color-illustration-green-leaf": {
+      "value": "#9eaf30"
+    },
+    "$color-illustration-green-algae": {
+      "value": "#5f6a15"
+    },
+    "$color-illustration-blue-sky": {
+      "value": "#e9f7f8"
+    },
+    "$color-illustration-blue-genie": {
+      "value": "#80e3eb"
+    },
+    "$color-illustration-blue-brand": {
+      "value": "#00c6d7"
+    },
+    "$color-illustration-blue-sea": {
+      "value": "#167491"
+    },
+    "$color-illustration-blue-jeans": {
+      "value": "#212a3c"
     },
     "$new-color": {
       "value": "#ffffff"

@@ -4,41 +4,41 @@
       "ab-outline": {
         "value": "assets/icons/outline/ab.svg"
       },
-      "add-persistent-menu-outline": {
-        "value": "assets/icons/outline/add-persistent-menu.svg"
+      "active-outline": {
+        "value": "assets/icons/outline/user/active.svg"
       },
       "add-outline": {
         "value": "assets/icons/outline/add.svg"
       },
-      "arrow-ball-down-outline": {
-        "value": "assets/icons/outline/arrow-ball-down.svg"
+      "add-persistent-menu-outline": {
+        "value": "assets/icons/outline/add-persistent-menu.svg"
       },
-      "arrow-ball-left-outline": {
-        "value": "assets/icons/outline/arrow-ball-left.svg"
+      "adjusments-outline": {
+        "value": "assets/icons/outline/settings/adjusments.svg"
       },
-      "arrow-ball-right-outline": {
-        "value": "assets/icons/outline/arrow-ball-right.svg"
+      "agent-outline": {
+        "value": "assets/icons/outline/agent.svg"
       },
-      "arrow-ball-screen-fill-outline": {
-        "value": "assets/icons/outline/arrow-ball-screen-fill.svg"
+      "ai-outline": {
+        "value": "assets/icons/outline/AI.svg"
       },
-      "arrow-ball-screen-full-outline": {
-        "value": "assets/icons/outline/arrow-ball-screen-full.svg"
+      "air-balloon-outline": {
+        "value": "assets/icons/outline/air-balloon.svg"
       },
-      "arrow-ball-up-outline": {
-        "value": "assets/icons/outline/arrow-ball-up.svg"
+      "airplane-outline": {
+        "value": "assets/icons/outline/airplane.svg"
       },
       "arrow-down-outline": {
-        "value": "assets/icons/outline/arrow-down.svg"
+        "value": "assets/icons/outline/arrow/arrow-down.svg"
       },
       "arrow-left-outline": {
-        "value": "assets/icons/outline/arrow-left.svg"
+        "value": "assets/icons/outline/arrow/arrow-left.svg"
       },
       "arrow-right-outline": {
-        "value": "assets/icons/outline/arrow-right.svg"
+        "value": "assets/icons/outline/arrow/arrow-right.svg"
       },
       "arrow-up-outline": {
-        "value": "assets/icons/outline/arrow-up.svg"
+        "value": "assets/icons/outline/arrow/arrow-up.svg"
       },
       "attach-outline": {
         "value": "assets/icons/outline/attach.svg"
@@ -49,41 +49,32 @@
       "audio-outline": {
         "value": "assets/icons/outline/audio.svg"
       },
-      "avatar-deafult-outline": {
-        "value": "assets/icons/outline/avatar-deafult.svg"
+      "ballon-outline": {
+        "value": "assets/icons/outline/message/ballon.svg"
       },
-      "avatar-user-outline": {
-        "value": "assets/icons/outline/avatar-user.svg"
-      },
-      "back-outline": {
-        "value": "assets/icons/outline/back.svg"
+      "bar-outline": {
+        "value": "assets/icons/outline/chart/bar.svg"
       },
       "bell-outline": {
         "value": "assets/icons/outline/bell.svg"
       },
-      "builder-carrousel-outline": {
-        "value": "assets/icons/outline/builder-carrousel.svg"
+      "blip-ideas-outline": {
+        "value": "assets/icons/outline/blip-ideas.svg"
       },
-      "builder-menu-outline": {
-        "value": "assets/icons/outline/builder-menu.svg"
+      "blip-tutorials-outline": {
+        "value": "assets/icons/outline/blip-tutorials.svg"
       },
-      "builder-new-state-outline": {
-        "value": "assets/icons/outline/builder-new-state.svg"
+      "bold-outline": {
+        "value": "assets/icons/outline/text-style/bold.svg"
       },
-      "builder-publish-bot-outline": {
-        "value": "assets/icons/outline/builder-publish-bot.svg"
+      "book-outline": {
+        "value": "assets/icons/outline/book.svg"
       },
-      "builder-quick-reply-outline": {
-        "value": "assets/icons/outline/builder-quick-reply.svg"
+      "bug-report-outline": {
+        "value": "assets/icons/outline/bug-report.svg"
       },
-      "builder-router-outline": {
-        "value": "assets/icons/outline/builder-router.svg"
-      },
-      "builder-test-bot-outline": {
-        "value": "assets/icons/outline/builder-test-bot.svg"
-      },
-      "builder-text-message-outline": {
-        "value": "assets/icons/outline/builder-text-message.svg"
+      "builder-outline": {
+        "value": "assets/icons/outline/settings/builder.svg"
       },
       "business-outline": {
         "value": "assets/icons/outline/business.svg"
@@ -97,17 +88,11 @@
       "camera-outline": {
         "value": "assets/icons/outline/camera.svg"
       },
-      "chart-bar-outline": {
-        "value": "assets/icons/outline/chart-bar.svg"
+      "carrousel-outline": {
+        "value": "assets/icons/outline/builder/carrousel.svg"
       },
-      "chart-column-outline": {
-        "value": "assets/icons/outline/chart-column.svg"
-      },
-      "chart-line-outline": {
-        "value": "assets/icons/outline/chart-line.svg"
-      },
-      "chart-pizza-outline": {
-        "value": "assets/icons/outline/chart-pizza.svg"
+      "channels-outline": {
+        "value": "assets/icons/outline/channels.svg"
       },
       "checkball-outline": {
         "value": "assets/icons/outline/checkball.svg"
@@ -118,8 +103,23 @@
       "close-outline": {
         "value": "assets/icons/outline/close.svg"
       },
+      "closed-outline": {
+        "value": "assets/icons/outline/eye/closed.svg"
+      },
+      "cloud-2-outline": {
+        "value": "assets/icons/outline/cloud-2.svg"
+      },
+      "cloud-outline": {
+        "value": "assets/icons/outline/cloud.svg"
+      },
+      "column-outline": {
+        "value": "assets/icons/outline/chart/column.svg"
+      },
       "company-outline": {
         "value": "assets/icons/outline/company.svg"
+      },
+      "conections-outline": {
+        "value": "assets/icons/outline/conections.svg"
       },
       "contact-outline": {
         "value": "assets/icons/outline/contact.svg"
@@ -130,8 +130,14 @@
       "copy-outline": {
         "value": "assets/icons/outline/copy.svg"
       },
+      "csv-outline": {
+        "value": "assets/icons/outline/file/csv.svg"
+      },
       "custom-channel-outline": {
         "value": "assets/icons/outline/custom-channel.svg"
+      },
+      "data-security-outline": {
+        "value": "assets/icons/outline/data-security.svg"
       },
       "date-time-outline": {
         "value": "assets/icons/outline/date-time.svg"
@@ -139,8 +145,23 @@
       "debug-outline": {
         "value": "assets/icons/outline/debug.svg"
       },
+      "defaut-outline": {
+        "value": "assets/icons/outline/user/defaut.svg"
+      },
       "deslike-outline": {
         "value": "assets/icons/outline/deslike.svg"
+      },
+      "disk-outline": {
+        "value": "assets/icons/outline/save/disk.svg"
+      },
+      "doc-outline": {
+        "value": "assets/icons/outline/file/doc.svg"
+      },
+      "dot-outline": {
+        "value": "assets/icons/outline/menu/dot.svg"
+      },
+      "down-outline": {
+        "value": "assets/icons/outline/arrow-ball/down.svg"
       },
       "download-outline": {
         "value": "assets/icons/outline/download.svg"
@@ -154,17 +175,17 @@
       "emoji-outline": {
         "value": "assets/icons/outline/emoji.svg"
       },
+      "empty-file-outline": {
+        "value": "assets/icons/outline/file/empty-file.svg"
+      },
+      "engaged-outline": {
+        "value": "assets/icons/outline/user/engaged.svg"
+      },
       "error-outline": {
         "value": "assets/icons/outline/error.svg"
       },
       "external-file-outline": {
         "value": "assets/icons/outline/external-file.svg"
-      },
-      "eye-closed-outline": {
-        "value": "assets/icons/outline/eye-closed.svg"
-      },
-      "eye-open-outline": {
-        "value": "assets/icons/outline/eye-open.svg"
       },
       "false-outline": {
         "value": "assets/icons/outline/false.svg"
@@ -175,56 +196,44 @@
       "favorite-outline": {
         "value": "assets/icons/outline/favorite.svg"
       },
-      "file-csv-outline": {
-        "value": "assets/icons/outline/file-csv.svg"
-      },
-      "file-doc-outline": {
-        "value": "assets/icons/outline/file-doc.svg"
-      },
-      "file-empty-file-outline": {
-        "value": "assets/icons/outline/file-empty-file.svg"
-      },
-      "file-image-outline": {
-        "value": "assets/icons/outline/file-image.svg"
-      },
-      "file-java-script-outline": {
-        "value": "assets/icons/outline/file-java-script.svg"
-      },
-      "file-json-outline": {
-        "value": "assets/icons/outline/file-json.svg"
-      },
-      "file-new-outline": {
-        "value": "assets/icons/outline/file-new.svg"
-      },
-      "file-pdf-outline": {
-        "value": "assets/icons/outline/file-pdf.svg"
-      },
-      "file-ppt-outline": {
-        "value": "assets/icons/outline/file-ppt.svg"
-      },
-      "file-txt-outline": {
-        "value": "assets/icons/outline/file-txt.svg"
+      "fill-outline": {
+        "value": "assets/icons/outline/screen/fill.svg"
       },
       "filter-outline": {
         "value": "assets/icons/outline/filter.svg"
       },
+      "flag-outline": {
+        "value": "assets/icons/outline/save/flag.svg"
+      },
       "folder-outline": {
         "value": "assets/icons/outline/folder.svg"
       },
-      "forum-flag-outline": {
-        "value": "assets/icons/outline/forum-flag.svg"
+      "full-outline": {
+        "value": "assets/icons/outline/screen/full.svg"
       },
-      "forum-settings-outline": {
-        "value": "assets/icons/outline/forum-settings.svg"
+      "general-outline": {
+        "value": "assets/icons/outline/settings/general.svg"
       },
-      "heart-outline": {
-        "value": "assets/icons/outline/heart.svg"
+      "gif-outline": {
+        "value": "assets/icons/outline/file/gif.svg"
+      },
+      "guide-outline": {
+        "value": "assets/icons/outline/guide.svg"
+      },
+      "hamburger-outline": {
+        "value": "assets/icons/outline/menu/hamburger.svg"
       },
       "home-outline": {
         "value": "assets/icons/outline/home.svg"
       },
-      "ia-outline": {
-        "value": "assets/icons/outline/ia.svg"
+      "horizontal-outline": {
+        "value": "assets/icons/outline/more-options/horizontal.svg"
+      },
+      "image broken-outline": {
+        "value": "assets/icons/outline/file/image broken.svg"
+      },
+      "image-outline": {
+        "value": "assets/icons/outline/file/image.svg"
       },
       "info-outline": {
         "value": "assets/icons/outline/info.svg"
@@ -232,11 +241,35 @@
       "integration-outline": {
         "value": "assets/icons/outline/integration.svg"
       },
+      "integrations channels-outline": {
+        "value": "assets/icons/outline/integrations channels.svg"
+      },
+      "italic-outline": {
+        "value": "assets/icons/outline/text-style/italic.svg"
+      },
+      "java-script-outline": {
+        "value": "assets/icons/outline/file/java-script.svg"
+      },
+      "json-outline": {
+        "value": "assets/icons/outline/file/json.svg"
+      },
+      "keyboard-outline": {
+        "value": "assets/icons/outline/keyboard.svg"
+      },
+      "left-outline": {
+        "value": "assets/icons/outline/arrow-ball/left.svg"
+      },
+      "less-outline": {
+        "value": "assets/icons/outline/less.svg"
+      },
       "library-outline": {
         "value": "assets/icons/outline/library.svg"
       },
       "like-outline": {
         "value": "assets/icons/outline/like.svg"
+      },
+      "line-outline": {
+        "value": "assets/icons/outline/chart/line.svg"
       },
       "link-outline": {
         "value": "assets/icons/outline/link.svg"
@@ -256,41 +289,44 @@
       "logout-outline": {
         "value": "assets/icons/outline/logout.svg"
       },
-      "menu-dot-outline": {
-        "value": "assets/icons/outline/menu-dot.svg"
+      "mail-outline": {
+        "value": "assets/icons/outline/mail.svg"
       },
-      "menu-hamburger-outline": {
-        "value": "assets/icons/outline/menu-hamburger.svg"
+      "megaphone-outline": {
+        "value": "assets/icons/outline/megaphone.svg"
+      },
+      "menu-outline": {
+        "value": "assets/icons/outline/builder/menu.svg"
       },
       "message-active-outline": {
-        "value": "assets/icons/outline/message-active.svg"
+        "value": "assets/icons/outline/message/message-active.svg"
       },
-      "message-ballon-outline": {
-        "value": "assets/icons/outline/message-ballon.svg"
+      "messenger-outline": {
+        "value": "assets/icons/outline/messenger.svg"
       },
-      "message-received-outline": {
-        "value": "assets/icons/outline/message-received.svg"
+      "monitoring-outline": {
+        "value": "assets/icons/outline/monitoring.svg"
       },
-      "message-sent-outline": {
-        "value": "assets/icons/outline/message-sent.svg"
-      },
-      "message-talk-outline": {
-        "value": "assets/icons/outline/message-talk.svg"
-      },
-      "message-total-outline": {
-        "value": "assets/icons/outline/message-total.svg"
-      },
-      "more-options-horizontal-outline": {
-        "value": "assets/icons/outline/more-options-horizontal.svg"
-      },
-      "more-options-vertical-outline": {
-        "value": "assets/icons/outline/more-options-vertical.svg"
+      "mouse-outline": {
+        "value": "assets/icons/outline/mouse.svg"
       },
       "move-outline": {
         "value": "assets/icons/outline/move.svg"
       },
+      "new-outline": {
+        "value": "assets/icons/outline/file/new.svg"
+      },
+      "new-state-outline": {
+        "value": "assets/icons/outline/builder/new-state.svg"
+      },
+      "notebook-outline": {
+        "value": "assets/icons/outline/notebook.svg"
+      },
       "notes-outline": {
         "value": "assets/icons/outline/notes.svg"
+      },
+      "open-outline": {
+        "value": "assets/icons/outline/eye/open.svg"
       },
       "order-elements-outline": {
         "value": "assets/icons/outline/order-elements.svg"
@@ -298,29 +334,62 @@
       "paint-outline": {
         "value": "assets/icons/outline/paint.svg"
       },
+      "paperplane-outline": {
+        "value": "assets/icons/outline/paperplane.svg"
+      },
+      "payment-card-outline": {
+        "value": "assets/icons/outline/payment-card.svg"
+      },
+      "pdf-outline": {
+        "value": "assets/icons/outline/file/pdf.svg"
+      },
+      "pizza-outline": {
+        "value": "assets/icons/outline/chart/pizza.svg"
+      },
+      "plugin-outline": {
+        "value": "assets/icons/outline/plugin.svg"
+      },
       "plus-outline": {
         "value": "assets/icons/outline/plus.svg"
+      },
+      "ppt-outline": {
+        "value": "assets/icons/outline/file/ppt.svg"
+      },
+      "primeiro-acesso-outline": {
+        "value": "assets/icons/outline/primeiro-acesso.svg"
+      },
+      "publish-bot-outline": {
+        "value": "assets/icons/outline/builder/publish-bot.svg"
       },
       "question-outline": {
         "value": "assets/icons/outline/question.svg"
       },
-      "redo-arrow-outline": {
-        "value": "assets/icons/outline/redo-arrow.svg"
+      "quick-reply-outline": {
+        "value": "assets/icons/outline/builder/quick-reply.svg"
+      },
+      "received-outline": {
+        "value": "assets/icons/outline/message/received.svg"
+      },
+      "redo-outline": {
+        "value": "assets/icons/outline/redo.svg"
       },
       "refresh-outline": {
         "value": "assets/icons/outline/refresh.svg"
       },
+      "resources-outline": {
+        "value": "assets/icons/outline/resources.svg"
+      },
       "restore-outline": {
         "value": "assets/icons/outline/restore.svg"
+      },
+      "right-outline": {
+        "value": "assets/icons/outline/arrow-ball/right.svg"
       },
       "robot-outline": {
         "value": "assets/icons/outline/robot.svg"
       },
-      "save-disk-outline": {
-        "value": "assets/icons/outline/save-disk.svg"
-      },
-      "save-flag-outline": {
-        "value": "assets/icons/outline/save-flag.svg"
+      "router-outline": {
+        "value": "assets/icons/outline/builder/router.svg"
       },
       "search-outline": {
         "value": "assets/icons/outline/search.svg"
@@ -328,14 +397,23 @@
       "send-outline": {
         "value": "assets/icons/outline/send.svg"
       },
-      "settings-outline": {
-        "value": "assets/icons/outline/settings.svg"
+      "sent-outline": {
+        "value": "assets/icons/outline/message/sent.svg"
+      },
+      "service-queue-outline": {
+        "value": "assets/icons/outline/service-queue.svg"
+      },
+      "share-outline": {
+        "value": "assets/icons/outline/share.svg"
+      },
+      "site-outline": {
+        "value": "assets/icons/outline/Site.svg"
       },
       "skills-outline": {
         "value": "assets/icons/outline/skills.svg"
       },
-      "smile-outline": {
-        "value": "assets/icons/outline/smile.svg"
+      "smartphone-outline": {
+        "value": "assets/icons/outline/smartphone.svg"
       },
       "sms-outline": {
         "value": "assets/icons/outline/sms.svg"
@@ -349,23 +427,32 @@
       "status-outline": {
         "value": "assets/icons/outline/status.svg"
       },
+      "strikethrough-outline": {
+        "value": "assets/icons/outline/text-style/strikethrough.svg"
+      },
       "tag-outline": {
         "value": "assets/icons/outline/tag.svg"
+      },
+      "talk-outline": {
+        "value": "assets/icons/outline/message/talk.svg"
+      },
+      "target-outline": {
+        "value": "assets/icons/outline/target.svg"
       },
       "team-outline": {
         "value": "assets/icons/outline/team.svg"
       },
-      "text-style-bold-outline": {
-        "value": "assets/icons/outline/text-style-bold.svg"
+      "test-bot-outline": {
+        "value": "assets/icons/outline/builder/test-bot.svg"
       },
-      "text-style-italic-outline": {
-        "value": "assets/icons/outline/text-style-italic.svg"
+      "text-message-outline": {
+        "value": "assets/icons/outline/builder/text-message.svg"
       },
-      "text-style-strikethrough-outline": {
-        "value": "assets/icons/outline/text-style-strikethrough.svg"
+      "ticket-outline": {
+        "value": "assets/icons/outline/ticket.svg"
       },
-      "text-style-underline-outline": {
-        "value": "assets/icons/outline/text-style-underline.svg"
+      "total-outline": {
+        "value": "assets/icons/outline/message/total.svg"
       },
       "transfer-outline": {
         "value": "assets/icons/outline/transfer.svg"
@@ -373,29 +460,41 @@
       "trash-outline": {
         "value": "assets/icons/outline/trash.svg"
       },
+      "trophy-outline": {
+        "value": "assets/icons/outline/trophy.svg"
+      },
       "true-outline": {
         "value": "assets/icons/outline/true.svg"
       },
-      "undo-arrow-outline": {
-        "value": "assets/icons/outline/undo-arrow.svg"
+      "txt-1-outline": {
+        "value": "assets/icons/outline/file/txt-1.svg"
+      },
+      "txt-outline": {
+        "value": "assets/icons/outline/file/txt.svg"
+      },
+      "underline-outline": {
+        "value": "assets/icons/outline/text-style/underline.svg"
+      },
+      "undo-outline": {
+        "value": "assets/icons/outline/undo.svg"
       },
       "unlock-outline": {
         "value": "assets/icons/outline/unlock.svg"
       },
+      "up-outline": {
+        "value": "assets/icons/outline/arrow-ball/up.svg"
+      },
       "upload-outline": {
         "value": "assets/icons/outline/upload.svg"
       },
-      "user-active-outline": {
-        "value": "assets/icons/outline/user-active.svg"
-      },
-      "user-defaut-outline": {
-        "value": "assets/icons/outline/user-defaut.svg"
-      },
-      "user-engaged-outline": {
-        "value": "assets/icons/outline/user-engaged.svg"
-      },
       "user-outline": {
-        "value": "assets/icons/outline/user.svg"
+        "value": "assets/icons/outline/avatar/user.svg"
+      },
+      "vertical-outline": {
+        "value": "assets/icons/outline/more-options/vertical.svg"
+      },
+      "video broken-outline": {
+        "value": "assets/icons/outline/video broken.svg"
       },
       "video-outline": {
         "value": "assets/icons/outline/video.svg"
@@ -409,86 +508,59 @@
       "xml-outline": {
         "value": "assets/icons/outline/xml.svg"
       },
-      "video-broken-outline": {
-        "value": "assets/icons/outline/video-broken.svg"
-      },
       "abkhazia_flag-solid": {
-        "value": "assets/icons/solid/abkhazia_flag.svg"
+        "value": "assets/icons/solid/flags/abkhazia_flag.svg"
       },
       "add-solid": {
         "value": "assets/icons/solid/add.svg"
       },
       "afghanistan_flag-solid": {
-        "value": "assets/icons/solid/afghanistan_flag.svg"
+        "value": "assets/icons/solid/flags/afghanistan_flag.svg"
       },
       "aland-islands_flag-solid": {
-        "value": "assets/icons/solid/aland-islands_flag.svg"
+        "value": "assets/icons/solid/flags/aland-islands_flag.svg"
       },
       "albania_flag-solid": {
-        "value": "assets/icons/solid/albania_flag.svg"
+        "value": "assets/icons/solid/flags/albania_flag.svg"
       },
       "algeria_flag-solid": {
-        "value": "assets/icons/solid/algeria_flag.svg"
+        "value": "assets/icons/solid/flags/algeria_flag.svg"
       },
       "american-samoa_flag-solid": {
-        "value": "assets/icons/solid/american-samoa_flag.svg"
+        "value": "assets/icons/solid/flags/american-samoa_flag.svg"
       },
       "andorra_flag-solid": {
-        "value": "assets/icons/solid/andorra_flag.svg"
+        "value": "assets/icons/solid/flags/andorra_flag.svg"
       },
       "angola_flag-solid": {
-        "value": "assets/icons/solid/angola_flag.svg"
+        "value": "assets/icons/solid/flags/angola_flag.svg"
       },
       "anguilla_flag-solid": {
-        "value": "assets/icons/solid/anguilla_flag.svg"
+        "value": "assets/icons/solid/flags/anguilla_flag.svg"
       },
       "antigua-and-barbuda_flag-solid": {
-        "value": "assets/icons/solid/antigua-and-barbuda_flag.svg"
+        "value": "assets/icons/solid/flags/antigua-and-barbuda_flag.svg"
       },
       "argentina_flag-solid": {
-        "value": "assets/icons/solid/argentina_flag.svg"
+        "value": "assets/icons/solid/flags/argentina_flag.svg"
       },
       "armenia_flag-solid": {
-        "value": "assets/icons/solid/armenia_flag.svg"
-      },
-      "arrow-ball-down-solid": {
-        "value": "assets/icons/solid/arrow-ball-down.svg"
-      },
-      "arrow-ball-left-solid": {
-        "value": "assets/icons/solid/arrow-ball-left.svg"
-      },
-      "arrow-ball-right-solid": {
-        "value": "assets/icons/solid/arrow-ball-right.svg"
-      },
-      "arrow-ball-up-solid": {
-        "value": "assets/icons/solid/arrow-ball-up.svg"
+        "value": "assets/icons/solid/flags/armenia_flag.svg"
       },
       "arrow-down-solid": {
-        "value": "assets/icons/solid/arrow-down.svg"
-      },
-      "arrow-filter-table-default-solid": {
-        "value": "assets/icons/solid/arrow-filter-table-default.svg"
-      },
-      "arrow-filter-table-down-solid": {
-        "value": "assets/icons/solid/arrow-filter-table-down.svg"
-      },
-      "arrow-filter-table-up-solid": {
-        "value": "assets/icons/solid/arrow-filter-table-up.svg"
+        "value": "assets/icons/solid/arrow/arrow-down.svg"
       },
       "arrow-left-solid": {
-        "value": "assets/icons/solid/arrow-left.svg"
-      },
-      "arrow-response-solid": {
-        "value": "assets/icons/solid/arrow-response.svg"
+        "value": "assets/icons/solid/arrow/arrow-left.svg"
       },
       "arrow-right-solid": {
-        "value": "assets/icons/solid/arrow-right.svg"
+        "value": "assets/icons/solid/arrow/arrow-right.svg"
       },
       "arrow-up-solid": {
-        "value": "assets/icons/solid/arrow-up.svg"
+        "value": "assets/icons/solid/arrow/arrow-up.svg"
       },
       "aruba_flag-solid": {
-        "value": "assets/icons/solid/aruba_flag.svg"
+        "value": "assets/icons/solid/flags/aruba_flag.svg"
       },
       "attention-solid": {
         "value": "assets/icons/solid/attention.svg"
@@ -497,256 +569,232 @@
         "value": "assets/icons/solid/audio.svg"
       },
       "australia_flag-solid": {
-        "value": "assets/icons/solid/australia_flag.svg"
+        "value": "assets/icons/solid/flags/australia_flag.svg"
       },
       "austria_flag-solid": {
-        "value": "assets/icons/solid/austria_flag.svg"
+        "value": "assets/icons/solid/flags/austria_flag.svg"
       },
       "azerbaijan_flag-solid": {
-        "value": "assets/icons/solid/azerbaijan_flag.svg"
+        "value": "assets/icons/solid/flags/azerbaijan_flag.svg"
       },
       "azores-islands_flag-solid": {
-        "value": "assets/icons/solid/azores-islands_flag.svg"
+        "value": "assets/icons/solid/flags/azores-islands_flag.svg"
       },
       "bahamas_flag-solid": {
-        "value": "assets/icons/solid/bahamas_flag.svg"
+        "value": "assets/icons/solid/flags/bahamas_flag.svg"
       },
       "bahrain_flag-solid": {
-        "value": "assets/icons/solid/bahrain_flag.svg"
+        "value": "assets/icons/solid/flags/bahrain_flag.svg"
       },
       "balearic-islands_flag-solid": {
-        "value": "assets/icons/solid/balearic-islands_flag.svg"
+        "value": "assets/icons/solid/flags/balearic-islands_flag.svg"
       },
       "bangladesh_flag-solid": {
-        "value": "assets/icons/solid/bangladesh_flag.svg"
+        "value": "assets/icons/solid/flags/bangladesh_flag.svg"
       },
       "barbados_flag-solid": {
-        "value": "assets/icons/solid/barbados_flag.svg"
+        "value": "assets/icons/solid/flags/barbados_flag.svg"
       },
       "basque-country_flag-solid": {
-        "value": "assets/icons/solid/basque-country_flag.svg"
+        "value": "assets/icons/solid/flags/basque-country_flag.svg"
       },
       "belarus_flag-solid": {
-        "value": "assets/icons/solid/belarus_flag.svg"
+        "value": "assets/icons/solid/flags/belarus_flag.svg"
       },
       "belgium_flag-solid": {
-        "value": "assets/icons/solid/belgium_flag.svg"
+        "value": "assets/icons/solid/flags/belgium_flag.svg"
       },
       "belize_flag-solid": {
-        "value": "assets/icons/solid/belize_flag.svg"
+        "value": "assets/icons/solid/flags/belize_flag.svg"
       },
       "benin_flag-solid": {
-        "value": "assets/icons/solid/benin_flag.svg"
+        "value": "assets/icons/solid/flags/benin_flag.svg"
       },
       "bermuda_flag-solid": {
-        "value": "assets/icons/solid/bermuda_flag.svg"
+        "value": "assets/icons/solid/flags/bermuda_flag.svg"
       },
       "bhutan_flag-solid": {
-        "value": "assets/icons/solid/bhutan_flag.svg"
+        "value": "assets/icons/solid/flags/bhutan_flag.svg"
       },
       "blip-forum-solid": {
         "value": "assets/icons/solid/blip-forum.svg"
       },
-      "blip-ideas-solid": {
-        "value": "assets/icons/solid/blip-ideas.svg"
-      },
-      "blip-tutorials-solid": {
-        "value": "assets/icons/solid/blip-tutorials.svg"
+      "blocks-solid": {
+        "value": "assets/icons/solid/organize/blocks.svg"
       },
       "bolivia_flag-solid": {
-        "value": "assets/icons/solid/bolivia_flag.svg"
+        "value": "assets/icons/solid/flags/bolivia_flag.svg"
       },
       "bonaire_flag-solid": {
-        "value": "assets/icons/solid/bonaire_flag.svg"
+        "value": "assets/icons/solid/flags/bonaire_flag.svg"
       },
       "bosnia-and-herzegovina_flag-solid": {
-        "value": "assets/icons/solid/bosnia-and-herzegovina_flag.svg"
+        "value": "assets/icons/solid/flags/bosnia-and-herzegovina_flag.svg"
       },
       "botswana_flag-solid": {
-        "value": "assets/icons/solid/botswana_flag.svg"
+        "value": "assets/icons/solid/flags/botswana_flag.svg"
       },
       "brazil_flag-solid": {
-        "value": "assets/icons/solid/brazil_flag.svg"
+        "value": "assets/icons/solid/flags/brazil_flag.svg"
       },
       "british-columbia_flag-solid": {
-        "value": "assets/icons/solid/british-columbia_flag.svg"
+        "value": "assets/icons/solid/flags/british-columbia_flag.svg"
       },
       "british-indian-ocean-territory_flag-solid": {
-        "value": "assets/icons/solid/british-indian-ocean-territory_flag.svg"
+        "value": "assets/icons/solid/flags/british-indian-ocean-territory_flag.svg"
       },
       "british-virgin-islands_flag-solid": {
-        "value": "assets/icons/solid/british-virgin-islands_flag.svg"
+        "value": "assets/icons/solid/flags/british-virgin-islands_flag.svg"
       },
       "brunei_flag-solid": {
-        "value": "assets/icons/solid/brunei_flag.svg"
-      },
-      "builder-http-solid": {
-        "value": "assets/icons/solid/builder-http.svg"
-      },
-      "builder-java-script-solid": {
-        "value": "assets/icons/solid/builder-java-script.svg"
-      },
-      "builder-publish-bot-solid": {
-        "value": "assets/icons/solid/builder-publish-bot.svg"
-      },
-      "builder-redirect-solid": {
-        "value": "assets/icons/solid/builder-redirect.svg"
-      },
-      "builder-tracking-solid": {
-        "value": "assets/icons/solid/builder-tracking.svg"
-      },
-      "builder-variable-solid": {
-        "value": "assets/icons/solid/builder-variable.svg"
+        "value": "assets/icons/solid/flags/brunei_flag.svg"
       },
       "bulgaria_flag-solid": {
-        "value": "assets/icons/solid/bulgaria_flag.svg"
+        "value": "assets/icons/solid/flags/bulgaria_flag.svg"
       },
       "burkina-faso_flag-solid": {
-        "value": "assets/icons/solid/burkina-faso_flag.svg"
+        "value": "assets/icons/solid/flags/burkina-faso_flag.svg"
       },
       "burundi_flag-solid": {
-        "value": "assets/icons/solid/burundi_flag.svg"
-      },
-      "business-solid": {
-        "value": "assets/icons/solid/business.svg"
+        "value": "assets/icons/solid/flags/burundi_flag.svg"
       },
       "cambodia_flag-solid": {
-        "value": "assets/icons/solid/cambodia_flag.svg"
+        "value": "assets/icons/solid/flags/cambodia_flag.svg"
       },
       "cameroon_flag-solid": {
-        "value": "assets/icons/solid/cameroon_flag.svg"
+        "value": "assets/icons/solid/flags/cameroon_flag.svg"
       },
       "canada_flag-solid": {
-        "value": "assets/icons/solid/canada_flag.svg"
+        "value": "assets/icons/solid/flags/canada_flag.svg"
       },
       "canary-islands_flag-solid": {
-        "value": "assets/icons/solid/canary-islands_flag.svg"
+        "value": "assets/icons/solid/flags/canary-islands_flag.svg"
       },
       "cape-verde_flag-solid": {
-        "value": "assets/icons/solid/cape-verde_flag.svg"
+        "value": "assets/icons/solid/flags/cape-verde_flag.svg"
       },
       "cayman-islands_flag-solid": {
-        "value": "assets/icons/solid/cayman-islands_flag.svg"
+        "value": "assets/icons/solid/flags/cayman-islands_flag.svg"
       },
       "central-african-republic_flag-solid": {
-        "value": "assets/icons/solid/central-african-republic_flag.svg"
+        "value": "assets/icons/solid/flags/central-african-republic_flag.svg"
       },
       "ceuta_flag-solid": {
-        "value": "assets/icons/solid/ceuta_flag.svg"
+        "value": "assets/icons/solid/flags/ceuta_flag.svg"
       },
       "chad_flag-solid": {
-        "value": "assets/icons/solid/chad_flag.svg"
+        "value": "assets/icons/solid/flags/chad_flag.svg"
       },
       "checkball-solid": {
         "value": "assets/icons/solid/checkball.svg"
       },
       "chile_flag-solid": {
-        "value": "assets/icons/solid/chile_flag.svg"
+        "value": "assets/icons/solid/flags/chile_flag.svg"
       },
       "china_flag-solid": {
-        "value": "assets/icons/solid/china_flag.svg"
+        "value": "assets/icons/solid/flags/china_flag.svg"
       },
       "christmas-island_flag-solid": {
-        "value": "assets/icons/solid/christmas-island_flag.svg"
+        "value": "assets/icons/solid/flags/christmas-island_flag.svg"
       },
       "cocos-island_flag-solid": {
-        "value": "assets/icons/solid/cocos-island_flag.svg"
+        "value": "assets/icons/solid/flags/cocos-island_flag.svg"
       },
       "colombia_flag-solid": {
-        "value": "assets/icons/solid/colombia_flag.svg"
+        "value": "assets/icons/solid/flags/colombia_flag.svg"
       },
       "comoros_flag-solid": {
-        "value": "assets/icons/solid/comoros_flag.svg"
+        "value": "assets/icons/solid/flags/comoros_flag.svg"
       },
       "cook-islands_flag-solid": {
-        "value": "assets/icons/solid/cook-islands_flag.svg"
+        "value": "assets/icons/solid/flags/cook-islands_flag.svg"
       },
       "corsica_flag-solid": {
-        "value": "assets/icons/solid/corsica_flag.svg"
+        "value": "assets/icons/solid/flags/corsica_flag.svg"
       },
       "costa-rica_flag-solid": {
-        "value": "assets/icons/solid/costa-rica_flag.svg"
+        "value": "assets/icons/solid/flags/costa-rica_flag.svg"
       },
       "croatia_flag-solid": {
-        "value": "assets/icons/solid/croatia_flag.svg"
+        "value": "assets/icons/solid/flags/croatia_flag.svg"
       },
       "cuba_flag-solid": {
-        "value": "assets/icons/solid/cuba_flag.svg"
+        "value": "assets/icons/solid/flags/cuba_flag.svg"
       },
       "curacao_flag-solid": {
-        "value": "assets/icons/solid/curacao_flag.svg"
+        "value": "assets/icons/solid/flags/curacao_flag.svg"
       },
       "czech-republic_flag-solid": {
-        "value": "assets/icons/solid/czech-republic_flag.svg"
-      },
-      "data-security-solid": {
-        "value": "assets/icons/solid/data-security.svg"
+        "value": "assets/icons/solid/flags/czech-republic_flag.svg"
       },
       "democratic-republic-of-congo_flag-solid": {
-        "value": "assets/icons/solid/democratic-republic-of-congo_flag.svg"
+        "value": "assets/icons/solid/flags/democratic-republic-of-congo_flag.svg"
       },
       "denmark_flag-solid": {
-        "value": "assets/icons/solid/denmark_flag.svg"
+        "value": "assets/icons/solid/flags/denmark_flag.svg"
       },
       "djibouti_flag-solid": {
-        "value": "assets/icons/solid/djibouti_flag.svg"
-      },
-      "dominican-republic_flag-solid": {
-        "value": "assets/icons/solid/dominican-republic_flag.svg"
+        "value": "assets/icons/solid/flags/djibouti_flag.svg"
       },
       "dominica_flag-solid": {
-        "value": "assets/icons/solid/dominica_flag.svg"
+        "value": "assets/icons/solid/flags/dominica_flag.svg"
+      },
+      "dominican-republic_flag-solid": {
+        "value": "assets/icons/solid/flags/dominican-republic_flag.svg"
+      },
+      "down-solid": {
+        "value": "assets/icons/solid/arrow-ball/down.svg"
       },
       "east-timor_flag-solid": {
-        "value": "assets/icons/solid/east-timor_flag.svg"
+        "value": "assets/icons/solid/flags/east-timor_flag.svg"
       },
       "ecuador_flag-solid": {
-        "value": "assets/icons/solid/ecuador_flag.svg"
-      },
-      "edit-solid": {
-        "value": "assets/icons/solid/edit.svg"
+        "value": "assets/icons/solid/flags/ecuador_flag.svg"
       },
       "egypt_flag-solid": {
-        "value": "assets/icons/solid/egypt_flag.svg"
+        "value": "assets/icons/solid/flags/egypt_flag.svg"
       },
       "el-salvador_flag-solid": {
-        "value": "assets/icons/solid/el-salvador_flag.svg"
+        "value": "assets/icons/solid/flags/el-salvador_flag.svg"
       },
       "email-solid": {
         "value": "assets/icons/solid/email.svg"
       },
       "england_flag-solid": {
-        "value": "assets/icons/solid/england_flag.svg"
+        "value": "assets/icons/solid/flags/england_flag.svg"
       },
       "equatorial-guinea_flag-solid": {
-        "value": "assets/icons/solid/equatorial-guinea_flag.svg"
+        "value": "assets/icons/solid/flags/equatorial-guinea_flag.svg"
       },
       "eritrea_flag-solid": {
-        "value": "assets/icons/solid/eritrea_flag.svg"
+        "value": "assets/icons/solid/flags/eritrea_flag.svg"
       },
       "error-solid": {
         "value": "assets/icons/solid/error.svg"
       },
       "estonia_flag-solid": {
-        "value": "assets/icons/solid/estonia_flag.svg"
+        "value": "assets/icons/solid/flags/estonia_flag.svg"
       },
       "ethiopia_flag-solid": {
-        "value": "assets/icons/solid/ethiopia_flag.svg"
+        "value": "assets/icons/solid/flags/ethiopia_flag.svg"
       },
       "european-union_flag-solid": {
-        "value": "assets/icons/solid/european-union_flag.svg"
+        "value": "assets/icons/solid/flags/european-union_flag.svg"
       },
       "falkland-islands_flag-solid": {
-        "value": "assets/icons/solid/falkland-islands_flag.svg"
+        "value": "assets/icons/solid/flags/falkland-islands_flag.svg"
       },
       "favorite-solid": {
         "value": "assets/icons/solid/favorite.svg"
       },
       "fiji_flag-solid": {
-        "value": "assets/icons/solid/fiji_flag.svg"
+        "value": "assets/icons/solid/flags/fiji_flag.svg"
+      },
+      "filter-table-solid": {
+        "value": "assets/icons/solid/arrow/filter-table.svg"
       },
       "finland_flag-solid": {
-        "value": "assets/icons/solid/finland_flag.svg"
+        "value": "assets/icons/solid/flags/finland_flag.svg"
       },
       "folder-save-solid": {
         "value": "assets/icons/solid/folder-save.svg"
@@ -755,592 +803,595 @@
         "value": "assets/icons/solid/folder.svg"
       },
       "france_flag-solid": {
-        "value": "assets/icons/solid/france_flag.svg"
+        "value": "assets/icons/solid/flags/france_flag.svg"
       },
       "french-polynesia_flag-solid": {
-        "value": "assets/icons/solid/french-polynesia_flag.svg"
+        "value": "assets/icons/solid/flags/french-polynesia_flag.svg"
       },
       "gabon_flag-solid": {
-        "value": "assets/icons/solid/gabon_flag.svg"
+        "value": "assets/icons/solid/flags/gabon_flag.svg"
       },
       "galapagos-islands_flag-solid": {
-        "value": "assets/icons/solid/galapagos-islands_flag.svg"
+        "value": "assets/icons/solid/flags/galapagos-islands_flag.svg"
       },
       "gambia_flag-solid": {
-        "value": "assets/icons/solid/gambia_flag.svg"
+        "value": "assets/icons/solid/flags/gambia_flag.svg"
       },
       "georgia_flag-solid": {
-        "value": "assets/icons/solid/georgia_flag.svg"
+        "value": "assets/icons/solid/flags/georgia_flag.svg"
       },
       "germany_flag-solid": {
-        "value": "assets/icons/solid/germany_flag.svg"
+        "value": "assets/icons/solid/flags/germany_flag.svg"
       },
       "ghana_flag-solid": {
-        "value": "assets/icons/solid/ghana_flag.svg"
+        "value": "assets/icons/solid/flags/ghana_flag.svg"
       },
       "gibraltar_flag-solid": {
-        "value": "assets/icons/solid/gibraltar_flag.svg"
+        "value": "assets/icons/solid/flags/gibraltar_flag.svg"
       },
       "greece_flag-solid": {
-        "value": "assets/icons/solid/greece_flag.svg"
+        "value": "assets/icons/solid/flags/greece_flag.svg"
       },
       "greenland_flag-solid": {
-        "value": "assets/icons/solid/greenland_flag.svg"
+        "value": "assets/icons/solid/flags/greenland_flag.svg"
       },
       "grenada_flag-solid": {
-        "value": "assets/icons/solid/grenada_flag.svg"
+        "value": "assets/icons/solid/flags/grenada_flag.svg"
       },
       "guam_flag-solid": {
-        "value": "assets/icons/solid/guam_flag.svg"
+        "value": "assets/icons/solid/flags/guam_flag.svg"
       },
       "guatemala_flag-solid": {
-        "value": "assets/icons/solid/guatemala_flag.svg"
+        "value": "assets/icons/solid/flags/guatemala_flag.svg"
       },
       "guernsey_flag-solid": {
-        "value": "assets/icons/solid/guernsey_flag.svg"
+        "value": "assets/icons/solid/flags/guernsey_flag.svg"
       },
       "guinea-bissau_flag-solid": {
-        "value": "assets/icons/solid/guinea-bissau_flag.svg"
+        "value": "assets/icons/solid/flags/guinea-bissau_flag.svg"
       },
       "guinea_flag-solid": {
-        "value": "assets/icons/solid/guinea_flag.svg"
+        "value": "assets/icons/solid/flags/guinea_flag.svg"
       },
       "haiti_flag-solid": {
-        "value": "assets/icons/solid/haiti_flag.svg"
+        "value": "assets/icons/solid/flags/haiti_flag.svg"
       },
       "hawaii_flag-solid": {
-        "value": "assets/icons/solid/hawaii_flag.svg"
-      },
-      "heart-solid": {
-        "value": "assets/icons/solid/heart.svg"
+        "value": "assets/icons/solid/flags/hawaii_flag.svg"
       },
       "honduras_flag-solid": {
-        "value": "assets/icons/solid/honduras_flag.svg"
+        "value": "assets/icons/solid/flags/honduras_flag.svg"
       },
       "hong-kong_flag-solid": {
-        "value": "assets/icons/solid/hong-kong_flag.svg"
+        "value": "assets/icons/solid/flags/hong-kong_flag.svg"
+      },
+      "http-solid": {
+        "value": "assets/icons/solid/builder/http.svg"
       },
       "hungary_flag-solid": {
-        "value": "assets/icons/solid/hungary_flag.svg"
+        "value": "assets/icons/solid/flags/hungary_flag.svg"
       },
       "iceland_flag-solid": {
-        "value": "assets/icons/solid/iceland_flag.svg"
+        "value": "assets/icons/solid/flags/iceland_flag.svg"
       },
       "india_flag-solid": {
-        "value": "assets/icons/solid/india_flag.svg"
+        "value": "assets/icons/solid/flags/india_flag.svg"
       },
       "indonesia_flag-solid": {
-        "value": "assets/icons/solid/indonesia_flag.svg"
+        "value": "assets/icons/solid/flags/indonesia_flag.svg"
       },
       "info-solid": {
         "value": "assets/icons/solid/info.svg"
       },
-      "integration-solid": {
-        "value": "assets/icons/solid/integration.svg"
-      },
       "iran_flag-solid": {
-        "value": "assets/icons/solid/iran_flag.svg"
+        "value": "assets/icons/solid/flags/iran_flag.svg"
       },
       "iraq_flag-solid": {
-        "value": "assets/icons/solid/iraq_flag.svg"
+        "value": "assets/icons/solid/flags/iraq_flag.svg"
       },
       "ireland_flag-solid": {
-        "value": "assets/icons/solid/ireland_flag.svg"
+        "value": "assets/icons/solid/flags/ireland_flag.svg"
       },
       "isle-of-man_flag-solid": {
-        "value": "assets/icons/solid/isle-of-man_flag.svg"
+        "value": "assets/icons/solid/flags/isle-of-man_flag.svg"
       },
       "israel_flag-solid": {
-        "value": "assets/icons/solid/israel_flag.svg"
+        "value": "assets/icons/solid/flags/israel_flag.svg"
       },
       "italy_flag-solid": {
-        "value": "assets/icons/solid/italy_flag.svg"
+        "value": "assets/icons/solid/flags/italy_flag.svg"
       },
       "ivory-coast_flag-solid": {
-        "value": "assets/icons/solid/ivory-coast_flag.svg"
+        "value": "assets/icons/solid/flags/ivory-coast_flag.svg"
       },
       "jamaica_flag-solid": {
-        "value": "assets/icons/solid/jamaica_flag.svg"
+        "value": "assets/icons/solid/flags/jamaica_flag.svg"
       },
       "japan_flag-solid": {
-        "value": "assets/icons/solid/japan_flag.svg"
+        "value": "assets/icons/solid/flags/japan_flag.svg"
+      },
+      "java-script-solid": {
+        "value": "assets/icons/solid/builder/java-script.svg"
       },
       "jersey_flag-solid": {
-        "value": "assets/icons/solid/jersey_flag.svg"
+        "value": "assets/icons/solid/flags/jersey_flag.svg"
       },
       "jordan_flag-solid": {
-        "value": "assets/icons/solid/jordan_flag.svg"
+        "value": "assets/icons/solid/flags/jordan_flag.svg"
       },
       "kazakhstan_flag-solid": {
-        "value": "assets/icons/solid/kazakhstan_flag.svg"
+        "value": "assets/icons/solid/flags/kazakhstan_flag.svg"
       },
       "kenya_flag-solid": {
-        "value": "assets/icons/solid/kenya_flag.svg"
+        "value": "assets/icons/solid/flags/kenya_flag.svg"
       },
       "kiribati_flag-solid": {
-        "value": "assets/icons/solid/kiribati_flag.svg"
+        "value": "assets/icons/solid/flags/kiribati_flag.svg"
       },
       "kosovo_flag-solid": {
-        "value": "assets/icons/solid/kosovo_flag.svg"
+        "value": "assets/icons/solid/flags/kosovo_flag.svg"
       },
       "kwait_flag-solid": {
-        "value": "assets/icons/solid/kwait_flag.svg"
+        "value": "assets/icons/solid/flags/kwait_flag.svg"
       },
       "kyrgyzstan_flag-solid": {
-        "value": "assets/icons/solid/kyrgyzstan_flag.svg"
+        "value": "assets/icons/solid/flags/kyrgyzstan_flag.svg"
       },
       "laos_flag-solid": {
-        "value": "assets/icons/solid/laos_flag.svg"
+        "value": "assets/icons/solid/flags/laos_flag.svg"
       },
       "latvia_flag-solid": {
-        "value": "assets/icons/solid/latvia_flag.svg"
+        "value": "assets/icons/solid/flags/latvia_flag.svg"
       },
       "lebanon_flag-solid": {
-        "value": "assets/icons/solid/lebanon_flag.svg"
+        "value": "assets/icons/solid/flags/lebanon_flag.svg"
+      },
+      "left-solid": {
+        "value": "assets/icons/solid/arrow-ball/left.svg"
       },
       "lesotho_flag-solid": {
-        "value": "assets/icons/solid/lesotho_flag.svg"
+        "value": "assets/icons/solid/flags/lesotho_flag.svg"
+      },
+      "level up-solid": {
+        "value": "assets/icons/solid/Level up.svg"
       },
       "liberia_flag-solid": {
-        "value": "assets/icons/solid/liberia_flag.svg"
+        "value": "assets/icons/solid/flags/liberia_flag.svg"
       },
       "libya_flag-solid": {
-        "value": "assets/icons/solid/libya_flag.svg"
+        "value": "assets/icons/solid/flags/libya_flag.svg"
       },
       "liechtenstein_flag-solid": {
-        "value": "assets/icons/solid/liechtenstein_flag.svg"
+        "value": "assets/icons/solid/flags/liechtenstein_flag.svg"
+      },
+      "list-solid": {
+        "value": "assets/icons/solid/organize/list.svg"
       },
       "lithuania_flag-solid": {
-        "value": "assets/icons/solid/lithuania_flag.svg"
+        "value": "assets/icons/solid/flags/lithuania_flag.svg"
       },
       "luxembourg_flag-solid": {
-        "value": "assets/icons/solid/luxembourg_flag.svg"
+        "value": "assets/icons/solid/flags/luxembourg_flag.svg"
       },
       "macao_flag-solid": {
-        "value": "assets/icons/solid/macao_flag.svg"
+        "value": "assets/icons/solid/flags/macao_flag.svg"
       },
       "madagascar_flag-solid": {
-        "value": "assets/icons/solid/madagascar_flag.svg"
+        "value": "assets/icons/solid/flags/madagascar_flag.svg"
       },
       "madeira_flag-solid": {
-        "value": "assets/icons/solid/madeira_flag.svg"
+        "value": "assets/icons/solid/flags/madeira_flag.svg"
       },
       "malasya_flag-solid": {
-        "value": "assets/icons/solid/malasya_flag.svg"
+        "value": "assets/icons/solid/flags/malasya_flag.svg"
       },
       "malawi_flag-solid": {
-        "value": "assets/icons/solid/malawi_flag.svg"
+        "value": "assets/icons/solid/flags/malawi_flag.svg"
       },
       "maldives_flag-solid": {
-        "value": "assets/icons/solid/maldives_flag.svg"
+        "value": "assets/icons/solid/flags/maldives_flag.svg"
       },
       "mali_flag-solid": {
-        "value": "assets/icons/solid/mali_flag.svg"
+        "value": "assets/icons/solid/flags/mali_flag.svg"
       },
       "malta_flag-solid": {
-        "value": "assets/icons/solid/malta_flag.svg"
+        "value": "assets/icons/solid/flags/malta_flag.svg"
       },
       "marshall-island_flag-solid": {
-        "value": "assets/icons/solid/marshall-island_flag.svg"
+        "value": "assets/icons/solid/flags/marshall-island_flag.svg"
       },
       "martinique_flag-solid": {
-        "value": "assets/icons/solid/martinique_flag.svg"
+        "value": "assets/icons/solid/flags/martinique_flag.svg"
       },
       "mauritania_flag-solid": {
-        "value": "assets/icons/solid/mauritania_flag.svg"
+        "value": "assets/icons/solid/flags/mauritania_flag.svg"
       },
       "mauritius_flag-solid": {
-        "value": "assets/icons/solid/mauritius_flag.svg"
+        "value": "assets/icons/solid/flags/mauritius_flag.svg"
       },
       "melilla_flag-solid": {
-        "value": "assets/icons/solid/melilla_flag.svg"
+        "value": "assets/icons/solid/flags/melilla_flag.svg"
       },
       "mexico_flag-solid": {
-        "value": "assets/icons/solid/mexico_flag.svg"
+        "value": "assets/icons/solid/flags/mexico_flag.svg"
       },
       "micronesia_flag-solid": {
-        "value": "assets/icons/solid/micronesia_flag.svg"
+        "value": "assets/icons/solid/flags/micronesia_flag.svg"
       },
       "moldova_flag-solid": {
-        "value": "assets/icons/solid/moldova_flag.svg"
+        "value": "assets/icons/solid/flags/moldova_flag.svg"
       },
       "monaco_flag-solid": {
-        "value": "assets/icons/solid/monaco_flag.svg"
+        "value": "assets/icons/solid/flags/monaco_flag.svg"
       },
       "mongolia_flag-solid": {
-        "value": "assets/icons/solid/mongolia_flag.svg"
+        "value": "assets/icons/solid/flags/mongolia_flag.svg"
       },
       "montenegro_flag-solid": {
-        "value": "assets/icons/solid/montenegro_flag.svg"
+        "value": "assets/icons/solid/flags/montenegro_flag.svg"
       },
       "montserrat_flag-solid": {
-        "value": "assets/icons/solid/montserrat_flag.svg"
+        "value": "assets/icons/solid/flags/montserrat_flag.svg"
       },
       "morocco_flag-solid": {
-        "value": "assets/icons/solid/morocco_flag.svg"
+        "value": "assets/icons/solid/flags/morocco_flag.svg"
       },
       "mozambique_flag-solid": {
-        "value": "assets/icons/solid/mozambique_flag.svg"
+        "value": "assets/icons/solid/flags/mozambique_flag.svg"
       },
       "myanmar_flag-solid": {
-        "value": "assets/icons/solid/myanmar_flag.svg"
+        "value": "assets/icons/solid/flags/myanmar_flag.svg"
       },
       "namibia_flag-solid": {
-        "value": "assets/icons/solid/namibia_flag.svg"
+        "value": "assets/icons/solid/flags/namibia_flag.svg"
       },
       "nato_flag-solid": {
-        "value": "assets/icons/solid/nato_flag.svg"
+        "value": "assets/icons/solid/flags/nato_flag.svg"
       },
       "nauru_flag-solid": {
-        "value": "assets/icons/solid/nauru_flag.svg"
+        "value": "assets/icons/solid/flags/nauru_flag.svg"
       },
       "nepal_flag-solid": {
-        "value": "assets/icons/solid/nepal_flag.svg"
+        "value": "assets/icons/solid/flags/nepal_flag.svg"
       },
       "netherlands_flag-solid": {
-        "value": "assets/icons/solid/netherlands_flag.svg"
+        "value": "assets/icons/solid/flags/netherlands_flag.svg"
       },
       "new-zealand_flag-solid": {
-        "value": "assets/icons/solid/new-zealand_flag.svg"
+        "value": "assets/icons/solid/flags/new-zealand_flag.svg"
       },
       "nicaragua_flag-solid": {
-        "value": "assets/icons/solid/nicaragua_flag.svg"
-      },
-      "nigeria_flag-solid": {
-        "value": "assets/icons/solid/nigeria_flag.svg"
+        "value": "assets/icons/solid/flags/nicaragua_flag.svg"
       },
       "niger_flag-solid": {
-        "value": "assets/icons/solid/niger_flag.svg"
+        "value": "assets/icons/solid/flags/niger_flag.svg"
+      },
+      "nigeria_flag-solid": {
+        "value": "assets/icons/solid/flags/nigeria_flag.svg"
       },
       "niue_flag-solid": {
-        "value": "assets/icons/solid/niue_flag.svg"
+        "value": "assets/icons/solid/flags/niue_flag.svg"
       },
       "norfolk-island_flag-solid": {
-        "value": "assets/icons/solid/norfolk-island_flag.svg"
+        "value": "assets/icons/solid/flags/norfolk-island_flag.svg"
       },
       "north-korea_flag-solid": {
-        "value": "assets/icons/solid/north-korea_flag.svg"
+        "value": "assets/icons/solid/flags/north-korea_flag.svg"
       },
       "northern-cyprus_flag-solid": {
-        "value": "assets/icons/solid/northern-cyprus_flag.svg"
+        "value": "assets/icons/solid/flags/northern-cyprus_flag.svg"
       },
       "northern-marianas-islands_flag-solid": {
-        "value": "assets/icons/solid/northern-marianas-islands_flag.svg"
+        "value": "assets/icons/solid/flags/northern-marianas-islands_flag.svg"
       },
       "norway_flag-solid": {
-        "value": "assets/icons/solid/norway_flag.svg"
+        "value": "assets/icons/solid/flags/norway_flag.svg"
       },
       "oman_flag-solid": {
-        "value": "assets/icons/solid/oman_flag.svg"
-      },
-      "operator-solid": {
-        "value": "assets/icons/solid/operator.svg"
-      },
-      "organize-blocks-solid": {
-        "value": "assets/icons/solid/organize-blocks.svg"
-      },
-      "organize-list-solid": {
-        "value": "assets/icons/solid/organize-list.svg"
+        "value": "assets/icons/solid/flags/oman_flag.svg"
       },
       "ossetia_flag-solid": {
-        "value": "assets/icons/solid/ossetia_flag.svg"
+        "value": "assets/icons/solid/flags/ossetia_flag.svg"
       },
       "pakistan_flag-solid": {
-        "value": "assets/icons/solid/pakistan_flag.svg"
+        "value": "assets/icons/solid/flags/pakistan_flag.svg"
       },
       "palau_flag-solid": {
-        "value": "assets/icons/solid/palau_flag.svg"
+        "value": "assets/icons/solid/flags/palau_flag.svg"
       },
       "palestine_flag-solid": {
-        "value": "assets/icons/solid/palestine_flag.svg"
+        "value": "assets/icons/solid/flags/palestine_flag.svg"
       },
       "panama_flag-solid": {
-        "value": "assets/icons/solid/panama_flag.svg"
+        "value": "assets/icons/solid/flags/panama_flag.svg"
       },
       "papua-new-guinea_flag-solid": {
-        "value": "assets/icons/solid/papua-new-guinea_flag.svg"
+        "value": "assets/icons/solid/flags/papua-new-guinea_flag.svg"
       },
       "paraguay_flag-solid": {
-        "value": "assets/icons/solid/paraguay_flag.svg"
+        "value": "assets/icons/solid/flags/paraguay_flag.svg"
       },
       "peru_flag-solid": {
-        "value": "assets/icons/solid/peru_flag.svg"
+        "value": "assets/icons/solid/flags/peru_flag.svg"
       },
       "philippines_flag-solid": {
-        "value": "assets/icons/solid/philippines_flag.svg"
+        "value": "assets/icons/solid/flags/philippines_flag.svg"
       },
       "pitcairn-islands_flag-solid": {
-        "value": "assets/icons/solid/pitcairn-islands_flag.svg"
+        "value": "assets/icons/solid/flags/pitcairn-islands_flag.svg"
       },
       "poland_flag-solid": {
-        "value": "assets/icons/solid/poland_flag.svg"
+        "value": "assets/icons/solid/flags/poland_flag.svg"
       },
       "portugal_flag-solid": {
-        "value": "assets/icons/solid/portugal_flag.svg"
+        "value": "assets/icons/solid/flags/portugal_flag.svg"
       },
       "puerto-rico_flag-solid": {
-        "value": "assets/icons/solid/puerto-rico_flag.svg"
+        "value": "assets/icons/solid/flags/puerto-rico_flag.svg"
       },
       "qatar_flag-solid": {
-        "value": "assets/icons/solid/qatar_flag.svg"
+        "value": "assets/icons/solid/flags/qatar_flag.svg"
+      },
+      "question-solid": {
+        "value": "assets/icons/solid/question.svg"
       },
       "rapa-nui_flag-solid": {
-        "value": "assets/icons/solid/rapa-nui_flag.svg"
+        "value": "assets/icons/solid/flags/rapa-nui_flag.svg"
+      },
+      "redirect-solid": {
+        "value": "assets/icons/solid/builder/redirect.svg"
       },
       "republic-of-macedonia_flag-solid": {
-        "value": "assets/icons/solid/republic-of-macedonia_flag.svg"
+        "value": "assets/icons/solid/flags/republic-of-macedonia_flag.svg"
       },
       "republic-of-the-congo_flag-solid": {
-        "value": "assets/icons/solid/republic-of-the-congo_flag.svg"
+        "value": "assets/icons/solid/flags/republic-of-the-congo_flag.svg"
+      },
+      "right-solid": {
+        "value": "assets/icons/solid/arrow-ball/right.svg"
       },
       "romania_flag-solid": {
-        "value": "assets/icons/solid/romania_flag.svg"
+        "value": "assets/icons/solid/flags/romania_flag.svg"
       },
       "russia_flag-solid": {
-        "value": "assets/icons/solid/russia_flag.svg"
+        "value": "assets/icons/solid/flags/russia_flag.svg"
       },
       "rwanda_flag-solid": {
-        "value": "assets/icons/solid/rwanda_flag.svg"
+        "value": "assets/icons/solid/flags/rwanda_flag.svg"
       },
       "saba-island_flag-solid": {
-        "value": "assets/icons/solid/saba-island_flag.svg"
+        "value": "assets/icons/solid/flags/saba-island_flag.svg"
       },
       "sahrawi-arab-democratic-republic_flag-solid": {
-        "value": "assets/icons/solid/sahrawi-arab-democratic-republic_flag.svg"
+        "value": "assets/icons/solid/flags/sahrawi-arab-democratic-republic_flag.svg"
       },
       "saint-kitts-and-nevis_flag-solid": {
-        "value": "assets/icons/solid/saint-kitts-and-nevis_flag.svg"
+        "value": "assets/icons/solid/flags/saint-kitts-and-nevis_flag.svg"
       },
       "samoa_flag-solid": {
-        "value": "assets/icons/solid/samoa_flag.svg"
+        "value": "assets/icons/solid/flags/samoa_flag.svg"
       },
       "san-marino_flag-solid": {
-        "value": "assets/icons/solid/san-marino_flag.svg"
+        "value": "assets/icons/solid/flags/san-marino_flag.svg"
       },
       "sao-tome-and-prince_flag-solid": {
-        "value": "assets/icons/solid/sao-tome-and-prince_flag.svg"
+        "value": "assets/icons/solid/flags/sao-tome-and-prince_flag.svg"
       },
       "sardinia_flag-solid": {
-        "value": "assets/icons/solid/sardinia_flag.svg"
+        "value": "assets/icons/solid/flags/sardinia_flag.svg"
       },
       "saudi-arabia_flag-solid": {
-        "value": "assets/icons/solid/saudi-arabia_flag.svg"
+        "value": "assets/icons/solid/flags/saudi-arabia_flag.svg"
       },
       "save-solid": {
         "value": "assets/icons/solid/save.svg"
       },
       "scotland_flag-solid": {
-        "value": "assets/icons/solid/scotland_flag.svg"
+        "value": "assets/icons/solid/flags/scotland_flag.svg"
       },
       "send-solid": {
         "value": "assets/icons/solid/send.svg"
       },
       "senegal_flag-solid": {
-        "value": "assets/icons/solid/senegal_flag.svg"
+        "value": "assets/icons/solid/flags/senegal_flag.svg"
       },
       "serbia_flag-solid": {
-        "value": "assets/icons/solid/serbia_flag.svg"
+        "value": "assets/icons/solid/flags/serbia_flag.svg"
       },
       "seychelles_flag-solid": {
-        "value": "assets/icons/solid/seychelles_flag.svg"
+        "value": "assets/icons/solid/flags/seychelles_flag.svg"
       },
       "sicily_flag-solid": {
-        "value": "assets/icons/solid/sicily_flag.svg"
+        "value": "assets/icons/solid/flags/sicily_flag.svg"
       },
       "sierra-leone_flag-solid": {
-        "value": "assets/icons/solid/sierra-leone_flag.svg"
+        "value": "assets/icons/solid/flags/sierra-leone_flag.svg"
       },
       "singapore_flag-solid": {
-        "value": "assets/icons/solid/singapore_flag.svg"
+        "value": "assets/icons/solid/flags/singapore_flag.svg"
       },
       "sint-eustatius_flag-solid": {
-        "value": "assets/icons/solid/sint-eustatius_flag.svg"
+        "value": "assets/icons/solid/flags/sint-eustatius_flag.svg"
       },
       "sint-maarten_flag-solid": {
-        "value": "assets/icons/solid/sint-maarten_flag.svg"
+        "value": "assets/icons/solid/flags/sint-maarten_flag.svg"
       },
       "slovakia_flag-solid": {
-        "value": "assets/icons/solid/slovakia_flag.svg"
+        "value": "assets/icons/solid/flags/slovakia_flag.svg"
       },
       "slovenia_flag-solid": {
-        "value": "assets/icons/solid/slovenia_flag.svg"
+        "value": "assets/icons/solid/flags/slovenia_flag.svg"
       },
       "sms-solid": {
         "value": "assets/icons/solid/sms.svg"
       },
       "solomon-islands_flag-solid": {
-        "value": "assets/icons/solid/solomon-islands_flag.svg"
+        "value": "assets/icons/solid/flags/solomon-islands_flag.svg"
       },
       "somalia_flag-solid": {
-        "value": "assets/icons/solid/somalia_flag.svg"
+        "value": "assets/icons/solid/flags/somalia_flag.svg"
       },
       "somaliland_flag-solid": {
-        "value": "assets/icons/solid/somaliland_flag.svg"
+        "value": "assets/icons/solid/flags/somaliland_flag.svg"
       },
       "south-africa_flag-solid": {
-        "value": "assets/icons/solid/south-africa_flag.svg"
+        "value": "assets/icons/solid/flags/south-africa_flag.svg"
       },
       "south-korea_flag-solid": {
-        "value": "assets/icons/solid/south-korea_flag.svg"
+        "value": "assets/icons/solid/flags/south-korea_flag.svg"
       },
       "south-sudan_flag-solid": {
-        "value": "assets/icons/solid/south-sudan_flag.svg"
+        "value": "assets/icons/solid/flags/south-sudan_flag.svg"
       },
       "spain_flag-solid": {
-        "value": "assets/icons/solid/spain_flag.svg"
+        "value": "assets/icons/solid/flags/spain_flag.svg"
       },
       "sri-lanka_flag-solid": {
-        "value": "assets/icons/solid/sri-lanka_flag.svg"
+        "value": "assets/icons/solid/flags/sri-lanka_flag.svg"
       },
       "st-barts_flag-solid": {
-        "value": "assets/icons/solid/st-barts_flag.svg"
+        "value": "assets/icons/solid/flags/st-barts_flag.svg"
       },
       "st-lucia_flag-solid": {
-        "value": "assets/icons/solid/st-lucia_flag.svg"
+        "value": "assets/icons/solid/flags/st-lucia_flag.svg"
       },
       "st-vincent-and-the-grenadines_flag-solid": {
-        "value": "assets/icons/solid/st-vincent-and-the-grenadines_flag.svg"
+        "value": "assets/icons/solid/flags/st-vincent-and-the-grenadines_flag.svg"
       },
       "sudan_flag-solid": {
-        "value": "assets/icons/solid/sudan_flag.svg"
+        "value": "assets/icons/solid/flags/sudan_flag.svg"
       },
       "suriname_flag-solid": {
-        "value": "assets/icons/solid/suriname_flag.svg"
+        "value": "assets/icons/solid/flags/suriname_flag.svg"
       },
       "swaziland_flag-solid": {
-        "value": "assets/icons/solid/swaziland_flag.svg"
+        "value": "assets/icons/solid/flags/swaziland_flag.svg"
       },
       "sweden_flag-solid": {
-        "value": "assets/icons/solid/sweden_flag.svg"
+        "value": "assets/icons/solid/flags/sweden_flag.svg"
       },
       "switzerland_flag-solid": {
-        "value": "assets/icons/solid/switzerland_flag.svg"
+        "value": "assets/icons/solid/flags/switzerland_flag.svg"
       },
       "syria_flag-solid": {
-        "value": "assets/icons/solid/syria_flag.svg"
-      },
-      "tag-solid": {
-        "value": "assets/icons/solid/tag.svg"
+        "value": "assets/icons/solid/flags/syria_flag.svg"
       },
       "taiwan_flag-solid": {
-        "value": "assets/icons/solid/taiwan_flag.svg"
+        "value": "assets/icons/solid/flags/taiwan_flag.svg"
       },
       "tajikistan_flag-solid": {
-        "value": "assets/icons/solid/tajikistan_flag.svg"
+        "value": "assets/icons/solid/flags/tajikistan_flag.svg"
       },
       "tanzania_flag-solid": {
-        "value": "assets/icons/solid/tanzania_flag.svg"
-      },
-      "team-solid": {
-        "value": "assets/icons/solid/team.svg"
+        "value": "assets/icons/solid/flags/tanzania_flag.svg"
       },
       "thailand_flag-solid": {
-        "value": "assets/icons/solid/thailand_flag.svg"
+        "value": "assets/icons/solid/flags/thailand_flag.svg"
       },
       "tibet_flag-solid": {
-        "value": "assets/icons/solid/tibet_flag.svg"
+        "value": "assets/icons/solid/flags/tibet_flag.svg"
       },
       "togo_flag-solid": {
-        "value": "assets/icons/solid/togo_flag.svg"
+        "value": "assets/icons/solid/flags/togo_flag.svg"
       },
       "tokelau_flag-solid": {
-        "value": "assets/icons/solid/tokelau_flag.svg"
+        "value": "assets/icons/solid/flags/tokelau_flag.svg"
       },
       "tonga_flag-solid": {
-        "value": "assets/icons/solid/tonga_flag.svg"
+        "value": "assets/icons/solid/flags/tonga_flag.svg"
+      },
+      "tracking-solid": {
+        "value": "assets/icons/solid/builder/tracking.svg"
       },
       "transnistria_flag-solid": {
-        "value": "assets/icons/solid/transnistria_flag.svg"
+        "value": "assets/icons/solid/flags/transnistria_flag.svg"
       },
       "trinidad-and-tobago_flag-solid": {
-        "value": "assets/icons/solid/trinidad-and-tobago_flag.svg"
+        "value": "assets/icons/solid/flags/trinidad-and-tobago_flag.svg"
       },
       "tunisia_flag-solid": {
-        "value": "assets/icons/solid/tunisia_flag.svg"
+        "value": "assets/icons/solid/flags/tunisia_flag.svg"
       },
       "turkey_flag-solid": {
-        "value": "assets/icons/solid/turkey_flag.svg"
+        "value": "assets/icons/solid/flags/turkey_flag.svg"
       },
       "turkmenistan_flag-solid": {
-        "value": "assets/icons/solid/turkmenistan_flag.svg"
+        "value": "assets/icons/solid/flags/turkmenistan_flag.svg"
       },
       "turks-and-caicos_flag-solid": {
-        "value": "assets/icons/solid/turks-and-caicos_flag.svg"
+        "value": "assets/icons/solid/flags/turks-and-caicos_flag.svg"
       },
       "tuvalu-1_flag-solid": {
-        "value": "assets/icons/solid/tuvalu-1_flag.svg"
+        "value": "assets/icons/solid/flags/tuvalu-1_flag.svg"
       },
       "tuvalu_flag-solid": {
-        "value": "assets/icons/solid/tuvalu_flag.svg"
+        "value": "assets/icons/solid/flags/tuvalu_flag.svg"
       },
       "uganda_flag-solid": {
-        "value": "assets/icons/solid/uganda_flag.svg"
+        "value": "assets/icons/solid/flags/uganda_flag.svg"
       },
       "ukraine_flag-solid": {
-        "value": "assets/icons/solid/ukraine_flag.svg"
+        "value": "assets/icons/solid/flags/ukraine_flag.svg"
       },
       "united-arab-emirates_flag-solid": {
-        "value": "assets/icons/solid/united-arab-emirates_flag.svg"
+        "value": "assets/icons/solid/flags/united-arab-emirates_flag.svg"
       },
       "united-kingdom_flag-solid": {
-        "value": "assets/icons/solid/united-kingdom_flag.svg"
+        "value": "assets/icons/solid/flags/united-kingdom_flag.svg"
       },
       "united-nations_flag-solid": {
-        "value": "assets/icons/solid/united-nations_flag.svg"
+        "value": "assets/icons/solid/flags/united-nations_flag.svg"
       },
       "united-states_flag-solid": {
-        "value": "assets/icons/solid/united-states_flag.svg"
+        "value": "assets/icons/solid/flags/united-states_flag.svg"
+      },
+      "up-solid": {
+        "value": "assets/icons/solid/arrow-ball/up.svg"
       },
       "uruguay_flag-solid": {
-        "value": "assets/icons/solid/uruguay_flag.svg"
-      },
-      "user-default-solid": {
-        "value": "assets/icons/solid/user-default.svg"
-      },
-      "user-engaged-solid": {
-        "value": "assets/icons/solid/user-engaged.svg"
-      },
-      "user-solid": {
-        "value": "assets/icons/solid/user.svg"
+        "value": "assets/icons/solid/flags/uruguay_flag.svg"
       },
       "uzbekistn_flag-solid": {
-        "value": "assets/icons/solid/uzbekistn_flag.svg"
+        "value": "assets/icons/solid/flags/uzbekistn_flag.svg"
       },
       "vanuatu_flag-solid": {
-        "value": "assets/icons/solid/vanuatu_flag.svg"
+        "value": "assets/icons/solid/flags/vanuatu_flag.svg"
+      },
+      "variable-solid": {
+        "value": "assets/icons/solid/builder/variable.svg"
       },
       "vatican-city_flag-solid": {
-        "value": "assets/icons/solid/vatican-city_flag.svg"
+        "value": "assets/icons/solid/flags/vatican-city_flag.svg"
       },
       "venezuela_flag-solid": {
-        "value": "assets/icons/solid/venezuela_flag.svg"
+        "value": "assets/icons/solid/flags/venezuela_flag.svg"
       },
       "video-solid": {
         "value": "assets/icons/solid/video.svg"
       },
       "vietnam_flag-solid": {
-        "value": "assets/icons/solid/vietnam_flag.svg"
+        "value": "assets/icons/solid/flags/vietnam_flag.svg"
       },
       "virgin-islands_flag-solid": {
-        "value": "assets/icons/solid/virgin-islands_flag.svg"
+        "value": "assets/icons/solid/flags/virgin-islands_flag.svg"
       },
       "voip-solid": {
         "value": "assets/icons/solid/voip.svg"
       },
       "wales_flag-solid": {
-        "value": "assets/icons/solid/wales_flag.svg"
+        "value": "assets/icons/solid/flags/wales_flag.svg"
       },
       "warning-solid": {
         "value": "assets/icons/solid/warning.svg"
       },
       "yemen_flag-solid": {
-        "value": "assets/icons/solid/yemen_flag.svg"
+        "value": "assets/icons/solid/flags/yemen_flag.svg"
       },
       "zambia_flag-solid": {
-        "value": "assets/icons/solid/zambia_flag.svg"
+        "value": "assets/icons/solid/flags/zambia_flag.svg"
       },
       "zimbabwe_flag-solid": {
-        "value": "assets/icons/solid/zimbabwe_flag.svg"
+        "value": "assets/icons/solid/flags/zimbabwe_flag.svg"
       }
     }
   }

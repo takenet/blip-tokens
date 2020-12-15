@@ -8,6 +8,13 @@ Icons are generated in svg, and in this process we convert to base64 keeping the
 First you must place the icon inside assets/icons/outline || solid, this last depends on the icon you are going to use.
 .After that just go to properties/assets/icons.json and map.
 
+If you find it easier, you can use a script to insert all the files in icons.json. How to run this script:
+
+First, go to folder 'scripts'
+`cd scripts`
+Then, run command:
+`node generate_icons.js`
+
 TYPE: outline / solid
 
 ```json

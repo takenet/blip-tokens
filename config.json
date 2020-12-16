@@ -14,15 +14,17 @@
     "scss": {
       "transformGroup": "scss",
       "buildPath": "build/scss/",
-      "files": [{
-        "destination": "variables.scss",
-        "format": "scss/variables",
-        "filter": {
-          "attributes": {
-            "category": "color"
+      "files": [
+        {
+          "destination": "variables.scss",
+          "format": "scss/variables",
+          "filter": {
+            "attributes": {
+              "category": "color"
+            }
           }
         }
-      }]
+      ]
     },
     "assets/embed/json": {
       "transforms": ["attribute/cti", "name/cti/kebab", "asset/base64"],
@@ -39,12 +41,11 @@
           }
         },
         {
-          "destination": "assets_emojis.json",
+          "destination": "colors.json",
           "format": "json/flat",
           "filter": {
             "attributes": {
-              "category": "asset",
-              "type": "emoji"
+              "category": "color"
             }
           }
         }

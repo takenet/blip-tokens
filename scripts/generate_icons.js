@@ -10,8 +10,6 @@ try {
   throw 'Invalid Icons Json File';
 }
 
-
-
 function getFilesFromFolder(path) {
   let filesJson = [];
 

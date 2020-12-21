@@ -4,17 +4,11 @@
       "ab-outline": {
         "value": "assets/icons/outline/ab.svg"
       },
-      "active-outline": {
-        "value": "assets/icons/outline/user/active.svg"
-      },
       "add-outline": {
         "value": "assets/icons/outline/add.svg"
       },
       "add-persistent-menu-outline": {
         "value": "assets/icons/outline/add-persistent-menu.svg"
-      },
-      "adjusments-outline": {
-        "value": "assets/icons/outline/settings/adjusments.svg"
       },
       "agent-outline": {
         "value": "assets/icons/outline/agent.svg"
@@ -28,17 +22,29 @@
       "airplane-outline": {
         "value": "assets/icons/outline/airplane.svg"
       },
+      "arrow-ball-down-outline": {
+        "value": "assets/icons/outline/arrow-ball-down.svg"
+      },
+      "arrow-ball-left-outline": {
+        "value": "assets/icons/outline/arrow-ball-left.svg"
+      },
+      "arrow-ball-right-outline": {
+        "value": "assets/icons/outline/arrow-ball-right.svg"
+      },
+      "arrow-ball-up-outline": {
+        "value": "assets/icons/outline/arrow-ball-up.svg"
+      },
       "arrow-down-outline": {
-        "value": "assets/icons/outline/arrow/arrow-down.svg"
+        "value": "assets/icons/outline/arrow-down.svg"
       },
       "arrow-left-outline": {
-        "value": "assets/icons/outline/arrow/arrow-left.svg"
+        "value": "assets/icons/outline/arrow-left.svg"
       },
       "arrow-right-outline": {
-        "value": "assets/icons/outline/arrow/arrow-right.svg"
+        "value": "assets/icons/outline/arrow-right.svg"
       },
       "arrow-up-outline": {
-        "value": "assets/icons/outline/arrow/arrow-up.svg"
+        "value": "assets/icons/outline/arrow-up.svg"
       },
       "attach-outline": {
         "value": "assets/icons/outline/attach.svg"
@@ -49,11 +55,8 @@
       "audio-outline": {
         "value": "assets/icons/outline/audio.svg"
       },
-      "ballon-outline": {
-        "value": "assets/icons/outline/message/ballon.svg"
-      },
-      "bar-outline": {
-        "value": "assets/icons/outline/chart/bar.svg"
+      "avatar-user-outline": {
+        "value": "assets/icons/outline/avatar-user.svg"
       },
       "bell-outline": {
         "value": "assets/icons/outline/bell.svg"
@@ -64,17 +67,35 @@
       "blip-tutorials-outline": {
         "value": "assets/icons/outline/blip-tutorials.svg"
       },
-      "bold-outline": {
-        "value": "assets/icons/outline/text-style/bold.svg"
-      },
       "book-outline": {
         "value": "assets/icons/outline/book.svg"
       },
       "bug-report-outline": {
         "value": "assets/icons/outline/bug-report.svg"
       },
-      "builder-outline": {
-        "value": "assets/icons/outline/settings/builder.svg"
+      "builder-carrousel-outline": {
+        "value": "assets/icons/outline/builder-carrousel.svg"
+      },
+      "builder-menu-outline": {
+        "value": "assets/icons/outline/builder-menu.svg"
+      },
+      "builder-new-state-outline": {
+        "value": "assets/icons/outline/builder-new-state.svg"
+      },
+      "builder-publish-bot-outline": {
+        "value": "assets/icons/outline/builder-publish-bot.svg"
+      },
+      "builder-quick-reply-outline": {
+        "value": "assets/icons/outline/builder-quick-reply.svg"
+      },
+      "builder-router-outline": {
+        "value": "assets/icons/outline/builder-router.svg"
+      },
+      "builder-test-bot-outline": {
+        "value": "assets/icons/outline/builder-test-bot.svg"
+      },
+      "builder-text-message-outline": {
+        "value": "assets/icons/outline/builder-text-message.svg"
       },
       "business-outline": {
         "value": "assets/icons/outline/business.svg"
@@ -88,11 +109,20 @@
       "camera-outline": {
         "value": "assets/icons/outline/camera.svg"
       },
-      "carrousel-outline": {
-        "value": "assets/icons/outline/builder/carrousel.svg"
-      },
       "channels-outline": {
         "value": "assets/icons/outline/channels.svg"
+      },
+      "chart-bar-outline": {
+        "value": "assets/icons/outline/chart-bar.svg"
+      },
+      "chart-column-outline": {
+        "value": "assets/icons/outline/chart-column.svg"
+      },
+      "chart-line-outline": {
+        "value": "assets/icons/outline/chart-line.svg"
+      },
+      "chart-pizza-outline": {
+        "value": "assets/icons/outline/chart-pizza.svg"
       },
       "checkball-outline": {
         "value": "assets/icons/outline/checkball.svg"
@@ -103,17 +133,11 @@
       "close-outline": {
         "value": "assets/icons/outline/close.svg"
       },
-      "closed-outline": {
-        "value": "assets/icons/outline/eye/closed.svg"
-      },
       "cloud-2-outline": {
         "value": "assets/icons/outline/cloud-2.svg"
       },
       "cloud-outline": {
         "value": "assets/icons/outline/cloud.svg"
-      },
-      "column-outline": {
-        "value": "assets/icons/outline/chart/column.svg"
       },
       "company-outline": {
         "value": "assets/icons/outline/company.svg"
@@ -130,9 +154,6 @@
       "copy-outline": {
         "value": "assets/icons/outline/copy.svg"
       },
-      "csv-outline": {
-        "value": "assets/icons/outline/file/csv.svg"
-      },
       "custom-channel-outline": {
         "value": "assets/icons/outline/custom-channel.svg"
       },
@@ -145,23 +166,8 @@
       "debug-outline": {
         "value": "assets/icons/outline/debug.svg"
       },
-      "defaut-outline": {
-        "value": "assets/icons/outline/user/defaut.svg"
-      },
       "deslike-outline": {
         "value": "assets/icons/outline/deslike.svg"
-      },
-      "disk-outline": {
-        "value": "assets/icons/outline/save/disk.svg"
-      },
-      "doc-outline": {
-        "value": "assets/icons/outline/file/doc.svg"
-      },
-      "dot-outline": {
-        "value": "assets/icons/outline/menu/dot.svg"
-      },
-      "down-outline": {
-        "value": "assets/icons/outline/arrow-ball/down.svg"
       },
       "download-outline": {
         "value": "assets/icons/outline/download.svg"
@@ -175,17 +181,17 @@
       "emoji-outline": {
         "value": "assets/icons/outline/emoji.svg"
       },
-      "empty-file-outline": {
-        "value": "assets/icons/outline/file/empty-file.svg"
-      },
-      "engaged-outline": {
-        "value": "assets/icons/outline/user/engaged.svg"
-      },
       "error-outline": {
         "value": "assets/icons/outline/error.svg"
       },
       "external-file-outline": {
         "value": "assets/icons/outline/external-file.svg"
+      },
+      "eye-closed-outline": {
+        "value": "assets/icons/outline/eye-closed.svg"
+      },
+      "eye-open-outline": {
+        "value": "assets/icons/outline/eye-open.svg"
       },
       "false-outline": {
         "value": "assets/icons/outline/false.svg"
@@ -196,44 +202,56 @@
       "favorite-outline": {
         "value": "assets/icons/outline/favorite.svg"
       },
-      "fill-outline": {
-        "value": "assets/icons/outline/screen/fill.svg"
+      "file-csv-outline": {
+        "value": "assets/icons/outline/file-csv.svg"
+      },
+      "file-doc-outline": {
+        "value": "assets/icons/outline/file-doc.svg"
+      },
+      "file-empty-file-outline": {
+        "value": "assets/icons/outline/file-empty-file.svg"
+      },
+      "file-gif-outline": {
+        "value": "assets/icons/outline/file-gif.svg"
+      },
+      "file-image broken-outline": {
+        "value": "assets/icons/outline/file-image broken.svg"
+      },
+      "file-image-outline": {
+        "value": "assets/icons/outline/file-image.svg"
+      },
+      "file-java-script-outline": {
+        "value": "assets/icons/outline/file-java-script.svg"
+      },
+      "file-json-outline": {
+        "value": "assets/icons/outline/file-json.svg"
+      },
+      "file-new-outline": {
+        "value": "assets/icons/outline/file-new.svg"
+      },
+      "file-pdf-outline": {
+        "value": "assets/icons/outline/file-pdf.svg"
+      },
+      "file-ppt-outline": {
+        "value": "assets/icons/outline/file-ppt.svg"
+      },
+      "file-txt-1-outline": {
+        "value": "assets/icons/outline/file-txt-1.svg"
+      },
+      "file-txt-outline": {
+        "value": "assets/icons/outline/file-txt.svg"
       },
       "filter-outline": {
         "value": "assets/icons/outline/filter.svg"
       },
-      "flag-outline": {
-        "value": "assets/icons/outline/save/flag.svg"
-      },
       "folder-outline": {
         "value": "assets/icons/outline/folder.svg"
-      },
-      "full-outline": {
-        "value": "assets/icons/outline/screen/full.svg"
-      },
-      "general-outline": {
-        "value": "assets/icons/outline/settings/general.svg"
-      },
-      "gif-outline": {
-        "value": "assets/icons/outline/file/gif.svg"
       },
       "guide-outline": {
         "value": "assets/icons/outline/guide.svg"
       },
-      "hamburger-outline": {
-        "value": "assets/icons/outline/menu/hamburger.svg"
-      },
       "home-outline": {
         "value": "assets/icons/outline/home.svg"
-      },
-      "horizontal-outline": {
-        "value": "assets/icons/outline/more-options/horizontal.svg"
-      },
-      "image broken-outline": {
-        "value": "assets/icons/outline/file/image broken.svg"
-      },
-      "image-outline": {
-        "value": "assets/icons/outline/file/image.svg"
       },
       "info-outline": {
         "value": "assets/icons/outline/info.svg"
@@ -244,20 +262,8 @@
       "integrations channels-outline": {
         "value": "assets/icons/outline/integrations channels.svg"
       },
-      "italic-outline": {
-        "value": "assets/icons/outline/text-style/italic.svg"
-      },
-      "java-script-outline": {
-        "value": "assets/icons/outline/file/java-script.svg"
-      },
-      "json-outline": {
-        "value": "assets/icons/outline/file/json.svg"
-      },
       "keyboard-outline": {
         "value": "assets/icons/outline/keyboard.svg"
-      },
-      "left-outline": {
-        "value": "assets/icons/outline/arrow-ball/left.svg"
       },
       "less-outline": {
         "value": "assets/icons/outline/less.svg"
@@ -267,9 +273,6 @@
       },
       "like-outline": {
         "value": "assets/icons/outline/like.svg"
-      },
-      "line-outline": {
-        "value": "assets/icons/outline/chart/line.svg"
       },
       "link-outline": {
         "value": "assets/icons/outline/link.svg"
@@ -295,11 +298,29 @@
       "megaphone-outline": {
         "value": "assets/icons/outline/megaphone.svg"
       },
-      "menu-outline": {
-        "value": "assets/icons/outline/builder/menu.svg"
+      "menu-dot-outline": {
+        "value": "assets/icons/outline/menu-dot.svg"
+      },
+      "menu-hamburger-outline": {
+        "value": "assets/icons/outline/menu-hamburger.svg"
       },
       "message-active-outline": {
-        "value": "assets/icons/outline/message/message-active.svg"
+        "value": "assets/icons/outline/message-active.svg"
+      },
+      "message-ballon-outline": {
+        "value": "assets/icons/outline/message-ballon.svg"
+      },
+      "message-received-outline": {
+        "value": "assets/icons/outline/message-received.svg"
+      },
+      "message-sent-outline": {
+        "value": "assets/icons/outline/message-sent.svg"
+      },
+      "message-talk-outline": {
+        "value": "assets/icons/outline/message-talk.svg"
+      },
+      "message-total-outline": {
+        "value": "assets/icons/outline/message-total.svg"
       },
       "messenger-outline": {
         "value": "assets/icons/outline/messenger.svg"
@@ -307,26 +328,23 @@
       "monitoring-outline": {
         "value": "assets/icons/outline/monitoring.svg"
       },
+      "more-options-horizontal-outline": {
+        "value": "assets/icons/outline/more-options-horizontal.svg"
+      },
+      "more-options-vertical-outline": {
+        "value": "assets/icons/outline/more-options-vertical.svg"
+      },
       "mouse-outline": {
         "value": "assets/icons/outline/mouse.svg"
       },
       "move-outline": {
         "value": "assets/icons/outline/move.svg"
       },
-      "new-outline": {
-        "value": "assets/icons/outline/file/new.svg"
-      },
-      "new-state-outline": {
-        "value": "assets/icons/outline/builder/new-state.svg"
-      },
       "notebook-outline": {
         "value": "assets/icons/outline/notebook.svg"
       },
       "notes-outline": {
         "value": "assets/icons/outline/notes.svg"
-      },
-      "open-outline": {
-        "value": "assets/icons/outline/eye/open.svg"
       },
       "order-elements-outline": {
         "value": "assets/icons/outline/order-elements.svg"
@@ -340,35 +358,17 @@
       "payment-card-outline": {
         "value": "assets/icons/outline/payment-card.svg"
       },
-      "pdf-outline": {
-        "value": "assets/icons/outline/file/pdf.svg"
-      },
-      "pizza-outline": {
-        "value": "assets/icons/outline/chart/pizza.svg"
-      },
       "plugin-outline": {
         "value": "assets/icons/outline/plugin.svg"
       },
       "plus-outline": {
         "value": "assets/icons/outline/plus.svg"
       },
-      "ppt-outline": {
-        "value": "assets/icons/outline/file/ppt.svg"
-      },
       "primeiro-acesso-outline": {
         "value": "assets/icons/outline/primeiro-acesso.svg"
       },
-      "publish-bot-outline": {
-        "value": "assets/icons/outline/builder/publish-bot.svg"
-      },
       "question-outline": {
         "value": "assets/icons/outline/question.svg"
-      },
-      "quick-reply-outline": {
-        "value": "assets/icons/outline/builder/quick-reply.svg"
-      },
-      "received-outline": {
-        "value": "assets/icons/outline/message/received.svg"
       },
       "redo-outline": {
         "value": "assets/icons/outline/redo.svg"
@@ -382,14 +382,20 @@
       "restore-outline": {
         "value": "assets/icons/outline/restore.svg"
       },
-      "right-outline": {
-        "value": "assets/icons/outline/arrow-ball/right.svg"
-      },
       "robot-outline": {
         "value": "assets/icons/outline/robot.svg"
       },
-      "router-outline": {
-        "value": "assets/icons/outline/builder/router.svg"
+      "save-disk-outline": {
+        "value": "assets/icons/outline/save-disk.svg"
+      },
+      "save-flag-outline": {
+        "value": "assets/icons/outline/save-flag.svg"
+      },
+      "screen-fill-outline": {
+        "value": "assets/icons/outline/screen-fill.svg"
+      },
+      "screen-full-outline": {
+        "value": "assets/icons/outline/screen-full.svg"
       },
       "search-outline": {
         "value": "assets/icons/outline/search.svg"
@@ -397,11 +403,17 @@
       "send-outline": {
         "value": "assets/icons/outline/send.svg"
       },
-      "sent-outline": {
-        "value": "assets/icons/outline/message/sent.svg"
-      },
       "service-queue-outline": {
         "value": "assets/icons/outline/service-queue.svg"
+      },
+      "settings-adjusments-outline": {
+        "value": "assets/icons/outline/settings-adjusments.svg"
+      },
+      "settings-builder-outline": {
+        "value": "assets/icons/outline/settings-builder.svg"
+      },
+      "settings-general-outline": {
+        "value": "assets/icons/outline/settings-general.svg"
       },
       "share-outline": {
         "value": "assets/icons/outline/share.svg"
@@ -427,14 +439,8 @@
       "status-outline": {
         "value": "assets/icons/outline/status.svg"
       },
-      "strikethrough-outline": {
-        "value": "assets/icons/outline/text-style/strikethrough.svg"
-      },
       "tag-outline": {
         "value": "assets/icons/outline/tag.svg"
-      },
-      "talk-outline": {
-        "value": "assets/icons/outline/message/talk.svg"
       },
       "target-outline": {
         "value": "assets/icons/outline/target.svg"
@@ -442,17 +448,20 @@
       "team-outline": {
         "value": "assets/icons/outline/team.svg"
       },
-      "test-bot-outline": {
-        "value": "assets/icons/outline/builder/test-bot.svg"
+      "text-style-bold-outline": {
+        "value": "assets/icons/outline/text-style-bold.svg"
       },
-      "text-message-outline": {
-        "value": "assets/icons/outline/builder/text-message.svg"
+      "text-style-italic-outline": {
+        "value": "assets/icons/outline/text-style-italic.svg"
+      },
+      "text-style-strikethrough-outline": {
+        "value": "assets/icons/outline/text-style-strikethrough.svg"
+      },
+      "text-style-underline-outline": {
+        "value": "assets/icons/outline/text-style-underline.svg"
       },
       "ticket-outline": {
         "value": "assets/icons/outline/ticket.svg"
-      },
-      "total-outline": {
-        "value": "assets/icons/outline/message/total.svg"
       },
       "transfer-outline": {
         "value": "assets/icons/outline/transfer.svg"
@@ -466,32 +475,23 @@
       "true-outline": {
         "value": "assets/icons/outline/true.svg"
       },
-      "txt-1-outline": {
-        "value": "assets/icons/outline/file/txt-1.svg"
-      },
-      "txt-outline": {
-        "value": "assets/icons/outline/file/txt.svg"
-      },
-      "underline-outline": {
-        "value": "assets/icons/outline/text-style/underline.svg"
-      },
       "undo-outline": {
         "value": "assets/icons/outline/undo.svg"
       },
       "unlock-outline": {
         "value": "assets/icons/outline/unlock.svg"
       },
-      "up-outline": {
-        "value": "assets/icons/outline/arrow-ball/up.svg"
-      },
       "upload-outline": {
         "value": "assets/icons/outline/upload.svg"
       },
-      "user-outline": {
-        "value": "assets/icons/outline/avatar/user.svg"
+      "user-active-outline": {
+        "value": "assets/icons/outline/user-active.svg"
       },
-      "vertical-outline": {
-        "value": "assets/icons/outline/more-options/vertical.svg"
+      "user-default-outline": {
+        "value": "assets/icons/outline/user-default.svg"
+      },
+      "user-engaged-outline": {
+        "value": "assets/icons/outline/user-engaged.svg"
       },
       "video broken-outline": {
         "value": "assets/icons/outline/video broken.svg"
@@ -547,17 +547,29 @@
       "armenia_flag-solid": {
         "value": "assets/icons/solid/flags/armenia_flag.svg"
       },
+      "arrow-ball-down-solid": {
+        "value": "assets/icons/solid/arrow-ball-down.svg"
+      },
+      "arrow-ball-left-solid": {
+        "value": "assets/icons/solid/arrow-ball-left.svg"
+      },
+      "arrow-ball-right-solid": {
+        "value": "assets/icons/solid/arrow-ball-right.svg"
+      },
+      "arrow-ball-up-solid": {
+        "value": "assets/icons/solid/arrow-ball-up.svg"
+      },
       "arrow-down-solid": {
-        "value": "assets/icons/solid/arrow/arrow-down.svg"
+        "value": "assets/icons/solid/arrow-down.svg"
       },
       "arrow-left-solid": {
-        "value": "assets/icons/solid/arrow/arrow-left.svg"
+        "value": "assets/icons/solid/arrow-left.svg"
       },
       "arrow-right-solid": {
-        "value": "assets/icons/solid/arrow/arrow-right.svg"
+        "value": "assets/icons/solid/arrow-right.svg"
       },
       "arrow-up-solid": {
-        "value": "assets/icons/solid/arrow/arrow-up.svg"
+        "value": "assets/icons/solid/arrow-up.svg"
       },
       "aruba_flag-solid": {
         "value": "assets/icons/solid/flags/aruba_flag.svg"
@@ -619,9 +631,6 @@
       "blip-forum-solid": {
         "value": "assets/icons/solid/blip-forum.svg"
       },
-      "blocks-solid": {
-        "value": "assets/icons/solid/organize/blocks.svg"
-      },
       "bolivia_flag-solid": {
         "value": "assets/icons/solid/flags/bolivia_flag.svg"
       },
@@ -648,6 +657,21 @@
       },
       "brunei_flag-solid": {
         "value": "assets/icons/solid/flags/brunei_flag.svg"
+      },
+      "builder-http-solid": {
+        "value": "assets/icons/solid/builder-http.svg"
+      },
+      "builder-java-script-solid": {
+        "value": "assets/icons/solid/builder-java-script.svg"
+      },
+      "builder-redirect-solid": {
+        "value": "assets/icons/solid/builder-redirect.svg"
+      },
+      "builder-tracking-solid": {
+        "value": "assets/icons/solid/builder-tracking.svg"
+      },
+      "builder-variable-solid": {
+        "value": "assets/icons/solid/builder-variable.svg"
       },
       "bulgaria_flag-solid": {
         "value": "assets/icons/solid/flags/bulgaria_flag.svg"
@@ -742,9 +766,6 @@
       "dominican-republic_flag-solid": {
         "value": "assets/icons/solid/flags/dominican-republic_flag.svg"
       },
-      "down-solid": {
-        "value": "assets/icons/solid/arrow-ball/down.svg"
-      },
       "east-timor_flag-solid": {
         "value": "assets/icons/solid/flags/east-timor_flag.svg"
       },
@@ -791,7 +812,7 @@
         "value": "assets/icons/solid/flags/fiji_flag.svg"
       },
       "filter-table-solid": {
-        "value": "assets/icons/solid/arrow/filter-table.svg"
+        "value": "assets/icons/solid/filter-table.svg"
       },
       "finland_flag-solid": {
         "value": "assets/icons/solid/flags/finland_flag.svg"
@@ -865,9 +886,6 @@
       "hong-kong_flag-solid": {
         "value": "assets/icons/solid/flags/hong-kong_flag.svg"
       },
-      "http-solid": {
-        "value": "assets/icons/solid/builder/http.svg"
-      },
       "hungary_flag-solid": {
         "value": "assets/icons/solid/flags/hungary_flag.svg"
       },
@@ -910,9 +928,6 @@
       "japan_flag-solid": {
         "value": "assets/icons/solid/flags/japan_flag.svg"
       },
-      "java-script-solid": {
-        "value": "assets/icons/solid/builder/java-script.svg"
-      },
       "jersey_flag-solid": {
         "value": "assets/icons/solid/flags/jersey_flag.svg"
       },
@@ -946,9 +961,6 @@
       "lebanon_flag-solid": {
         "value": "assets/icons/solid/flags/lebanon_flag.svg"
       },
-      "left-solid": {
-        "value": "assets/icons/solid/arrow-ball/left.svg"
-      },
       "lesotho_flag-solid": {
         "value": "assets/icons/solid/flags/lesotho_flag.svg"
       },
@@ -963,9 +975,6 @@
       },
       "liechtenstein_flag-solid": {
         "value": "assets/icons/solid/flags/liechtenstein_flag.svg"
-      },
-      "list-solid": {
-        "value": "assets/icons/solid/organize/list.svg"
       },
       "lithuania_flag-solid": {
         "value": "assets/icons/solid/flags/lithuania_flag.svg"
@@ -1090,6 +1099,12 @@
       "oman_flag-solid": {
         "value": "assets/icons/solid/flags/oman_flag.svg"
       },
+      "organize-blocks-solid": {
+        "value": "assets/icons/solid/organize-blocks.svg"
+      },
+      "organize-list-solid": {
+        "value": "assets/icons/solid/organize-list.svg"
+      },
       "ossetia_flag-solid": {
         "value": "assets/icons/solid/flags/ossetia_flag.svg"
       },
@@ -1138,17 +1153,11 @@
       "rapa-nui_flag-solid": {
         "value": "assets/icons/solid/flags/rapa-nui_flag.svg"
       },
-      "redirect-solid": {
-        "value": "assets/icons/solid/builder/redirect.svg"
-      },
       "republic-of-macedonia_flag-solid": {
         "value": "assets/icons/solid/flags/republic-of-macedonia_flag.svg"
       },
       "republic-of-the-congo_flag-solid": {
         "value": "assets/icons/solid/flags/republic-of-the-congo_flag.svg"
-      },
-      "right-solid": {
-        "value": "assets/icons/solid/arrow-ball/right.svg"
       },
       "romania_flag-solid": {
         "value": "assets/icons/solid/flags/romania_flag.svg"
@@ -1300,9 +1309,6 @@
       "tonga_flag-solid": {
         "value": "assets/icons/solid/flags/tonga_flag.svg"
       },
-      "tracking-solid": {
-        "value": "assets/icons/solid/builder/tracking.svg"
-      },
       "transnistria_flag-solid": {
         "value": "assets/icons/solid/flags/transnistria_flag.svg"
       },
@@ -1345,9 +1351,6 @@
       "united-states_flag-solid": {
         "value": "assets/icons/solid/flags/united-states_flag.svg"
       },
-      "up-solid": {
-        "value": "assets/icons/solid/arrow-ball/up.svg"
-      },
       "uruguay_flag-solid": {
         "value": "assets/icons/solid/flags/uruguay_flag.svg"
       },
@@ -1356,9 +1359,6 @@
       },
       "vanuatu_flag-solid": {
         "value": "assets/icons/solid/flags/vanuatu_flag.svg"
-      },
-      "variable-solid": {
-        "value": "assets/icons/solid/builder/variable.svg"
       },
       "vatican-city_flag-solid": {
         "value": "assets/icons/solid/flags/vatican-city_flag.svg"

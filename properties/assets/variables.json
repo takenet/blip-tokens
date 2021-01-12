@@ -1,123 +1,123 @@
 {
   "color": {
-    "$primary-light": {
+    "primary-light": {
       "value": "#b3d4ff"
     },
-    "$primary-main": {
+    "primary-main": {
       "value": "#3f7de8"
     },
-    "$primary-dark": {
+    "primary-dark": {
       "value": "#125ad5"
     },
-    "$primary-night": {
+    "primary-night": {
       "value": "#0747a6"
     },
-    "$primary-purples-pixie": {
+    "primary-purples-pixie": {
       "value": "#cc99ff"
     },
-    "$primary-purples-bell": {
+    "primary-purples-bell": {
       "value": "#c226fb"
     },
-    "$primary-purples-witch": {
+    "primary-purples-witch": {
       "value": "#9933cc"
     },
-    "$primary-purples-acai": {
+    "primary-purples-acai": {
       "value": "#4f0e87"
     },
-    "$primary-greens-mint": {
+    "primary-greens-mint": {
       "value": "#90e6bc"
     },
-    "$primary-greens-true": {
+    "primary-greens-true": {
       "value": "#21cc79"
     },
-    "$primary-greens-aligator": {
+    "primary-greens-aligator": {
       "value": "#008767"
     },
-    "$primary-greens-forest": {
+    "primary-greens-forest": {
       "value": "#0a6045"
     },
-    "$primary-pinks-yogurt": {
+    "primary-pinks-yogurt": {
       "value": "#fdacc5"
     },
-    "$primary-pinks-watermelon": {
+    "primary-pinks-watermelon": {
       "value": "#fb5a8b"
     },
-    "$primary-pinks-barbie": {
+    "primary-pinks-barbie": {
       "value": "#aa398d"
     },
-    "$primary-pinks-blush": {
+    "primary-pinks-blush": {
       "value": "#821a67"
     },
-    "$primary-oranges-sunset": {
+    "primary-oranges-sunset": {
       "value": "#ffb186"
     },
-    "$primary-oranges-carrot": {
+    "primary-oranges-carrot": {
       "value": "#ff6e1d"
     },
-    "$primary-oranges-doritos": {
+    "primary-oranges-doritos": {
       "value": "#c64026"
     },
-    "$primary-oranges-clay": {
+    "primary-oranges-clay": {
       "value": "#8e3925"
     },
-    "$primary-yellows-corn": {
+    "primary-yellows-corn": {
       "value": "#fff6a8"
     },
-    "$primary-yellows-sun": {
+    "primary-yellows-sun": {
       "value": "#ffec03"
     },
-    "$primary-yellows-guarana": {
+    "primary-yellows-guarana": {
       "value": "#b2b229"
     },
-    "$primary-yellows-moss": {
+    "primary-yellows-moss": {
       "value": "#757010"
     },
-    "$extend-reds-flower": {
+    "extend-reds-flower": {
       "value": "#ffa5a5"
     },
-    "$extend-reds-delete": {
+    "extend-reds-delete": {
       "value": "#ff4c4c"
     },
-    "$extend-reds-lipstick": {
+    "extend-reds-lipstick": {
       "value": "#a01c2c"
     },
-    "$extend-reds-dragon": {
+    "extend-reds-dragon": {
       "value": "#6a2026"
     },
-    "$extend-browns-sand": {
+    "extend-browns-sand": {
       "value": "#ffd29e"
     },
-    "$extend-browns-cheetos": {
+    "extend-browns-cheetos": {
       "value": "#f6a721"
     },
-    "$extend-browns-sphinx": {
+    "extend-browns-sphinx": {
       "value": "#d78935"
     },
-    "$extend-browns-wood": {
+    "extend-browns-wood": {
       "value": "#845d37"
     },
-    "$extend-grays-moon": {
+    "extend-grays-moon": {
       "value": "#d1d3d4"
     },
-    "$extend-grays-elevator": {
+    "extend-grays-elevator": {
       "value": "#a7a9ac"
     },
-    "$extend-grays-street": {
+    "extend-grays-street": {
       "value": "#6d6f71"
     },
-    "$extend-grays-blackwidow": {
+    "extend-grays-blackwidow": {
       "value": "#000000"
     },
-    "$disabled-bg": {
+    "disabled-bg": {
       "value": "#e8f2ff"
     },
-    "$hover-light": {
+    "hover-light": {
       "value": "#d1e3fa"
     },
-    "$disabled-text": {
+    "disabled-text": {
       "value": "#637798"
     },
-    "$disabled-delete": {
+    "disabled-delete": {
       "value": "#fccccc"
     },
     "disabled-error": {
@@ -252,7 +252,7 @@
     "illustration-blue-jeans": {
       "value": "#212a3c"
     },
-    "$new-color": {
+    "new-color": {
       "value": "#ffffff"
     },
     "gradient-rose": {

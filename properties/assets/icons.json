@@ -373,6 +373,9 @@
       "redo-outline": {
         "value": "assets/icons/outline/redo.svg"
       },
+      "redo-arrow-outline": {
+        "value": "assets/icons/outline/redo.svg"
+      },
       "refresh-outline": {
         "value": "assets/icons/outline/refresh.svg"
       },
@@ -476,6 +479,9 @@
         "value": "assets/icons/outline/true.svg"
       },
       "undo-outline": {
+        "value": "assets/icons/outline/undo.svg"
+      },
+      "undo-arrow-outline": {
         "value": "assets/icons/outline/undo.svg"
       },
       "unlock-outline": {

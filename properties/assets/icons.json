@@ -58,6 +58,9 @@
       "avatar-user-outline": {
         "value": "assets/icons/outline/avatar-user.svg"
       },
+      "barcode-outline": {
+        "value": "assets/icons/outline/barcode.svg"
+      },
       "bell-outline": {
         "value": "assets/icons/outline/bell.svg"
       },
@@ -357,6 +360,9 @@
       },
       "payment-card-outline": {
         "value": "assets/icons/outline/payment-card.svg"
+      },
+      "pix-outline": {
+        "value": "assets/icons/outline/pix.svg"
       },
       "plugin-outline": {
         "value": "assets/icons/outline/plugin.svg"

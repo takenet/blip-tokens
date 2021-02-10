@@ -24,4 +24,3 @@ TYPE: outline / solid
 ```
 
 The list is organized by alphabetical order and type.
-

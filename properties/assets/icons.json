@@ -169,6 +169,9 @@
       "debug-outline": {
         "value": "assets/icons/outline/debug.svg"
       },
+      "delete-outline": {
+        "value": "assets/icons/outline/delete.svg"
+      },
       "deslike-outline": {
         "value": "assets/icons/outline/deslike.svg"
       },

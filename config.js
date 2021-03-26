@@ -61,6 +61,16 @@ const StyleDictionary = require("style-dictionary").extend(
             },
           },
           {
+            destination: "assets_logos.json",
+            format: "json/flat",
+            filter: {
+              attributes: {
+                category: "asset",
+                type: "logo",
+              },
+            },
+          },
+          {
             destination: "colors.json",
             format: "json/flat",
             filter: {

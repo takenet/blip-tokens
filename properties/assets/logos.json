@@ -1,6 +1,6 @@
 {
-    "assets": {
-        "logos": {
+    "asset": {
+        "logo": {
             "gbm": {
                 "value": "assets/logos/gbm.svg"
             }

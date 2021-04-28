@@ -361,6 +361,9 @@
       "paperplane-outline": {
         "value": "assets/icons/outline/paperplane.svg"
       },
+      "payment-card-cvc-outline": {
+        "value": "assets/icons/outline/payment-card-cvc.svg"
+      },
       "payment-card-outline": {
         "value": "assets/icons/outline/payment-card.svg"
       },

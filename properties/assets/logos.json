@@ -3,6 +3,9 @@
         "logo": {
             "gbm": {
                 "value": "assets/logos/gbm.svg"
+            },
+            "logo": {
+                "value": "assets/logos/google.svg"
             }
         }
     }

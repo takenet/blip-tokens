@@ -46,6 +46,9 @@
       "arrow-up-outline": {
         "value": "assets/icons/outline/arrow-up.svg"
       },
+      "arrow_filter_table-outline": {
+        "valeu": "assets/icons/outline/arrow-filter-table.svg"
+      },
       "attach-outline": {
         "value": "assets/icons/outline/attach.svg"
       },

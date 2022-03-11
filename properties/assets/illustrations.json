@@ -1,0 +1,150 @@
+{
+    "asset": {
+        "illustration": {
+            "agent1": {
+                "value": "assets/illustration/Agent-1.svg"
+            },
+            "agent2": {
+                "value": "assets/illustration/Agent-2.svg"
+            },
+            "agent-flat-1": {
+                "value": "assets/illustration/Agent-flat-1.svg"
+            },
+            "agent-flat-2": {
+                "value": "assets/illustration/Agent-flat-2.svg"
+            },
+            "agent-flat-3": {
+                "value": "assets/illustration/Agent-flat-3.svg"
+            },
+            "agent-flat-4": {
+                "value": "assets/illustration/Agent-flat-4.svg"
+            },
+            "blip-chat-health": {
+                "value": "assets/illustration/Blip-Chat-health.svg"
+            },
+            "blip-chat-logistic": {
+                "value": "assets/illustration/Blip-Chat-logistic.svg"
+            },
+            "blip-chat-marketing": {
+                "value": "assets/illustration/Blip-Chat-marketing.svg"
+            },
+            "blip-chat-sales": {
+                "value": "assets/illustration/Blip-Chat-sales-1.svg"
+            },
+            "blip-chat": {
+                "value": "assets/illustration/Blip-Chat.svg"
+            },
+            "blip-Ideas-blue-bg": {
+                "value": "assets/illustration/Blip-Ideas-blue-bg.svg"
+            },
+            "blip-Ideas": {
+                "value": "assets/illustration/Blip-Ideas.svg"
+            },
+            "blip-sales": {
+                "value": "assets/illustration/Blip-sales-3.svg"
+            },
+            "boy-computer": {
+                "value": "assets/illustration/Boy-computer.svg"
+            },
+            "chat-bank": {
+                "value": "assets/illustration/Chat-bank.svg"
+            },
+            "chat-sales": {
+                "value": "assets/illustration/Chat-sales-2.svg"
+            },
+            "delivery-chat": {
+                "value": "assets/illustration/Delivery-chat.svg"
+            },
+            "faq": {
+                "value": "assets/illustration/FAQ.svg"
+            },
+            "girl-email": {
+                "value": "assets/illustration/Girl-email.svg"
+            },
+            "girl-tablet": {
+                "value": "assets/illustration/Girl-tablet.svg"
+            },
+            "management": {
+                "value": "assets/illustration/Management.svg"
+            },
+            "message-template-1": {
+                "value": "assets/illustration/Message-template-1.svg"
+            },
+            "message-template-2": {
+                "value": "assets/illustration/Message-template-2.svg"
+            },
+            "newsletter": {
+                "value": "assets/illustration/Newsletter.svg"
+            },
+            "Organizations": {
+                "value": "assets/illustration/Organizations.svg"
+            },
+            "rh-hunting": {
+                "value": "assets/illustration/RH-hunting.svg"
+            },
+            "ringtones": {
+                "value": "assets/illustration/Ringtones.svg"
+            },
+            "robot-flat": {
+                "value": "assets/illustration/Robot-flat.svg"
+            },
+            "robot": {
+                "value": "assets/illustration/Robot-flat.svg"
+            },
+            "robots": {
+                "value": "assets/illustration/Robots.svg"
+            },
+            "search": {
+                "value": "assets/illustration/Search.svg"
+            },
+            "segmentos": {
+                "value": "assets/illustration/Segmentos.svg"
+            },
+            "solicition": {
+                "value": "assets/illustration/Solicitation.svg"
+            },
+            "solutions-agent": {
+                "value": "assets/illustration/Solutions-agent.svg"
+            },
+            "suprise": {
+                "value": "assets/illustration/Surprise.svg"
+            },
+            "talking": {
+                "value": "assets/illustration/Talking.svg"
+            },
+            "tangram": {
+                "value": "assets/illustration/Tangram.svg"
+            },
+            "team-work": {
+                "value": "assets/illustration/Team-work.svg"
+            },
+            "user-1": {
+                "value": "assets/illustration/User-1.svg"
+            },
+            "user-2": {
+                "value": "assets/illustration/User-2.svg"
+            },
+            "user-3": {
+                "value": "assets/illustration/User-3.svg"
+            },
+            "user-4": {
+                "value": "assets/illustration/User-4.svg"
+            },
+            "user-plataform": {
+                "value": "assets/illustration/User-plataform.svg"
+            },
+            "webhook": {
+                "value": "assets/illustration/Webhook.svg"
+            },
+            "welcome-to-blip": {
+                "value": "assets/illustration/Welcome-to-BLiP.svg"
+            },
+            "whatsapp-web": {
+                "value": "assets/illustration/Whatsapp-web.svg"
+            },
+            "whatsapp": {
+                "value": "assets/illustration/Whatsapp.svg"
+            }
+        }
+    }
+}

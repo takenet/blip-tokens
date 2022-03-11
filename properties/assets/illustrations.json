@@ -2,148 +2,148 @@
     "asset": {
         "illustration": {
             "agent1": {
-                "value": "assets/illustration/Agent-1.svg"
+                "value": "assets/illustrations/Agent-1.svg"
             },
             "agent2": {
-                "value": "assets/illustration/Agent-2.svg"
+                "value": "assets/illustrations/Agent-2.svg"
             },
             "agent-flat-1": {
-                "value": "assets/illustration/Agent-flat-1.svg"
+                "value": "assets/illustrations/Agent-flat-1.svg"
             },
             "agent-flat-2": {
-                "value": "assets/illustration/Agent-flat-2.svg"
+                "value": "assets/illustrations/Agent-flat-2.svg"
             },
             "agent-flat-3": {
-                "value": "assets/illustration/Agent-flat-3.svg"
+                "value": "assets/illustrations/Agent-flat-3.svg"
             },
             "agent-flat-4": {
-                "value": "assets/illustration/Agent-flat-4.svg"
+                "value": "assets/illustrations/Agent-flat-4.svg"
             },
             "blip-chat-health": {
-                "value": "assets/illustration/Blip-Chat-health.svg"
+                "value": "assets/illustrations/Blip-Chat-health.svg"
             },
             "blip-chat-logistic": {
-                "value": "assets/illustration/Blip-Chat-logistic.svg"
+                "value": "assets/illustrations/Blip-Chat-logistic.svg"
             },
             "blip-chat-marketing": {
-                "value": "assets/illustration/Blip-Chat-marketing.svg"
+                "value": "assets/illustrations/Blip-Chat-marketing.svg"
             },
             "blip-chat-sales": {
-                "value": "assets/illustration/Blip-Chat-sales-1.svg"
+                "value": "assets/illustrations/Blip-Chat-sales-1.svg"
             },
             "blip-chat": {
-                "value": "assets/illustration/Blip-Chat.svg"
+                "value": "assets/illustrations/Blip-Chat.svg"
             },
             "blip-Ideas-blue-bg": {
-                "value": "assets/illustration/Blip-Ideas-blue-bg.svg"
+                "value": "assets/illustrations/Blip-Ideas-blue-bg.svg"
             },
             "blip-Ideas": {
-                "value": "assets/illustration/Blip-Ideas.svg"
+                "value": "assets/illustrations/Blip-Ideas.svg"
             },
             "blip-sales": {
-                "value": "assets/illustration/Blip-sales-3.svg"
+                "value": "assets/illustrations/Blip-sales-3.svg"
             },
             "boy-computer": {
-                "value": "assets/illustration/Boy-computer.svg"
+                "value": "assets/illustrations/Boy-computer.svg"
             },
             "chat-bank": {
-                "value": "assets/illustration/Chat-bank.svg"
+                "value": "assets/illustrations/Chat-bank.svg"
             },
             "chat-sales": {
-                "value": "assets/illustration/Chat-sales-2.svg"
+                "value": "assets/illustrations/Chat-sales-2.svg"
             },
             "delivery-chat": {
-                "value": "assets/illustration/Delivery-chat.svg"
+                "value": "assets/illustrations/Delivery-chat.svg"
             },
             "faq": {
-                "value": "assets/illustration/FAQ.svg"
+                "value": "assets/illustrations/FAQ.svg"
             },
             "girl-email": {
-                "value": "assets/illustration/Girl-email.svg"
+                "value": "assets/illustrations/Girl-email.svg"
             },
             "girl-tablet": {
-                "value": "assets/illustration/Girl-tablet.svg"
+                "value": "assets/illustrations/Girl-tablet.svg"
             },
             "management": {
-                "value": "assets/illustration/Management.svg"
+                "value": "assets/illustrations/Management.svg"
             },
             "message-template-1": {
-                "value": "assets/illustration/Message-template-1.svg"
+                "value": "assets/illustrations/Message-template-1.svg"
             },
             "message-template-2": {
-                "value": "assets/illustration/Message-template-2.svg"
+                "value": "assets/illustrations/Message-template-2.svg"
             },
             "newsletter": {
-                "value": "assets/illustration/Newsletter.svg"
+                "value": "assets/illustrations/Newsletter.svg"
             },
             "Organizations": {
-                "value": "assets/illustration/Organizations.svg"
+                "value": "assets/illustrations/Organizations.svg"
             },
             "rh-hunting": {
-                "value": "assets/illustration/RH-hunting.svg"
+                "value": "assets/illustrations/RH-hunting.svg"
             },
             "ringtones": {
-                "value": "assets/illustration/Ringtones.svg"
+                "value": "assets/illustrations/Ringtones.svg"
             },
             "robot-flat": {
-                "value": "assets/illustration/Robot-flat.svg"
+                "value": "assets/illustrations/Robot-flat.svg"
             },
             "robot": {
-                "value": "assets/illustration/Robot-flat.svg"
+                "value": "assets/illustrations/Robot-flat.svg"
             },
             "robots": {
-                "value": "assets/illustration/Robots.svg"
+                "value": "assets/illustrations/Robots.svg"
             },
             "search": {
-                "value": "assets/illustration/Search.svg"
+                "value": "assets/illustrations/Search.svg"
             },
             "segmentos": {
-                "value": "assets/illustration/Segmentos.svg"
+                "value": "assets/illustrations/Segmentos.svg"
             },
             "solicition": {
-                "value": "assets/illustration/Solicitation.svg"
+                "value": "assets/illustrations/Solicitation.svg"
             },
             "solutions-agent": {
-                "value": "assets/illustration/Solutions-agent.svg"
+                "value": "assets/illustrations/Solutions-agent.svg"
             },
             "suprise": {
-                "value": "assets/illustration/Surprise.svg"
+                "value": "assets/illustrations/Surprise.svg"
             },
             "talking": {
-                "value": "assets/illustration/Talking.svg"
+                "value": "assets/illustrations/Talking.svg"
             },
             "tangram": {
-                "value": "assets/illustration/Tangram.svg"
+                "value": "assets/illustrations/Tangram.svg"
             },
             "team-work": {
-                "value": "assets/illustration/Team-work.svg"
+                "value": "assets/illustrations/Team-work.svg"
             },
             "user-1": {
-                "value": "assets/illustration/User-1.svg"
+                "value": "assets/illustrations/User-1.svg"
             },
             "user-2": {
-                "value": "assets/illustration/User-2.svg"
+                "value": "assets/illustrations/User-2.svg"
             },
             "user-3": {
-                "value": "assets/illustration/User-3.svg"
+                "value": "assets/illustrations/User-3.svg"
             },
             "user-4": {
-                "value": "assets/illustration/User-4.svg"
+                "value": "assets/illustrations/User-4.svg"
             },
             "user-plataform": {
-                "value": "assets/illustration/User-plataform.svg"
+                "value": "assets/illustrations/User-plataform.svg"
             },
             "webhook": {
-                "value": "assets/illustration/Webhook.svg"
+                "value": "assets/illustrations/Webhook.svg"
             },
             "welcome-to-blip": {
-                "value": "assets/illustration/Welcome-to-BLiP.svg"
+                "value": "assets/illustrations/Welcome-to-BLiP.svg"
             },
             "whatsapp-web": {
-                "value": "assets/illustration/Whatsapp-web.svg"
+                "value": "assets/illustrations/Whatsapp-web.svg"
             },
             "whatsapp": {
-                "value": "assets/illustration/Whatsapp.svg"
+                "value": "assets/illustrations/Whatsapp.svg"
             }
         }
     }

@@ -1,11 +1,119 @@
 {
     "asset": {
         "logo": {
+            "adlingo": {
+                "value": "assets/logos/adlingo.svg"
+            },
+            "alexa": {
+                "value": "assets/logos/alexa.svg"
+            },
+            "apple": {
+                "value": "assets/logos/apple.svg"
+            },
+            "blip-chat": {
+                "value": "assets/logos/blip-chat.svg"
+            },
+            "bot-analytics": {
+                "value": "assets/logos/bot-analytics.svg"
+            },
+            "business-chat": {
+                "value": "assets/logos/business-chat.svg"
+            },
+            "chatbase": {
+                "value": "assets/logos/chatbase.svg"
+            },
+            "dashbot": {
+                "value": "assets/logos/dashbot.svg"
+            },
+            "dialogflow": {
+                "value": "assets/logos/dialogflow.svg"
+            },
+            "email": {
+                "value": "assets/logos/email.svg"
+            },
             "gbm": {
                 "value": "assets/logos/gbm.svg"
             },
+            "github": {
+                "value": "assets/logos/github.svg"
+            },
+            "google-assistant": {
+                "value": "assets/logos/google-assistant.svg"
+            },
+            "google-rcs": {
+                "value": "assets/logos/google-rcs.svg"
+            },
             "google": {
                 "value": "assets/logos/google.svg"
+            },
+            "hangouts": {
+                "value": "assets/logos/hangouts.svg"
+            },
+            "infopib": {
+                "value": "assets/logos/infopib.svg"
+            },
+            "instagram": {
+                "value": "assets/logos/instagram.svg"
+            },
+            "mailgun": {
+                "value": "assets/logos/mailgun.svg"
+            },
+            "mercado-livre": {
+                "value": "assets/logos/mercado-livre.svg"
+            },
+            "messenger": {
+                "value": "assets/logos/messenger.svg"
+            },
+            "microsoft-luis": {
+                "value": "assets/logos/microsoft-luis.svg"
+            },
+            "microsoft-teams": {
+                "value": "assets/logos/microsoft-teams.svg"
+            },
+            "pag-seguro": {
+                "value": "assets/logos/pag-seguro.svg"
+            },
+            "rd": {
+                "value": "assets/logos/rd.svg"
+            },
+            "salesforce": {
+                "value": "assets/logos/salesforce.svg"
+            },
+            "skype": {
+                "value": "assets/logos/skype.svg"
+            },
+            "slack": {
+                "value": "assets/logos/slack.svg"
+            },
+            "sms": {
+                "value": "assets/logos/sms.svg"
+            },
+            "sugar": {
+                "value": "assets/logos/sugar.svg"
+            },
+            "telegram": {
+                "value": "assets/logos/telegram.svg"
+            },
+            "twitter": {
+                "value": "assets/logos/twitter.svg"
+            },
+            "vine": {
+                "value": "assets/logos/vine.svg"
+            },
+            "voip": {
+                "value": "assets/logos/voip.svg"
+            },
+            "we-chat": {
+                "value": "assets/logos/we-chat.svg"
+            },
+            "webhook": {
+                "value": "assets/logos/webhook.svg"
+            },
+            "whatsapp": {
+                "value": "assets/logos/whatsapp.svg"
+            },
+            "workchat": {
+                "value": "assets/logos/workchat.svg"
             }
         }
     }

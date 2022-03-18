@@ -67,6 +67,9 @@
       "bell-outline": {
         "value": "assets/icons/outline/bell.svg"
       },
+      "bill-outline": {
+        "value": "assets/icons/outline/bill.svg"
+      },
       "blip-ideas-outline": {
         "value": "assets/icons/outline/blip-ideas.svg"
       },
@@ -382,6 +385,9 @@
       "primeiro-acesso-outline": {
         "value": "assets/icons/outline/primeiro-acesso.svg"
       },
+      "qrcode-outline": {
+        "value": "assets/icons/outline/qrcode.svg"
+      },
       "question-outline": {
         "value": "assets/icons/outline/question.svg"
       },
@@ -597,6 +603,12 @@
       },
       "audio-solid": {
         "value": "assets/icons/solid/audio.svg"
+      },
+      "barcode-solid": {
+        "value": "assets/icons/solid/barcode.svg"
+      },
+      "bill-solid": {
+        "value": "assets/icons/solid/bill.svg"
       },
       "australia_flag-solid": {
         "value": "assets/icons/solid/flags/australia_flag.svg"
@@ -1122,6 +1134,12 @@
       },
       "organize-list-solid": {
         "value": "assets/icons/solid/organize-list.svg"
+      },
+      "pix-solid": {
+        "value": "assets/icons/solid/pix.svg"
+      },
+      "qrcode-solid": {
+        "value": "assets/icons/solid/qrcode.svg"
       },
       "ossetia_flag-solid": {
         "value": "assets/icons/solid/flags/ossetia_flag.svg"

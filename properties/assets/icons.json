@@ -136,6 +136,9 @@
       "checkball-outline": {
         "value": "assets/icons/outline/checkball.svg"
       },
+      "chip-outline": {
+        "value": "assets/icons/outline/chip.svg"
+      },
       "clock-outline": {
         "value": "assets/icons/outline/clock.svg"
       },

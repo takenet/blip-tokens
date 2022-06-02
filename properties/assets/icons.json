@@ -235,6 +235,12 @@
       "file-image-outline": {
         "value": "assets/icons/outline/file-image.svg"
       },
+      "file-image-expired-outline": {
+        "value": "assets/icons/outline/file-image-expired.svg"
+      },
+      "file-video-expired-outline": {
+        "value": "assets/icons/outline/file-video-expired.svg"
+      },
       "file-java-script-outline": {
         "value": "assets/icons/outline/file-java-script.svg"
       },

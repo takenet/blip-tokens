@@ -2,142 +2,192 @@
     "asset": {
         "illustration": {
             "agent1": {
-                "value": "assets/illustrations/Agent-1.svg"
+                "value": "assets/illustrations/default/Agent-1.svg"
             },
             "agent2": {
-                "value": "assets/illustrations/Agent-2.svg"
+                "value": "assets/illustrations/default/Agent-2.svg"
             },
             "agent-flat-1": {
-                "value": "assets/illustrations/Agent-flat-1.svg"
+                "value": "assets/illustrations/default/Agent-flat-1.svg"
             },
             "agent-flat-2": {
-                "value": "assets/illustrations/Agent-flat-2.svg"
+                "value": "assets/illustrations/default/Agent-flat-2.svg"
             },
             "agent-flat-3": {
-                "value": "assets/illustrations/Agent-flat-3.svg"
+                "value": "assets/illustrations/default/Agent-flat-3.svg"
             },
             "agent-flat-4": {
-                "value": "assets/illustrations/Agent-flat-4.svg"
+                "value": "assets/illustrations/default/Agent-flat-4.svg"
             },
             "blip-chat-health": {
-                "value": "assets/illustrations/Blip-Chat-health.svg"
+                "value": "assets/illustrations/default/Blip-Chat-health.svg"
             },
             "blip-chat-logistic": {
-                "value": "assets/illustrations/Blip-Chat-Logistic.svg"
+                "value": "assets/illustrations/default/Blip-Chat-Logistic.svg"
             },
             "blip-chat-marketing": {
-                "value": "assets/illustrations/Blip-Chat-marketing.svg"
+                "value": "assets/illustrations/default/Blip-Chat-marketing.svg"
             },
             "blip-chat-sales": {
-                "value": "assets/illustrations/Blip-Chat-sales-1.svg"
+                "value": "assets/illustrations/default/Blip-Chat-sales-1.svg"
             },
             "blip-Ideas-blue-bg": {
-                "value": "assets/illustrations/Blip-Ideas-blue-bg.svg"
+                "value": "assets/illustrations/default/Blip-Ideas-blue-bg.svg"
             },
             "blip-Ideas": {
-                "value": "assets/illustrations/Blip-Ideas.svg"
+                "value": "assets/illustrations/default/Blip-Ideas.svg"
             },
             "blip-sales": {
-                "value": "assets/illustrations/Blip-sales-3.svg"
+                "value": "assets/illustrations/default/Blip-sales-3.svg"
             },
             "boy-computer": {
-                "value": "assets/illustrations/Boy-computer.svg"
+                "value": "assets/illustrations/default/Boy-computer.svg"
             },
             "chat-bank": {
-                "value": "assets/illustrations/Chat-bank.svg"
+                "value": "assets/illustrations/default/Chat-bank.svg"
             },
             "chat-sales": {
-                "value": "assets/illustrations/Chat-sales-2.svg"
+                "value": "assets/illustrations/default/Chat-sales-2.svg"
             },
             "delivery-chat": {
-                "value": "assets/illustrations/Delivery-chat.svg"
+                "value": "assets/illustrations/default/Delivery-chat.svg"
             },
             "faq": {
-                "value": "assets/illustrations/FAQ.svg"
+                "value": "assets/illustrations/default/FAQ.svg"
             },
             "girl-email": {
-                "value": "assets/illustrations/Girl-email.svg"
+                "value": "assets/illustrations/default/Girl-email.svg"
             },
             "girl-tablet": {
-                "value": "assets/illustrations/Girl-tablet.svg"
+                "value": "assets/illustrations/default/Girl-tablet.svg"
             },
             "management": {
-                "value": "assets/illustrations/Management.svg"
+                "value": "assets/illustrations/default/Management.svg"
             },
             "message-template-1": {
-                "value": "assets/illustrations/Message-template-1.svg"
+                "value": "assets/illustrations/default/Message-template-1.svg"
             },
             "message-template-2": {
-                "value": "assets/illustrations/Message-template-2.svg"
+                "value": "assets/illustrations/default/Message-template-2.svg"
             },
             "newsletter": {
-                "value": "assets/illustrations/Newsletter.svg"
+                "value": "assets/illustrations/default/Newsletter.svg"
             },
             "Organizations": {
-                "value": "assets/illustrations/Organizations.svg"
+                "value": "assets/illustrations/default/Organizations.svg"
             },
             "rh-hunting": {
-                "value": "assets/illustrations/RH-hunting.svg"
+                "value": "assets/illustrations/default/RH-hunting.svg"
             },
             "ringtones": {
-                "value": "assets/illustrations/Ringtones.svg"
+                "value": "assets/illustrations/default/Ringtones.svg"
             },
             "robot-flat": {
-                "value": "assets/illustrations/Robot-flat.svg"
+                "value": "assets/illustrations/default/Robot-flat.svg"
             },
             "robot": {
-                "value": "assets/illustrations/Robot-flat.svg"
+                "value": "assets/illustrations/default/Robot-flat.svg"
             },
             "robots": {
-                "value": "assets/illustrations/Robots.svg"
+                "value": "assets/illustrations/default/Robots.svg"
             },
             "search": {
-                "value": "assets/illustrations/Search.svg"
+                "value": "assets/illustrations/default/Search.svg"
             },
             "segmentos": {
-                "value": "assets/illustrations/Segmentos.svg"
+                "value": "assets/illustrations/default/Segmentos.svg"
             },
             "solicition": {
-                "value": "assets/illustrations/Solicitation.svg"
+                "value": "assets/illustrations/default/Solicitation.svg"
             },
             "solutions-agent": {
-                "value": "assets/illustrations/Solutions-agent.svg"
+                "value": "assets/illustrations/default/Solutions-agent.svg"
             },
             "suprise": {
-                "value": "assets/illustrations/Surprise.svg"
+                "value": "assets/illustrations/default/Surprise.svg"
             },
             "talking": {
-                "value": "assets/illustrations/Talking.svg"
+                "value": "assets/illustrations/default/Talking.svg"
             },
             "tangram": {
-                "value": "assets/illustrations/Tangram.svg"
+                "value": "assets/illustrations/default/Tangram.svg"
             },
             "team-work": {
-                "value": "assets/illustrations/Team-work.svg"
+                "value": "assets/illustrations/default/Team-work.svg"
             },
             "user-1": {
-                "value": "assets/illustrations/User-1.svg"
+                "value": "assets/illustrations/default/User-1.svg"
             },
             "user-2": {
-                "value": "assets/illustrations/User-2.svg"
+                "value": "assets/illustrations/default/User-2.svg"
             },
             "user-3": {
-                "value": "assets/illustrations/User-3.svg"
+                "value": "assets/illustrations/default/User-3.svg"
             },
             "user-4": {
-                "value": "assets/illustrations/User-4.svg"
+                "value": "assets/illustrations/default/User-4.svg"
             },
             "user-plataform": {
-                "value": "assets/illustrations/User-plataform.svg"
+                "value": "assets/illustrations/default/User-plataform.svg"
             },
             "webhook": {
-                "value": "assets/illustrations/Webhook.svg"
+                "value": "assets/illustrations/default/Webhook.svg"
             },
             "whatsapp-web": {
-                "value": "assets/illustrations/Whatsapp-web.svg"
+                "value": "assets/illustrations/default/Whatsapp-web.svg"
             },
             "whatsapp": {
-                "value": "assets/illustrations/Whatsapp.svg"
+                "value": "assets/illustrations/default/Whatsapp.svg"
+            },
+            "screens": {
+                "screen-home": {
+                    "value": "assets/illustrations/screens/Screen-home.svg"
+                },
+                "screen-control-panel": {
+                    "value": "assets/illustrations/screens/Screen-control-panel.svg"
+                },
+                "screen-builder": {
+                    "value": "assets/illustrations/screens/Screen-builder.svg"
+                },
+                "screen-desk": {
+                    "value": "assets/illustrations/screens/Screen-desk.svg"
+                },
+                "screen-users": {
+                    "value": "assets/illustrations/screens/Screen-users.svg"
+                },
+                "screen-report": {
+                    "value": "assets/illustrations/screens/Screen-report.svg"
+                },
+                "screen-blipchat": {
+                    "value": "assets/illustrations/screens/Screen-blipchat.svg"
+                },
+                "screen-whatsapp": {
+                    "value": "assets/illustrations/screens/Screen-whatsapp.svg"
+                },
+                "screen-home-off": {
+                    "value": "assets/illustrations/screens/Screen-home-off.svg"
+                },
+                "screen-control-panel-off": {
+                    "value": "assets/illustrations/screens/Screen-control-panel-off.svg"
+                },
+                "screen-builder-off": {
+                    "value": "assets/illustrations/screens/Screen-builder-off.svg"
+                },
+                "screen-desk-off": {
+                    "value": "assets/illustrations/screens/Screen-desk-off.svg"
+                },
+                "screen-users-off": {
+                    "value": "assets/illustrations/screens/Screen-users-off.svg"
+                },
+                "screen-report-off": {
+                    "value": "assets/illustrations/screens/Screen-report-off.svg"
+                },
+                "screen-blipchat-off": {
+                    "value": "assets/illustrations/screens/Screen-blipchat-off.svg"
+                },
+                "screen-whatsapp-off": {
+                    "value": "assets/illustrations/screens/Screen-whatsapp-off.svg"
+                }
             }
         }
     }

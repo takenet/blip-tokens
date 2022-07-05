@@ -247,7 +247,28 @@
       "file-json-outline": {
         "value": "assets/icons/outline/file-json.svg"
       },
-      "file-new-outline": {
+      "file-name-csv-outline": {
+        "value": "assets/icons/outline/file-name-csv.svg"
+      },
+      "file-name-doc-outline": {
+        "value": "assets/icons/outline/file-name-doc.svg"
+      },
+      "file-name-pdf-outline": {
+        "value": "assets/icons/outline/file-name-pdf.svg"
+      },
+      "file-name-ppt-outline": {
+        "value": "assets/icons/outline/file-name-ppt.svg"
+      },
+      "file-name-txt-outline": {
+        "value": "assets/icons/outline/file-name-txt.svg"
+      },
+      "file-name-xls-outline": {
+        "value": "assets/icons/outline/file-name-xls.svg"
+      },
+      "file-name-zip-outline": {
+        "value": "assets/icons/outline/file-name-zip.svg"
+      },
+      "file-new-outline-outline": {
         "value": "assets/icons/outline/file-new.svg"
       },
       "file-pdf-outline": {

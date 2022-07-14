@@ -37,6 +37,12 @@
       "arrow-down-outline": {
         "value": "assets/icons/outline/arrow-down.svg"
       },
+      "arrow-first-outline": {
+        "value": "assets/icons/outline/arrow-first.svg"
+      },
+      "arrow-last-outline": {
+        "value": "assets/icons/outline/arrow-last.svg"
+      },
       "arrow-left-outline": {
         "value": "assets/icons/outline/arrow-left.svg"
       },

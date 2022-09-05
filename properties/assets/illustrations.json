@@ -139,6 +139,196 @@
             "whatsapp": {
                 "value": "assets/illustrations/default/Whatsapp.svg"
             },
+            "blip-outline": {
+                "agent" : {
+                    "value": "assets/illustrations/blip-outline/Agent.svg"
+                },
+                "Bored" : {
+                    "value": "assets/illustrations/blip-outline/Bored.svg"
+                },
+                "Cry" : {
+                    "value": "assets/illustrations/blip-outline/Cry.svg"
+                },
+                "Curious" : {
+                    "value": "assets/illustrations/blip-outline/Curious.svg"
+                },
+                "Embaresed" : {
+                    "value": "assets/illustrations/blip-outline/Embaresad.svg"
+                },
+                "Friendly" : {
+                    "value": "assets/illustrations/blip-outline/Friendly.svg"
+                },
+                "Happy" : {
+                    "value": "assets/illustrations/blip-outline/Happy.svg"
+                },
+                "Laughing" : {
+                    "value": "assets/illustrations/blip-outline/Laughing.svg"
+                },
+                "Lol" : {
+                    "value": "assets/illustrations/blip-outline/Lol.svg"
+                },
+                "Lovely" : {
+                    "value": "assets/illustrations/blip-outline/Lovely.svg"
+                },
+                "Naughty" : {
+                    "value": "assets/illustrations/blip-outline/Naughty.svg"
+                },
+                "Party" : {
+                    "value": "assets/illustrations/blip-outline/Party.svg"
+                },
+                "Playful-1" : {
+                    "value": "assets/illustrations/blip-outline/Playful-1.svg"
+                },
+                "Playful-2" : {
+                    "value": "assets/illustrations/blip-outline/Plauful-2.svg"
+                },
+                "Playful-3" : {
+                    "value": "assets/illustrations/blip-outline/Playful-3.svg"
+                },
+                "Poker-face" : {
+                    "value": "assets/illustrations/blip-outline/Poker-face.svg"
+                },
+                "Rise-eyebrow" : {
+                    "value": "assets/illustrations/blip-outline/Rise-eyebrow.svg"
+                },
+                "Sad" : {
+                    "value": "assets/illustrations/blip-outline/Sad.svg"
+                },
+                "Satisfact" : {
+                    "value": "assets/illustrations/blip-outline/Satisfact.svg"
+                },
+                "Search" : {
+                    "value": "assets/illustrations/blip-outline/Search.svg"
+                },
+                "Sherlock" : {
+                    "value": "assets/illustrations/blip-outline/Sherlock.svg"
+                },
+                "Shy" : {
+                    "value": "assets/illustrations/blip-outline/Shy.svg"
+                },
+                "Sleepy" : {
+                    "value": "assets/illustrations/blip-outline/Sleepy.svg"
+                },
+                "Smart" : {
+                    "value": "assets/illustrations/blip-outline/Smart.svg"
+                },
+                "Smiley" : {
+                    "value": "assets/illustrations/blip-outline/Smailey.svg"
+                },
+                "Thug-life" : {
+                    "value": "assets/illustrations/blip-outline/Thug-life.svg"
+                },
+                "Wink" : {
+                    "value": "assets/illustrations/blip-outline/Wink.svg"
+                },
+                "Worker" : {
+                    "value": "assets/illustrations/blip-outline/Worker.svg"
+                },
+                "Wow" : {
+                    "value": "assets/illustrations/blip-outline/Wow.svg"
+                }
+            },
+            "blip-solid": {
+                "agent" : {
+                    "value": "assets/illustrations/blip-solid/Agent.svg"
+                },
+                "Baby" : {
+                    "value": "assets/illustrations/blip-solid/Baby.svg"
+                },
+                "Bored" : {
+                    "value": "assets/illustrations/blip-solid/Bored.svg"
+                },
+                "Bunny" : {
+                    "value": "assets/illustrations/blip-solid/Bunny.svg"
+                },
+                "Cry" : {
+                    "value": "assets/illustrations/blip-solid/Cry.svg"
+                },
+                "Curious" : {
+                    "value": "assets/illustrations/blip-solid/Curious.svg"
+                },
+                "Developer" : {
+                    "value": "assets/illustrations/blip-solid/Developer.svg"
+                },
+                "Embaresed" : {
+                    "value": "assets/illustrations/blip-solid/Embaresad.svg"
+                },
+                "Fortune-teller" : {
+                    "value": "assets/illustrations/blip-solid/Fortune-teller.svg"
+                },
+                "Friendly" : {
+                    "value": "assets/illustrations/blip-solid/Friendly.svg"
+                },
+                "Happy" : {
+                    "value": "assets/illustrations/blip-solid/Happy.svg"
+                },
+                "Laughing" : {
+                    "value": "assets/illustrations/blip-solid/Laughing.svg"
+                },
+                "Lol" : {
+                    "value": "assets/illustrations/blip-solid/Lol.svg"
+                },
+                "Lovely" : {
+                    "value": "assets/illustrations/blip-solid/Lovely.svg"
+                },
+                "Naughty" : {
+                    "value": "assets/illustrations/blip-solid/Naughty.svg"
+                },
+                "Party" : {
+                    "value": "assets/illustrations/blip-solid/Party.svg"
+                },
+                "Playful-1" : {
+                    "value": "assets/illustrations/blip-solid/Playful-1.svg"
+                },
+                "Playful-2" : {
+                    "value": "assets/illustrations/blip-solid/Plauful-2.svg"
+                },
+                "Playful-3" : {
+                    "value": "assets/illustrations/blip-solid/Playful-3.svg"
+                },
+                "Poker-face" : {
+                    "value": "assets/illustrations/blip-solid/Poker-face.svg"
+                },
+                "Rise-eyebrow" : {
+                    "value": "assets/illustrations/blip-solid/Rise-eyebrow.svg"
+                },
+                "Sad" : {
+                    "value": "assets/illustrations/blip-solid/Sad.svg"
+                },
+                "Satisfact" : {
+                    "value": "assets/illustrations/blip-solid/Satisfact.svg"
+                },
+                "Serene" : {
+                    "value": "assets/illustrations/blip-solid/Serene.svg"
+                },
+                "Sherlock" : {
+                    "value": "assets/illustrations/blip-solid/Sherlock.svg"
+                },
+                "Shy" : {
+                    "value": "assets/illustrations/blip-solid/Shy.svg"
+                },
+                "Sleepy" : {
+                    "value": "assets/illustrations/blip-solid/Sleepy.svg"
+                },
+                "Smart" : {
+                    "value": "assets/illustrations/blip-solid/Smart.svg"
+                },
+                "Smiley" : {
+                    "value": "assets/illustrations/blip-solid/Smailey.svg"
+                },
+                "Thug-life" : {
+                    "value": "assets/illustrations/blip-solid/Thug-life.svg"
+                },
+                "Wink" : {
+                    "value": "assets/illustrations/blip-solid/Wink.svg"
+                },
+                "Worker" : {
+                    "value": "assets/illustrations/blip-solid/Worker.svg"
+                },
+                "Wow" : {
+                    "value": "assets/illustrations/blip-solid/Wow.svg"
+                }
+            },
             "screens": {
                 "screen-home": {
                     "value": "assets/illustrations/screens/Screen-home.svg"

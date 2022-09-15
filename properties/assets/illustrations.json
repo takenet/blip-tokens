@@ -378,6 +378,14 @@
                 "screen-whatsapp-off": {
                     "value": "assets/illustrations/screens/Screen-whatsapp-off.svg"
                 }
+            },
+            "logo-integration" : {
+                "blip-instagram": {
+                    "value" : "assets/illustrations/logo-integration/blip-instagram.svg"
+                },
+                "blip-whatsapp": {
+                    "value" : "assets/illustrations/logo-integration/blip-whatsapp.svg"
+                }
             }
         }
     }

@@ -436,6 +436,9 @@
       "refresh-outline": {
         "value": "assets/icons/outline/refresh.svg"
       },
+      "refresh-all-outline": {
+        "value": "assets/icons/outline/refresh-all.svg"
+      },
       "resources-outline": {
         "value": "assets/icons/outline/resources.svg"
       },

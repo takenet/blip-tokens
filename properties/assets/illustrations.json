@@ -330,6 +330,9 @@
                 }
             },
             "screens": {
+                "dashboard": {
+                    "value": "assets/illustrations/screens/Dashboard.svg"
+                },
                 "screen-home": {
                     "value": "assets/illustrations/screens/Screen-home.svg"
                 },

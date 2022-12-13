@@ -382,6 +382,9 @@
       "message-total-outline": {
         "value": "assets/icons/outline/message-total.svg"
       },
+      "message-unread-outline": {
+        "value": "assets/icons/outline/message-unread.svg"
+      },
       "messenger-outline": {
         "value": "assets/icons/outline/messenger.svg"
       },
@@ -1116,6 +1119,12 @@
       },
       "melilla_flag-solid": {
         "value": "assets/icons/solid/flags/melilla_flag.svg"
+      },
+      "message-ballon-solid": {
+        "value": "assets/icons/solid/message-unread.svg"
+      },
+      "message-unread-solid": {
+        "value": "assets/icons/solid/message-unread.svg"
       },
       "mexico_flag-solid": {
         "value": "assets/icons/solid/flags/mexico_flag.svg"

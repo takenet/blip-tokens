@@ -52,6 +52,9 @@
             "delivery-chat": {
                 "value": "assets/illustrations/default/Delivery-chat.svg"
             },
+            "exchange-person": {
+                "value": "assets/illustrations/default/Exchange-Person.svg"
+            },
             "faq": {
                 "value": "assets/illustrations/default/FAQ.svg"
             },
@@ -60,6 +63,9 @@
             },
             "girl-tablet": {
                 "value": "assets/illustrations/default/Girl-tablet.svg"
+            },
+            "loading-error": {
+                "value": "assets/illustrations/default/Loading-Error.svg"
             },
             "management": {
                 "value": "assets/illustrations/default/Management.svg"

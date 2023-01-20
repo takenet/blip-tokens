@@ -395,6 +395,128 @@
                 "blip-whatsapp": {
                     "value" : "assets/illustrations/logo-integration/blip-whatsapp.svg"
                 }
+            },
+            "brand" : {
+                "take-blip-black-horizontal": {
+                    "value" : "assets/illustrations/brand/take-blip-black-horizontal.svg"
+                },
+                "take-blip-black-vertical": {
+                    "value" : "assets/illustrations/brand/take-blip-black-vertical.svg"
+                },
+                "take-blip-blue-black-horizontal": {
+                    "value" : "assets/illustrations/brand/take-blip-blue-black-horizontal.svg"
+                },
+                "take-blip-blue-black-vertical": {
+                    "value" : "assets/illustrations/brand/take-blip-blue-black-vertical.svg"
+                },
+                "take-blip-blue-white-horizontal": {
+                    "value" : "assets/illustrations/brand/take-blip-blue-white-horizontal.svg"
+                },
+                "take-blip-blue-white-vertical": {
+                    "value" : "assets/illustrations/brand/take-blip-blue-white-vertical.svg"
+                },
+                "take-blip-white-horizontal": {
+                    "value" : "assets/illustrations/brand/take-blip-white-horizontal.svg"
+                },
+                "take-blip-white-vertical": {
+                    "value" : "assets/illustrations/brand/take-blip-white-vertical.svg"
+                },
+                "blip-ballon-blue": {
+                    "value" : "assets/illustrations/brand/blip-ballon-blue.svg"
+                },
+                "blip-ballon-blue-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-ballon-blue-black-horizontal.svg"
+                },
+                "blip-ballon-blue-black-vertical": {
+                    "value" : "assets/illustrations/brand/blip-ballon-blue-black-vertical.svg"
+                },
+                "blip-ballon-white": {
+                    "value" : "assets/illustrations/brand/blip-ballon-white.svg"
+                },
+                "blip-ballon-blue-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-ballon-blue-white-horizontal.svg"
+                },
+                "blip-ballon-blue-white-vertical": {
+                    "value" : "assets/illustrations/brand/blip-ballon-blue-white-vertical.svg"
+                },
+                "blip-ballon-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-ballon-white-horizontal.svg"
+                },
+                "blip-ballon-white-vertical": {
+                    "value" : "assets/illustrations/brand/blip-ballon-white-vertical.svg"
+                },
+                "blip-desk-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-desk-black-horizontal.svg"
+                },
+                "blip-desk-blue-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-desk-blue-black-horizontal.svg"
+                },
+                "blip-desk-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-desk-white-horizontal.svg"
+                },
+                "blip-desk-blue-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-desk-blue-white-horizontal.svg"
+                },
+                "blip-community-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-community-black-horizontal.svg"
+                },
+                "blip-community-blue-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-community-blue-black-horizontal.svg"
+                },
+                "blip-community-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-community-white-horizontal.svg"
+                },
+                "blip-community-blue-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-community-blue-white-horizontal.svg"
+                },
+                "blip-ideas-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-ideas-black-horizontal.svg"
+                },
+                "blip-ideas-blue-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-ideas-blue-black-horizontal.svg"
+                },
+                "blip-ideas-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-ideas-white-horizontal.svg"
+                },
+                "blip-ideas-blue-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-ideas-blue-white-horizontal.svg"
+                },
+                "blip-chat-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-chat-black-horizontal.svg"
+                },
+                "blip-chat-blue-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-chat-blue-black-horizontal.svg"
+                },
+                "blip-chat-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-chat-white-horizontal.svg"
+                },
+                "blip-chat-blue-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-chat-blue-white-horizontal.svg"
+                },
+                "blip-support-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-support-black-horizontal.svg"
+                },
+                "blip-support-blue-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-support-blue-black-horizontal.svg"
+                },
+                "blip-support-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-support-white-horizontal.svg"
+                },
+                "blip-support-blue-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-support-blue-white-horizontal.svg"
+                },
+                "blip-help-center-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-help-center-black-horizontal.svg"
+                },
+                "blip-help-center-blue-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-help-center-blue-black-horizontal.svg"
+                },
+                "blip-help-center-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-help-center-white-horizontal.svg"
+                },
+                "blip-help-center-blue-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-help-center-blue-white-horizontal.svg"
+                }
             }
         }
     }

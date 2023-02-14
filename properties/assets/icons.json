@@ -1,6 +1,9 @@
 {
   "asset": {
     "icon": {
+      "123-outline": {
+        "value": "assets/icons/outline/123.svg"
+      },
       "ab-outline": {
         "value": "assets/icons/outline/ab.svg"
       },
@@ -199,6 +202,9 @@
       "download-outline": {
         "value": "assets/icons/outline/download.svg"
       },
+      "dynamic-download-outline": {
+        "value": "assets/icons/outline/dynamic-download.svg"
+      },
       "edit-outline": {
         "value": "assets/icons/outline/edit.svg"
       },
@@ -339,6 +345,12 @@
       },
       "loading-outline": {
         "value": "assets/icons/outline/loading.svg"
+      },
+      "localization-ask-outline": {
+        "value": "assets/icons/outline/localization-ask.svg"
+      },
+      "localization-send-outline": {
+        "value": "assets/icons/outline/localization-send.svg"
       },
       "localization-outline": {
         "value": "assets/icons/outline/localization.svg"
@@ -559,6 +571,9 @@
       "true-outline": {
         "value": "assets/icons/outline/true.svg"
       },
+      "typing-outline": {
+        "value": "assets/icons/outline/typing.svg"
+      },
       "undo-outline": {
         "value": "assets/icons/outline/undo.svg"
       },
@@ -591,6 +606,9 @@
       },
       "warning-outline": {
         "value": "assets/icons/outline/warning.svg"
+      },
+      "whatsapp-outline": {
+        "value": "assets/icons/outline/whatsapp.svg"
       },
       "xml-outline": {
         "value": "assets/icons/outline/xml.svg"
@@ -808,6 +826,12 @@
       "checkball-solid": {
         "value": "assets/icons/solid/checkball.svg"
       },
+      "command-solid": {
+        "value": "assets/icons/solid/command.svg"
+      },
+      "contact-solid": {
+        "value": "assets/icons/solid/contact.svg"
+      },
       "chile_flag-solid": {
         "value": "assets/icons/solid/flags/chile_flag.svg"
       },
@@ -901,6 +925,9 @@
       "falkland-islands_flag-solid": {
         "value": "assets/icons/solid/flags/falkland-islands_flag.svg"
       },
+      "faq-solid": {
+        "value": "assets/icons/solid/faq.svg"
+      },
       "favorite-solid": {
         "value": "assets/icons/solid/favorite.svg"
       },
@@ -982,6 +1009,9 @@
       "hong-kong_flag-solid": {
         "value": "assets/icons/solid/flags/hong-kong_flag.svg"
       },
+      "http-solid": {
+        "value": "assets/icons/solid/http.svg"
+      },
       "hungary_flag-solid": {
         "value": "assets/icons/solid/flags/hungary_flag.svg"
       },
@@ -1023,6 +1053,9 @@
       },
       "japan_flag-solid": {
         "value": "assets/icons/solid/flags/japan_flag.svg"
+      },
+      "javascript-solid": {
+        "value": "assets/icons/solid/javascript.svg"
       },
       "jersey_flag-solid": {
         "value": "assets/icons/solid/flags/jersey_flag.svg"
@@ -1264,6 +1297,9 @@
       "question-solid": {
         "value": "assets/icons/solid/question.svg"
       },
+      "redirect-solid": {
+        "value": "assets/icons/solid/redirect.svg"
+      },
       "rapa-nui_flag-solid": {
         "value": "assets/icons/solid/flags/rapa-nui_flag.svg"
       },
@@ -1399,6 +1435,12 @@
       "syria_flag-solid": {
         "value": "assets/icons/solid/flags/syria_flag.svg"
       },
+      "target-solid": {
+        "value": "assets/icons/solid/target.svg"
+      },
+      "tracking-solid": {
+        "value": "assets/icons/solid/tracking.svg"
+      },
       "taiwan_flag-solid": {
         "value": "assets/icons/solid/flags/taiwan_flag.svg"
       },
@@ -1474,6 +1516,9 @@
       "uzbekistn_flag-solid": {
         "value": "assets/icons/solid/flags/uzbekistn_flag.svg"
       },
+      "variable-solid": {
+        "value": "assets/icons/solid/variable.svg"
+      },
       "vanuatu_flag-solid": {
         "value": "assets/icons/solid/flags/vanuatu_flag.svg"
       },
@@ -1494,6 +1539,9 @@
       },
       "voip-solid": {
         "value": "assets/icons/solid/voip.svg"
+      },
+      "whatsapp-solid": {
+        "value": "assets/icons/solid/whatsapp.svg"
       },
       "wales_flag-solid": {
         "value": "assets/icons/solid/flags/wales_flag.svg"

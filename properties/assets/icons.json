@@ -202,8 +202,8 @@
       "download-outline": {
         "value": "assets/icons/outline/download.svg"
       },
-      "dynamic-download-outline": {
-        "value": "assets/icons/outline/dynamic-download.svg"
+      "dynamic-content-outline": {
+        "value": "assets/icons/outline/dynamic-content.svg"
       },
       "edit-outline": {
         "value": "assets/icons/outline/edit.svg"

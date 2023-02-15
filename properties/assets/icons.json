@@ -199,11 +199,11 @@
       "double-check-outline": {
         "value": "assets/icons/outline/double-check.svg"
       },
-      "dynamic-content-outline": {
-        "value": "assets/icons/outline/dynamic-content.svg"
-      },
       "download-outline": {
         "value": "assets/icons/outline/download.svg"
+      },
+      "dynamic-content-outline": {
+        "value": "assets/icons/outline/dynamic-content.svg"
       },
       "edit-outline": {
         "value": "assets/icons/outline/edit.svg"

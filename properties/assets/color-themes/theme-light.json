@@ -1,0 +1,62 @@
+{
+    "color-light": {
+      "brand": {
+        "value": "#0096fa"
+      },
+      "primary": {
+        "value": "#1968f0"
+      },
+      "secondary": {
+        "value": "#1f1f1f"
+      },
+      "surface-1": {
+        "value": "#ffffff"
+      },
+      "surface-2": {
+        "value": "#f3f6fa"
+      },
+      "surface-3": {
+        "value": "#e7edf4"
+      },
+      "surface-4": {
+        "value": "#202c44"
+      },
+      "content-default": {
+        "value": "#292929"
+      },
+      "content-disable": {
+        "value": "#666666"
+      },
+      "content-ghost": {
+        "value": "#a3a3a3"
+      },
+      "content-bright": {
+        "value": "#ffffff"
+      },
+      "content-din": {
+        "value": "#000000"
+      },
+      "info": {
+        "value": "#c5d9fb"
+      },
+      "system": {
+        "value": "#0096fa"
+      },
+      "focus": {
+        "value": "#c226fb"
+      },
+      "success": {
+        "value": "#84ebbc"
+      },
+      "warning": {
+        "value": "#fde99b"
+      },
+      "error": {
+        "value": "#f67979"
+      },
+      "delete": {
+        "value": "#e60f0f"
+      }
+    }
+  }
+  

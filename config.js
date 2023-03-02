@@ -89,6 +89,24 @@ const StyleDictionary = require("style-dictionary").extend(
               },
             },
           },
+          {
+            destination: "theme-light.json",
+            format: "json/flat",
+            filter: {
+              attributes: {
+                category: "color",
+              },
+            },
+          },
+          {
+            destination: "theme-dark.json",
+            format: "json/flat",
+            filter: {
+              attributes: {
+                category: "color",
+              },
+            },
+          },
         ],
       },
     },

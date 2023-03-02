@@ -29,7 +29,7 @@ const StyleDictionary = require("style-dictionary").extend(
         files: [
           {
             destination: "theme-light.scss",
-            format: "scss/theme-light",
+            format: "scss/variables",
             filter: {
               attributes: {
                 category: "color-light",
@@ -40,7 +40,7 @@ const StyleDictionary = require("style-dictionary").extend(
         files: [
           {
             destination: "theme-dark.scss",
-            format: "scss/theme-dark",
+            format: "scss/variables",
             filter: {
               attributes: {
                 category: "color-dark",

@@ -25,8 +25,6 @@ const StyleDictionary = require("style-dictionary").extend(
               },
             },
           },
-        ],
-        files: [
           {
             destination: "theme-dark.scss",
             format: "scss/variables",
@@ -36,8 +34,6 @@ const StyleDictionary = require("style-dictionary").extend(
               },
             },
           },
-        ],
-        files: [
           {
             destination: "variables.scss",
             format: "scss/variables",

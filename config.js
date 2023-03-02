@@ -94,7 +94,7 @@ const StyleDictionary = require("style-dictionary").extend(
             format: "json/flat",
             filter: {
               attributes: {
-                category: "color",
+                category: "color-light",
               },
             },
           },
@@ -103,7 +103,7 @@ const StyleDictionary = require("style-dictionary").extend(
             format: "json/flat",
             filter: {
               attributes: {
-                category: "color",
+                category: "color-dark",
               },
             },
           },

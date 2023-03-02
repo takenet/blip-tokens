@@ -17,17 +17,6 @@ const StyleDictionary = require("style-dictionary").extend(
         buildPath: "build/scss/",
         files: [
           {
-            destination: "variables.scss",
-            format: "scss/variables",
-            filter: {
-              attributes: {
-                category: "color",
-              },
-            },
-          },
-        ],
-        files: [
-          {
             destination: "theme-light.scss",
             format: "scss/variables",
             filter: {
@@ -44,6 +33,17 @@ const StyleDictionary = require("style-dictionary").extend(
             filter: {
               attributes: {
                 category: "color-dark",
+              },
+            },
+          },
+        ],
+        files: [
+          {
+            destination: "variables.scss",
+            format: "scss/variables",
+            filter: {
+              attributes: {
+                category: "color",
               },
             },
           },

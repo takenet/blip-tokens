@@ -26,6 +26,28 @@ const StyleDictionary = require("style-dictionary").extend(
             },
           },
         ],
+        files: [
+          {
+            destination: "theme-light.scss",
+            format: "scss/theme-light",
+            filter: {
+              attributes: {
+                category: "color-light",
+              },
+            },
+          },
+        ],
+        files: [
+          {
+            destination: "theme-dark.scss",
+            format: "scss/theme-dark",
+            filter: {
+              attributes: {
+                category: "color-dark",
+              },
+            },
+          },
+        ],
       },
       css: {
         buildPath: "build/css/",

@@ -139,6 +139,9 @@
             "webhook": {
                 "value": "assets/illustrations/default/Webhook.svg"
             },
+            "welcome-blip": {
+                "value": "assets/illustrations/default/Welcome-blip.svg"
+            },
             "whatsapp-web": {
                 "value": "assets/illustrations/default/Whatsapp-web.svg"
             },
@@ -391,6 +394,9 @@
             "logo-integration" : {
                 "blip-instagram": {
                     "value" : "assets/illustrations/logo-integration/blip-instagram.svg"
+                },
+                "blip-messenger": {
+                    "value" : "assets/illustrations/logo-integration/blip-messenger.svg"
                 },
                 "blip-whatsapp": {
                     "value" : "assets/illustrations/logo-integration/blip-whatsapp.svg"

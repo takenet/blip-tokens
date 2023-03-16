@@ -523,6 +523,149 @@
                 "blip-help-center-blue-white-horizontal": {
                     "value" : "assets/illustrations/brand/blip-help-center-blue-white-horizontal.svg"
                 }
+            },
+            "spots": {
+                "air-ballon": {
+                    "value": "assets/illustrations/spots/air-ballon"
+                },
+                "analytics-satisfaction": {
+                    "value": "assets/illustrations/spots/analytics-satisfaction"
+                },
+                "avatar": {
+                    "value": "assets/illustrations/spots/avatar"
+                },
+                "binoculars": {
+                    "value": "assets/illustrations/spots/binoculars"
+                },
+                "bot-list": {
+                    "value": "assets/illustrations/spots/bot-list"
+                },
+                "clock-1": {
+                    "value": "assets/illustrations/spots/clock-1"
+                },
+                "clock-2": {
+                    "value": "assets/illustrations/spots/clock-2"
+                },
+                "column-chart": {
+                    "value": "assets/illustrations/spots/column-chart"
+                },
+                "connectivity": {
+                    "value": "assets/illustrations/spots/connectivity"
+                },
+                "empty": {
+                    "value": "assets/illustrations/spots/empty"
+                },
+                "folder-1": {
+                    "value": "assets/illustrations/spots/folder-1"
+                },
+                "folder-2": {
+                    "value": "assets/illustrations/spots/folder-2"
+                },
+                "folder-3": {
+                    "value": "assets/illustrations/spots/folder-3"
+                },
+                "folder-4": {
+                    "value": "assets/illustrations/spots/folder-4"
+                },
+                "folder-5": {
+                    "value": "assets/illustrations/spots/folder-5"
+                },
+                "folder-6": {
+                    "value": "assets/illustrations/spots/folder-6"
+                },
+                "folder-7": {
+                    "value": "assets/illustrations/spots/folder-7"
+                },
+                "glad": {
+                    "value": "assets/illustrations/spots/glad"
+                },
+                "hand-1": {
+                    "value": "assets/illustrations/spots/hand-1"
+                },
+                "hand-2": {
+                    "value": "assets/illustrations/spots/hand-2"
+                },
+                "hand-3": {
+                    "value": "assets/illustrations/spots/hand-3"
+                },
+                "hand-4": {
+                    "value": "assets/illustrations/spots/hand-4"
+                },
+                "hand-5": {
+                    "value": "assets/illustrations/spots/hand-5"
+                },
+                "hand-6": {
+                    "value": "assets/illustrations/spots/hand-6"
+                },
+                "idea": {
+                    "value": "assets/illustrations/spots/idea"
+                },
+                "information-security": {
+                    "value": "assets/illustrations/spots/information-security"
+                },
+                "letter-cancel-error": {
+                    "value": "assets/illustrations/spots/letter-cancel-error"
+                },
+                "letter-check-okay": {
+                    "value": "assets/illustrations/spots/letter-check-okay"
+                },
+                "letter-close": {
+                    "value": "assets/illustrations/spots/letter-close"
+                },
+                "letter-empty": {
+                    "value": "assets/illustrations/spots/letter-empty"
+                },
+                "letter-error-empty": {
+                    "value": "assets/illustrations/spots/letter-error-empty"
+                },
+                "letter-invite-blip": {
+                    "value": "assets/illustrations/spots/letter-invite-blip"
+                },
+                "letter-search-avatars": {
+                    "value": "assets/illustrations/spots/letter-search-avatars"
+                },
+                "letter-search-question": {
+                    "value": "assets/illustrations/spots/letter-search-question"
+                },
+                "lock-1": {
+                    "value": "assets/illustrations/spots/lock-1"
+                },
+                "lock-2": {
+                    "value": "assets/illustrations/spots/lock-2"
+                },
+                "map": {
+                    "value": "assets/illustrations/spots/map"
+                },
+                "message-notification": {
+                    "value": "assets/illustrations/spots/message-notification"
+                },
+                "new-feature": {
+                    "value": "assets/illustrations/spots/new-feature"
+                },
+                "papper-plane": {
+                    "value": "assets/illustrations/spots/papper-plane"
+                },
+                "password": {
+                    "value": "assets/illustrations/spots/password"
+                },
+                "pie-chart": {
+                    "value": "assets/illustrations/spots/pie-chart"
+                },
+                "pizza": {
+                    "value": "assets/illustrations/spots/pizza"
+                },
+                "rocket": {
+                    "value": "assets/illustrations/spots/rocket"
+                },
+                "send-ticked": {
+                    "value": "assets/illustrations/spots/send-ticked"
+                },
+                "speak-bubble": {
+                    "value": "assets/illustrations/spots/speak-bubble"
+                },
+                "ticket": {
+                    "value": "assets/illustrations/spots/ticket"
+                }
             }
         }
     }

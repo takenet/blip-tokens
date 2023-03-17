@@ -526,145 +526,145 @@
             },
             "spots": {
                 "air-ballon": {
-                    "value": "assets/illustrations/spots/air-ballon"
+                    "value": "assets/illustrations/spots/air-balloon.svg"
                 },
                 "analytics-satisfaction": {
-                    "value": "assets/illustrations/spots/analytics-satisfaction"
+                    "value": "assets/illustrations/spots/analytics-satisfaction.svg"
                 },
                 "avatar": {
-                    "value": "assets/illustrations/spots/avatar"
+                    "value": "assets/illustrations/spots/avatar.svg"
                 },
                 "binoculars": {
-                    "value": "assets/illustrations/spots/binoculars"
+                    "value": "assets/illustrations/spots/binoculars.svg"
                 },
                 "bot-list": {
-                    "value": "assets/illustrations/spots/bot-list"
+                    "value": "assets/illustrations/spots/bot-list.svg"
                 },
                 "clock-1": {
-                    "value": "assets/illustrations/spots/clock-1"
+                    "value": "assets/illustrations/spots/clock-1.svg"
                 },
                 "clock-2": {
-                    "value": "assets/illustrations/spots/clock-2"
+                    "value": "assets/illustrations/spots/clock-2.svg"
                 },
                 "column-chart": {
-                    "value": "assets/illustrations/spots/column-chart"
+                    "value": "assets/illustrations/spots/column-chart.svg"
                 },
                 "connectivity": {
-                    "value": "assets/illustrations/spots/connectivity"
+                    "value": "assets/illustrations/spots/connectivity.svg"
                 },
                 "empty": {
-                    "value": "assets/illustrations/spots/empty"
+                    "value": "assets/illustrations/spots/empty.svg"
                 },
                 "folder-1": {
-                    "value": "assets/illustrations/spots/folder-1"
+                    "value": "assets/illustrations/spots/folder-1.svg"
                 },
                 "folder-2": {
-                    "value": "assets/illustrations/spots/folder-2"
+                    "value": "assets/illustrations/spots/folder-2.svg"
                 },
                 "folder-3": {
-                    "value": "assets/illustrations/spots/folder-3"
+                    "value": "assets/illustrations/spots/folder-3.svg"
                 },
                 "folder-4": {
-                    "value": "assets/illustrations/spots/folder-4"
+                    "value": "assets/illustrations/spots/folder-4.svg"
                 },
                 "folder-5": {
-                    "value": "assets/illustrations/spots/folder-5"
+                    "value": "assets/illustrations/spots/folder-5.svg"
                 },
                 "folder-6": {
-                    "value": "assets/illustrations/spots/folder-6"
+                    "value": "assets/illustrations/spots/folder-6.svg"
                 },
                 "folder-7": {
-                    "value": "assets/illustrations/spots/folder-7"
+                    "value": "assets/illustrations/spots/folder-7.svg"
                 },
                 "glad": {
-                    "value": "assets/illustrations/spots/glad"
+                    "value": "assets/illustrations/spots/glad.svg"
                 },
                 "hand-1": {
-                    "value": "assets/illustrations/spots/hand-1"
+                    "value": "assets/illustrations/spots/hand-1.svg"
                 },
                 "hand-2": {
-                    "value": "assets/illustrations/spots/hand-2"
+                    "value": "assets/illustrations/spots/hand-2.svg"
                 },
                 "hand-3": {
-                    "value": "assets/illustrations/spots/hand-3"
+                    "value": "assets/illustrations/spots/hand-3.svg"
                 },
                 "hand-4": {
-                    "value": "assets/illustrations/spots/hand-4"
+                    "value": "assets/illustrations/spots/hand-4.svg"
                 },
                 "hand-5": {
-                    "value": "assets/illustrations/spots/hand-5"
+                    "value": "assets/illustrations/spots/hand-5.svg"
                 },
                 "hand-6": {
-                    "value": "assets/illustrations/spots/hand-6"
+                    "value": "assets/illustrations/spots/hand-6.svg"
                 },
                 "idea": {
-                    "value": "assets/illustrations/spots/idea"
+                    "value": "assets/illustrations/spots/idea.svg"
                 },
                 "information-security": {
-                    "value": "assets/illustrations/spots/information-security"
+                    "value": "assets/illustrations/spots/information-security.svg"
                 },
                 "letter-cancel-error": {
-                    "value": "assets/illustrations/spots/letter-cancel-error"
+                    "value": "assets/illustrations/spots/letter-cancel-error.svg"
                 },
                 "letter-check-okay": {
-                    "value": "assets/illustrations/spots/letter-check-okay"
+                    "value": "assets/illustrations/spots/letter-check-okay.svg"
                 },
                 "letter-close": {
-                    "value": "assets/illustrations/spots/letter-close"
+                    "value": "assets/illustrations/spots/letter-close.svg"
                 },
                 "letter-empty": {
-                    "value": "assets/illustrations/spots/letter-empty"
+                    "value": "assets/illustrations/spots/letter-empty.svg"
                 },
                 "letter-error-empty": {
-                    "value": "assets/illustrations/spots/letter-error-empty"
+                    "value": "assets/illustrations/spots/letter-error-empty.svg"
                 },
                 "letter-invite-blip": {
-                    "value": "assets/illustrations/spots/letter-invite-blip"
+                    "value": "assets/illustrations/spots/letter-invite-blip.svg"
                 },
                 "letter-search-avatars": {
-                    "value": "assets/illustrations/spots/letter-search-avatars"
+                    "value": "assets/illustrations/spots/letter-search-avatars.svg"
                 },
                 "letter-search-question": {
-                    "value": "assets/illustrations/spots/letter-search-question"
+                    "value": "assets/illustrations/spots/letter-search-question.svg"
                 },
                 "lock-1": {
-                    "value": "assets/illustrations/spots/lock-1"
+                    "value": "assets/illustrations/spots/lock-1.svg"
                 },
                 "lock-2": {
-                    "value": "assets/illustrations/spots/lock-2"
+                    "value": "assets/illustrations/spots/lock-2.svg"
                 },
                 "map": {
-                    "value": "assets/illustrations/spots/map"
+                    "value": "assets/illustrations/spots/map.svg"
                 },
                 "message-notification": {
-                    "value": "assets/illustrations/spots/message-notification"
+                    "value": "assets/illustrations/spots/message-notification.svg"
                 },
                 "new-feature": {
-                    "value": "assets/illustrations/spots/new-feature"
+                    "value": "assets/illustrations/spots/new-feature.svg"
                 },
-                "papper-plane": {
-                    "value": "assets/illustrations/spots/papper-plane"
+                "paper-plane": {
+                    "value": "assets/illustrations/spots/paper-plane.svg"
                 },
                 "password": {
-                    "value": "assets/illustrations/spots/password"
+                    "value": "assets/illustrations/spots/password.svg"
                 },
                 "pie-chart": {
-                    "value": "assets/illustrations/spots/pie-chart"
+                    "value": "assets/illustrations/spots/pie-chart.svg"
                 },
                 "pizza": {
-                    "value": "assets/illustrations/spots/pizza"
+                    "value": "assets/illustrations/spots/pizza.svg"
                 },
                 "rocket": {
-                    "value": "assets/illustrations/spots/rocket"
+                    "value": "assets/illustrations/spots/rocket.svg"
                 },
-                "send-ticked": {
-                    "value": "assets/illustrations/spots/send-ticked"
+                "send-ticket": {
+                    "value": "assets/illustrations/spots/send-ticket.svg"
                 },
                 "speak-bubble": {
-                    "value": "assets/illustrations/spots/speak-bubble"
+                    "value": "assets/illustrations/spots/speak-bubble.svg"
                 },
                 "ticket": {
-                    "value": "assets/illustrations/spots/ticket"
+                    "value": "assets/illustrations/spots/ticket.svg"
                 }
             }
         }

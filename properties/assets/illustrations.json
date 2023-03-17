@@ -525,7 +525,7 @@
                 }
             },
             "spots": {
-                "air-ballon": {
+                "air-balloon": {
                     "value": "assets/illustrations/spots/air-ballon"
                 },
                 "analytics-satisfaction": {

@@ -35,6 +35,15 @@ const StyleDictionary = require("style-dictionary").extend(
             },
           },
           {
+            destination: "extended-color.scss",
+            format: "scss/variables",
+            filter: {
+              attributes: {
+                category: "color-extended",
+              },
+            },
+          },
+          {
             destination: "variables.scss",
             format: "scss/variables",
             filter: {
@@ -122,6 +131,15 @@ const StyleDictionary = require("style-dictionary").extend(
             filter: {
               attributes: {
                 category: "color-dark",
+              },
+            },
+          },
+          {
+            destination: "extended-color.json",
+            format: "json/flat",
+            filter: {
+              attributes: {
+                category: "color-extended",
               },
             },
           },

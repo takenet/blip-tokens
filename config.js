@@ -163,7 +163,7 @@ const StyleDictionary = require("style-dictionary").extend(
     },
   }
 );
-
+// Script
 StyleDictionary.registerFormat({
   name: "css/variables",
   formatter: function (dictionary) {

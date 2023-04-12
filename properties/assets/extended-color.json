@@ -1,0 +1,28 @@
+{
+    "color-extended": {
+      "blue": {
+        "value": "#1968F0"
+      },
+      "ocean": {
+        "value": "#00D3E4"
+      },
+      "green": {
+        "value": "#35DE90"
+      },
+      "yellow": {
+        "value": "#FBCF23"
+      },
+      "orange": {
+        "value": "#F06305"
+      },
+      "red": {
+        "value": "#E60F0F"
+      },
+      "pink": {
+        "value": "#FB4BC1"
+      },
+      "gray": {
+        "value": "#666666"
+      }
+    }
+  }

@@ -19,6 +19,9 @@
             "agent-flat-4": {
                 "value": "assets/illustrations/default/Agent-flat-4.svg"
             },
+            "atention": {
+                "value": "assets/illustrations/default/Atention.svg"
+            },
             "blip-chat-health": {
                 "value": "assets/illustrations/default/Blip-Chat-health.svg"
             },

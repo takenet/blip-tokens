@@ -19,6 +19,12 @@
             "agent-flat-4": {
                 "value": "assets/illustrations/default/Agent-flat-4.svg"
             },
+            "atention": {
+                "value": "assets/illustrations/default/Atention.svg"
+            },
+            "blip-chat": {
+                "value": "assets/illustrations/default/Blip-Chat.svg"
+            },
             "blip-chat-health": {
                 "value": "assets/illustrations/default/Blip-Chat-health.svg"
             },
@@ -48,6 +54,9 @@
             },
             "chat-sales": {
                 "value": "assets/illustrations/default/Chat-sales-2.svg"
+            },
+            "cookies": {
+                "value": "assets/illustrations/default/Cookies.svg"
             },
             "delivery-chat": {
                 "value": "assets/illustrations/default/Delivery-chat.svg"
@@ -92,7 +101,19 @@
                 "value": "assets/illustrations/default/Robot-flat.svg"
             },
             "robot": {
-                "value": "assets/illustrations/default/Robot-flat.svg"
+                "value": "assets/illustrations/default/Robot.svg"
+            },
+            "robot-2": {
+                "value": "assets/illustrations/default/Robot-2.svg"
+            },
+            "robot-3": {
+                "value": "assets/illustrations/default/Robot-3.svg"
+            },
+            "robot-4": {
+                "value": "assets/illustrations/default/Robot-4.svg"
+            },
+            "robot-5": {
+                "value": "assets/illustrations/default/Robot-5.svg"
             },
             "robots": {
                 "value": "assets/illustrations/default/Robots.svg"
@@ -522,6 +543,56 @@
                 },
                 "blip-help-center-blue-white-horizontal": {
                     "value" : "assets/illustrations/brand/blip-help-center-blue-white-horizontal.svg"
+                },
+                "sti-blue-horizontal": {
+                    "value" : "assets/illustrations/brand/sti-blue-horizontal.svg"
+                },
+                "sti-blue-symbol": {
+                    "value" : "assets/illustrations/brand/sti-blue-symbol.svg"
+                },
+                "sti-blue-vertical": {
+                    "value" : "assets/illustrations/brand/sti-blue-vertical.svg"
+                },
+                "sti-white-horizontal": {
+                    "value" : "assets/illustrations/brand/sti-white-horizontal.svg"
+                },
+                "sti-white-vertical": {
+                    "value" : "assets/illustrations/brand/sti-white-vertical.svg"
+                },
+                "sti-white-vertical-symbol": {
+                    "value" : "assets/illustrations/brand/sti-white-vertical-symbol.svg"
+                }
+                
+            },
+            "segmented": {
+                "cart-selected": {
+                    "value": "assets/illustrations/spots/cart-selected.svg"
+                },
+                "catalog-option": {
+                    "value": "assets/illustrations/spots/catalog-option.svg"
+                },
+                "item-overview": {
+                    "value": "assets/illustrations/spots/item-overview.svg"
+                },
+                "send-catalog": {
+                    "value": "assets/illustrations/spots/send-catalog.svg"
+                }
+            },
+            "smartphone": {
+                "blip-chat-1": {
+                    "value": "assets/illustrations/spots/blip-chat-1.svg"
+                },
+                "blip-chat-2": {
+                    "value": "assets/illustrations/spots/blip-chat-2.svg"
+                },
+                "blip-chat-3": {
+                    "value": "assets/illustrations/spots/blip-chat-3.svg"
+                },
+                "digital-scanning-1": {
+                    "value": "assets/illustrations/spots/digital-scanning-1.svg"
+                },
+                "digital-scanning-2": {
+                    "value": "assets/illustrations/spots/digital-scanning-2.svg"
                 }
             },
             "spots": {

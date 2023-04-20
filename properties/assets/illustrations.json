@@ -566,33 +566,33 @@
             },
             "segmented": {
                 "cart-selected": {
-                    "value": "assets/illustrations/spots/cart-selected.svg"
+                    "value": "assets/illustrations/segmented/cart-selected.svg"
                 },
                 "catalog-option": {
-                    "value": "assets/illustrations/spots/catalog-option.svg"
+                    "value": "assets/illustrations/segmented/catalog-option.svg"
                 },
                 "item-overview": {
-                    "value": "assets/illustrations/spots/item-overview.svg"
+                    "value": "assets/illustrations/segmented/item-overview.svg"
                 },
                 "send-catalog": {
-                    "value": "assets/illustrations/spots/send-catalog.svg"
+                    "value": "assets/illustrations/segmented/send-catalog.svg"
                 }
             },
             "smartphone": {
                 "blip-chat-1": {
-                    "value": "assets/illustrations/spots/blip-chat-1.svg"
+                    "value": "assets/illustrations/smartphone/blip-chat-1.svg"
                 },
                 "blip-chat-2": {
-                    "value": "assets/illustrations/spots/blip-chat-2.svg"
+                    "value": "assets/illustrations/smartphone/blip-chat-2.svg"
                 },
                 "blip-chat-3": {
-                    "value": "assets/illustrations/spots/blip-chat-3.svg"
+                    "value": "assets/illustrations/smartphone/blip-chat-3.svg"
                 },
                 "digital-scanning-1": {
-                    "value": "assets/illustrations/spots/digital-scanning-1.svg"
+                    "value": "assets/illustrations/smartphone/digital-scanning-1.svg"
                 },
                 "digital-scanning-2": {
-                    "value": "assets/illustrations/spots/digital-scanning-2.svg"
+                    "value": "assets/illustrations/smartphone/digital-scanning-2.svg"
                 }
             },
             "spots": {

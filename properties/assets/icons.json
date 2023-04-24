@@ -67,6 +67,9 @@
       "audio-outline": {
         "value": "assets/icons/outline/audio.svg"
       },
+      "automation-outline": {
+        "value": "assets/icons/outline/automation.svg"
+      },
       "avatar-user-outline": {
         "value": "assets/icons/outline/avatar-user.svg"
       },
@@ -693,6 +696,9 @@
       },
       "bill-solid": {
         "value": "assets/icons/solid/bill.svg"
+      },
+      "automation-solid": {
+        "value": "assets/icons/solid/automation.svg"
       },
       "australia_flag-solid": {
         "value": "assets/icons/solid/flags/australia_flag.svg"

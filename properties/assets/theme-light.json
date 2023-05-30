@@ -4,22 +4,22 @@
         "value": "#0096fa"
       },
       "primary": {
-        "value": "#1968f0"
+        "value": "#1e6bf1"
       },
       "secondary": {
-        "value": "#1f1f1f"
+        "value": "#292929"
       },
       "surface-1": {
         "value": "#ffffff"
       },
       "surface-2": {
-        "value": "#f3f6fa"
+        "value": "#f5f5f5"
       },
       "surface-3": {
-        "value": "#e7edf4"
+        "value": "#e0e0e0"
       },
       "surface-4": {
-        "value": "#202c44"
+        "value": "#141414"
       },
       "content-default": {
         "value": "#292929"
@@ -28,7 +28,7 @@
         "value": "#666666"
       },
       "content-ghost": {
-        "value": "#a3a3a3"
+        "value": "#949494"
       },
       "content-bright": {
         "value": "#ffffff"
@@ -36,11 +36,14 @@
       "content-din": {
         "value": "#000000"
       },
+      "border-1" : {
+        "value" : "#616161"
+      },
       "info": {
-        "value": "#c5d9fb"
+        "value": "#80e3eb"
       },
       "system": {
-        "value": "#0096fa"
+        "value": "#99d5fd"
       },
       "focus": {
         "value": "#c226fb"
@@ -52,7 +55,7 @@
         "value": "#fde99b"
       },
       "error": {
-        "value": "#f67979"
+        "value": "#f99f9f"
       },
       "delete": {
         "value": "#e60f0f"

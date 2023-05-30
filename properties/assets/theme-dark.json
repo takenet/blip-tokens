@@ -4,7 +4,7 @@
         "value": "#0096fa"
       },
       "primary": {
-        "value": "#1968f0"
+        "value": "#1e6bf1"
       },
       "secondary": {
         "value": "#0096fa"
@@ -25,7 +25,7 @@
         "value": "#ffffff"
       },
       "content-disable": {
-        "value": "#a3a3a3"
+        "value": "#949494"
       },
       "content-ghost": {
         "value": "#666666"
@@ -36,26 +36,29 @@
       "content-din": {
         "value": "#000000"
       },
+      "border-1" : {
+        "value" : "#616161"
+      },
       "info": {
-        "value": "#c5d9fb"
+        "value": "#004f56"
       },
       "system": {
-        "value": "#0096fa"
+        "value": "#003c64"
       },
       "focus": {
         "value": "#c226fb"
       },
       "success": {
-        "value": "#84ebbc"
+        "value": "#355e4b"
       },
       "warning": {
-        "value": "#fde99b"
+        "value": "#60593b"
       },
       "error": {
-        "value": "#f67979"
+        "value": "#7b3d3d"
       },
       "delete": {
-        "value": "#e60f0f"
+        "value": "#b60c0c"
       }
     }
   }

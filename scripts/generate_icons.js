@@ -3,7 +3,7 @@ const readline = require('readline');
 const iconsFolder = '../assets/icons';
 const iconsJsonFileName = '../properties/assets/icons.json';
 let iconsJson
-
+// função de geração de icones
 try {
   iconsJson = require(iconsJsonFileName);
 } catch (e) {

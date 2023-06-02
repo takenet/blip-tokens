@@ -16,8 +16,14 @@
       "agent-outline": {
         "value": "assets/icons/outline/agent.svg"
       },
+      "agent-bot-outline": {
+        "value": "assets/icons/outline/agent-bot.svg"
+      },
       "ai-outline": {
         "value": "assets/icons/outline/AI.svg"
+      },
+      "ai-image-outline": {
+        "value": "assets/icons/outline/ai-image.svg"
       },
       "air-balloon-outline": {
         "value": "assets/icons/outline/air-balloon.svg"
@@ -70,6 +76,9 @@
       "automation-outline": {
         "value": "assets/icons/outline/automation.svg"
       },
+      "avatar-bot-outline": {
+        "value": "assets/icons/outline/avatar-bot.svg"
+      },
       "avatar-user-outline": {
         "value": "assets/icons/outline/avatar-user.svg"
       },
@@ -82,6 +91,9 @@
       "bill-outline": {
         "value": "assets/icons/outline/bill.svg"
       },
+      "blip-ai-outline": {
+        "value": "assets/icons/outline/blip-ai.svg"
+      },
       "blip-ideas-outline": {
         "value": "assets/icons/outline/blip-ideas.svg"
       },
@@ -90,6 +102,9 @@
       },
       "book-outline": {
         "value": "assets/icons/outline/book.svg"
+      },
+      "bot-text-outline": {
+        "value": "assets/icons/outline/bot-text.svg"
       },
       "bug-report-outline": {
         "value": "assets/icons/outline/bug-report.svg"
@@ -123,6 +138,9 @@
       },
       "button-outline": {
         "value": "assets/icons/outline/button.svg"
+      },
+      "brain-ai-outline": {
+        "value": "assets/icons/outline/brain-ai.svg"
       },
       "calendar-outline": {
         "value": "assets/icons/outline/calendar.svg"
@@ -526,6 +544,9 @@
       "sms-outline": {
         "value": "assets/icons/outline/sms.svg"
       },
+      "speaker-ai-outline": {
+        "value": "assets/icons/outline/speaker-ai.svg"
+      },
       "speaker-outline": {
         "value": "assets/icons/outline/speaker.svg"
       },
@@ -543,6 +564,9 @@
       },
       "team-outline": {
         "value": "assets/icons/outline/team.svg"
+      },
+      "text-ai-outline": {
+        "value": "assets/icons/outline/text-ai.svg"
       },
       "text-style-bold-outline": {
         "value": "assets/icons/outline/text-style-bold.svg"

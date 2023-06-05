@@ -17,11 +17,16 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "style-dictionary": "^2.8.3",
-    "semantic-release": "^21.0.3"
+    "semantic-release": "^21.0.2",
+    "style-dictionary": "^2.8.3"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/takenet/blip-tokens.git"
+  },
+  "dependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/commit-analyzer": "^10.0.0",
+    "@semantic-release/git": "^10.0.1"
   }
 }

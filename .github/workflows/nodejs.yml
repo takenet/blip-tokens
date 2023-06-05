@@ -29,10 +29,7 @@ jobs:
         id: semantic
         with:
           branch: master
-          extra_plugins: |
-            @semantic-release/commit-analyzer
-            @semantic-release/git
-            @semantic-release/changelog
+      - run: npm run semantic-release
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NPM_TOKEN: ${{ secrets.NPM_TOKEN }}

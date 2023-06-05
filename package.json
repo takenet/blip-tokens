@@ -23,10 +23,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/takenet/blip-tokens.git"
-  },
-  "dependencies": {
-    "@semantic-release/changelog": "^6.0.3",
-    "@semantic-release/commit-analyzer": "^10.0.0",
-    "@semantic-release/git": "^10.0.1"
   }
 }

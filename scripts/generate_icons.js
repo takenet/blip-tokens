@@ -1,4 +1,4 @@
-// script to generate icons in variables list
+// script to generate icons
 const fs = require('fs');
 const readline = require('readline');
 const iconsFolder = '../assets/icons';

@@ -868,6 +868,9 @@
       "china_flag-solid": {
         "value": "assets/icons/solid/flags/china_flag.svg"
       },
+      "chipre_flag-solid": {
+        "value": "assets/icons/solid/flags/chipre_flag.svg"
+      },
       "christmas-island_flag-solid": {
         "value": "assets/icons/solid/flags/christmas-island_flag.svg"
       },
@@ -979,6 +982,9 @@
       "france_flag-solid": {
         "value": "assets/icons/solid/flags/france_flag.svg"
       },
+      "french-guyana_flag-solid": {
+        "value": "assets/icons/solid/flags/french-guyana_flag.svg"
+      },
       "french-polynesia_flag-solid": {
         "value": "assets/icons/solid/flags/french-polynesia_flag.svg"
       },
@@ -1026,6 +1032,9 @@
       },
       "guinea_flag-solid": {
         "value": "assets/icons/solid/flags/guinea_flag.svg"
+      },
+      "guyana_flag-solid": {
+        "value": "assets/icons/solid/flags/guyana_flag.svg"
       },
       "haiti_flag-solid": {
         "value": "assets/icons/solid/flags/haiti_flag.svg"

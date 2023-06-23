@@ -1,29 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
-<g clip-path="url(#clip0_101_28110)">
-<g clip-path="url(#clip1_101_28110)">
-<path d="M-2 89H512V422H-2V89Z" fill="#2A936A"/>
-<mask id="mask0_101_28110" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-2" y="89" width="514" height="333">
-<path d="M-2 89L512 255.5L-2 422V89Z" fill="white"/>
-</mask>
-<g mask="url(#mask0_101_28110)">
-<path d="M-2 89L512 255.5L-2 422" fill="#FFC20E"/>
-<path d="M-2 89L512 255.5L-2 422" stroke="white" stroke-width="40"/>
-</g>
-<mask id="mask1_101_28110" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="-2" y="89" width="257" height="333">
-<path d="M-2 89L255 255.5L-2 422V89Z" fill="white"/>
-</mask>
-<g mask="url(#mask1_101_28110)">
-<path d="M-2 89L255 255.5L-2 422" fill="#BE1E2D"/>
-<path fill-rule="evenodd" clip-rule="evenodd" d="M225.029 255.5L-9.93359 103.277L5.93346 74.7227L284.971 255.5L5.93346 436.277L-9.93359 407.723L225.029 255.5Z" fill="black"/>
-</g>
-</g>
-</g>
-<defs>
-<clipPath id="clip0_101_28110">
-<rect width="512" height="512" fill="white"/>
-</clipPath>
-<clipPath id="clip1_101_28110">
-<rect x="-2" y="89" width="514" height="333" rx="40" fill="white"/>
-</clipPath>
-</defs>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 27.3.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 512 512" style="enable-background:new 0 0 512 512;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#2A936A;}
+	.st1{fill:#FFC20E;}
+	.st2{fill:#FFFFFF;}
+	.st3{fill:#BE1E2D;}
+</style>
+<path class="st0" d="M16.7,88.8h479.1c9.6,0,17.5,7.8,17.5,17.5v298.1c0,9.6-7.8,17.5-17.5,17.5H16.7c-9.6,0-17.5-7.8-17.5-17.5
+	V106.2C-0.7,96.6,7.1,88.8,16.7,88.8z"/>
+<path class="st1" d="M8,91.6C3.4,94.7,0.5,100,0.5,106V404c0,6.2,3.2,11.6,8.1,14.7l504.7-163.5L8,91.6z"/>
+<polygon class="st2" points="5,440.7 3.8,422.7 474.3,255.3 -0.7,87.8 5,69.8 513.3,255.3 "/>
+<path class="st3" d="M6.1,93.2c-3.4,3.2-5.6,7.7-5.6,12.8V404c0,5.2,2.3,9.9,5.9,13.1l249.9-161.9L6.1,93.2z"/>
+<path d="M28.8,88.5H17.9c-9.6,0-17.5,7.8-17.5,17.5v3l225.8,146.3L0.5,401.6v2.5c0,9.6,7.8,17.5,17.5,17.5h11.7l256.6-166.3
+	L28.8,88.5z"/>
 </svg>

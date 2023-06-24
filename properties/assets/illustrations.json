@@ -424,6 +424,228 @@
                 }
             },
             "brand" : {
+                "blip-academy-black": {
+                    "value" : "assets/illustrations/brand/blip-academy-black.svg"
+                },
+                "blip-academy-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-academy-blue-black.svg"
+                },
+                "blip-academy-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-academy-blue-white.svg"
+                },
+                "blip-academy-white": {
+                    "value" : "assets/illustrations/brand/blip-academy-white.svg"
+                },
+                "blip-blog-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-blog-blue-black.svg"
+                },
+                "blip-blog-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-blog-blue-white.svg"
+                },
+                "blip-builder-black": {
+                    "value" : "assets/illustrations/brand/blip-builder-black.svg"
+                },
+                "blip-builder-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-builder-blue-black.svg"
+                },
+                "blip-builder-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-builder-blue-white.svg"
+                },
+                "blip-builder-white": {
+                    "value" : "assets/illustrations/brand/blip-builder-white.svg"
+                },
+                "blip-docs-black": {
+                    "value" : "assets/illustrations/brand/blip-docs-black.svg"
+                },
+                "blip-docs-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-docs-blue-black.svg"
+                },
+                "blip-docs-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-docs-blue-white.svg"
+                },
+                "blip-docs-white": {
+                    "value" : "assets/illustrations/brand/blip-docs-white.svg"
+                },
+                "blip-foods-black": {
+                    "value" : "assets/illustrations/brand/blip-foods-black.svg"
+                },
+                "blip-foods-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-foods-blue-black.svg"
+                },
+                "blip-foods-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-foods-blue-white.svg"
+                },
+                "blip-foods-white": {
+                    "value" : "assets/illustrations/brand/blip-foods-white.svg"
+                },
+                "blip-go-black": {
+                    "value" : "assets/illustrations/brand/blip-go-black.svg"
+                },
+                "blip-go-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-go-blue-black.svg"
+                },
+                "blip-go-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-go-blue-white.svg"
+                },
+                "blip-go-white": {
+                    "value" : "assets/illustrations/brand/blip-go-white.svg"
+                },
+                "blip-news-black": {
+                    "value" : "assets/illustrations/brand/blip-news-black.svg"
+                },
+                "blip-news-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-news-blue-black.svg"
+                },
+                "blip-news-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-news-blue-white.svg"
+                },
+                "blip-news-white": {
+                    "value" : "assets/illustrations/brand/blip-news-white.svg"
+                },
+                "blip-packs-black": {
+                    "value" : "assets/illustrations/brand/blip-packs-black.svg"
+                },
+                "blip-packs-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-packs-blue-black.svg"
+                },
+                "blip-packs-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-packs-blue-white.svg"
+                },
+                "blip-packs-white": {
+                    "value" : "assets/illustrations/brand/blip-packs-white.svg"
+                },
+                "blip-packspace-black": {
+                    "value" : "assets/illustrations/brand/blip-packspace-black.svg"
+                },
+                "blip-packspace-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-packspace-blue-black.svg"
+                },
+                "blip-packspace-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-packspace-blue-white.svg"
+                },
+                "blip-packspace-white": {
+                    "value" : "assets/illustrations/brand/blip-packspace-white.svg"
+                },
+                "blip-partner-black": {
+                    "value" : "assets/illustrations/brand/blip-partner-black.svg"
+                },
+                "blip-partner-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-partner-blue-black.svg"
+                },
+                "blip-partner-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-partner-blue-white.svg"
+                },
+                "blip-partner-white": {
+                    "value" : "assets/illustrations/brand/blip-partner-white.svg"
+                },
+                "blip-payments-black": {
+                    "value" : "assets/illustrations/brand/blip-payments-black.svg"
+                },
+                "blip-payments-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-payments-blue-black.svg"
+                },
+                "blip-payments-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-payments-blue-white.svg"
+                },
+                "blip-payments-white": {
+                    "value" : "assets/illustrations/brand/blip-payments-white.svg"
+                },
+                "blip-purpose-black": {
+                    "value" : "assets/illustrations/brand/blip-purpose-black.svg"
+                },
+                "blip-purpose-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-purpose-blue-black.svg"
+                },
+                "blip-purpose-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-purpose-blue-white.svg"
+                },
+                "blip-purpose-white": {
+                    "value" : "assets/illustrations/brand/blip-purpose-white.svg"
+                },
+                "blip-shop-black": {
+                    "value" : "assets/illustrations/brand/blip-shop-black.svg"
+                },
+                "blip-shop-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-shop-blue-black.svg"
+                },
+                "blip-shop-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-shop-blue-white.svg"
+                },
+                "blip-shop-white": {
+                    "value" : "assets/illustrations/brand/blip-shop-white.svg"
+                },
+                "blip-status-black": {
+                    "value" : "assets/illustrations/brand/blip-status-black.svg"
+                },
+                "blip-status-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-status-blue-black.svg"
+                },
+                "blip-status-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-status-blue-white.svg"
+                },
+                "blip-status-white": {
+                    "value" : "assets/illustrations/brand/blip-status-white.svg"
+                },
+                "blip-store-black": {
+                    "value" : "assets/illustrations/brand/blip-store-black.svg"
+                },
+                "blip-store-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-store-blue-black.svg"
+                },
+                "blip-store-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-store-blue-white.svg"
+                },
+                "blip-store-white": {
+                    "value" : "assets/illustrations/brand/blip-store-white.svg"
+                },
+                "blip-think-black": {
+                    "value" : "assets/illustrations/brand/blip-think-black.svg"
+                },
+                "blip-think-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-think-blue-black.svg"
+                },
+                "blip-think-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-think-blue-white.svg"
+                },
+                "blip-think-white": {
+                    "value" : "assets/illustrations/brand/blip-think-white.svg"
+                },
+                "blip-time-black": {
+                    "value" : "assets/illustrations/brand/blip-time-black.svg"
+                },
+                "blip-time-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-time-blue-black.svg"
+                },
+                "blip-time-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-time-blue-white.svg"
+                },
+                "blip-time-white": {
+                    "value" : "assets/illustrations/brand/blip-time-white.svg"
+                },
+                "blip-tools-black": {
+                    "value" : "assets/illustrations/brand/blip-tools-black.svg"
+                },
+                "blip-tools-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-tools-blue-black.svg"
+                },
+                "blip-tools-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-tools-blue-white.svg"
+                },
+                "blip-tools-white": {
+                    "value" : "assets/illustrations/brand/blip-tools-white.svg"
+                },
+                "blip-trust-black": {
+                    "value" : "assets/illustrations/brand/blip-trust-black.svg"
+                },
+                "blip-trust-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-trust-blue-black.svg"
+                },
+                "blip-trust-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-trust-blue-white.svg"
+                },
+                "blip-trust-white": {
+                    "value" : "assets/illustrations/brand/blip-trust-white.svg"
+                },
                 "take-blip-black-horizontal": {
                     "value" : "assets/illustrations/brand/take-blip-black-horizontal.svg"
                 },

@@ -142,6 +142,9 @@
       "brain-ai-outline": {
         "value": "assets/icons/outline/brain-ai.svg"
       },
+      "cart-shop-outline": {
+        "value": "assets/icons/outline/cart-shop.svg"
+      },
       "calendar-outline": {
         "value": "assets/icons/outline/calendar.svg"
       },
@@ -234,6 +237,12 @@
       },
       "emoji-outline": {
         "value": "assets/icons/outline/emoji.svg"
+      },
+      "emoji-negative-outline": {
+        "value": "assets/icons/outline/emoji-negative.svg"
+      },
+      "emoji-neutral-outline": {
+        "value": "assets/icons/outline/emoji-neutral.svg"
       },
       "error-outline": {
         "value": "assets/icons/outline/error.svg"
@@ -333,6 +342,9 @@
       },
       "guide-outline": {
         "value": "assets/icons/outline/guide.svg"
+      },
+      "heart-outline": {
+        "value": "assets/icons/outline/heart.svg"
       },
       "home-outline": {
         "value": "assets/icons/outline/home.svg"
@@ -451,6 +463,9 @@
       "paperplane-outline": {
         "value": "assets/icons/outline/paperplane.svg"
       },
+      "pause-outline": {
+        "value": "assets/icons/outline/pause.svg"
+      },
       "payment-card-cvc-outline": {
         "value": "assets/icons/outline/payment-card-cvc.svg"
       },
@@ -462,6 +477,9 @@
       },
       "pix-outline": {
         "value": "assets/icons/outline/pix.svg"
+      },
+      "play-outline": {
+        "value": "assets/icons/outline/play.svg"
       },
       "plugin-outline": {
         "value": "assets/icons/outline/plugin.svg"
@@ -556,6 +574,9 @@
       "status-outline": {
         "value": "assets/icons/outline/status.svg"
       },
+      "store-outline": {
+        "value": "assets/icons/outline/store.svg"
+      },
       "tag-outline": {
         "value": "assets/icons/outline/tag.svg"
       },
@@ -621,6 +642,9 @@
       },
       "user-engaged-outline": {
         "value": "assets/icons/outline/user-engaged.svg"
+      },
+      "verified-outline": {
+        "value": "assets/icons/outline/verified.svg"
       },
       "video broken-outline": {
         "value": "assets/icons/outline/video broken.svg"
@@ -772,6 +796,9 @@
       "bhutan_flag-solid": {
         "value": "assets/icons/solid/flags/bhutan_flag.svg"
       },
+      "blip-chat-solid": {
+        "value": "assets/icons/solid/blip-chat.svg"
+      },
       "blip-forum-solid": {
         "value": "assets/icons/solid/blip-forum.svg"
       },
@@ -841,6 +868,9 @@
       "cape-verde_flag-solid": {
         "value": "assets/icons/solid/flags/cape-verde_flag.svg"
       },
+      "cart-shop_flag-solid": {
+        "value": "assets/icons/solid/flags/cart-shop_flag.svg"
+      },
       "cayman-islands_flag-solid": {
         "value": "assets/icons/solid/flags/cayman-islands_flag.svg"
       },
@@ -867,6 +897,9 @@
       },
       "china_flag-solid": {
         "value": "assets/icons/solid/flags/china_flag.svg"
+      },
+      "chipre_flag-solid": {
+        "value": "assets/icons/solid/flags/chipre_flag.svg"
       },
       "christmas-island_flag-solid": {
         "value": "assets/icons/solid/flags/christmas-island_flag.svg"
@@ -931,6 +964,15 @@
       "email-solid": {
         "value": "assets/icons/solid/email.svg"
       },
+      "emoji-solid": {
+        "value": "assets/icons/solid/emoji.svg"
+      },
+      "emoji-negative-solid": {
+        "value": "assets/icons/solid/emoji-negative.svg"
+      },
+      "emoji-neutral-solid": {
+        "value": "assets/icons/solid/emoji-neutral.svg"
+      },
       "england_flag-solid": {
         "value": "assets/icons/solid/flags/england_flag.svg"
       },
@@ -978,6 +1020,9 @@
       },
       "france_flag-solid": {
         "value": "assets/icons/solid/flags/france_flag.svg"
+      },
+      "french-guyana_flag-solid": {
+        "value": "assets/icons/solid/flags/french-guyana_flag.svg"
       },
       "french-polynesia_flag-solid": {
         "value": "assets/icons/solid/flags/french-polynesia_flag.svg"
@@ -1027,11 +1072,17 @@
       "guinea_flag-solid": {
         "value": "assets/icons/solid/flags/guinea_flag.svg"
       },
+      "guyana_flag-solid": {
+        "value": "assets/icons/solid/flags/guyana_flag.svg"
+      },
       "haiti_flag-solid": {
         "value": "assets/icons/solid/flags/haiti_flag.svg"
       },
       "hawaii_flag-solid": {
         "value": "assets/icons/solid/flags/hawaii_flag.svg"
+      },
+      "heart-solid": {
+        "value": "assets/icons/solid/flags/heart.svg"
       },
       "honduras_flag-solid": {
         "value": "assets/icons/solid/flags/honduras_flag.svg"
@@ -1297,6 +1348,9 @@
       "papua-new-guinea_flag-solid": {
         "value": "assets/icons/solid/flags/papua-new-guinea_flag.svg"
       },
+      "pause-solid": {
+        "value": "assets/icons/solid/flags/pause.svg"
+      },
       "paraguay_flag-solid": {
         "value": "assets/icons/solid/flags/paraguay_flag.svg"
       },
@@ -1311,6 +1365,9 @@
       },
       "pitcairn-islands_flag-solid": {
         "value": "assets/icons/solid/flags/pitcairn-islands_flag.svg"
+      },
+      "play-solid": {
+        "value": "assets/icons/solid/flags/play.svg"
       },
       "poland_flag-solid": {
         "value": "assets/icons/solid/flags/poland_flag.svg"
@@ -1447,6 +1504,9 @@
       "st-vincent-and-the-grenadines_flag-solid": {
         "value": "assets/icons/solid/flags/st-vincent-and-the-grenadines_flag.svg"
       },
+      "store-solid": {
+        "value": "assets/icons/solid/flags/store.svg"
+      },
       "sudan_flag-solid": {
         "value": "assets/icons/solid/flags/sudan_flag.svg"
       },
@@ -1485,6 +1545,9 @@
       },
       "tibet_flag-solid": {
         "value": "assets/icons/solid/flags/tibet_flag.svg"
+      },
+      "ticket-solid": {
+        "value": "assets/icons/solid/flags/ticket.svg"
       },
       "togo_flag-solid": {
         "value": "assets/icons/solid/flags/togo_flag.svg"
@@ -1557,6 +1620,9 @@
       },
       "venezuela_flag-solid": {
         "value": "assets/icons/solid/flags/venezuela_flag.svg"
+      },
+      "verified-solid": {
+        "value": "assets/icons/solid/flags/verified.svg"
       },
       "video-solid": {
         "value": "assets/icons/solid/video.svg"

@@ -35,6 +35,15 @@ const StyleDictionary = require("style-dictionary").extend(
             },
           },
           {
+            destination: "high-contrast.scss",
+            format: "scss/variables",
+            filter: {
+              attributes: {
+                category: "color-high-contrast",
+              },
+            },
+          },
+          {
             destination: "extended-color.scss",
             format: "scss/variables",
             filter: {
@@ -131,6 +140,15 @@ const StyleDictionary = require("style-dictionary").extend(
             filter: {
               attributes: {
                 category: "color-dark",
+              },
+            },
+          },
+          {
+            destination: "theme-high-contrast.json",
+            format: "json/flat",
+            filter: {
+              attributes: {
+                category: "color-high-contrast",
               },
             },
           },

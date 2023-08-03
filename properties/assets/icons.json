@@ -82,6 +82,9 @@
       "avatar-user-outline": {
         "value": "assets/icons/outline/avatar-user.svg"
       },
+      "bag-outline": {
+        "value": "assets/icons/outline/bag.svg"
+      },
       "barcode-outline": {
         "value": "assets/icons/outline/barcode.svg"
       },
@@ -150,6 +153,9 @@
       },
       "camera-outline": {
         "value": "assets/icons/outline/camera.svg"
+      },
+      "catalog-outline": {
+        "value": "assets/icons/outline/catalog.svg"
       },
       "channels-outline": {
         "value": "assets/icons/outline/channels.svg"
@@ -259,6 +265,9 @@
       "exit-outline": {
         "value": "assets/icons/outline/exit.svg"
       },
+      "facebook-outline": {
+        "value": "assets/icons/outline/facebook.svg"
+      },
       "false-outline": {
         "value": "assets/icons/outline/false.svg"
       },
@@ -340,6 +349,9 @@
       "folder-outline": {
         "value": "assets/icons/outline/folder.svg"
       },
+      "gift-outline": {
+        "value": "assets/icons/outline/gift.svg"
+      },
       "guide-outline": {
         "value": "assets/icons/outline/guide.svg"
       },
@@ -351,6 +363,9 @@
       },
       "info-outline": {
         "value": "assets/icons/outline/info.svg"
+      },
+      "instagram-outline": {
+        "value": "assets/icons/outline/instagram.svg"
       },
       "integration-outline": {
         "value": "assets/icons/outline/integration.svg"
@@ -472,6 +487,9 @@
       "payment-card-outline": {
         "value": "assets/icons/outline/payment-card.svg"
       },
+      "piggy-bank-outline": {
+        "value": "assets/icons/outline/piggy-bank.svg"
+      },
       "pin-outline": {
         "value": "assets/icons/outline/pin.svg"
       },
@@ -516,6 +534,9 @@
       },
       "robot-outline": {
         "value": "assets/icons/outline/robot.svg"
+      },
+      "sale-outline": {
+        "value": "assets/icons/outline/sale.svg"
       },
       "save-disk-outline": {
         "value": "assets/icons/outline/save-disk.svg"
@@ -655,6 +676,9 @@
       "voip-outline": {
         "value": "assets/icons/outline/voip.svg"
       },
+      "wallet-outline": {
+        "value": "assets/icons/outline/wallet.svg"
+      },
       "warning-outline": {
         "value": "assets/icons/outline/warning.svg"
       },
@@ -766,6 +790,9 @@
       "bahrain_flag-solid": {
         "value": "assets/icons/solid/flags/bahrain_flag.svg"
       },
+      "bag-solid": {
+        "value": "assets/icons/solid/flags/bag.svg"
+      },
       "balearic-islands_flag-solid": {
         "value": "assets/icons/solid/flags/balearic-islands_flag.svg"
       },
@@ -870,6 +897,9 @@
       },
       "cart-shop-solid": {
         "value": "assets/icons/solid/cart-shop.svg"
+      },
+      "catalog-solid": {
+        "value": "assets/icons/solid/catalog.svg"
       },
       "cayman-islands_flag-solid": {
         "value": "assets/icons/solid/flags/cayman-islands_flag.svg"
@@ -994,6 +1024,9 @@
       "european-union_flag-solid": {
         "value": "assets/icons/solid/flags/european-union_flag.svg"
       },
+      "facebook-solid": {
+        "value": "assets/icons/solid/facebook.svg"
+      },
       "falkland-islands_flag-solid": {
         "value": "assets/icons/solid/flags/falkland-islands_flag.svg"
       },
@@ -1047,6 +1080,9 @@
       },
       "gibraltar_flag-solid": {
         "value": "assets/icons/solid/flags/gibraltar_flag.svg"
+      },
+      "gift-solid": {
+        "value": "assets/icons/solid/flags/gift.svg"
       },
       "greece_flag-solid": {
         "value": "assets/icons/solid/flags/greece_flag.svg"
@@ -1104,6 +1140,9 @@
       },
       "indonesia_flag-solid": {
         "value": "assets/icons/solid/flags/indonesia_flag.svg"
+      },
+      "instagram-solid": {
+        "value": "assets/icons/solid/flags/instagram.svg"
       },
       "info-solid": {
         "value": "assets/icons/solid/info.svg"
@@ -1360,6 +1399,9 @@
       "philippines_flag-solid": {
         "value": "assets/icons/solid/flags/philippines_flag.svg"
       },
+      "piggy-bank-solid": {
+        "value": "assets/icons/solid/piggy-bank.svg"
+      },
       "pin-solid": {
         "value": "assets/icons/solid/pin.svg"
       },
@@ -1413,6 +1455,9 @@
       },
       "saint-kitts-and-nevis_flag-solid": {
         "value": "assets/icons/solid/flags/saint-kitts-and-nevis_flag.svg"
+      },
+      "sale-solid": {
+        "value": "assets/icons/solid/flags/sale.svg"
       },
       "samoa_flag-solid": {
         "value": "assets/icons/solid/flags/samoa_flag.svg"
@@ -1641,6 +1686,9 @@
       },
       "wales_flag-solid": {
         "value": "assets/icons/solid/flags/wales_flag.svg"
+      },
+      "wallet-solid": {
+        "value": "assets/icons/solid/flags/wallet.svg"
       },
       "warning-solid": {
         "value": "assets/icons/solid/warning.svg"

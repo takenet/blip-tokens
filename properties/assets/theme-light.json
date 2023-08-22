@@ -16,7 +16,7 @@
         "value": "#E0E0E0"
       },
       "surface-3": {
-        "value": "#C7C7C7"
+        "value": "#CFCFCF"
       },
       "surface-4": {
         "value": "#141414"
@@ -37,7 +37,13 @@
         "value": "#000000"
       },
       "border-1" : {
-        "value" : "#616161"
+        "value" : "#B1B1B1"
+      },
+      "border-2" : {
+        "value" : "#CFCFCF"
+      },
+      "border-3" : {
+        "value" : "#E1E1E1"
       },
       "info": {
         "value": "#80e3eb"

@@ -61,6 +61,9 @@
             "delivery-chat": {
                 "value": "assets/illustrations/default/Delivery-chat.svg"
             },
+            "error": {
+                "value": "assets/illustrations/default/error.svg"
+            },
             "exchange-person": {
                 "value": "assets/illustrations/default/Exchange-Person.svg"
             },
@@ -115,11 +118,17 @@
             "robot-5": {
                 "value": "assets/illustrations/default/Robot-5.svg"
             },
+            "robot-6": {
+                "value": "assets/illustrations/default/robot-6.svg"
+            },
             "robots": {
                 "value": "assets/illustrations/default/Robots.svg"
             },
             "search": {
                 "value": "assets/illustrations/default/Search.svg"
+            },
+            "search-2": {
+                "value": "assets/illustrations/default/search-2.svg"
             },
             "segmentos": {
                 "value": "assets/illustrations/default/Segmentos.svg"
@@ -141,6 +150,12 @@
             },
             "team-work": {
                 "value": "assets/illustrations/default/Team-work.svg"
+            },
+            "time": {
+                "value": "assets/illustrations/default/time.svg"
+            },
+            "time-2": {
+                "value": "assets/illustrations/default/time-2.svg"
             },
             "user-1": {
                 "value": "assets/illustrations/default/User-1.svg"
@@ -465,6 +480,18 @@
                 },
                 "blip-docs-white": {
                     "value" : "assets/illustrations/brand/blip-docs-white.svg"
+                },
+                "blip-ecosystem-black": {
+                    "value" : "assets/illustrations/brand/blip-ecosystem-black.svg"
+                },
+                "blip-ecosystem-blue-black": {
+                    "value" : "assets/illustrations/brand/blip-ecosystem-blue-black.svg"
+                },
+                "blip-ecosystem-blue-white": {
+                    "value" : "assets/illustrations/brand/blip-ecosystem-blue-white.svg"
+                },
+                "blip-ecosystem-white": {
+                    "value" : "assets/illustrations/brand/blip-ecosystem-white.svg"
                 },
                 "blip-foods-black": {
                     "value" : "assets/illustrations/brand/blip-foods-black.svg"

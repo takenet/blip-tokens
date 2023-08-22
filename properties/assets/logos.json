@@ -19,6 +19,9 @@
             "business-chat": {
                 "value": "assets/logos/business-chat.svg"
             },
+            "cielo": {
+                "value": "assets/logos/cielo.svg"
+            },
             "chatbase": {
                 "value": "assets/logos/chatbase.svg"
             },
@@ -43,6 +46,12 @@
             "google-assistant": {
                 "value": "assets/logos/google-assistant.svg"
             },
+            "google-meu-negocio": {
+                "value": "assets/logos/google-meu-negocio.svg"
+            },
+            "google-play": {
+                "value": "assets/logos/google-play.svg"
+            },
             "google-rcs": {
                 "value": "assets/logos/google-rcs.svg"
             },
@@ -57,6 +66,9 @@
             },
             "instagram": {
                 "value": "assets/logos/instagram.svg"
+            },
+            "linkedin": {
+                "value": "assets/logos/linkedin.svg"
             },
             "mailgun": {
                 "value": "assets/logos/mailgun.svg"
@@ -103,6 +115,9 @@
             "telegram": {
                 "value": "assets/logos/telegram.svg"
             },
+            "tiktok": {
+                "value": "assets/logos/tiktok.svg"
+            },
             "twitter": {
                 "value": "assets/logos/twitter.svg"
             },
@@ -123,6 +138,9 @@
             },
             "workplace": {
                 "value": "assets/logos/workplace.svg"
+            },
+            "youtube": {
+                "value": "assets/logos/youtube.svg"
             }
         }
     }

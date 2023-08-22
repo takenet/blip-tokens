@@ -35,7 +35,7 @@ const StyleDictionary = require("style-dictionary").extend(
             },
           },
           {
-            destination: "high-contrast.scss",
+            destination: "theme-high-contrast.scss",
             format: "scss/variables",
             filter: {
               attributes: {

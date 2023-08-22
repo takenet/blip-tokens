@@ -37,7 +37,13 @@
         "value": "#000000"
       },
       "border-1" : {
-        "value" : "#616161"
+        "value" : "#515151"
+      },
+      "border-2" : {
+        "value" : "#3B3B3B"
+      },
+      "border-3" : {
+        "value" : "#0A0A0A"
       },
       "info": {
         "value": "#004f56"

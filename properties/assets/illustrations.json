@@ -451,6 +451,18 @@
                 "blip-academy-white": {
                     "value" : "assets/illustrations/brand/blip-academy-white.svg"
                 },
+                "blip-assist-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-assist-black-horizontal.svg"
+                },
+                "blip-assist-blue-black-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-assist-blue-black-horizontal.svg"
+                },
+                "blip-assist-blue-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-assist-blue-white-horizontal.svg"
+                },
+                "blip-assist-white-horizontal": {
+                    "value" : "assets/illustrations/brand/blip-assist-white-horizontal.svg"
+                },
                 "blip-blog-blue-black": {
                     "value" : "assets/illustrations/brand/blip-blog-blue-black.svg"
                 },

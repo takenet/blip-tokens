@@ -88,8 +88,14 @@
             "microsoft-teams": {
                 "value": "assets/logos/microsoft-teams.svg"
             },
+            "open-finance": {
+                "value": "assets/logos/open-finance.svg"
+            },
             "pag-seguro": {
                 "value": "assets/logos/pag-seguro.svg"
+            },
+            "pix": {
+                "value": "assets/logos/pix.svg"
             },
             "rd": {
                 "value": "assets/logos/rd.svg"

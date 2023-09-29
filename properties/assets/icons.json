@@ -469,6 +469,9 @@
       "notes-outline": {
         "value": "assets/icons/outline/notes.svg"
       },
+      "openfinance-outline": {
+        "value": "assets/icons/outline/openfinance.svg"
+      },
       "order-elements-outline": {
         "value": "assets/icons/outline/order-elements.svg"
       },
@@ -1278,6 +1281,9 @@
       },
       "message-unread-solid": {
         "value": "assets/icons/solid/message-unread.svg"
+      },
+      "openfinance-solid": {
+        "value": "assets/icons/solid/openfinance.svg"
       },
       "mexico_flag-solid": {
         "value": "assets/icons/solid/flags/mexico_flag.svg"

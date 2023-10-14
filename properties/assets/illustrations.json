@@ -1,6 +1,24 @@
 {
     "asset": {
         "illustration": {
+            "accessibility-1": {
+                "value": "assets/illustrations/default/accessibility-1.svg"
+            },
+            "accessibility-2": {
+                "value": "assets/illustrations/default/accessibility-2.svg"
+            },
+            "accessibility-3": {
+                "value": "assets/illustrations/default/accessibility-3.svg"
+            },
+            "accessibility-4": {
+                "value": "assets/illustrations/default/accessibility-4.svg"
+            },
+            "accessibility-5": {
+                "value": "assets/illustrations/default/accessibility-5.svg"
+            },
+            "accessibility-6": {
+                "value": "assets/illustrations/default/accessibility-6.svg"
+            },
             "agent1": {
                 "value": "assets/illustrations/default/Agent-1.svg"
             },
@@ -21,6 +39,18 @@
             },
             "atention": {
                 "value": "assets/illustrations/default/Atention.svg"
+            },
+            "attendance-1": {
+                "value": "assets/illustrations/default/attendance-1.svg"
+            },
+            "attendance-2": {
+                "value": "assets/illustrations/default/attendance-2.svg"
+            },
+            "attendance-3": {
+                "value": "assets/illustrations/default/attendance-3.svg"
+            },
+            "attendance-4": {
+                "value": "assets/illustrations/default/attendance-4.svg"
             },
             "blip-chat": {
                 "value": "assets/illustrations/default/Blip-Chat.svg"
@@ -55,11 +85,23 @@
             "chat-sales": {
                 "value": "assets/illustrations/default/Chat-sales-2.svg"
             },
+            "collaboration-1": {
+                "value": "assets/illustrations/default/collaboration-1.svg"
+            },
+            "collaboration-2": {
+                "value": "assets/illustrations/default/collaboration-2.svg"
+            },
+            "collaboration-3": {
+                "value": "assets/illustrations/default/collaboration-3.svg"
+            },
             "cookie": {
                 "value": "assets/illustrations/default/Cookie.svg"
             },
             "delivery-chat": {
                 "value": "assets/illustrations/default/Delivery-chat.svg"
+            },
+            "ecossystem-1": {
+                "value": "assets/illustrations/default/ecossystem-1.svg"
             },
             "error": {
                 "value": "assets/illustrations/default/error.svg"
@@ -94,6 +136,36 @@
             "Organizations": {
                 "value": "assets/illustrations/default/Organizations.svg"
             },
+            "plataform-1": {
+                "value": "assets/illustrations/default/plataform-1.svg"
+            },
+            "professional-1": {
+                "value": "assets/illustrations/default/professional-1.svg"
+            },
+            "professional-2": {
+                "value": "assets/illustrations/default/professional-2.svg"
+            },
+            "professional-3": {
+                "value": "assets/illustrations/default/professional-3.svg"
+            },
+            "professional-4": {
+                "value": "assets/illustrations/default/professional-4.svg"
+            },
+            "professional-5": {
+                "value": "assets/illustrations/default/professional-5.svg"
+            },
+            "professional-6": {
+                "value": "assets/illustrations/default/professional-6.svg"
+            },
+            "professional-7": {
+                "value": "assets/illustrations/default/professional-7.svg"
+            },
+            "professional-8": {
+                "value": "assets/illustrations/default/professional-8.svg"
+            },
+            "rating-1": {
+                "value": "assets/illustrations/default/rating-1.svg"
+            },
             "rh-hunting": {
                 "value": "assets/illustrations/default/RH-hunting.svg"
             },
@@ -127,11 +199,29 @@
             "search": {
                 "value": "assets/illustrations/default/Search.svg"
             },
+            "search-1": {
+                "value": "assets/illustrations/default/search-1.svg"
+            },
             "search-2": {
                 "value": "assets/illustrations/default/search-2.svg"
             },
+            "settings-1": {
+                "value": "assets/illustrations/default/settings-1.svg"
+            },
             "segmentos": {
                 "value": "assets/illustrations/default/Segmentos.svg"
+            },
+            "stilingue-1": {
+                "value": "assets/illustrations/default/stilingue-1.svg"
+            },
+            "stilingue-2": {
+                "value": "assets/illustrations/default/stilingue-2.svg"
+            },
+            "stilingue-3": {
+                "value": "assets/illustrations/default/stilingue-3.svg"
+            },
+            "stilingue-4": {
+                "value": "assets/illustrations/default/stilingue-4.svg"
             },
             "solicition": {
                 "value": "assets/illustrations/default/Solicitation.svg"
@@ -866,6 +956,9 @@
                 "avatar": {
                     "value": "assets/illustrations/spots/avatar.svg"
                 },
+                "bill-1": {
+                    "value": "assets/illustrations/spots/bill-1.svg"
+                },
                 "binoculars": {
                     "value": "assets/illustrations/spots/binoculars.svg"
                 },
@@ -911,6 +1004,12 @@
                 "glad": {
                     "value": "assets/illustrations/spots/glad.svg"
                 },
+                "greeting-1": {
+                    "value": "assets/illustrations/spots/greeting-1.svg"
+                },
+                "greeting-2": {
+                    "value": "assets/illustrations/spots/greeting-2.svg"
+                },
                 "hand-1": {
                     "value": "assets/illustrations/spots/hand-1.svg"
                 },
@@ -934,6 +1033,9 @@
                 },
                 "information-security": {
                     "value": "assets/illustrations/spots/information-security.svg"
+                },
+                "letter-1": {
+                    "value": "assets/illustrations/spots/letter-1.svg"
                 },
                 "letter-cancel-error": {
                     "value": "assets/illustrations/spots/letter-cancel-error.svg"
@@ -974,6 +1076,9 @@
                 "new-feature": {
                     "value": "assets/illustrations/spots/new-feature.svg"
                 },
+                "notification-1": {
+                    "value": "assets/illustrations/spots/notification-1.svg"
+                },
                 "paper-plane": {
                     "value": "assets/illustrations/spots/paper-plane.svg"
                 },
@@ -985,6 +1090,9 @@
                 },
                 "pizza": {
                     "value": "assets/illustrations/spots/pizza.svg"
+                },
+                "profile-1": {
+                    "value": "assets/illustrations/spots/profile-1.svg"
                 },
                 "rocket": {
                     "value": "assets/illustrations/spots/rocket.svg"

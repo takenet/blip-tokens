@@ -181,7 +181,7 @@ const StyleDictionary = require("style-dictionary").extend(
     },
   }
 );
-// Script
+// Script register
 StyleDictionary.registerFormat({
   name: "css/variables",
   formatter: function (dictionary) {

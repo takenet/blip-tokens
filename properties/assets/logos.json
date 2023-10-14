@@ -16,6 +16,9 @@
             "bot-analytics": {
                 "value": "assets/logos/bot-analytics.svg"
             },
+            "buscape-chat": {
+                "value": "assets/logos/buscape-chat.svg"
+            },
             "business-chat": {
                 "value": "assets/logos/business-chat.svg"
             },
@@ -36,6 +39,9 @@
             },
             "facebook": {
                 "value": "assets/logos/facebook.svg"
+            },
+            "foursquare": {
+                "value": "assets/logos/foursquare.svg"
             },
             "gbm": {
                 "value": "assets/logos/gbm.svg"
@@ -58,6 +64,9 @@
             "google": {
                 "value": "assets/logos/google.svg"
             },
+            "google-plus": {
+                "value": "assets/logos/google-plus.svg"
+            },
             "hangouts": {
                 "value": "assets/logos/hangouts.svg"
             },
@@ -66,6 +75,12 @@
             },
             "instagram": {
                 "value": "assets/logos/instagram.svg"
+            },
+            "instagram-2": {
+                "value": "assets/logos/instagram-2.svg"
+            },
+            "instagram-storys": {
+                "value": "assets/logos/instagram-storys.svg"
             },
             "linkedin": {
                 "value": "assets/logos/linkedin.svg"
@@ -100,6 +115,9 @@
             "rd": {
                 "value": "assets/logos/rd.svg"
             },
+            "reclame-aqui": {
+                "value": "assets/logos/reclame-aqui.svg"
+            },
             "salesforce": {
                 "value": "assets/logos/salesforce.svg"
             },
@@ -124,6 +142,9 @@
             "tiktok": {
                 "value": "assets/logos/tiktok.svg"
             },
+            "tumblr": {
+                "value": "assets/logos/tumblr.svg"
+            },
             "twitter": {
                 "value": "assets/logos/twitter.svg"
             },
@@ -142,11 +163,20 @@
             "whatsapp": {
                 "value": "assets/logos/whatsapp.svg"
             },
+            "whatsapp-2": {
+                "value": "assets/logos/whatsapp-2.svg"
+            },
+            "wikipedia": {
+                "value": "assets/logos/wikipedia.svg"
+            },
             "workplace": {
                 "value": "assets/logos/workplace.svg"
             },
             "youtube": {
                 "value": "assets/logos/youtube.svg"
+            },
+            "zapier": {
+                "value": "assets/logos/zapier.svg"
             }
         }
     }

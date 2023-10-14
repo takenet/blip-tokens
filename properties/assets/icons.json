@@ -20,7 +20,7 @@
         "value": "assets/icons/outline/agent-bot.svg"
       },
       "ai-outline": {
-        "value": "assets/icons/outline/AI.svg"
+        "value": "assets/icons/outline/ai.svg"
       },
       "ai-image-outline": {
         "value": "assets/icons/outline/ai-image.svg"
@@ -538,6 +538,18 @@
       "robot-outline": {
         "value": "assets/icons/outline/robot.svg"
       },
+      "robot-2-outline": {
+        "value": "assets/icons/outline/robot-2.svg"
+      },
+      "robot-3-outline": {
+        "value": "assets/icons/outline/robot-3.svg"
+      },
+      "robot-4-outline": {
+        "value": "assets/icons/outline/robot-4.svg"
+      },
+      "robot-5-outline": {
+        "value": "assets/icons/outline/robot-5.svg"
+      },
       "sale-outline": {
         "value": "assets/icons/outline/sale.svg"
       },
@@ -702,6 +714,9 @@
       },
       "agent_rule-solid": {
         "value": "assets/icons/solid/agent-rule.svg"
+      },
+      "ai-solid": {
+        "value": "assets/icons/solid/ai.svg"
       },
       "aland-islands_flag-solid": {
         "value": "assets/icons/solid/flags/aland-islands_flag.svg"
@@ -1434,6 +1449,21 @@
       },
       "redirect-solid": {
         "value": "assets/icons/solid/redirect.svg"
+      },
+      "robot-solid": {
+        "value": "assets/icons/solid/robot.svg"
+      },
+      "robot-2-solid": {
+        "value": "assets/icons/solid/robot-2.svg"
+      },
+      "robot-3-solid": {
+        "value": "assets/icons/solid/robot-3.svg"
+      },
+      "robot-4-solid": {
+        "value": "assets/icons/solid/robot-4.svg"
+      },
+      "robot-5-solid": {
+        "value": "assets/icons/solid/robot-5.svg"
       },
       "rapa-nui_flag-solid": {
         "value": "assets/icons/solid/flags/rapa-nui_flag.svg"

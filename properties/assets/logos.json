@@ -82,6 +82,9 @@
             "instagram-storys": {
                 "value": "assets/logos/instagram-storys.svg"
             },
+            "instagram-reels": {
+                "value": "assets/logos/instagram-reels.svg"
+            },
             "linkedin": {
                 "value": "assets/logos/linkedin.svg"
             },

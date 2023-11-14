@@ -915,6 +915,35 @@
                 }
                 
             },
+            "empty-states": {
+                "agent-1": {
+                    "value": "assets/illustrations/empty-states/agent-1.svg"
+                },
+                "agent-2": {
+                    "value": "assets/illustrations/empty-states/agent-2.svg"
+                },
+                "box": {
+                    "value": "assets/illustrations/empty-states/box.svg"
+                },
+                "clock": {
+                    "value": "assets/illustrations/empty-states/clock.svg"
+                },
+                "column-chart": {
+                    "value": "assets/illustrations/empty-states/column-chart.svg"
+                },
+                "glad": {
+                    "value": "assets/illustrations/empty-states/glad.svg"
+                },
+                "letter-search-question": {
+                    "value": "assets/illustrations/empty-states/letter-search-question.svg"
+                },
+                "robot": {
+                    "value": "assets/illustrations/empty-states/robot.svg"
+                },
+                "robot-1": {
+                    "value": "assets/illustrations/empty-states/robot-1.svg"
+                }
+            },
             "segmented": {
                 "cart-selected": {
                     "value": "assets/illustrations/segmented/cart-selected.svg"

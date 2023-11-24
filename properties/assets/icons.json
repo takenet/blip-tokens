@@ -25,6 +25,15 @@
       "ai-outline": {
         "value": "assets/icons/outline/AI.svg"
       },
+      "real-outline": {
+        "value": "assets/icons/outline/real.svg"
+      },
+      "dolar-outline": {
+        "value": "assets/icons/outline/dolar.svg"
+      },
+      "euro-outline": {
+        "value": "assets/icons/outline/euro.svg"
+      },
       "air-balloon-outline": {
         "value": "assets/icons/outline/air-balloon.svg"
       },
@@ -711,6 +720,15 @@
       },
       "add-solid": {
         "value": "assets/icons/solid/add.svg"
+      },
+      "real-solid": {
+        "value": "assets/icons/solid/real.svg"
+      },
+      "dolar-solid": {
+        "value": "assets/icons/solid/dolar.svg"
+      },
+      "euro-solid": {
+        "value": "assets/icons/solid/euro.svg"
       },
       "afghanistan_flag-solid": {
         "value": "assets/icons/solid/flags/afghanistan_flag.svg"

@@ -18,7 +18,7 @@
   "license": "ISC",
   "devDependencies": {
     "semantic-release": "^21.0.2",
-    "style-dictionary": "^2.8.3"
+    "style-dictionary": "^3.9.1"
   },
   "repository": {
     "type": "git",

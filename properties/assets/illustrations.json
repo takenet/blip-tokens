@@ -1,1141 +1,1934 @@
 {
-    "asset": {
-        "illustration": {
-            "accessibility-1": {
-                "value": "assets/illustrations/default/accessibility-1.svg"
-            },
-            "accessibility-2": {
-                "value": "assets/illustrations/default/accessibility-2.svg"
-            },
-            "accessibility-3": {
-                "value": "assets/illustrations/default/accessibility-3.svg"
-            },
-            "accessibility-4": {
-                "value": "assets/illustrations/default/accessibility-4.svg"
-            },
-            "accessibility-5": {
-                "value": "assets/illustrations/default/accessibility-5.svg"
-            },
-            "accessibility-6": {
-                "value": "assets/illustrations/default/accessibility-6.svg"
-            },
-            "agent1": {
-                "value": "assets/illustrations/default/Agent-1.svg"
-            },
-            "agent2": {
-                "value": "assets/illustrations/default/Agent-2.svg"
-            },
-            "agent-flat-1": {
-                "value": "assets/illustrations/default/Agent-flat-1.svg"
-            },
-            "agent-flat-2": {
-                "value": "assets/illustrations/default/Agent-flat-2.svg"
-            },
-            "agent-flat-3": {
-                "value": "assets/illustrations/default/Agent-flat-3.svg"
-            },
-            "agent-flat-4": {
-                "value": "assets/illustrations/default/Agent-flat-4.svg"
-            },
-            "atention": {
-                "value": "assets/illustrations/default/Atention.svg"
-            },
-            "attendance-1": {
-                "value": "assets/illustrations/default/attendance-1.svg"
-            },
-            "attendance-2": {
-                "value": "assets/illustrations/default/attendance-2.svg"
-            },
-            "attendance-3": {
-                "value": "assets/illustrations/default/attendance-3.svg"
-            },
-            "attendance-4": {
-                "value": "assets/illustrations/default/attendance-4.svg"
-            },
-            "blip-chat": {
-                "value": "assets/illustrations/default/Blip-Chat.svg"
-            },
-            "blip-chat-health": {
-                "value": "assets/illustrations/default/Blip-Chat-health.svg"
-            },
-            "blip-chat-logistic": {
-                "value": "assets/illustrations/default/Blip-Chat-Logistic.svg"
-            },
-            "blip-chat-marketing": {
-                "value": "assets/illustrations/default/Blip-Chat-marketing.svg"
-            },
-            "blip-chat-sales": {
-                "value": "assets/illustrations/default/Blip-Chat-sales-1.svg"
-            },
-            "blip-Ideas-blue-bg": {
-                "value": "assets/illustrations/default/Blip-Ideas-blue-bg.svg"
-            },
-            "blip-Ideas": {
-                "value": "assets/illustrations/default/Blip-Ideas.svg"
-            },
-            "blip-sales": {
-                "value": "assets/illustrations/default/Blip-sales-3.svg"
-            },
-            "boy-computer": {
-                "value": "assets/illustrations/default/Boy-computer.svg"
-            },
-            "chat-bank": {
-                "value": "assets/illustrations/default/Chat-bank.svg"
-            },
-            "chat-sales": {
-                "value": "assets/illustrations/default/Chat-sales-2.svg"
-            },
-            "collaboration-1": {
-                "value": "assets/illustrations/default/collaboration-1.svg"
-            },
-            "collaboration-2": {
-                "value": "assets/illustrations/default/collaboration-2.svg"
-            },
-            "collaboration-3": {
-                "value": "assets/illustrations/default/collaboration-3.svg"
-            },
-            "cookie": {
-                "value": "assets/illustrations/default/Cookie.svg"
-            },
-            "delivery-chat": {
-                "value": "assets/illustrations/default/Delivery-chat.svg"
-            },
-            "ecossystem-1": {
-                "value": "assets/illustrations/default/ecossystem-1.svg"
-            },
-            "error": {
-                "value": "assets/illustrations/default/error.svg"
-            },
-            "exchange-person": {
-                "value": "assets/illustrations/default/Exchange-Person.svg"
-            },
-            "faq": {
-                "value": "assets/illustrations/default/FAQ.svg"
-            },
-            "girl-email": {
-                "value": "assets/illustrations/default/Girl-email.svg"
-            },
-            "girl-tablet": {
-                "value": "assets/illustrations/default/Girl-tablet.svg"
-            },
-            "loading-error": {
-                "value": "assets/illustrations/default/Loading-Error.svg"
-            },
-            "management": {
-                "value": "assets/illustrations/default/Management.svg"
-            },
-            "message-template-1": {
-                "value": "assets/illustrations/default/Message-template-1.svg"
-            },
-            "message-template-2": {
-                "value": "assets/illustrations/default/Message-template-2.svg"
-            },
-            "newsletter": {
-                "value": "assets/illustrations/default/Newsletter.svg"
-            },
-            "Organizations": {
-                "value": "assets/illustrations/default/Organizations.svg"
-            },
-            "plataform-1": {
-                "value": "assets/illustrations/default/plataform-1.svg"
-            },
-            "professional-1": {
-                "value": "assets/illustrations/default/professional-1.svg"
-            },
-            "professional-2": {
-                "value": "assets/illustrations/default/professional-2.svg"
-            },
-            "professional-3": {
-                "value": "assets/illustrations/default/professional-3.svg"
-            },
-            "professional-4": {
-                "value": "assets/illustrations/default/professional-4.svg"
-            },
-            "professional-5": {
-                "value": "assets/illustrations/default/professional-5.svg"
-            },
-            "professional-6": {
-                "value": "assets/illustrations/default/professional-6.svg"
-            },
-            "professional-7": {
-                "value": "assets/illustrations/default/professional-7.svg"
-            },
-            "professional-8": {
-                "value": "assets/illustrations/default/professional-8.svg"
-            },
-            "rating-1": {
-                "value": "assets/illustrations/default/rating-1.svg"
-            },
-            "rh-hunting": {
-                "value": "assets/illustrations/default/RH-hunting.svg"
-            },
-            "ringtones": {
-                "value": "assets/illustrations/default/Ringtones.svg"
-            },
-            "robot-flat": {
-                "value": "assets/illustrations/default/Robot-flat.svg"
-            },
-            "robot": {
-                "value": "assets/illustrations/default/Robot.svg"
-            },
-            "robot-2": {
-                "value": "assets/illustrations/default/Robot-2.svg"
-            },
-            "robot-3": {
-                "value": "assets/illustrations/default/Robot-3.svg"
-            },
-            "robot-4": {
-                "value": "assets/illustrations/default/Robot-4.svg"
-            },
-            "robot-5": {
-                "value": "assets/illustrations/default/Robot-5.svg"
-            },
-            "robot-6": {
-                "value": "assets/illustrations/default/robot-6.svg"
-            },
-            "robots": {
-                "value": "assets/illustrations/default/Robots.svg"
-            },
-            "search": {
-                "value": "assets/illustrations/default/Search.svg"
-            },
-            "search-1": {
-                "value": "assets/illustrations/default/search-1.svg"
-            },
-            "search-2": {
-                "value": "assets/illustrations/default/search-2.svg"
-            },
-            "settings-1": {
-                "value": "assets/illustrations/default/settings-1.svg"
-            },
-            "segmentos": {
-                "value": "assets/illustrations/default/Segmentos.svg"
-            },
-            "stilingue-1": {
-                "value": "assets/illustrations/default/stilingue-1.svg"
-            },
-            "stilingue-2": {
-                "value": "assets/illustrations/default/stilingue-2.svg"
-            },
-            "stilingue-3": {
-                "value": "assets/illustrations/default/stilingue-3.svg"
-            },
-            "stilingue-4": {
-                "value": "assets/illustrations/default/stilingue-4.svg"
-            },
-            "solicition": {
-                "value": "assets/illustrations/default/Solicitation.svg"
-            },
-            "solutions-agent": {
-                "value": "assets/illustrations/default/Solutions-agent.svg"
-            },
-            "suprise": {
-                "value": "assets/illustrations/default/Surprise.svg"
-            },
-            "talking": {
-                "value": "assets/illustrations/default/Talking.svg"
-            },
-            "tangram": {
-                "value": "assets/illustrations/default/Tangram.svg"
-            },
-            "team-work": {
-                "value": "assets/illustrations/default/Team-work.svg"
-            },
-            "time": {
-                "value": "assets/illustrations/default/time.svg"
-            },
-            "time-2": {
-                "value": "assets/illustrations/default/time-2.svg"
-            },
-            "user-1": {
-                "value": "assets/illustrations/default/User-1.svg"
-            },
-            "user-2": {
-                "value": "assets/illustrations/default/User-2.svg"
-            },
-            "user-3": {
-                "value": "assets/illustrations/default/User-3.svg"
-            },
-            "user-4": {
-                "value": "assets/illustrations/default/User-4.svg"
-            },
-            "user-plataform": {
-                "value": "assets/illustrations/default/User-plataform.svg"
-            },
-            "webhook": {
-                "value": "assets/illustrations/default/Webhook.svg"
-            },
-            "welcome-blip": {
-                "value": "assets/illustrations/default/Welcome-blip.svg"
-            },
-            "whatsapp-web": {
-                "value": "assets/illustrations/default/Whatsapp-web.svg"
-            },
-            "whatsapp": {
-                "value": "assets/illustrations/default/Whatsapp.svg"
-            },
-            "blip-outline": {
-                "agent" : {
-                    "value": "assets/illustrations/blip-outline/Agent.svg"
-                },
-                "Bored" : {
-                    "value": "assets/illustrations/blip-outline/Bored.svg"
-                },
-                "Cry" : {
-                    "value": "assets/illustrations/blip-outline/Cry.svg"
-                },
-                "Curious" : {
-                    "value": "assets/illustrations/blip-outline/Curious.svg"
-                },
-                "Embaresed" : {
-                    "value": "assets/illustrations/blip-outline/Embaresed.svg"
-                },
-                "Friendly" : {
-                    "value": "assets/illustrations/blip-outline/Friendly.svg"
-                },
-                "Happy" : {
-                    "value": "assets/illustrations/blip-outline/Happy.svg"
-                },
-                "Laughing" : {
-                    "value": "assets/illustrations/blip-outline/Laughing.svg"
-                },
-                "Lol" : {
-                    "value": "assets/illustrations/blip-outline/Lol.svg"
-                },
-                "Lovely" : {
-                    "value": "assets/illustrations/blip-outline/Lovely.svg"
-                },
-                "Naughty" : {
-                    "value": "assets/illustrations/blip-outline/Naughty.svg"
-                },
-                "Party" : {
-                    "value": "assets/illustrations/blip-outline/Party.svg"
-                },
-                "Playful-1" : {
-                    "value": "assets/illustrations/blip-outline/Playful-1.svg"
-                },
-                "Playful-2" : {
-                    "value": "assets/illustrations/blip-outline/Playful-2.svg"
-                },
-                "Playful-3" : {
-                    "value": "assets/illustrations/blip-outline/Playful-3.svg"
-                },
-                "Poker-face" : {
-                    "value": "assets/illustrations/blip-outline/Poker-face.svg"
-                },
-                "Rised-eyebrow" : {
-                    "value": "assets/illustrations/blip-outline/Rised-eyebrow.svg"
-                },
-                "Sad" : {
-                    "value": "assets/illustrations/blip-outline/Sad.svg"
-                },
-                "Satisfact" : {
-                    "value": "assets/illustrations/blip-outline/Satisfact.svg"
-                },
-                "Search" : {
-                    "value": "assets/illustrations/blip-outline/Search.svg"
-                },
-                "Sherlock" : {
-                    "value": "assets/illustrations/blip-outline/Sherlock.svg"
-                },
-                "Shy" : {
-                    "value": "assets/illustrations/blip-outline/Shy.svg"
-                },
-                "Sleepy" : {
-                    "value": "assets/illustrations/blip-outline/Sleepy.svg"
-                },
-                "Smart" : {
-                    "value": "assets/illustrations/blip-outline/Smart.svg"
-                },
-                "Smiley" : {
-                    "value": "assets/illustrations/blip-outline/Smiley.svg"
-                },
-                "Thug-life" : {
-                    "value": "assets/illustrations/blip-outline/Thug-life.svg"
-                },
-                "Wink" : {
-                    "value": "assets/illustrations/blip-outline/Wink.svg"
-                },
-                "Worker" : {
-                    "value": "assets/illustrations/blip-outline/Worker.svg"
-                },
-                "Wow" : {
-                    "value": "assets/illustrations/blip-outline/Wow.svg"
-                }
-            },
-            "blip-solid": {
-                "agent" : {
-                    "value": "assets/illustrations/blip-solid/Agent.svg"
-                },
-                "Baby" : {
-                    "value": "assets/illustrations/blip-solid/Baby.svg"
-                },
-                "Bored" : {
-                    "value": "assets/illustrations/blip-solid/Bored.svg"
-                },
-                "Bunny" : {
-                    "value": "assets/illustrations/blip-solid/Bunny.svg"
-                },
-                "Cry" : {
-                    "value": "assets/illustrations/blip-solid/Cry.svg"
-                },
-                "Curious" : {
-                    "value": "assets/illustrations/blip-solid/Curious.svg"
-                },
-                "Developer" : {
-                    "value": "assets/illustrations/blip-solid/Developer.svg"
-                },
-                "Embaresed" : {
-                    "value": "assets/illustrations/blip-solid/Embaresed.svg"
-                },
-                "Fortune-teller" : {
-                    "value": "assets/illustrations/blip-solid/Fortune-teller.svg"
-                },
-                "Friendly" : {
-                    "value": "assets/illustrations/blip-solid/Friendly.svg"
-                },
-                "Happy" : {
-                    "value": "assets/illustrations/blip-solid/Happy.svg"
-                },
-                "Laughing" : {
-                    "value": "assets/illustrations/blip-solid/Laughing.svg"
-                },
-                "Lol" : {
-                    "value": "assets/illustrations/blip-solid/Lol.svg"
-                },
-                "Lovely" : {
-                    "value": "assets/illustrations/blip-solid/Lovely.svg"
-                },
-                "Naughty" : {
-                    "value": "assets/illustrations/blip-solid/Naughty.svg"
-                },
-                "Party" : {
-                    "value": "assets/illustrations/blip-solid/Party.svg"
-                },
-                "Playful-1" : {
-                    "value": "assets/illustrations/blip-solid/Playful-1.svg"
-                },
-                "Playful-2" : {
-                    "value": "assets/illustrations/blip-solid/Playful-2.svg"
-                },
-                "Playful-3" : {
-                    "value": "assets/illustrations/blip-solid/Playful-3.svg"
-                },
-                "Poker-face" : {
-                    "value": "assets/illustrations/blip-solid/Poker-face.svg"
-                },
-                "Rised-eyebrow" : {
-                    "value": "assets/illustrations/blip-solid/Rised-eyebrow.svg"
-                },
-                "Sad" : {
-                    "value": "assets/illustrations/blip-solid/Sad.svg"
-                },
-                "Satisfact" : {
-                    "value": "assets/illustrations/blip-solid/Satisfact.svg"
-                },
-                "Serene" : {
-                    "value": "assets/illustrations/blip-solid/Serene.svg"
-                },
-                "Sherlock" : {
-                    "value": "assets/illustrations/blip-solid/Sherlock.svg"
-                },
-                "Shy" : {
-                    "value": "assets/illustrations/blip-solid/Shy.svg"
-                },
-                "Sleepy" : {
-                    "value": "assets/illustrations/blip-solid/Sleepy.svg"
-                },
-                "Smart" : {
-                    "value": "assets/illustrations/blip-solid/Smart.svg"
-                },
-                "Smiley" : {
-                    "value": "assets/illustrations/blip-solid/Smiley.svg"
-                },
-                "Thug-life" : {
-                    "value": "assets/illustrations/blip-solid/Thug-life.svg"
-                },
-                "Wink" : {
-                    "value": "assets/illustrations/blip-solid/Wink.svg"
-                },
-                "Worker" : {
-                    "value": "assets/illustrations/blip-solid/Worker.svg"
-                },
-                "Wow" : {
-                    "value": "assets/illustrations/blip-solid/Wow.svg"
-                }
-            },
-            "screens": {
-                "dashboard": {
-                    "value": "assets/illustrations/screens/Dashboard.svg"
-                },
-                "screen-home": {
-                    "value": "assets/illustrations/screens/Screen-home.svg"
-                },
-                "screen-control-panel": {
-                    "value": "assets/illustrations/screens/Screen-control-panel.svg"
-                },
-                "screen-builder": {
-                    "value": "assets/illustrations/screens/Screen-builder.svg"
-                },
-                "screen-desk": {
-                    "value": "assets/illustrations/screens/Screen-desk.svg"
-                },
-                "screen-users": {
-                    "value": "assets/illustrations/screens/Screen-users.svg"
-                },
-                "screen-report": {
-                    "value": "assets/illustrations/screens/Screen-report.svg"
-                },
-                "screen-blipchat": {
-                    "value": "assets/illustrations/screens/Screen-blipchat.svg"
-                },
-                "screen-whatsapp": {
-                    "value": "assets/illustrations/screens/Screen-whatsapp.svg"
-                },
-                "screen-home-off": {
-                    "value": "assets/illustrations/screens/Screen-home-off.svg"
-                },
-                "screen-control-panel-off": {
-                    "value": "assets/illustrations/screens/Screen-control-panel-off.svg"
-                },
-                "screen-builder-off": {
-                    "value": "assets/illustrations/screens/Screen-builder-off.svg"
-                },
-                "screen-desk-off": {
-                    "value": "assets/illustrations/screens/Screen-desk-off.svg"
-                },
-                "screen-users-off": {
-                    "value": "assets/illustrations/screens/Screen-users-off.svg"
-                },
-                "screen-report-off": {
-                    "value": "assets/illustrations/screens/Screen-report-off.svg"
-                },
-                "screen-blipchat-off": {
-                    "value": "assets/illustrations/screens/Screen-blipchat-off.svg"
-                },
-                "screen-whatsapp-off": {
-                    "value": "assets/illustrations/screens/Screen-whatsapp-off.svg"
-                }
-            },
-            "logo-integration" : {
-                "blip-instagram": {
-                    "value" : "assets/illustrations/logo-integration/blip-instagram.svg"
-                },
-                "blip-messenger": {
-                    "value" : "assets/illustrations/logo-integration/blip-messenger.svg"
-                },
-                "blip-whatsapp": {
-                    "value" : "assets/illustrations/logo-integration/blip-whatsapp.svg"
-                }
-            },
-            "brand" : {
-                "blip-academy-black": {
-                    "value" : "assets/illustrations/brand/blip-academy-black.svg"
-                },
-                "blip-academy-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-academy-blue-black.svg"
-                },
-                "blip-academy-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-academy-blue-white.svg"
-                },
-                "blip-academy-white": {
-                    "value" : "assets/illustrations/brand/blip-academy-white.svg"
-                },
-                "blip-assist-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-assist-black-horizontal.svg"
-                },
-                "blip-assist-blue-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-assist-blue-black-horizontal.svg"
-                },
-                "blip-assist-blue-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-assist-blue-white-horizontal.svg"
-                },
-                "blip-assist-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-assist-white-horizontal.svg"
-                },
-                "blip-blog-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-blog-blue-black.svg"
-                },
-                "blip-blog-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-blog-blue-white.svg"
-                },
-                "blip-builder-black": {
-                    "value" : "assets/illustrations/brand/blip-builder-black.svg"
-                },
-                "blip-builder-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-builder-blue-black.svg"
-                },
-                "blip-builder-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-builder-blue-white.svg"
-                },
-                "blip-builder-white": {
-                    "value" : "assets/illustrations/brand/blip-builder-white.svg"
-                },
-                "blip-docs-black": {
-                    "value" : "assets/illustrations/brand/blip-docs-black.svg"
-                },
-                "blip-docs-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-docs-blue-black.svg"
-                },
-                "blip-docs-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-docs-blue-white.svg"
-                },
-                "blip-docs-white": {
-                    "value" : "assets/illustrations/brand/blip-docs-white.svg"
-                },
-                "blip-ecosystem-black": {
-                    "value" : "assets/illustrations/brand/blip-ecosystem-black.svg"
-                },
-                "blip-ecosystem-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-ecosystem-blue-black.svg"
-                },
-                "blip-ecosystem-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-ecosystem-blue-white.svg"
-                },
-                "blip-ecosystem-white": {
-                    "value" : "assets/illustrations/brand/blip-ecosystem-white.svg"
-                },
-                "blip-foods-black": {
-                    "value" : "assets/illustrations/brand/blip-foods-black.svg"
-                },
-                "blip-foods-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-foods-blue-black.svg"
-                },
-                "blip-foods-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-foods-blue-white.svg"
-                },
-                "blip-foods-white": {
-                    "value" : "assets/illustrations/brand/blip-foods-white.svg"
-                },
-                "blip-go-black": {
-                    "value" : "assets/illustrations/brand/blip-go-black.svg"
-                },
-                "blip-go-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-go-blue-black.svg"
-                },
-                "blip-go-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-go-blue-white.svg"
-                },
-                "blip-go-white": {
-                    "value" : "assets/illustrations/brand/blip-go-white.svg"
-                },
-                "blip-news-black": {
-                    "value" : "assets/illustrations/brand/blip-news-black.svg"
-                },
-                "blip-news-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-news-blue-black.svg"
-                },
-                "blip-news-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-news-blue-white.svg"
-                },
-                "blip-news-white": {
-                    "value" : "assets/illustrations/brand/blip-news-white.svg"
-                },
-                "blip-packs-black": {
-                    "value" : "assets/illustrations/brand/blip-packs-black.svg"
-                },
-                "blip-packs-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-packs-blue-black.svg"
-                },
-                "blip-packs-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-packs-blue-white.svg"
-                },
-                "blip-packs-white": {
-                    "value" : "assets/illustrations/brand/blip-packs-white.svg"
-                },
-                "blip-packspace-black": {
-                    "value" : "assets/illustrations/brand/blip-packspace-black.svg"
-                },
-                "blip-packspace-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-packspace-blue-black.svg"
-                },
-                "blip-packspace-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-packspace-blue-white.svg"
-                },
-                "blip-packspace-white": {
-                    "value" : "assets/illustrations/brand/blip-packspace-white.svg"
-                },
-                "blip-partner-black": {
-                    "value" : "assets/illustrations/brand/blip-partner-black.svg"
-                },
-                "blip-partner-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-partner-blue-black.svg"
-                },
-                "blip-partner-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-partner-blue-white.svg"
-                },
-                "blip-partner-white": {
-                    "value" : "assets/illustrations/brand/blip-partner-white.svg"
-                },
-                "blip-payments-black": {
-                    "value" : "assets/illustrations/brand/blip-payments-black.svg"
-                },
-                "blip-payments-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-payments-blue-black.svg"
-                },
-                "blip-payments-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-payments-blue-white.svg"
-                },
-                "blip-payments-white": {
-                    "value" : "assets/illustrations/brand/blip-payments-white.svg"
-                },
-                "blip-purpose-black": {
-                    "value" : "assets/illustrations/brand/blip-purpose-black.svg"
-                },
-                "blip-purpose-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-purpose-blue-black.svg"
-                },
-                "blip-purpose-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-purpose-blue-white.svg"
-                },
-                "blip-purpose-white": {
-                    "value" : "assets/illustrations/brand/blip-purpose-white.svg"
-                },
-                "blip-shop-black": {
-                    "value" : "assets/illustrations/brand/blip-shop-black.svg"
-                },
-                "blip-shop-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-shop-blue-black.svg"
-                },
-                "blip-shop-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-shop-blue-white.svg"
-                },
-                "blip-shop-white": {
-                    "value" : "assets/illustrations/brand/blip-shop-white.svg"
-                },
-                "blip-status-black": {
-                    "value" : "assets/illustrations/brand/blip-status-black.svg"
-                },
-                "blip-status-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-status-blue-black.svg"
-                },
-                "blip-status-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-status-blue-white.svg"
-                },
-                "blip-status-white": {
-                    "value" : "assets/illustrations/brand/blip-status-white.svg"
-                },
-                "blip-store-black": {
-                    "value" : "assets/illustrations/brand/blip-store-black.svg"
-                },
-                "blip-store-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-store-blue-black.svg"
-                },
-                "blip-store-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-store-blue-white.svg"
-                },
-                "blip-store-white": {
-                    "value" : "assets/illustrations/brand/blip-store-white.svg"
-                },
-                "blip-think-black": {
-                    "value" : "assets/illustrations/brand/blip-think-black.svg"
-                },
-                "blip-think-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-think-blue-black.svg"
-                },
-                "blip-think-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-think-blue-white.svg"
-                },
-                "blip-think-white": {
-                    "value" : "assets/illustrations/brand/blip-think-white.svg"
-                },
-                "blip-time-black": {
-                    "value" : "assets/illustrations/brand/blip-time-black.svg"
-                },
-                "blip-time-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-time-blue-black.svg"
-                },
-                "blip-time-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-time-blue-white.svg"
-                },
-                "blip-time-white": {
-                    "value" : "assets/illustrations/brand/blip-time-white.svg"
-                },
-                "blip-tools-black": {
-                    "value" : "assets/illustrations/brand/blip-tools-black.svg"
-                },
-                "blip-tools-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-tools-blue-black.svg"
-                },
-                "blip-tools-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-tools-blue-white.svg"
-                },
-                "blip-tools-white": {
-                    "value" : "assets/illustrations/brand/blip-tools-white.svg"
-                },
-                "blip-trust-black": {
-                    "value" : "assets/illustrations/brand/blip-trust-black.svg"
-                },
-                "blip-trust-blue-black": {
-                    "value" : "assets/illustrations/brand/blip-trust-blue-black.svg"
-                },
-                "blip-trust-blue-white": {
-                    "value" : "assets/illustrations/brand/blip-trust-blue-white.svg"
-                },
-                "blip-trust-white": {
-                    "value" : "assets/illustrations/brand/blip-trust-white.svg"
-                },
-                "take-blip-black-horizontal": {
-                    "value" : "assets/illustrations/brand/take-blip-black-horizontal.svg"
-                },
-                "take-blip-black-vertical": {
-                    "value" : "assets/illustrations/brand/take-blip-black-vertical.svg"
-                },
-                "take-blip-blue-black-horizontal": {
-                    "value" : "assets/illustrations/brand/take-blip-blue-black-horizontal.svg"
-                },
-                "take-blip-blue-black-vertical": {
-                    "value" : "assets/illustrations/brand/take-blip-blue-black-vertical.svg"
-                },
-                "take-blip-blue-white-horizontal": {
-                    "value" : "assets/illustrations/brand/take-blip-blue-white-horizontal.svg"
-                },
-                "take-blip-blue-white-vertical": {
-                    "value" : "assets/illustrations/brand/take-blip-blue-white-vertical.svg"
-                },
-                "take-blip-white-horizontal": {
-                    "value" : "assets/illustrations/brand/take-blip-white-horizontal.svg"
-                },
-                "take-blip-white-vertical": {
-                    "value" : "assets/illustrations/brand/take-blip-white-vertical.svg"
-                },
-                "blip-ballon-blue": {
-                    "value" : "assets/illustrations/brand/blip-ballon-blue.svg"
-                },
-                "blip-ballon-blue-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-ballon-blue-black-horizontal.svg"
-                },
-                "blip-ballon-blue-black-vertical": {
-                    "value" : "assets/illustrations/brand/blip-ballon-blue-black-vertical.svg"
-                },
-                "blip-ballon-white": {
-                    "value" : "assets/illustrations/brand/blip-ballon-white.svg"
-                },
-                "blip-ballon-blue-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-ballon-blue-white-horizontal.svg"
-                },
-                "blip-ballon-blue-white-vertical": {
-                    "value" : "assets/illustrations/brand/blip-ballon-blue-white-vertical.svg"
-                },
-                "blip-ballon-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-ballon-white-horizontal.svg"
-                },
-                "blip-ballon-white-vertical": {
-                    "value" : "assets/illustrations/brand/blip-ballon-white-vertical.svg"
-                },
-                "blip-desk-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-desk-black-horizontal.svg"
-                },
-                "blip-desk-blue-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-desk-blue-black-horizontal.svg"
-                },
-                "blip-desk-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-desk-white-horizontal.svg"
-                },
-                "blip-desk-blue-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-desk-blue-white-horizontal.svg"
-                },
-                "blip-community-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-community-black-horizontal.svg"
-                },
-                "blip-community-blue-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-community-blue-black-horizontal.svg"
-                },
-                "blip-community-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-community-white-horizontal.svg"
-                },
-                "blip-community-blue-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-community-blue-white-horizontal.svg"
-                },
-                "blip-ideas-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-ideas-black-horizontal.svg"
-                },
-                "blip-ideas-blue-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-ideas-blue-black-horizontal.svg"
-                },
-                "blip-ideas-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-ideas-white-horizontal.svg"
-                },
-                "blip-ideas-blue-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-ideas-blue-white-horizontal.svg"
-                },
-                "blip-chat-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-chat-black-horizontal.svg"
-                },
-                "blip-chat-blue-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-chat-blue-black-horizontal.svg"
-                },
-                "blip-chat-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-chat-white-horizontal.svg"
-                },
-                "blip-chat-blue-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-chat-blue-white-horizontal.svg"
-                },
-                "blip-support-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-support-black-horizontal.svg"
-                },
-                "blip-support-blue-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-support-blue-black-horizontal.svg"
-                },
-                "blip-support-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-support-white-horizontal.svg"
-                },
-                "blip-support-blue-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-support-blue-white-horizontal.svg"
-                },
-                "blip-help-center-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-help-center-black-horizontal.svg"
-                },
-                "blip-help-center-blue-black-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-help-center-blue-black-horizontal.svg"
-                },
-                "blip-help-center-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-help-center-white-horizontal.svg"
-                },
-                "blip-help-center-blue-white-horizontal": {
-                    "value" : "assets/illustrations/brand/blip-help-center-blue-white-horizontal.svg"
-                },
-                "sti-blue-horizontal": {
-                    "value" : "assets/illustrations/brand/sti-blue-horizontal.svg"
-                },
-                "sti-blue-symbol": {
-                    "value" : "assets/illustrations/brand/sti-blue-symbol.svg"
-                },
-                "sti-blue-vertical": {
-                    "value" : "assets/illustrations/brand/sti-blue-vertical.svg"
-                },
-                "sti-white-horizontal": {
-                    "value" : "assets/illustrations/brand/sti-white-horizontal.svg"
-                },
-                "sti-white-vertical": {
-                    "value" : "assets/illustrations/brand/sti-white-vertical.svg"
-                },
-                "sti-white-vertical-symbol": {
-                    "value" : "assets/illustrations/brand/sti-white-vertical-symbol.svg"
-                }
-                
-            },
-            "empty-states": {
-                "agent-1": {
-                    "value": "assets/illustrations/empty-states/agent-1.svg"
-                },
-                "agent-2": {
-                    "value": "assets/illustrations/empty-states/agent-2.svg"
-                },
-                "box": {
-                    "value": "assets/illustrations/empty-states/box.svg"
-                },
-                "clock": {
-                    "value": "assets/illustrations/empty-states/clock.svg"
-                },
-                "column-chart": {
-                    "value": "assets/illustrations/empty-states/column-chart.svg"
-                },
-                "glad": {
-                    "value": "assets/illustrations/empty-states/glad.svg"
-                },
-                "letter-search-question": {
-                    "value": "assets/illustrations/empty-states/letter-search-question.svg"
-                },
-                "robot": {
-                    "value": "assets/illustrations/empty-states/robot.svg"
-                },
-                "robot-1": {
-                    "value": "assets/illustrations/empty-states/robot-1.svg"
-                }
-            },
-            "segmented": {
-                "cart-selected": {
-                    "value": "assets/illustrations/segmented/cart-selected.svg"
-                },
-                "catalog-option": {
-                    "value": "assets/illustrations/segmented/catalog-option.svg"
-                },
-                "item-overview": {
-                    "value": "assets/illustrations/segmented/item-overview.svg"
-                },
-                "send-catalog": {
-                    "value": "assets/illustrations/segmented/send-catalog.svg"
-                }
-            },
-            "smartphone": {
-                "blip-chat-1": {
-                    "value": "assets/illustrations/smartphone/blip-chat-1.svg"
-                },
-                "blip-chat-2": {
-                    "value": "assets/illustrations/smartphone/blip-chat-2.svg"
-                },
-                "blip-chat-3": {
-                    "value": "assets/illustrations/smartphone/blip-chat-3.svg"
-                },
-                "digital-scanning-1": {
-                    "value": "assets/illustrations/smartphone/digital-scanning-1.svg"
-                },
-                "digital-scanning-2": {
-                    "value": "assets/illustrations/smartphone/digital-scanning-2.svg"
-                }
-            },
-            "spots": {
-                "air-ballon": {
-                    "value": "assets/illustrations/spots/air-balloon.svg"
-                },
-                "analytics-satisfaction": {
-                    "value": "assets/illustrations/spots/analytics-satisfaction.svg"
-                },
-                "avatar": {
-                    "value": "assets/illustrations/spots/avatar.svg"
-                },
-                "bill-1": {
-                    "value": "assets/illustrations/spots/bill-1.svg"
-                },
-                "binoculars": {
-                    "value": "assets/illustrations/spots/binoculars.svg"
-                },
-                "bot-list": {
-                    "value": "assets/illustrations/spots/bot-list.svg"
-                },
-                "clock-1": {
-                    "value": "assets/illustrations/spots/clock-1.svg"
-                },
-                "clock-2": {
-                    "value": "assets/illustrations/spots/clock-2.svg"
-                },
-                "column-chart": {
-                    "value": "assets/illustrations/spots/column-chart.svg"
-                },
-                "connectivity": {
-                    "value": "assets/illustrations/spots/connectivity.svg"
-                },
-                "empty": {
-                    "value": "assets/illustrations/spots/empty.svg"
-                },
-                "folder-1": {
-                    "value": "assets/illustrations/spots/folder-1.svg"
-                },
-                "folder-2": {
-                    "value": "assets/illustrations/spots/folder-2.svg"
-                },
-                "folder-3": {
-                    "value": "assets/illustrations/spots/folder-3.svg"
-                },
-                "folder-4": {
-                    "value": "assets/illustrations/spots/folder-4.svg"
-                },
-                "folder-5": {
-                    "value": "assets/illustrations/spots/folder-5.svg"
-                },
-                "folder-6": {
-                    "value": "assets/illustrations/spots/folder-6.svg"
-                },
-                "folder-7": {
-                    "value": "assets/illustrations/spots/folder-7.svg"
-                },
-                "glad": {
-                    "value": "assets/illustrations/spots/glad.svg"
-                },
-                "greeting-1": {
-                    "value": "assets/illustrations/spots/greeting-1.svg"
-                },
-                "greeting-2": {
-                    "value": "assets/illustrations/spots/greeting-2.svg"
-                },
-                "hand-1": {
-                    "value": "assets/illustrations/spots/hand-1.svg"
-                },
-                "hand-2": {
-                    "value": "assets/illustrations/spots/hand-2.svg"
-                },
-                "hand-3": {
-                    "value": "assets/illustrations/spots/hand-3.svg"
-                },
-                "hand-4": {
-                    "value": "assets/illustrations/spots/hand-4.svg"
-                },
-                "hand-5": {
-                    "value": "assets/illustrations/spots/hand-5.svg"
-                },
-                "hand-6": {
-                    "value": "assets/illustrations/spots/hand-6.svg"
-                },
-                "idea": {
-                    "value": "assets/illustrations/spots/idea.svg"
-                },
-                "information-security": {
-                    "value": "assets/illustrations/spots/information-security.svg"
-                },
-                "letter-1": {
-                    "value": "assets/illustrations/spots/letter-1.svg"
-                },
-                "letter-cancel-error": {
-                    "value": "assets/illustrations/spots/letter-cancel-error.svg"
-                },
-                "letter-check-okay": {
-                    "value": "assets/illustrations/spots/letter-check-okay.svg"
-                },
-                "letter-close": {
-                    "value": "assets/illustrations/spots/letter-close.svg"
-                },
-                "letter-empty": {
-                    "value": "assets/illustrations/spots/letter-empty.svg"
-                },
-                "letter-error-empty": {
-                    "value": "assets/illustrations/spots/letter-error-empty.svg"
-                },
-                "letter-invite-blip": {
-                    "value": "assets/illustrations/spots/letter-invite-blip.svg"
-                },
-                "letter-search-avatars": {
-                    "value": "assets/illustrations/spots/letter-search-avatars.svg"
-                },
-                "letter-search-question": {
-                    "value": "assets/illustrations/spots/letter-search-question.svg"
-                },
-                "lock-1": {
-                    "value": "assets/illustrations/spots/lock-1.svg"
-                },
-                "lock-2": {
-                    "value": "assets/illustrations/spots/lock-2.svg"
-                },
-                "map": {
-                    "value": "assets/illustrations/spots/map.svg"
-                },
-                "message-notification": {
-                    "value": "assets/illustrations/spots/message-notification.svg"
-                },
-                "new-feature": {
-                    "value": "assets/illustrations/spots/new-feature.svg"
-                },
-                "notification-1": {
-                    "value": "assets/illustrations/spots/notification-1.svg"
-                },
-                "paper-plane": {
-                    "value": "assets/illustrations/spots/paper-plane.svg"
-                },
-                "password": {
-                    "value": "assets/illustrations/spots/password.svg"
-                },
-                "pie-chart": {
-                    "value": "assets/illustrations/spots/pie-chart.svg"
-                },
-                "pizza": {
-                    "value": "assets/illustrations/spots/pizza.svg"
-                },
-                "profile-1": {
-                    "value": "assets/illustrations/spots/profile-1.svg"
-                },
-                "rocket": {
-                    "value": "assets/illustrations/spots/rocket.svg"
-                },
-                "send-ticket": {
-                    "value": "assets/illustrations/spots/send-ticket.svg"
-                },
-                "speak-bubble": {
-                    "value": "assets/illustrations/spots/speak-bubble.svg"
-                },
-                "ticket": {
-                    "value": "assets/illustrations/spots/ticket.svg"
-                }
-            }
-        }
+  "asset": {
+    "default_accessibility-1": {
+      "svg": {
+        "value": "assets/illustrations/default/accessibility-1.svg"
+      }
+    },
+    "default_accessibility-2": {
+      "svg": {
+        "value": "assets/illustrations/default/accessibility-2.svg"
+      }
+    },
+    "default_accessibility-3": {
+      "svg": {
+        "value": "assets/illustrations/default/accessibility-3.svg"
+      }
+    },
+    "default_accessibility-4": {
+      "svg": {
+        "value": "assets/illustrations/default/accessibility-4.svg"
+      }
+    },
+    "default_accessibility-5": {
+      "svg": {
+        "value": "assets/illustrations/default/accessibility-5.svg"
+      }
+    },
+    "default_accessibility-6": {
+      "svg": {
+        "value": "assets/illustrations/default/accessibility-6.svg"
+      }
+    },
+    "default_agent1": {
+      "svg": {
+        "value": "assets/illustrations/default/agent-1.svg"
+      }
+    },
+    "default_agent2": {
+      "svg": {
+        "value": "assets/illustrations/default/agent-2.svg"
+      }
+    },
+    "default_agent-flat-1": {
+      "svg": {
+        "value": "assets/illustrations/default/agent-flat-1.svg"
+      }
+    },
+    "default_agent-flat-2": {
+      "svg": {
+        "value": "assets/illustrations/default/agent-flat-2.svg"
+      }
+    },
+    "default_agent-flat-3": {
+      "svg": {
+        "value": "assets/illustrations/default/agent-flat-3.svg"
+      }
+    },
+    "default_agent-flat-4": {
+      "svg": {
+        "value": "assets/illustrations/default/agent-flat-4.svg"
+      }
+    },
+    "default_atention": {
+      "svg": {
+        "value": "assets/illustrations/default/atention.svg"
+      }
+    },
+    "default_attendance-1": {
+      "svg": {
+        "value": "assets/illustrations/default/attendance-1.svg"
+      }
+    },
+    "default_attendance-2": {
+      "svg": {
+        "value": "assets/illustrations/default/attendance-2.svg"
+      }
+    },
+    "default_attendance-3": {
+      "svg": {
+        "value": "assets/illustrations/default/attendance-3.svg"
+      }
+    },
+    "default_attendance-4": {
+      "svg": {
+        "value": "assets/illustrations/default/attendance-4.svg"
+      }
+    },
+    "default_blip-chat": {
+      "svg": {
+        "value": "assets/illustrations/default/blip-chat.svg"
+      }
+    },
+    "default_blip-chat-health": {
+      "svg": {
+        "value": "assets/illustrations/default/blip-chat-health.svg"
+      }
+    },
+    "default_blip-chat-logistic": {
+      "svg": {
+        "value": "assets/illustrations/default/blip-chat-logistic.svg"
+      }
+    },
+    "default_blip-chat-marketing": {
+      "svg": {
+        "value": "assets/illustrations/default/blip-chat-marketing.svg"
+      }
+    },
+    "default_blip-chat-sales": {
+      "svg": {
+        "value": "assets/illustrations/default/blip-chat-sales-1.svg"
+      }
+    },
+    "default_blip-ideas-blue-bg": {
+      "svg": {
+        "value": "assets/illustrations/default/blip-ideas-blue-bg.svg"
+      }
+    },
+    "default_blip-ideas": {
+      "svg": {
+        "value": "assets/illustrations/default/blip-ideas.svg"
+      }
+    },
+    "default_blip-sales": {
+      "svg": {
+        "value": "assets/illustrations/default/blip-sales.svg"
+      }
+    },
+    "default_boy-computer": {
+      "svg": {
+        "value": "assets/illustrations/default/boy-computer.svg"
+      }
+    },
+    "default_chat-bank": {
+      "svg": {
+        "value": "assets/illustrations/default/chat-bank.svg"
+      }
+    },
+    "default_chat-sales": {
+      "svg": {
+        "value": "assets/illustrations/default/chat-sales.svg"
+      }
+    },
+    "default_collaboration-1": {
+      "svg": {
+        "value": "assets/illustrations/default/collaboration-1.svg"
+      }
+    },
+    "default_collaboration-2": {
+      "svg": {
+        "value": "assets/illustrations/default/collaboration-2.svg"
+      }
+    },
+    "default_collaboration-3": {
+      "svg": {
+        "value": "assets/illustrations/default/collaboration-3.svg"
+      }
+    },
+    "default_cookie": {
+      "svg": {
+        "value": "assets/illustrations/default/cookie.svg"
+      }
+    },
+    "default_delivery-chat": {
+      "svg": {
+        "value": "assets/illustrations/default/delivery-chat.svg"
+      }
+    },
+    "default_ecossystem-1": {
+      "svg": {
+        "value": "assets/illustrations/default/ecossystem-1.svg"
+      }
+    },
+    "default_error": {
+      "svg": {
+        "value": "assets/illustrations/default/error.svg"
+      }
+    },
+    "default_exchange-person": {
+      "svg": {
+        "value": "assets/illustrations/default/exchange-person.svg"
+      }
+    },
+    "default_faq": {
+      "svg": {
+        "value": "assets/illustrations/default/faq.svg"
+      }
+    },
+    "default_girl-email": {
+      "svg": {
+        "value": "assets/illustrations/default/girl-email.svg"
+      }
+    },
+    "default_girl-tablet": {
+      "svg": {
+        "value": "assets/illustrations/default/girl-tablet.svg"
+      }
+    },
+    "default_loading-error": {
+      "svg": {
+        "value": "assets/illustrations/default/loading-error.svg"
+      }
+    },
+    "default_management": {
+      "svg": {
+        "value": "assets/illustrations/default/management.svg"
+      }
+    },
+    "default_message-template-1": {
+      "svg": {
+        "value": "assets/illustrations/default/message-template-1.svg"
+      }
+    },
+    "default_message-template-2": {
+      "svg": {
+        "value": "assets/illustrations/default/message-template-2.svg"
+      }
+    },
+    "default_newsletter": {
+      "svg": {
+        "value": "assets/illustrations/default/newsletter.svg"
+      }
+    },
+    "default_rganizations": {
+      "svg": {
+        "value": "assets/illustrations/default/organizations.svg"
+      }
+    },
+    "default_plataform-1": {
+      "svg": {
+        "value": "assets/illustrations/default/plataform-1.svg"
+      }
+    },
+    "default_professional-1": {
+      "svg": {
+        "value": "assets/illustrations/default/professional-1.svg"
+      }
+    },
+    "default_professional-2": {
+      "svg": {
+        "value": "assets/illustrations/default/professional-2.svg"
+      }
+    },
+    "default_professional-3": {
+      "svg": {
+        "value": "assets/illustrations/default/professional-3.svg"
+      }
+    },
+    "default_professional-4": {
+      "svg": {
+        "value": "assets/illustrations/default/professional-4.svg"
+      }
+    },
+    "default_professional-5": {
+      "svg": {
+        "value": "assets/illustrations/default/professional-5.svg"
+      }
+    },
+    "default_professional-6": {
+      "svg": {
+        "value": "assets/illustrations/default/professional-6.svg"
+      }
+    },
+    "default_professional-7": {
+      "svg": {
+        "value": "assets/illustrations/default/professional-7.svg"
+      }
+    },
+    "default_professional-8": {
+      "svg": {
+        "value": "assets/illustrations/default/professional-8.svg"
+      }
+    },
+    "default_rating-1": {
+      "svg": {
+        "value": "assets/illustrations/default/rating-1.svg"
+      }
+    },
+    "default_rh-hunting": {
+      "svg": {
+        "value": "assets/illustrations/default/rh-hunting.svg"
+      }
+    },
+    "default_ringtones": {
+      "svg": {
+        "value": "assets/illustrations/default/ringtones.svg"
+      }
+    },
+    "default_robot-flat": {
+      "svg": {
+        "value": "assets/illustrations/default/robot-flat.svg"
+      }
+    },
+    "default_robot": {
+      "svg": {
+        "value": "assets/illustrations/default/robot.svg"
+      }
+    },
+    "default_robot-2": {
+      "svg": {
+        "value": "assets/illustrations/default/robot-2.svg"
+      }
+    },
+    "default_robot-3": {
+      "svg": {
+        "value": "assets/illustrations/default/robot-3.svg"
+      }
+    },
+    "default_robot-4": {
+      "svg": {
+        "value": "assets/illustrations/default/robot-4.svg"
+      }
+    },
+    "default_robot-5": {
+      "svg": {
+        "value": "assets/illustrations/default/robot-5.svg"
+      }
+    },
+    "default_robot-6": {
+      "svg": {
+        "value": "assets/illustrations/default/robot-6.svg"
+      }
+    },
+    "default_robots": {
+      "svg": {
+        "value": "assets/illustrations/default/robots.svg"
+      }
+    },
+    "default_search": {
+      "svg": {
+        "value": "assets/illustrations/default/search.svg"
+      }
+    },
+    "default_search-1": {
+      "svg": {
+        "value": "assets/illustrations/default/search-1.svg"
+      }
+    },
+    "default_search-2": {
+      "svg": {
+        "value": "assets/illustrations/default/search-2.svg"
+      }
+    },
+    "default_settings-1": {
+      "svg": {
+        "value": "assets/illustrations/default/settings-1.svg"
+      }
+    },
+    "default_segmentos": {
+      "svg": {
+        "value": "assets/illustrations/default/segmentos.svg"
+      }
+    },
+    "default_stilingue-1": {
+      "svg": {
+        "value": "assets/illustrations/default/stilingue-1.svg"
+      }
+    },
+    "default_stilingue-2": {
+      "svg": {
+        "value": "assets/illustrations/default/stilingue-2.svg"
+      }
+    },
+    "default_stilingue-3": {
+      "svg": {
+        "value": "assets/illustrations/default/stilingue-3.svg"
+      }
+    },
+    "default_stilingue-4": {
+      "svg": {
+        "value": "assets/illustrations/default/stilingue-4.svg"
+      }
+    },
+    "default_solicitation": {
+      "svg": {
+        "value": "assets/illustrations/default/solicitation.svg"
+      }
+    },
+    "default_solutions-agent": {
+      "svg": {
+        "value": "assets/illustrations/default/solutions-agent.svg"
+      }
+    },
+    "default_suprise": {
+      "svg": {
+        "value": "assets/illustrations/default/surprise.svg"
+      }
+    },
+    "default_talking": {
+      "svg": {
+        "value": "assets/illustrations/default/talking.svg"
+      }
+    },
+    "default_tangram": {
+      "svg": {
+        "value": "assets/illustrations/default/tangram.svg"
+      }
+    },
+    "default_team-work": {
+      "svg": {
+        "value": "assets/illustrations/default/team-work.svg"
+      }
+    },
+    "default_time": {
+      "svg": {
+        "value": "assets/illustrations/default/time.svg"
+      }
+    },
+    "default_time-1": {
+      "svg": {
+        "value": "assets/illustrations/default/time-1.svg"
+      }
+    },
+    "default_time-2": {
+      "svg": {
+        "value": "assets/illustrations/default/time-2.svg"
+      }
+    },
+    "default_user-1": {
+      "svg": {
+        "value": "assets/illustrations/default/user-1.svg"
+      }
+    },
+    "default_user-2": {
+      "svg": {
+        "value": "assets/illustrations/default/user-2.svg"
+      }
+    },
+    "default_user-3": {
+      "svg": {
+        "value": "assets/illustrations/default/user-3.svg"
+      }
+    },
+    "default_user-4": {
+      "svg": {
+        "value": "assets/illustrations/default/user-4.svg"
+      }
+    },
+    "default_user-plataform": {
+      "svg": {
+        "value": "assets/illustrations/default/user-plataform.svg"
+      }
+    },
+    "default_webhook": {
+      "svg": {
+        "value": "assets/illustrations/default/webhook.svg"
+      }
+    },
+    "default_welcome-blip": {
+      "svg": {
+        "value": "assets/illustrations/default/welcome-blip.svg"
+      }
+    },
+    "default_whatsapp-web": {
+      "svg": {
+        "value": "assets/illustrations/default/whatsapp-web.svg"
+      }
+    },
+    "default_whatsapp": {
+      "svg": {
+        "value": "assets/illustrations/default/whatsapp.svg"
+      }
+    },
+    "blip-outline_agent": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/agent.svg"
+      }
+    },
+    "blip-outline_bored": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/bored.svg"
+      }
+    },
+    "blip-outline_cry": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/cry.svg"
+      }
+    },
+    "blip-outline_curious": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/curious.svg"
+      }
+    },
+    "blip-outline_embaresed": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/embaresed.svg"
+      }
+    },
+    "blip-outline_friendly": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/friendly.svg"
+      }
+    },
+    "blip-outline_happy": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/happy.svg"
+      }
+    },
+    "blip-outline_laughing": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/laughing.svg"
+      }
+    },
+    "blip-outline_lol": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/lol.svg"
+      }
+    },
+    "blip-outline_lovely": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/lovely.svg"
+      }
+    },
+    "blip-outline_naughty": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/naughty.svg"
+      }
+    },
+    "blip-outline_party": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/party.svg"
+      }
+    },
+    "blip-outline_playful-1": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/playful-1.svg"
+      }
+    },
+    "blip-outline_playful-2": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/playful-2.svg"
+      }
+    },
+    "blip-outline_playful-3": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/playful-3.svg"
+      }
+    },
+    "blip-outline_poker-face": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/poker-face.svg"
+      }
+    },
+    "blip-outline_rised-eyebrow": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/rised-eyebrow.svg"
+      }
+    },
+    "blip-outline_sad": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/sad.svg"
+      }
+    },
+    "blip-outline_satisfact": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/satisfact.svg"
+      }
+    },
+    "blip-outline_search": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/search.svg"
+      }
+    },
+    "blip-outline_sherlock": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/sherlock.svg"
+      }
+    },
+    "blip-outline_shy": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/shy.svg"
+      }
+    },
+    "blip-outline_sleepy": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/sleepy.svg"
+      }
+    },
+    "blip-outline_smart": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/smart.svg"
+      }
+    },
+    "blip-outline_smiley": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/smiley.svg"
+      }
+    },
+    "blip-outline_thug-life": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/thug-life.svg"
+      }
+    },
+    "blip-outline_wink": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/wink.svg"
+      }
+    },
+    "blip-outline_worker": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/worker.svg"
+      }
+    },
+    "blip-outline_wow": {
+      "svg": {
+        "value": "assets/illustrations/blip-outline/wow.svg"
+      }
+    },
+    "blip-solid_agent": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/agent.svg"
+      }
+    },
+    "blip-solid_bag": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/bag.svg"
+      }
+    },
+    "blip-solid_bone": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/bone.svg"
+      }
+    },
+    "blip-solid_cap": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/cap.svg"
+      }
+    },
+    "blip-solid_coffee": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/coffee.svg"
+      }
+    },
+    "blip-solid_gift": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/gift.svg"
+      }
+    },
+    "blip-solid_headphones": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/headphones.svg"
+      }
+    },
+    "blip-solid_heart": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/heart.svg"
+      }
+    },
+    "blip-solid_hi": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/hi.svg"
+      }
+    },
+    "blip-solid_message": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/message.svg"
+      }
+    },
+    "blip-solid_phone": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/phone.svg"
+      }
+    },
+    "blip-solid_raised-eyebrow": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/raised-eyebrow.svg"
+      }
+    },
+    "blip-solid_skate": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/skate.svg"
+      }
+    },
+    "blip-solid_sport": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/sport.svg"
+      }
+    },
+    "blip-solid_baby": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/baby.svg"
+      }
+    },
+    "blip-solid_bored": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/bored.svg"
+      }
+    },
+    "blip-solid_bunny": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/bunny.svg"
+      }
+    },
+    "blip-solid_cry": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/cry.svg"
+      }
+    },
+    "blip-solid_curious": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/curious.svg"
+      }
+    },
+    "blip-solid_developer": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/developer.svg"
+      }
+    },
+    "blip-solid_embaresed": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/embaresed.svg"
+      }
+    },
+    "blip-solid_fortune-teller": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/fortune-teller.svg"
+      }
+    },
+    "blip-solid_friendly": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/friendly.svg"
+      }
+    },
+    "blip-solid_happy": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/happy.svg"
+      }
+    },
+    "blip-solid_laughing": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/laughing.svg"
+      }
+    },
+    "blip-solid_lol": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/lol.svg"
+      }
+    },
+    "blip-solid_lovely": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/lovely.svg"
+      }
+    },
+    "blip-solid_naughty": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/naughty.svg"
+      }
+    },
+    "blip-solid_party": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/party.svg"
+      }
+    },
+    "blip-solid_playful-1": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/playful-1.svg"
+      }
+    },
+    "blip-solid_playful-2": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/playful-2.svg"
+      }
+    },
+    "blip-solid_playful-3": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/playful-3.svg"
+      }
+    },
+    "blip-solid_poker-face": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/poker-face.svg"
+      }
+    },
+    "blip-solid_rised-eyebrow": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/rised-eyebrow.svg"
+      }
+    },
+    "blip-solid_sad": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/sad.svg"
+      }
+    },
+    "blip-solid_satisfact": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/satisfact.svg"
+      }
+    },
+    "blip-solid_serene": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/serene.svg"
+      }
+    },
+    "blip-solid_sherlock": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/sherlock.svg"
+      }
+    },
+    "blip-solid_shy": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/shy.svg"
+      }
+    },
+    "blip-solid_sleepy": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/sleepy.svg"
+      }
+    },
+    "blip-solid_smart": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/smart.svg"
+      }
+    },
+    "blip-solid_smiley": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/smiley.svg"
+      }
+    },
+    "blip-solid_thug-life": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/thug-life.svg"
+      }
+    },
+    "blip-solid_wink": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/wink.svg"
+      }
+    },
+    "blip-solid_worker": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/worker.svg"
+      }
+    },
+    "blip-solid_wow": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/wow.svg"
+      }
+    },
+    "screen_dashboard": {
+      "svg": {
+        "value": "assets/illustrations/screens/dashboard.svg"
+      }
+    },
+    "screen_screen-home": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-home.svg"
+      }
+    },
+    "screen_screen-control-panel": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-control-panel.svg"
+      }
+    },
+    "screen_screen-builder": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-builder.svg"
+      }
+    },
+    "screen_screen-desk": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-desk.svg"
+      }
+    },
+    "screen_screen-users": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-users.svg"
+      }
+    },
+    "screen_screen-report": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-report.svg"
+      }
+    },
+    "screen_screen-blipchat": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-blipchat.svg"
+      }
+    },
+    "screen_screen-whatsapp": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-whatsapp.svg"
+      }
+    },
+    "screen_screen-home-off": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-home-off.svg"
+      }
+    },
+    "screen_screen-control-panel-off": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-control-panel-off.svg"
+      }
+    },
+    "screen_screen-builder-off": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-builder-off.svg"
+      }
+    },
+    "screen_screen-desk-off": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-desk-off.svg"
+      }
+    },
+    "screen_screen-users-off": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-users-off.svg"
+      }
+    },
+    "screen_screen-report-off": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-report-off.svg"
+      }
+    },
+    "screen_screen-blipchat-off": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-blipchat-off.svg"
+      }
+    },
+    "screen_screen-whatsapp-off": {
+      "svg": {
+        "value": "assets/illustrations/screens/screen-whatsapp-off.svg"
+      }
+    },
+    "logo-integration_blip-instagram": {
+      "svg": {
+        "value": "assets/illustrations/logo-integration/blip-instagram.svg"
+      }
+    },
+    "logo-integration_blip-messenger": {
+      "svg": {
+        "value": "assets/illustrations/logo-integration/blip-messenger.svg"
+      }
+    },
+    "logo-integration_blip-whatsapp": {
+      "svg": {
+        "value": "assets/illustrations/logo-integration/blip-whatsapp.svg"
+      }
+    },
+    "brand_blip-academy-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-academy-black.svg"
+      }
+    },
+    "brand_blip-academy-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-academy-blue-black.svg"
+      }
+    },
+    "brand_blip-academy-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-academy-blue-white.svg"
+      }
+    },
+    "brand_blip-academy-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-academy-white.svg"
+      }
+    },
+    "brand_blip-assist-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-assist-black-horizontal.svg"
+      }
+    },
+    "brand_blip-assist-blue-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-assist-blue-black-horizontal.svg"
+      }
+    },
+    "brand_blip-assist-blue-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-assist-blue-white-horizontal.svg"
+      }
+    },
+    "brand_blip-assist-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-assist-white-horizontal.svg"
+      }
+    },
+    "brand_blip-blog-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-blog-blue-black.svg"
+      }
+    },
+    "brand_blip-blog-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-blog-blue-white.svg"
+      }
+    },
+    "brand_blip-builder-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-builder-black.svg"
+      }
+    },
+    "brand_blip-builder-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-builder-blue-black.svg"
+      }
+    },
+    "brand_blip-builder-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-builder-blue-white.svg"
+      }
+    },
+    "brand_blip-builder-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-builder-white.svg"
+      }
+    },
+    "brand_blip-docs-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-docs-black.svg"
+      }
+    },
+    "brand_blip-docs-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-docs-blue-black.svg"
+      }
+    },
+    "brand_blip-docs-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-docs-blue-white.svg"
+      }
+    },
+    "brand_blip-docs-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-docs-white.svg"
+      }
+    },
+    "brand_blip-ecosystem-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ecosystem-black.svg"
+      }
+    },
+    "brand_blip-ecosystem-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ecosystem-blue-black.svg"
+      }
+    },
+    "brand_blip-ecosystem-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ecosystem-blue-white.svg"
+      }
+    },
+    "brand_blip-ecosystem-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ecosystem-white.svg"
+      }
+    },
+    "brand_blip-foods-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-foods-black.svg"
+      }
+    },
+    "brand_blip-foods-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-foods-blue-black.svg"
+      }
+    },
+    "brand_blip-foods-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-foods-blue-white.svg"
+      }
+    },
+    "brand_blip-foods-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-foods-white.svg"
+      }
+    },
+    "brand_blip-go-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-go-black.svg"
+      }
+    },
+    "brand_blip-go-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-go-blue-black.svg"
+      }
+    },
+    "brand_blip-go-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-go-blue-white.svg"
+      }
+    },
+    "brand_blip-go-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-go-white.svg"
+      }
+    },
+    "brand_blip-news-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-news-black.svg"
+      }
+    },
+    "brand_blip-news-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-news-blue-black.svg"
+      }
+    },
+    "brand_blip-news-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-news-blue-white.svg"
+      }
+    },
+    "brand_blip-news-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-news-white.svg"
+      }
+    },
+    "brand_blip-packs-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-packs-black.svg"
+      }
+    },
+    "brand_blip-packs-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-packs-blue-black.svg"
+      }
+    },
+    "brand_blip-packs-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-packs-blue-white.svg"
+      }
+    },
+    "brand_blip-packs-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-packs-white.svg"
+      }
+    },
+    "brand_blip-packspace-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-packspace-black.svg"
+      }
+    },
+    "brand_blip-packspace-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-packspace-blue-black.svg"
+      }
+    },
+    "brand_blip-packspace-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-packspace-blue-white.svg"
+      }
+    },
+    "brand_blip-packspace-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-packspace-white.svg"
+      }
+    },
+    "brand_blip-partner-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-partner-black.svg"
+      }
+    },
+    "brand_blip-partner-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-partner-blue-black.svg"
+      }
+    },
+    "brand_blip-partner-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-partner-blue-white.svg"
+      }
+    },
+    "brand_blip-partner-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-partner-white.svg"
+      }
+    },
+    "brand_blip-payments-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-payments-black.svg"
+      }
+    },
+    "brand_blip-payments-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-payments-blue-black.svg"
+      }
+    },
+    "brand_blip-payments-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-payments-blue-white.svg"
+      }
+    },
+    "brand_blip-payments-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-payments-white.svg"
+      }
+    },
+    "brand_blip-purpose-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-purpose-black.svg"
+      }
+    },
+    "brand_blip-purpose-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-purpose-blue-black.svg"
+      }
+    },
+    "brand_blip-purpose-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-purpose-blue-white.svg"
+      }
+    },
+    "brand_blip-purpose-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-purpose-white.svg"
+      }
+    },
+    "brand_blip-shop-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-shop-black.svg"
+      }
+    },
+    "brand_blip-shop-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-shop-blue-black.svg"
+      }
+    },
+    "brand_blip-shop-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-shop-blue-white.svg"
+      }
+    },
+    "brand_blip-shop-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-shop-white.svg"
+      }
+    },
+    "brand_blip-status-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-status-black.svg"
+      }
+    },
+    "brand_blip-status-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-status-blue-black.svg"
+      }
+    },
+    "brand_blip-status-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-status-blue-white.svg"
+      }
+    },
+    "brand_blip-status-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-status-white.svg"
+      }
+    },
+    "brand_blip-store-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-store-black.svg"
+      }
+    },
+    "brand_blip-store-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-store-blue-black.svg"
+      }
+    },
+    "brand_blip-store-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-store-blue-white.svg"
+      }
+    },
+    "brand_blip-store-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-store-white.svg"
+      }
+    },
+    "brand_blip-think-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-think-black.svg"
+      }
+    },
+    "brand_blip-think-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-think-blue-black.svg"
+      }
+    },
+    "brand_blip-think-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-think-blue-white.svg"
+      }
+    },
+    "brand_blip-think-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-think-white.svg"
+      }
+    },
+    "brand_blip-time-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-time-black.svg"
+      }
+    },
+    "brand_blip-time-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-time-blue-black.svg"
+      }
+    },
+    "brand_blip-time-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-time-blue-white.svg"
+      }
+    },
+    "brand_blip-time-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-time-white.svg"
+      }
+    },
+    "brand_blip-tools-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-tools-black.svg"
+      }
+    },
+    "brand_blip-tools-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-tools-blue-black.svg"
+      }
+    },
+    "brand_blip-tools-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-tools-blue-white.svg"
+      }
+    },
+    "brand_blip-tools-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-tools-white.svg"
+      }
+    },
+    "brand_blip-trust-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-trust-black.svg"
+      }
+    },
+    "brand_blip-trust-blue-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-trust-blue-black.svg"
+      }
+    },
+    "brand_blip-trust-blue-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-trust-blue-white.svg"
+      }
+    },
+    "brand_blip-trust-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-trust-white.svg"
+      }
+    },
+    "brand_take-blip-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/take-blip-black-horizontal.svg"
+      }
+    },
+    "brand_take-blip-black-vertical": {
+      "svg": {
+        "value": "assets/illustrations/brand/take-blip-black-vertical.svg"
+      }
+    },
+    "brand_take-blip-blue-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/take-blip-blue-black-horizontal.svg"
+      }
+    },
+    "brand_take-blip-blue-black-vertical": {
+      "svg": {
+        "value": "assets/illustrations/brand/take-blip-blue-black-vertical.svg"
+      }
+    },
+    "brand_take-blip-blue-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/take-blip-blue-white-horizontal.svg"
+      }
+    },
+    "brand_take-blip-blue-white-vertical": {
+      "svg": {
+        "value": "assets/illustrations/brand/take-blip-blue-white-vertical.svg"
+      }
+    },
+    "brand_take-blip-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/take-blip-white-horizontal.svg"
+      }
+    },
+    "brand_take-blip-white-vertical": {
+      "svg": {
+        "value": "assets/illustrations/brand/take-blip-white-vertical.svg"
+      }
+    },
+    "brand_blip-ballon-blue": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ballon-blue.svg"
+      }
+    },
+    "brand_blip-ballon-blue-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ballon-blue-black-horizontal.svg"
+      }
+    },
+    "brand_blip-ballon-blue-black-vertical": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ballon-blue-black-vertical.svg"
+      }
+    },
+    "brand_blip-ballon-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ballon-white.svg"
+      }
+    },
+    "brand_blip-ballon-blue-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ballon-blue-white-horizontal.svg"
+      }
+    },
+    "brand_blip-ballon-blue-white-vertical": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ballon-blue-white-vertical.svg"
+      }
+    },
+    "brand_blip-ballon-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ballon-white-horizontal.svg"
+      }
+    },
+    "brand_blip-ballon-white-vertical": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ballon-white-vertical.svg"
+      }
+    },
+    "brand_blip-desk-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-desk-black-horizontal.svg"
+      }
+    },
+    "brand_blip-desk-blue-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-desk-blue-black-horizontal.svg"
+      }
+    },
+    "brand_blip-desk-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-desk-white-horizontal.svg"
+      }
+    },
+    "brand_blip-desk-blue-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-desk-blue-white-horizontal.svg"
+      }
+    },
+    "brand_blip-community-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-community-black-horizontal.svg"
+      }
+    },
+    "brand_blip-community-blue-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-community-blue-black-horizontal.svg"
+      }
+    },
+    "brand_blip-community-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-community-white-horizontal.svg"
+      }
+    },
+    "brand_blip-community-blue-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-community-blue-white-horizontal.svg"
+      }
+    },
+    "brand_blip-ideas-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ideas-black-horizontal.svg"
+      }
+    },
+    "brand_blip-ideas-blue-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ideas-blue-black-horizontal.svg"
+      }
+    },
+    "brand_blip-ideas-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ideas-white-horizontal.svg"
+      }
+    },
+    "brand_blip-ideas-blue-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ideas-blue-white-horizontal.svg"
+      }
+    },
+    "brand_blip-chat-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-chat-black-horizontal.svg"
+      }
+    },
+    "brand_blip-chat-blue-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-chat-blue-black-horizontal.svg"
+      }
+    },
+    "brand_blip-chat-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-chat-white-horizontal.svg"
+      }
+    },
+    "brand_blip-chat-blue-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-chat-blue-white-horizontal.svg"
+      }
+    },
+    "brand_blip-support-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-support-black-horizontal.svg"
+      }
+    },
+    "brand_blip-support-blue-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-support-blue-black-horizontal.svg"
+      }
+    },
+    "brand_blip-support-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-support-white-horizontal.svg"
+      }
+    },
+    "brand_blip-support-blue-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-support-blue-white-horizontal.svg"
+      }
+    },
+    "brand_blip-help-center-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-help-center-black-horizontal.svg"
+      }
+    },
+    "brand_blip-help-center-blue-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-help-center-blue-black-horizontal.svg"
+      }
+    },
+    "brand_blip-help-center-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-help-center-white-horizontal.svg"
+      }
+    },
+    "brand_blip-help-center-blue-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-help-center-blue-white-horizontal.svg"
+      }
+    },
+    "brand_sti-blue-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/sti-blue-horizontal.svg"
+      }
+    },
+    "brand_sti-blue-symbol": {
+      "svg": {
+        "value": "assets/illustrations/brand/sti-blue-symbol.svg"
+      }
+    },
+    "brand_sti-blue-vertical": {
+      "svg": {
+        "value": "assets/illustrations/brand/sti-blue-vertical.svg"
+      }
+    },
+    "brand_sti-white-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/sti-white-horizontal.svg"
+      }
+    },
+    "brand_sti-white-vertical": {
+      "svg": {
+        "value": "assets/illustrations/brand/sti-white-vertical.svg"
+      }
+    },
+    "brand_sti-white-vertical-symbol": {
+      "svg": {
+        "value": "assets/illustrations/brand/sti-white-vertical-symbol.svg"
+      }
+    },
+    "empty_states-agent-1": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/agent-1.svg"
+      }
+    },
+    "empty_states-agent-2": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/agent-2.svg"
+      }
+    },
+    "empty_states-box": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/box.svg"
+      }
+    },
+    "empty_states-clock": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/clock.svg"
+      }
+    },
+    "empty_states-column-chart": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/column-chart.svg"
+      }
+    },
+    "empty_states-glad": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/glad.svg"
+      }
+    },
+    "empty_states-letter-search-question": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/letter-search-question.svg"
+      }
+    },
+    "empty_states-robot": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/robot.svg"
+      }
+    },
+    "empty_states-robot-1": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/robot-1.svg"
+      }
+    },
+    "segmented_cart-selected": {
+      "svg": {
+        "value": "assets/illustrations/segmented/cart-selected.svg"
+      }
+    },
+    "segmented_catalog-option": {
+      "svg": {
+        "value": "assets/illustrations/segmented/catalog-option.svg"
+      }
+    },
+    "segmented_item-overview": {
+      "svg": {
+        "value": "assets/illustrations/segmented/item-overview.svg"
+      }
+    },
+    "segmented_send-catalog": {
+      "svg": {
+        "value": "assets/illustrations/segmented/send-catalog.svg"
+      }
+    },
+    "smartphone_blip-chat-1": {
+      "svg": {
+        "value": "assets/illustrations/smartphone/blip-chat-1.svg"
+      }
+    },
+    "smartphone_blip-chat-2": {
+      "svg": {
+        "value": "assets/illustrations/smartphone/blip-chat-2.svg"
+      }
+    },
+    "smartphone_blip-chat-3": {
+      "svg": {
+        "value": "assets/illustrations/smartphone/blip-chat-3.svg"
+      }
+    },
+    "smartphone_digital-scanning-1": {
+      "svg": {
+        "value": "assets/illustrations/smartphone/digital-scanning-1.svg"
+      }
+    },
+    "smartphone_digital-scanning-2": {
+      "svg": {
+        "value": "assets/illustrations/smartphone/digital-scanning-2.svg"
+      }
+    },
+    "spots_air-ballon": {
+      "svg": {
+        "value": "assets/illustrations/spots/air-balloon.svg"
+      }
+    },
+    "spots_analytics-satisfaction": {
+      "svg": {
+        "value": "assets/illustrations/spots/analytics-satisfaction.svg"
+      }
+    },
+    "spots_avatar": {
+      "svg": {
+        "value": "assets/illustrations/spots/avatar.svg"
+      }
+    },
+    "spots_bill-1": {
+      "svg": {
+        "value": "assets/illustrations/spots/bill-1.svg"
+      }
+    },
+    "spots_binoculars": {
+      "svg": {
+        "value": "assets/illustrations/spots/binoculars.svg"
+      }
+    },
+    "spots_bot-list": {
+      "svg": {
+        "value": "assets/illustrations/spots/bot-list.svg"
+      }
+    },
+    "spots_clock-1": {
+      "svg": {
+        "value": "assets/illustrations/spots/clock-1.svg"
+      }
+    },
+    "spots_clock-2": {
+      "svg": {
+        "value": "assets/illustrations/spots/clock-2.svg"
+      }
+    },
+    "spots_column-chart": {
+      "svg": {
+        "value": "assets/illustrations/spots/column-chart.svg"
+      }
+    },
+    "spots_connectivity": {
+      "svg": {
+        "value": "assets/illustrations/spots/connectivity.svg"
+      }
+    },
+    "spots_empty": {
+      "svg": {
+        "value": "assets/illustrations/spots/empty.svg"
+      }
+    },
+    "spots_folder-1": {
+      "svg": {
+        "value": "assets/illustrations/spots/folder-1.svg"
+      }
+    },
+    "spots_folder-2": {
+      "svg": {
+        "value": "assets/illustrations/spots/folder-2.svg"
+      }
+    },
+    "spots_folder-3": {
+      "svg": {
+        "value": "assets/illustrations/spots/folder-3.svg"
+      }
+    },
+    "spots_folder-4": {
+      "svg": {
+        "value": "assets/illustrations/spots/folder-4.svg"
+      }
+    },
+    "spots_folder-5": {
+      "svg": {
+        "value": "assets/illustrations/spots/folder-5.svg"
+      }
+    },
+    "spots_folder-6": {
+      "svg": {
+        "value": "assets/illustrations/spots/folder-6.svg"
+      }
+    },
+    "spots_folder-7": {
+      "svg": {
+        "value": "assets/illustrations/spots/folder-7.svg"
+      }
+    },
+    "spots_glad": {
+      "svg": {
+        "value": "assets/illustrations/spots/glad.svg"
+      }
+    },
+    "spots_greeting-1": {
+      "svg": {
+        "value": "assets/illustrations/spots/greeting-1.svg"
+      }
+    },
+    "spots_greeting-2": {
+      "svg": {
+        "value": "assets/illustrations/spots/greeting-2.svg"
+      }
+    },
+    "spots_hand-1": {
+      "svg": {
+        "value": "assets/illustrations/spots/hand-1.svg"
+      }
+    },
+    "spots_hand-2": {
+      "svg": {
+        "value": "assets/illustrations/spots/hand-2.svg"
+      }
+    },
+    "spots_hand-3": {
+      "svg": {
+        "value": "assets/illustrations/spots/hand-3.svg"
+      }
+    },
+    "spots_hand-4": {
+      "svg": {
+        "value": "assets/illustrations/spots/hand-4.svg"
+      }
+    },
+    "spots_hand-5": {
+      "svg": {
+        "value": "assets/illustrations/spots/hand-5.svg"
+      }
+    },
+    "spots_hand-6": {
+      "svg": {
+        "value": "assets/illustrations/spots/hand-6.svg"
+      }
+    },
+    "spots_idea": {
+      "svg": {
+        "value": "assets/illustrations/spots/idea.svg"
+      }
+    },
+    "spots_information-security": {
+      "svg": {
+        "value": "assets/illustrations/spots/information-security.svg"
+      }
+    },
+    "spots_letter-1": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-1.svg"
+      }
+    },
+    "spots_letter-cancel-error": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-cancel-error.svg"
+      }
+    },
+    "spots_letter-check-okay": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-check-okay.svg"
+      }
+    },
+    "spots_letter-close": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-close.svg"
+      }
+    },
+    "spots_letter-empty": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-empty.svg"
+      }
+    },
+    "spots_letter-error-empty": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-error-empty.svg"
+      }
+    },
+    "spots_letter-invite-blip": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-invite-blip.svg"
+      }
+    },
+    "spots_letter-search-avatars": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-search-avatars.svg"
+      }
+    },
+    "spots_letter-search-question": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-search-question.svg"
+      }
+    },
+    "spots_lock-1": {
+      "svg": {
+        "value": "assets/illustrations/spots/lock-1.svg"
+      }
+    },
+    "spots_lock-2": {
+      "svg": {
+        "value": "assets/illustrations/spots/lock-2.svg"
+      }
+    },
+    "spots_map": {
+      "svg": {
+        "value": "assets/illustrations/spots/map.svg"
+      }
+    },
+    "spots_message-notification": {
+      "svg": {
+        "value": "assets/illustrations/spots/message-notification.svg"
+      }
+    },
+    "spots_new-feature": {
+      "svg": {
+        "value": "assets/illustrations/spots/new-feature.svg"
+      }
+    },
+    "spots_notification-1": {
+      "svg": {
+        "value": "assets/illustrations/spots/notification-1.svg"
+      }
+    },
+    "spots_paper-plane": {
+      "svg": {
+        "value": "assets/illustrations/spots/paper-plane.svg"
+      }
+    },
+    "spots_password": {
+      "svg": {
+        "value": "assets/illustrations/spots/password.svg"
+      }
+    },
+    "spots_pie-chart": {
+      "svg": {
+        "value": "assets/illustrations/spots/pie-chart.svg"
+      }
+    },
+    "spots_pizza": {
+      "svg": {
+        "value": "assets/illustrations/spots/pizza.svg"
+      }
+    },
+    "spots_profile-1": {
+      "svg": {
+        "value": "assets/illustrations/spots/profile-1.svg"
+      }
+    },
+    "spots_rocket": {
+      "svg": {
+        "value": "assets/illustrations/spots/rocket.svg"
+      }
+    },
+    "spots_send-ticket": {
+      "svg": {
+        "value": "assets/illustrations/spots/send-ticket.svg"
+      }
+    },
+    "spots_speak-bubble": {
+      "svg": {
+        "value": "assets/illustrations/spots/speak-bubble.svg"
+      }
+    },
+    "spots_ticket": {
+      "svg": {
+        "value": "assets/illustrations/spots/ticket.svg"
+      }
     }
+  }
 }

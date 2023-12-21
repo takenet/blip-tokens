@@ -83,7 +83,7 @@ const buildIllustrations = () => {
 
   Object.keys(asset).forEach((key) => {
     response.push({
-      destination: `illustrations/${key.split("_")[0]}/${key.split("_")[1]}`,
+      destination: `illustrations/${key.split("_")[0]}/${key.split("_")[1]}.json`,
       format: "json/flat",
       filter: {
         attributes: {

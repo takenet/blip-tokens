@@ -835,87 +835,87 @@
         "value": "assets/illustrations/blip-solid/wow.svg"
       }
     },
-    "screen_dashboard": {
+    "screens_dashboard": {
       "svg": {
         "value": "assets/illustrations/screens/dashboard.svg"
       }
     },
-    "screen_screen-home": {
+    "screens_screen-home": {
       "svg": {
         "value": "assets/illustrations/screens/screen-home.svg"
       }
     },
-    "screen_screen-control-panel": {
+    "screens_screen-control-panel": {
       "svg": {
         "value": "assets/illustrations/screens/screen-control-panel.svg"
       }
     },
-    "screen_screen-builder": {
+    "screens_screen-builder": {
       "svg": {
         "value": "assets/illustrations/screens/screen-builder.svg"
       }
     },
-    "screen_screen-desk": {
+    "screens_screen-desk": {
       "svg": {
         "value": "assets/illustrations/screens/screen-desk.svg"
       }
     },
-    "screen_screen-users": {
+    "screens_screen-users": {
       "svg": {
         "value": "assets/illustrations/screens/screen-users.svg"
       }
     },
-    "screen_screen-report": {
+    "screens_screen-report": {
       "svg": {
         "value": "assets/illustrations/screens/screen-report.svg"
       }
     },
-    "screen_screen-blipchat": {
+    "screens_screen-blipchat": {
       "svg": {
         "value": "assets/illustrations/screens/screen-blipchat.svg"
       }
     },
-    "screen_screen-whatsapp": {
+    "screens_screen-whatsapp": {
       "svg": {
         "value": "assets/illustrations/screens/screen-whatsapp.svg"
       }
     },
-    "screen_screen-home-off": {
+    "screens_screen-home-off": {
       "svg": {
         "value": "assets/illustrations/screens/screen-home-off.svg"
       }
     },
-    "screen_screen-control-panel-off": {
+    "screens_screen-control-panel-off": {
       "svg": {
         "value": "assets/illustrations/screens/screen-control-panel-off.svg"
       }
     },
-    "screen_screen-builder-off": {
+    "screens_screen-builder-off": {
       "svg": {
         "value": "assets/illustrations/screens/screen-builder-off.svg"
       }
     },
-    "screen_screen-desk-off": {
+    "screens_screen-desk-off": {
       "svg": {
         "value": "assets/illustrations/screens/screen-desk-off.svg"
       }
     },
-    "screen_screen-users-off": {
+    "screens_screen-users-off": {
       "svg": {
         "value": "assets/illustrations/screens/screen-users-off.svg"
       }
     },
-    "screen_screen-report-off": {
+    "screens_screen-report-off": {
       "svg": {
         "value": "assets/illustrations/screens/screen-report-off.svg"
       }
     },
-    "screen_screen-blipchat-off": {
+    "screens_screen-blipchat-off": {
       "svg": {
         "value": "assets/illustrations/screens/screen-blipchat-off.svg"
       }
     },
-    "screen_screen-whatsapp-off": {
+    "screens_screen-whatsapp-off": {
       "svg": {
         "value": "assets/illustrations/screens/screen-whatsapp-off.svg"
       }
@@ -1575,47 +1575,47 @@
         "value": "assets/illustrations/brand/sti-white-vertical-symbol.svg"
       }
     },
-    "empty_states-agent-1": {
+    "empty-states_agent-1": {
       "svg": {
         "value": "assets/illustrations/empty-states/agent-1.svg"
       }
     },
-    "empty_states-agent-2": {
+    "empty-states_agent-2": {
       "svg": {
         "value": "assets/illustrations/empty-states/agent-2.svg"
       }
     },
-    "empty_states-box": {
+    "empty-states_box": {
       "svg": {
         "value": "assets/illustrations/empty-states/box.svg"
       }
     },
-    "empty_states-clock": {
+    "empty-states_clock": {
       "svg": {
         "value": "assets/illustrations/empty-states/clock.svg"
       }
     },
-    "empty_states-column-chart": {
+    "empty-states_column-chart": {
       "svg": {
         "value": "assets/illustrations/empty-states/column-chart.svg"
       }
     },
-    "empty_states-glad": {
+    "empty-states_glad": {
       "svg": {
         "value": "assets/illustrations/empty-states/glad.svg"
       }
     },
-    "empty_states-letter-search-question": {
+    "empty-states_letter-search-question": {
       "svg": {
         "value": "assets/illustrations/empty-states/letter-search-question.svg"
       }
     },
-    "empty_states-robot": {
+    "empty-states_robot": {
       "svg": {
         "value": "assets/illustrations/empty-states/robot.svg"
       }
     },
-    "empty_states-robot-1": {
+    "empty-states_robot-1": {
       "svg": {
         "value": "assets/illustrations/empty-states/robot-1.svg"
       }

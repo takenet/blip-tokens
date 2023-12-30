@@ -125,6 +125,11 @@
         "value": "assets/illustrations/default/blip-sales.svg"
       }
     },
+    "default_blip-sales-1": {
+      "svg": {
+        "value": "assets/illustrations/default/blip-sales-1.svg"
+      }
+    },
     "default_boy-computer": {
       "svg": {
         "value": "assets/illustrations/default/boy-computer.svg"

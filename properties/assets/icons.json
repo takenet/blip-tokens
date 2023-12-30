@@ -85,6 +85,9 @@
       "audio-outline": {
         "value": "assets/icons/outline/audio.svg"
       },
+      "audio-closed-outline": {
+        "value": "assets/icons/outline/audio-closed.svg"
+      },
       "automation-outline": {
         "value": "assets/icons/outline/automation.svg"
       },
@@ -501,6 +504,27 @@
       },
       "payment-card-outline": {
         "value": "assets/icons/outline/payment-card.svg"
+      },
+      "phone-keyboard-outline": {
+        "value": "assets/icons/outline/phone-keyboard.svg"
+      },
+      "video-calling-outline": {
+        "value": "assets/icons/outline/video-calling.svg"
+      },
+      "video-closed-outline": {
+        "value": "assets/icons/outline/video-closed.svg"
+      },
+      "video-ended-outline": {
+        "value": "assets/icons/outline/video-ended.svg"
+      },
+      "voip-call-outline": {
+        "value": "assets/icons/outline/voip-call.svg"
+      },
+      "voip-ended-outline": {
+        "value": "assets/icons/outline/voip-ended.svg"
+      },
+      "voip-finish-outline": {
+        "value": "assets/icons/outline/voip-finish.svg"
       },
       "piggy-bank-outline": {
         "value": "assets/icons/outline/piggy-bank.svg"
@@ -1726,8 +1750,26 @@
       "verified-solid": {
         "value": "assets/icons/solid/verified.svg"
       },
+      "video-calling-solid": {
+        "value": "assets/icons/solid/video-calling.svg"
+      },
+      "video-ended-solid": {
+        "value": "assets/icons/solid/video-ended.svg"
+      },
       "video-solid": {
         "value": "assets/icons/solid/video.svg"
+      },
+      "voip-call-solid": {
+        "value": "assets/icons/solid/voip-call.svg"
+      },
+      "voip-calling-solid": {
+        "value": "assets/icons/solid/voip-calling.svg"
+      },
+      "voip-ended-solid": {
+        "value": "assets/icons/solid/voip-ended.svg"
+      },
+      "voip-finish-solid": {
+        "value": "assets/icons/solid/voip-finish.svg"
       },
       "vietnam_flag-solid": {
         "value": "assets/icons/solid/flags/vietnam_flag.svg"

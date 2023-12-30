@@ -30,12 +30,12 @@
         "value": "assets/illustrations/default/accessibility-6.svg"
       }
     },
-    "default_agent1": {
+    "default_agent-1": {
       "svg": {
         "value": "assets/illustrations/default/agent-1.svg"
       }
     },
-    "default_agent2": {
+    "default_agent-2": {
       "svg": {
         "value": "assets/illustrations/default/agent-2.svg"
       }
@@ -405,7 +405,7 @@
         "value": "assets/illustrations/default/team-work.svg"
       }
     },
-    "default_time": {
+    "default_time-1": {
       "svg": {
         "value": "assets/illustrations/default/time.svg"
       }

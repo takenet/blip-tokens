@@ -520,6 +520,9 @@
       "voip-call-outline": {
         "value": "assets/icons/outline/voip-call.svg"
       },
+      "voip-calling-outline": {
+        "value": "assets/icons/outline/voip-calling.svg"
+      },
       "voip-ended-outline": {
         "value": "assets/icons/outline/voip-ended.svg"
       },

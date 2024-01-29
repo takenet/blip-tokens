@@ -1595,6 +1595,11 @@
         "value": "assets/illustrations/empty-states/box.svg"
       }
     },
+    "empty-states_broken-image": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/broken-image.svg"
+      }
+    },
     "empty-states_clock": {
       "svg": {
         "value": "assets/illustrations/empty-states/clock.svg"
@@ -1608,6 +1613,11 @@
     "empty-states_glad": {
       "svg": {
         "value": "assets/illustrations/empty-states/glad.svg"
+      }
+    },
+    "empty-states_image-not-found": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/image-not-found.svg"
       }
     },
     "empty-states_letter-search-question": {

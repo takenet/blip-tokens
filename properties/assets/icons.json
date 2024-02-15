@@ -487,6 +487,15 @@
       "order-elements-outline": {
         "value": "assets/icons/outline/order-elements.svg"
       },
+      "ordering-aleatory-outline": {
+        "value": "assets/icons/outline/ordering-aleatory.svg"
+      },
+      "ordering-ascending-outline": {
+        "value": "assets/icons/outline/ordering-ascending.svg"
+      },
+      "ordering-descending-outline": {
+        "value": "assets/icons/outline/ordering-descending.svg"
+      },
       "paint-outline": {
         "value": "assets/icons/outline/paint.svg"
       },
@@ -609,6 +618,9 @@
       },
       "sms-outline": {
         "value": "assets/icons/outline/sms.svg"
+      },
+      "sparks-ai-outline": {
+        "value": "assets/icons/outline/sparks-ai.svg"
       },
       "speaker-ai-outline": {
         "value": "assets/icons/outline/speaker-ai.svg"
@@ -1590,6 +1602,9 @@
       },
       "south-sudan_flag-solid": {
         "value": "assets/icons/solid/flags/south-sudan_flag.svg"
+      },
+      "sparks-ai-solid": {
+        "value": "assets/icons/solid/sparks-ai.svg"
       },
       "spain_flag-solid": {
         "value": "assets/icons/solid/flags/spain_flag.svg"

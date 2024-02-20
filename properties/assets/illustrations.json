@@ -405,7 +405,7 @@
         "value": "assets/illustrations/default/team-work.svg"
       }
     },
-    "default_time-1": {
+    "default_time": {
       "svg": {
         "value": "assets/illustrations/default/time.svg"
       }
@@ -613,6 +613,11 @@
     "blip-solid_agent": {
       "svg": {
         "value": "assets/illustrations/blip-solid/agent.svg"
+      }
+    },
+    "blip-solid_ai-blipinho": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/ai-blipinho.svg"
       }
     },
     "blip-solid_bag": {

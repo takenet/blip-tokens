@@ -610,6 +610,11 @@
         "value": "assets/illustrations/blip-outline/wow.svg"
       }
     },
+    "blip-solid_ai-blipinho": {
+      "svg": {
+        "value": "assets/illustrations/blip-solid/ai-blipinho.svg"
+      }
+    },
     "blip-solid_agent": {
       "svg": {
         "value": "assets/illustrations/blip-solid/agent.svg"

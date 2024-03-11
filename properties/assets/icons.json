@@ -841,6 +841,9 @@
       "audio-solid": {
         "value": "assets/icons/solid/audio.svg"
       },
+      "audio-closed-solid": {
+        "value": "assets/icons/solid/audio-closed.svg"
+      },
       "australia_flag-solid": {
         "value": "assets/icons/solid/flags/australia_flag.svg"
       },
@@ -1471,6 +1474,9 @@
       "peru_flag-solid": {
         "value": "assets/icons/solid/flags/peru_flag.svg"
       },
+      "phone-keyboard-solid": {
+        "value": "assets/icons/outline/phone-keyboard.svg"
+      },
       "philippines_flag-solid": {
         "value": "assets/icons/solid/flags/philippines_flag.svg"
       },
@@ -1776,6 +1782,9 @@
       },
       "video-solid": {
         "value": "assets/icons/solid/video.svg"
+      },
+      "video-closed-solid": {
+        "value": "assets/icons/solid/video-closed.svg"
       },
       "voip-call-solid": {
         "value": "assets/icons/solid/voip-call.svg"

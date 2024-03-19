@@ -538,6 +538,12 @@
       "voip-finish-outline": {
         "value": "assets/icons/outline/voip-finish.svg"
       },
+      "voip-new-outline": {
+        "value": "assets/icons/outline/voip-new.svg"
+      },
+      "voip-receiving-outline": {
+        "value": "assets/icons/outline/voip-receiving.svg"
+      },
       "piggy-bank-outline": {
         "value": "assets/icons/outline/piggy-bank.svg"
       },
@@ -1797,6 +1803,12 @@
       },
       "voip-finish-solid": {
         "value": "assets/icons/solid/voip-finish.svg"
+      },
+      "voip-new-solid": {
+        "value": "assets/icons/solid/voip-new.svg"
+      },
+      "voip-receiving-solid": {
+        "value": "assets/icons/solid/voip-receiving.svg"
       },
       "vietnam_flag-solid": {
         "value": "assets/icons/solid/flags/vietnam_flag.svg"

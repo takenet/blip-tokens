@@ -16,8 +16,14 @@
             "bot-analytics": {
                 "value": "assets/logos/bot-analytics.svg"
             },
+            "buscape": {
+                "value": "assets/logos/buscape.svg"
+            },
             "business-chat": {
                 "value": "assets/logos/business-chat.svg"
+            },
+            "cielo": {
+                "value": "assets/logos/cielo.svg"
             },
             "chatbase": {
                 "value": "assets/logos/chatbase.svg"
@@ -34,6 +40,9 @@
             "facebook": {
                 "value": "assets/logos/facebook.svg"
             },
+            "foursquare": {
+                "value": "assets/logos/foursquare.svg"
+            },
             "gbm": {
                 "value": "assets/logos/gbm.svg"
             },
@@ -43,11 +52,20 @@
             "google-assistant": {
                 "value": "assets/logos/google-assistant.svg"
             },
+            "google-meu-negocio": {
+                "value": "assets/logos/google-meu-negocio.svg"
+            },
+            "google-play": {
+                "value": "assets/logos/google-play.svg"
+            },
             "google-rcs": {
                 "value": "assets/logos/google-rcs.svg"
             },
             "google": {
                 "value": "assets/logos/google.svg"
+            },
+            "google-plus": {
+                "value": "assets/logos/google-plus.svg"
             },
             "hangouts": {
                 "value": "assets/logos/hangouts.svg"
@@ -57,6 +75,18 @@
             },
             "instagram": {
                 "value": "assets/logos/instagram.svg"
+            },
+            "instagram-2": {
+                "value": "assets/logos/instagram-2.svg"
+            },
+            "instagram-storys": {
+                "value": "assets/logos/instagram-storys.svg"
+            },
+            "instagram-reels": {
+                "value": "assets/logos/instagram-reels.svg"
+            },
+            "linkedin": {
+                "value": "assets/logos/linkedin.svg"
             },
             "mailgun": {
                 "value": "assets/logos/mailgun.svg"
@@ -76,11 +106,20 @@
             "microsoft-teams": {
                 "value": "assets/logos/microsoft-teams.svg"
             },
+            "open-finance": {
+                "value": "assets/logos/open-finance.svg"
+            },
             "pag-seguro": {
                 "value": "assets/logos/pag-seguro.svg"
             },
+            "pix": {
+                "value": "assets/logos/pix.svg"
+            },
             "rd": {
                 "value": "assets/logos/rd.svg"
+            },
+            "reclame-aqui": {
+                "value": "assets/logos/reclame-aqui.svg"
             },
             "salesforce": {
                 "value": "assets/logos/salesforce.svg"
@@ -103,6 +142,12 @@
             "telegram": {
                 "value": "assets/logos/telegram.svg"
             },
+            "tiktok": {
+                "value": "assets/logos/tiktok.svg"
+            },
+            "tumblr": {
+                "value": "assets/logos/tumblr.svg"
+            },
             "twitter": {
                 "value": "assets/logos/twitter.svg"
             },
@@ -121,8 +166,20 @@
             "whatsapp": {
                 "value": "assets/logos/whatsapp.svg"
             },
+            "whatsapp-2": {
+                "value": "assets/logos/whatsapp-2.svg"
+            },
+            "wikipedia": {
+                "value": "assets/logos/wikipedia.svg"
+            },
             "workplace": {
                 "value": "assets/logos/workplace.svg"
+            },
+            "youtube": {
+                "value": "assets/logos/youtube.svg"
+            },
+            "zapier": {
+                "value": "assets/logos/zapier.svg"
             }
         }
     }

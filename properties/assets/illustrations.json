@@ -1715,6 +1715,11 @@
         "value": "assets/illustrations/spots/bot-list.svg"
       }
     },
+    "spots_check": {
+      "svg": {
+        "value": "assets/illustrations/spots/check.svg"
+      }
+    },
     "spots_clock-1": {
       "svg": {
         "value": "assets/illustrations/spots/clock-1.svg"
@@ -1943,6 +1948,11 @@
     "spots_speak-bubble": {
       "svg": {
         "value": "assets/illustrations/spots/speak-bubble.svg"
+      }
+    },
+    "spots_star": {
+      "svg": {
+        "value": "assets/illustrations/spots/star.svg"
       }
     },
     "spots_ticket": {

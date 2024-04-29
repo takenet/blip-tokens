@@ -124,6 +124,9 @@
       "bot-text-outline": {
         "value": "assets/icons/outline/bot-text.svg"
       },
+      "bottom-sheet-outline": {
+        "value": "assets/icons/outline/bottom-sheet.svg"
+      },
       "brain-ai-outline": {
         "value": "assets/icons/outline/brain-ai.svg"
       },
@@ -694,6 +697,9 @@
       "text-style-underline-outline": {
         "value": "assets/icons/outline/text-style-underline.svg"
       },
+      "text-variable-outline": {
+        "value": "assets/icons/outline/text-variable.svg"
+      },
       "ticket-outline": {
         "value": "assets/icons/outline/ticket.svg"
       },
@@ -735,6 +741,9 @@
       },
       "user-engaged-outline": {
         "value": "assets/icons/outline/user-engaged.svg"
+      },
+      "user-favorite-outline": {
+        "value": "assets/icons/outline/user-favorite.svg"
       },
       "verified-outline": {
         "value": "assets/icons/outline/verified.svg"
@@ -915,6 +924,9 @@
       },
       "blip-forum-solid": {
         "value": "assets/icons/solid/blip-forum.svg"
+      },
+      "bottom-sheet-solid": {
+        "value": "assets/icons/solid/bottom-sheet.svg"
       },
       "bolivia_flag-solid": {
         "value": "assets/icons/solid/flags/bolivia_flag.svg"
@@ -1693,6 +1705,9 @@
       "target-solid": {
         "value": "assets/icons/solid/target.svg"
       },
+      "text-variable-solid": {
+        "value": "assets/icons/solid/text-variable.svg"
+      },
       "thailand_flag-solid": {
         "value": "assets/icons/solid/flags/thailand_flag.svg"
       },
@@ -1758,6 +1773,9 @@
       },
       "unpin-solid": {
         "value": "assets/icons/solid/unpin.svg"
+      },
+      "user-favorite-solid": {
+        "value": "assets/icons/solid/user-favorite.svg"
       },
       "uruguay_flag-solid": {
         "value": "assets/icons/solid/flags/uruguay_flag.svg"

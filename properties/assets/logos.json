@@ -70,6 +70,9 @@
             "hangouts": {
                 "value": "assets/logos/hangouts.svg"
             },
+            "hubspot": {
+                "value": "assets/logos/hubspot.svg"
+            },
             "infopib": {
                 "value": "assets/logos/infopib.svg"
             },
@@ -111,6 +114,9 @@
             },
             "pag-seguro": {
                 "value": "assets/logos/pag-seguro.svg"
+            },
+            "pipedrive": {
+                "value": "assets/logos/pipedrive.svg"
             },
             "pix": {
                 "value": "assets/logos/pix.svg"

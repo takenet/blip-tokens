@@ -385,7 +385,7 @@
         "value": "assets/illustrations/default/solutions-agent.svg"
       }
     },
-    "default_suprise": {
+    "default_surprise": {
       "svg": {
         "value": "assets/illustrations/default/surprise.svg"
       }
@@ -1868,6 +1868,11 @@
     "spots_letter-invite-blip": {
       "svg": {
         "value": "assets/illustrations/spots/letter-invite-blip.svg"
+      }
+    },
+    "spots_letter-search-attention": {
+      "svg": {
+        "value": "assets/illustrations/spots/letter-search-attention.svg"
       }
     },
     "spots_letter-search-avatars": {

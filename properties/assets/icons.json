@@ -586,6 +586,9 @@
       "refresh-outline": {
         "value": "assets/icons/outline/refresh.svg"
       },
+      "reply-outline": {
+        "value": "assets/icons/outline/reply.svg"
+      },
       "resources-outline": {
         "value": "assets/icons/outline/resources.svg"
       },

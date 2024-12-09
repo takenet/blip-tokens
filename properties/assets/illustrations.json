@@ -85,6 +85,11 @@
         "value": "assets/illustrations/default/attendance-4.svg"
       }
     },
+    "default_automation": {
+      "svg": {
+        "value": "assets/illustrations/default/automation.svg"
+      }
+    },
     "default_blip-chat": {
       "svg": {
         "value": "assets/illustrations/default/blip-chat.svg"
@@ -163,6 +168,11 @@
     "default_cookie": {
       "svg": {
         "value": "assets/illustrations/default/cookie.svg"
+      }
+    },
+    "default_delete": {
+      "svg": {
+        "value": "assets/illustrations/default/delete.svg"
       }
     },
     "default_delivery-chat": {
@@ -443,6 +453,11 @@
     "default_user-plataform": {
       "svg": {
         "value": "assets/illustrations/default/user-plataform.svg"
+      }
+    },
+    "default_warning": {
+      "svg": {
+        "value": "assets/illustrations/default/warning.svg"
       }
     },
     "default_webhook": {

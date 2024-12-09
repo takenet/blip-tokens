@@ -19,6 +19,15 @@
       "agent-outline": {
         "value": "assets/icons/outline/agent.svg"
       },
+      "align-center-outline": {
+        "value": "assets/icons/outline/align-center.svg"
+      },
+      "align-left-outline": {
+        "value": "assets/icons/outline/align-left.svg"
+      },
+      "align-right-outline": {
+        "value": "assets/icons/outline/align-right.svg"
+      },
       "ai-image-outline": {
         "value": "assets/icons/outline/ai-image.svg"
       },
@@ -96,6 +105,9 @@
       },
       "avatar-user-outline": {
         "value": "assets/icons/outline/avatar-user.svg"
+      },
+      "backspace-outline": {
+        "value": "assets/icons/outline/backspace.svg"
       },
       "bag-outline": {
         "value": "assets/icons/outline/bag.svg"
@@ -210,6 +222,9 @@
       },
       "cloud-outline": {
         "value": "assets/icons/outline/cloud.svg"
+      },
+      "code-outline": {
+        "value": "assets/icons/outline/code.svg"
       },
       "company-outline": {
         "value": "assets/icons/outline/company.svg"
@@ -373,6 +388,24 @@
       "guide-outline": {
         "value": "assets/icons/outline/guide.svg"
       },
+      "h1-outline": {
+        "value": "assets/icons/outline/h1.svg"
+      },
+      "h2-outline": {
+        "value": "assets/icons/outline/h2.svg"
+      },
+      "h3-outline": {
+        "value": "assets/icons/outline/h3.svg"
+      },
+      "h4-outline": {
+        "value": "assets/icons/outline/h4.svg"
+      },
+      "h5-outline": {
+        "value": "assets/icons/outline/h5.svg"
+      },
+      "h6-outline": {
+        "value": "assets/icons/outline/h6.svg"
+      },
       "heart-outline": {
         "value": "assets/icons/outline/heart.svg"
       },
@@ -502,8 +535,14 @@
       "ordering-descending-outline": {
         "value": "assets/icons/outline/ordering-descending.svg"
       },
+      "ordered-list-outline": {
+        "value": "assets/icons/outline/ordered-list.svg"
+      },
       "paint-outline": {
         "value": "assets/icons/outline/paint.svg"
+      },
+      "paste-outline": {
+        "value": "assets/icons/outline/paste.svg"
       },
       "paperplane-outline": {
         "value": "assets/icons/outline/paperplane.svg"
@@ -577,6 +616,9 @@
       "question-outline": {
         "value": "assets/icons/outline/question.svg"
       },
+      "quote-outline": {
+        "value": "assets/icons/outline/quote.svg"
+      },
       "redo-outline": {
         "value": "assets/icons/outline/redo.svg"
       },
@@ -618,6 +660,9 @@
       },
       "save-flag-outline": {
         "value": "assets/icons/outline/save-flag.svg"
+      },
+      "scissor-outline": {
+        "value": "assets/icons/outline/scissor.svg"
       },
       "screen-fill-outline": {
         "value": "assets/icons/outline/screen-fill.svg"
@@ -730,8 +775,14 @@
       "unlock-outline": {
         "value": "assets/icons/outline/unlock.svg"
       },
+      "unordered-list-outline": {
+        "value": "assets/icons/outline/unordered-list.svg"
+      },
       "unpin-outline": {
         "value": "assets/icons/outline/unpin.svg"
+      },
+      "unstyled-outline": {
+        "value": "assets/icons/outline/unstyled.svg"
       },
       "upload-outline": {
         "value": "assets/icons/outline/upload.svg"

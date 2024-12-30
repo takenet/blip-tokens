@@ -1355,19 +1355,44 @@
         "value": "assets/illustrations/brand/blip-trust-black.svg"
       }
     },
-    "brand_blip-trust-blue-black": {
+    "brand_go-persona-horizontal-black": {
       "svg": {
-        "value": "assets/illustrations/brand/blip-trust-blue-black.svg"
+        "value": "assets/illustrations/brand/go-personal-horizontal_black.svg"
       }
     },
-    "brand_blip-trust-blue-white": {
+    "brand_go-persona-horizontal-white": {
       "svg": {
-        "value": "assets/illustrations/brand/blip-trust-blue-white.svg"
+        "value": "assets/illustrations/brand/go-personal-horizontal_white.svg"
       }
     },
-    "brand_blip-trust-white": {
+    "brand_go-persona-horizontal-white-black": {
       "svg": {
-        "value": "assets/illustrations/brand/blip-trust-white.svg"
+        "value": "assets/illustrations/brand/go-personal-horizontal_white-black.svg"
+      }
+    },
+    "brand_go-persona-horizontal-white-blue": {
+      "svg": {
+        "value": "assets/illustrations/brand/go-personal-horizontal_white-blue.svg"
+      }
+    },
+    "brand_go-persona-vertical-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/go-personal-vertical_black.svg"
+      }
+    },
+    "brand_go-persona-vertical-white": {
+      "svg": {
+        "value": "assets/illustrations/brand/go-personal-vertical_white.svg"
+      }
+    },
+    "brand_go-persona-vertical-white-black": {
+      "svg": {
+        "value": "assets/illustrations/brand/go-personal-vertical_white-black.svg"
+      }
+    },
+    "brand_go-persona-vertical-white-blue": {
+      "svg": {
+        "value": "assets/illustrations/brand/go-personal-vertical_white-blue.svg"
       }
     },
     "brand_take-blip-black-horizontal": {

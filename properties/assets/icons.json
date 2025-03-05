@@ -208,6 +208,9 @@
       "checkball-outline": {
         "value": "assets/icons/outline/checkball.svg"
       },
+      "checkbox-outline": {
+        "value": "assets/icons/outline/checkbox.svg"
+      },
       "chip-outline": {
         "value": "assets/icons/outline/chip.svg"
       },
@@ -619,6 +622,9 @@
       "quote-outline": {
         "value": "assets/icons/outline/quote.svg"
       },
+      "radiobutton-outline": {
+        "value": "assets/icons/outline/radiobutton.svg"
+      },
       "redo-outline": {
         "value": "assets/icons/outline/redo.svg"
       },
@@ -753,6 +759,9 @@
       },
       "time-passed-outline": {
         "value": "assets/icons/outline/time-passed.svg"
+      },
+      "toogle-outline": {
+        "value": "assets/icons/outline/toogle.svg"
       },
       "transfer-outline": {
         "value": "assets/icons/outline/transfer.svg"
@@ -1902,6 +1911,15 @@
       },
       "whatsapp-solid": {
         "value": "assets/icons/solid/whatsapp.svg"
+      },
+      "toogle-solid": {
+        "value": "assets/icons/solid/toogle.svg"
+      },
+      "checkbox-solid": {
+        "value": "assets/icons/solid/checkbox.svg"
+      },
+      "radiobutton-solid": {
+        "value": "assets/icons/solid/radiobutton.svg"
       },
       "yemen_flag-solid": {
         "value": "assets/icons/solid/flags/yemen_flag.svg"

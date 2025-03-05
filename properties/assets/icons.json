@@ -760,8 +760,8 @@
       "time-passed-outline": {
         "value": "assets/icons/outline/time-passed.svg"
       },
-      "toogle-outline": {
-        "value": "assets/icons/outline/toogle.svg"
+      "toggle-outline": {
+        "value": "assets/icons/outline/toggle.svg"
       },
       "transfer-outline": {
         "value": "assets/icons/outline/transfer.svg"
@@ -1912,8 +1912,8 @@
       "whatsapp-solid": {
         "value": "assets/icons/solid/whatsapp.svg"
       },
-      "toogle-solid": {
-        "value": "assets/icons/solid/toogle.svg"
+      "toggle-solid": {
+        "value": "assets/icons/solid/toggle.svg"
       },
       "checkbox-solid": {
         "value": "assets/icons/solid/checkbox.svg"

@@ -484,6 +484,12 @@
       "message-ballon-outline": {
         "value": "assets/icons/outline/message-ballon.svg"
       },
+      "message-error-outline": {
+        "value": "assets/icons/outline/message-error.svg"
+      },
+      "message-read-outline": {
+        "value": "assets/icons/outline/message-read.svg"
+      },
       "message-received-outline": {
         "value": "assets/icons/outline/message-received.svg"
       },

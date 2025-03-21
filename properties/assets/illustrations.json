@@ -395,6 +395,11 @@
         "value": "assets/illustrations/default/solutions-agent.svg"
       }
     },
+    "default_sparkle-ai": {
+      "svg": {
+        "value": "assets/illustrations/default/sparkle-ai.svg"
+      }
+    },
     "default_surprise": {
       "svg": {
         "value": "assets/illustrations/default/surprise.svg"
@@ -1625,6 +1630,11 @@
         "value": "assets/illustrations/brand/sti-white-vertical-symbol.svg"
       }
     },
+    "empty-states_adjuts": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/adjuts.svg"
+      }
+    },
     "empty-states_agent-1": {
       "svg": {
         "value": "assets/illustrations/empty-states/agent-1.svg"
@@ -1650,6 +1660,11 @@
         "value": "assets/illustrations/empty-states/clock.svg"
       }
     },
+    "empty-states_folder-variable": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/folder-variable.svg"
+      }
+    },
     "empty-states_column-chart": {
       "svg": {
         "value": "assets/illustrations/empty-states/column-chart.svg"
@@ -1665,6 +1680,11 @@
         "value": "assets/illustrations/empty-states/image-not-found.svg"
       }
     },
+    "empty-states_integration": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/integration.svg"
+      }
+    },
     "empty-states_letter-search-question": {
       "svg": {
         "value": "assets/illustrations/empty-states/letter-search-question.svg"
@@ -1678,6 +1698,16 @@
     "empty-states_robot-1": {
       "svg": {
         "value": "assets/illustrations/empty-states/robot-1.svg"
+      }
+    },
+    "empty-states_sparkles-ai": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/sparkles-ai.svg"
+      }
+    },
+    "empty-states_task": {
+      "svg": {
+        "value": "assets/illustrations/empty-states/task.svg"
       }
     },
     "segmented_cart-selected": {

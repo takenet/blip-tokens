@@ -742,6 +742,9 @@
       "team-outline": {
         "value": "assets/icons/outline/team.svg"
       },
+      "telegram-outline": {
+        "value": "assets/icons/outline/telegram.svg"
+      },
       "text-ai-outline": {
         "value": "assets/icons/outline/text-ai.svg"
       },
@@ -1773,6 +1776,9 @@
       },
       "target-solid": {
         "value": "assets/icons/solid/target.svg"
+      },
+      "telegram-solid": {
+        "value": "assets/icons/solid/telegram.svg"
       },
       "text-variable-solid": {
         "value": "assets/icons/solid/text-variable.svg"

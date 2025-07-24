@@ -841,6 +841,21 @@
       "xml-outline": {
         "value": "assets/icons/outline/xml.svg"
       },
+      "file-notes-outline": {
+        "value": "assets/icons/outline/file-notes.svg"
+      },
+      "builder-variable-context-outline": {
+        "value": "assets/icons/outline/builder-variable-context.svg"
+      },
+      "builder-openapi-outline": {
+        "value": "assets/icons/outline/builder-openapi.svg"
+      },
+      "builder-mcp-outline": {
+        "value": "assets/icons/outline/builder-mcp.svg"
+      },
+      "builder-guardrails-outline": {
+        "value": "assets/icons/outline/builder-guardrails.svg"
+      },
       "abkhazia_flag-solid": {
         "value": "assets/icons/solid/flags/abkhazia_flag.svg"
       },

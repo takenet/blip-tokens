@@ -1,14 +1,5 @@
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect x="2.75" y="5.75" width="18.5" height="9.5" rx="1.25" stroke="#282828" stroke-width="1.5"/>
-<path d="M10 15L14 6" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M14 15L18 6" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M18 14.9999L21.1983 7.80371" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M6 15L10 6" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M5.99957 6L2.77734 13.25" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M6 20V16" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M18 20V16" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M6 5L6 4" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M18 5L18 4" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M17 20H19" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-<path d="M5 20H7" stroke="#282828" stroke-width="1.5" stroke-linecap="round"/>
-</svg>
+    <path fill-rule="evenodd" clip-rule="evenodd"
+      d="M18 3.25C18.4142 3.25 18.75 3.58579 18.75 4V5H20L20.2041 5.01074C21.2128 5.113 22 5.96435 22 7V14L21.9893 14.2041C21.8938 15.1457 21.1457 15.8938 20.2041 15.9893L20 16H18.75V19.25H19C19.4142 19.25 19.75 19.5858 19.75 20C19.75 20.4142 19.4142 20.75 19 20.75H17C16.5858 20.75 16.25 20.4142 16.25 20C16.25 19.5858 16.5858 19.25 17 19.25H17.25V16H6.75V19.25H7C7.41421 19.25 7.75 19.5858 7.75 20C7.75 20.4142 7.41421 20.75 7 20.75H5C4.58579 20.75 4.25 20.4142 4.25 20C4.25 19.5858 4.58579 19.25 5 19.25H5.25V16H4C2.96435 16 2.113 15.2128 2.01074 14.2041L2 14V7C2 5.89543 2.89543 5 4 5H5.25V4C5.25 3.58579 5.58579 3.25 6 3.25C6.41421 3.25 6.75 3.58579 6.75 4V5H17.25V4C17.25 3.58579 17.5858 3.25 18 3.25ZM3.5 13.4707V14C3.5 14.2761 3.72386 14.5 4 14.5H5.40137L8.95703 6.5H6.59766L3.5 13.4707ZM7.04297 14.5H9.40137L12.957 6.5H10.5986L7.04297 14.5ZM11.043 14.5H13.4014L16.957 6.5H14.5986L11.043 14.5ZM15.043 14.5H17.4014L20.5 7.52734V7C20.5 6.72386 20.2761 6.5 20 6.5H18.5986L15.043 14.5ZM19.043 14.5H20C20.2761 14.5 20.5 14.2761 20.5 14V11.2217L19.043 14.5ZM4 6.5C3.72386 6.5 3.5 6.72386 3.5 7V9.77637L4.95703 6.5H4Z"
+      fill="#282828" />
+  </svg>

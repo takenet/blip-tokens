@@ -19,6 +19,18 @@
       "agent-outline": {
         "value": "assets/icons/outline/agent.svg"
       },
+      "ai-image-outline": {
+        "value": "assets/icons/outline/ai-image.svg"
+      },
+      "ai-outline": {
+        "value": "assets/icons/outline/AI.svg"
+      },
+      "air-balloon-outline": {
+        "value": "assets/icons/outline/air-balloon.svg"
+      },
+      "airplane-outline": {
+        "value": "assets/icons/outline/airplane.svg"
+      },
       "align-center-outline": {
         "value": "assets/icons/outline/align-center.svg"
       },
@@ -28,26 +40,8 @@
       "align-right-outline": {
         "value": "assets/icons/outline/align-right.svg"
       },
-      "ai-image-outline": {
-        "value": "assets/icons/outline/ai-image.svg"
-      },
-      "ai-outline": {
-        "value": "assets/icons/outline/AI.svg"
-      },
-      "real-outline": {
-        "value": "assets/icons/outline/real.svg"
-      },
-      "dolar-outline": {
-        "value": "assets/icons/outline/dolar.svg"
-      },
-      "euro-outline": {
-        "value": "assets/icons/outline/euro.svg"
-      },
-      "air-balloon-outline": {
-        "value": "assets/icons/outline/air-balloon.svg"
-      },
-      "airplane-outline": {
-        "value": "assets/icons/outline/airplane.svg"
+      "appearance-outline": {
+        "value": "assets/icons/outline/appearance.svg"
       },
       "arrow-ball-down-outline": {
         "value": "assets/icons/outline/arrow-ball-down.svg"
@@ -91,11 +85,11 @@
       "attention-outline": {
         "value": "assets/icons/outline/attention.svg"
       },
-      "audio-outline": {
-        "value": "assets/icons/outline/audio.svg"
-      },
       "audio-closed-outline": {
         "value": "assets/icons/outline/audio-closed.svg"
+      },
+      "audio-outline": {
+        "value": "assets/icons/outline/audio.svg"
       },
       "automation-outline": {
         "value": "assets/icons/outline/automation.svg"
@@ -148,11 +142,23 @@
       "builder-carrousel-outline": {
         "value": "assets/icons/outline/builder-carrousel.svg"
       },
+      "builder-debug-outline": {
+        "value": "assets/icons/outline/builder-debug.svg"
+      },
+      "builder-guardrails-outline": {
+        "value": "assets/icons/outline/builder-guardrails.svg"
+      },
+      "builder-mcp-outline": {
+        "value": "assets/icons/outline/builder-mcp.svg"
+      },
       "builder-menu-outline": {
         "value": "assets/icons/outline/builder-menu.svg"
       },
       "builder-new-state-outline": {
         "value": "assets/icons/outline/builder-new-state.svg"
+      },
+      "builder-openapi-outline": {
+        "value": "assets/icons/outline/builder-openapi.svg"
       },
       "builder-publish-bot-outline": {
         "value": "assets/icons/outline/builder-publish-bot.svg"
@@ -168,6 +174,9 @@
       },
       "builder-text-message-outline": {
         "value": "assets/icons/outline/builder-text-message.svg"
+      },
+      "builder-variable-context-outline": {
+        "value": "assets/icons/outline/builder-variable-context.svg"
       },
       "business-outline": {
         "value": "assets/icons/outline/business.svg"
@@ -213,6 +222,9 @@
       },
       "chip-outline": {
         "value": "assets/icons/outline/chip.svg"
+      },
+      "clipboard-outline": {
+        "value": "assets/icons/outline/clipboard.svg"
       },
       "clock-outline": {
         "value": "assets/icons/outline/clock.svg"
@@ -262,11 +274,17 @@
       "deslike-outline": {
         "value": "assets/icons/outline/deslike.svg"
       },
+      "dolar-outline": {
+        "value": "assets/icons/outline/dolar.svg"
+      },
       "double-check-outline": {
         "value": "assets/icons/outline/double-check.svg"
       },
       "download-outline": {
         "value": "assets/icons/outline/download.svg"
+      },
+      "duplicate-outline": {
+        "value": "assets/icons/outline/duplicate.svg"
       },
       "dynamic-content-outline": {
         "value": "assets/icons/outline/dynamic-content.svg"
@@ -289,8 +307,17 @@
       "error-outline": {
         "value": "assets/icons/outline/error.svg"
       },
+      "euro-outline": {
+        "value": "assets/icons/outline/euro.svg"
+      },
       "exit-outline": {
         "value": "assets/icons/outline/exit.svg"
+      },
+      "expand-fill-outline": {
+        "value": "assets/icons/outline/expand-fill.svg"
+      },
+      "expand-full-outline": {
+        "value": "assets/icons/outline/expand-full.svg"
       },
       "external-file-outline": {
         "value": "assets/icons/outline/external-file.svg"
@@ -363,6 +390,9 @@
       },
       "file-new-outline": {
         "value": "assets/icons/outline/file-new.svg"
+      },
+      "file-notes-outline": {
+        "value": "assets/icons/outline/file-notes.svg"
       },
       "file-pdf-outline": {
         "value": "assets/icons/outline/file-pdf.svg"
@@ -535,6 +565,9 @@
       "order-elements-outline": {
         "value": "assets/icons/outline/order-elements.svg"
       },
+      "ordered-list-outline": {
+        "value": "assets/icons/outline/ordered-list.svg"
+      },
       "ordering-aleatory-outline": {
         "value": "assets/icons/outline/ordering-aleatory.svg"
       },
@@ -544,17 +577,14 @@
       "ordering-descending-outline": {
         "value": "assets/icons/outline/ordering-descending.svg"
       },
-      "ordered-list-outline": {
-        "value": "assets/icons/outline/ordered-list.svg"
-      },
       "paint-outline": {
         "value": "assets/icons/outline/paint.svg"
       },
-      "paste-outline": {
-        "value": "assets/icons/outline/paste.svg"
-      },
       "paperplane-outline": {
         "value": "assets/icons/outline/paperplane.svg"
+      },
+      "paste-outline": {
+        "value": "assets/icons/outline/paste.svg"
       },
       "pause-outline": {
         "value": "assets/icons/outline/pause.svg"
@@ -567,33 +597,6 @@
       },
       "phone-keyboard-outline": {
         "value": "assets/icons/outline/phone-keyboard.svg"
-      },
-      "video-calling-outline": {
-        "value": "assets/icons/outline/video-calling.svg"
-      },
-      "video-closed-outline": {
-        "value": "assets/icons/outline/video-closed.svg"
-      },
-      "video-ended-outline": {
-        "value": "assets/icons/outline/video-ended.svg"
-      },
-      "voip-call-outline": {
-        "value": "assets/icons/outline/voip-call.svg"
-      },
-      "voip-calling-outline": {
-        "value": "assets/icons/outline/voip-calling.svg"
-      },
-      "voip-ended-outline": {
-        "value": "assets/icons/outline/voip-ended.svg"
-      },
-      "voip-finish-outline": {
-        "value": "assets/icons/outline/voip-finish.svg"
-      },
-      "voip-new-outline": {
-        "value": "assets/icons/outline/voip-new.svg"
-      },
-      "voip-receiving-outline": {
-        "value": "assets/icons/outline/voip-receiving.svg"
       },
       "piggy-bank-outline": {
         "value": "assets/icons/outline/piggy-bank.svg"
@@ -630,6 +633,9 @@
       },
       "radiobutton-outline": {
         "value": "assets/icons/outline/radiobutton.svg"
+      },
+      "real-outline": {
+        "value": "assets/icons/outline/real.svg"
       },
       "redo-outline": {
         "value": "assets/icons/outline/redo.svg"
@@ -702,6 +708,9 @@
       },
       "share-outline": {
         "value": "assets/icons/outline/share.svg"
+      },
+      "side-menu-outline": {
+        "value": "assets/icons/outline/side-menu.svg"
       },
       "site-outline": {
         "value": "assets/icons/outline/Site.svg"
@@ -823,11 +832,38 @@
       "video broken-outline": {
         "value": "assets/icons/outline/video broken.svg"
       },
+      "video-calling-outline": {
+        "value": "assets/icons/outline/video-calling.svg"
+      },
+      "video-closed-outline": {
+        "value": "assets/icons/outline/video-closed.svg"
+      },
+      "video-ended-outline": {
+        "value": "assets/icons/outline/video-ended.svg"
+      },
       "video-outline": {
         "value": "assets/icons/outline/video.svg"
       },
+      "voip-call-outline": {
+        "value": "assets/icons/outline/voip-call.svg"
+      },
+      "voip-calling-outline": {
+        "value": "assets/icons/outline/voip-calling.svg"
+      },
+      "voip-ended-outline": {
+        "value": "assets/icons/outline/voip-ended.svg"
+      },
+      "voip-finish-outline": {
+        "value": "assets/icons/outline/voip-finish.svg"
+      },
+      "voip-new-outline": {
+        "value": "assets/icons/outline/voip-new.svg"
+      },
       "voip-outline": {
         "value": "assets/icons/outline/voip.svg"
+      },
+      "voip-receiving-outline": {
+        "value": "assets/icons/outline/voip-receiving.svg"
       },
       "wallet-outline": {
         "value": "assets/icons/outline/wallet.svg"
@@ -841,35 +877,11 @@
       "xml-outline": {
         "value": "assets/icons/outline/xml.svg"
       },
-      "file-notes-outline": {
-        "value": "assets/icons/outline/file-notes.svg"
-      },
-      "builder-variable-context-outline": {
-        "value": "assets/icons/outline/builder-variable-context.svg"
-      },
-      "builder-openapi-outline": {
-        "value": "assets/icons/outline/builder-openapi.svg"
-      },
-      "builder-mcp-outline": {
-        "value": "assets/icons/outline/builder-mcp.svg"
-      },
-      "builder-guardrails-outline": {
-        "value": "assets/icons/outline/builder-guardrails.svg"
-      },
       "abkhazia_flag-solid": {
         "value": "assets/icons/solid/flags/abkhazia_flag.svg"
       },
       "add-solid": {
         "value": "assets/icons/solid/add.svg"
-      },
-      "real-solid": {
-        "value": "assets/icons/solid/real.svg"
-      },
-      "dolar-solid": {
-        "value": "assets/icons/solid/dolar.svg"
-      },
-      "euro-solid": {
-        "value": "assets/icons/solid/euro.svg"
       },
       "afghanistan_flag-solid": {
         "value": "assets/icons/solid/flags/afghanistan_flag.svg"
@@ -940,11 +952,11 @@
       "attention-solid": {
         "value": "assets/icons/solid/attention.svg"
       },
-      "audio-solid": {
-        "value": "assets/icons/solid/audio.svg"
-      },
       "audio-closed-solid": {
         "value": "assets/icons/solid/audio-closed.svg"
+      },
+      "audio-solid": {
+        "value": "assets/icons/solid/audio.svg"
       },
       "australia_flag-solid": {
         "value": "assets/icons/solid/flags/australia_flag.svg"
@@ -1012,9 +1024,6 @@
       "blip-forum-solid": {
         "value": "assets/icons/solid/blip-forum.svg"
       },
-      "bottom-sheet-solid": {
-        "value": "assets/icons/solid/bottom-sheet.svg"
-      },
       "bolivia_flag-solid": {
         "value": "assets/icons/solid/flags/bolivia_flag.svg"
       },
@@ -1026,6 +1035,9 @@
       },
       "botswana_flag-solid": {
         "value": "assets/icons/solid/flags/botswana_flag.svg"
+      },
+      "bottom-sheet-solid": {
+        "value": "assets/icons/solid/bottom-sheet.svg"
       },
       "brazil_flag-solid": {
         "value": "assets/icons/solid/flags/brazil_flag.svg"
@@ -1102,6 +1114,9 @@
       "checkball-solid": {
         "value": "assets/icons/solid/checkball.svg"
       },
+      "checkbox-solid": {
+        "value": "assets/icons/solid/checkbox.svg"
+      },
       "chile_flag-solid": {
         "value": "assets/icons/solid/flags/chile_flag.svg"
       },
@@ -1159,6 +1174,9 @@
       "djibouti_flag-solid": {
         "value": "assets/icons/solid/flags/djibouti_flag.svg"
       },
+      "dolar-solid": {
+        "value": "assets/icons/solid/dolar.svg"
+      },
       "dominica_flag-solid": {
         "value": "assets/icons/solid/flags/dominica_flag.svg"
       },
@@ -1206,6 +1224,9 @@
       },
       "ethiopia_flag-solid": {
         "value": "assets/icons/solid/flags/ethiopia_flag.svg"
+      },
+      "euro-solid": {
+        "value": "assets/icons/solid/euro.svg"
       },
       "european-union_flag-solid": {
         "value": "assets/icons/solid/flags/european-union_flag.svg"
@@ -1579,11 +1600,11 @@
       "peru_flag-solid": {
         "value": "assets/icons/solid/flags/peru_flag.svg"
       },
-      "phone-keyboard-solid": {
-        "value": "assets/icons/outline/phone-keyboard.svg"
-      },
       "philippines_flag-solid": {
         "value": "assets/icons/solid/flags/philippines_flag.svg"
+      },
+      "phone-keyboard-solid": {
+        "value": "assets/icons/outline/phone-keyboard.svg"
       },
       "piggy-bank-solid": {
         "value": "assets/icons/solid/piggy-bank.svg"
@@ -1618,8 +1639,14 @@
       "question-solid": {
         "value": "assets/icons/solid/question.svg"
       },
+      "radiobutton-solid": {
+        "value": "assets/icons/solid/radiobutton.svg"
+      },
       "rapa-nui_flag-solid": {
         "value": "assets/icons/solid/flags/rapa-nui_flag.svg"
+      },
+      "real-solid": {
+        "value": "assets/icons/solid/real.svg"
       },
       "redirect-solid": {
         "value": "assets/icons/solid/redirect.svg"
@@ -1741,11 +1768,11 @@
       "south-sudan_flag-solid": {
         "value": "assets/icons/solid/flags/south-sudan_flag.svg"
       },
-      "sparkle-ai-solid": {
-        "value": "assets/icons/solid/sparkle-ai.svg"
-      },
       "spain_flag-solid": {
         "value": "assets/icons/solid/flags/spain_flag.svg"
+      },
+      "sparkle-ai-solid": {
+        "value": "assets/icons/solid/sparkle-ai.svg"
       },
       "sri-lanka_flag-solid": {
         "value": "assets/icons/solid/flags/sri-lanka_flag.svg"
@@ -1807,6 +1834,9 @@
       "ticket-solid": {
         "value": "assets/icons/solid/ticket.svg"
       },
+      "toggle-solid": {
+        "value": "assets/icons/solid/toggle.svg"
+      },
       "togo_flag-solid": {
         "value": "assets/icons/solid/flags/togo_flag.svg"
       },
@@ -1864,11 +1894,11 @@
       "unpin-solid": {
         "value": "assets/icons/solid/unpin.svg"
       },
-      "user-favorite-solid": {
-        "value": "assets/icons/solid/user-favorite.svg"
-      },
       "uruguay_flag-solid": {
         "value": "assets/icons/solid/flags/uruguay_flag.svg"
+      },
+      "user-favorite-solid": {
+        "value": "assets/icons/solid/user-favorite.svg"
       },
       "uzbekistn_flag-solid": {
         "value": "assets/icons/solid/flags/uzbekistn_flag.svg"
@@ -1891,14 +1921,20 @@
       "video-calling-solid": {
         "value": "assets/icons/solid/video-calling.svg"
       },
+      "video-closed-solid": {
+        "value": "assets/icons/solid/video-closed.svg"
+      },
       "video-ended-solid": {
         "value": "assets/icons/solid/video-ended.svg"
       },
       "video-solid": {
         "value": "assets/icons/solid/video.svg"
       },
-      "video-closed-solid": {
-        "value": "assets/icons/solid/video-closed.svg"
+      "vietnam_flag-solid": {
+        "value": "assets/icons/solid/flags/vietnam_flag.svg"
+      },
+      "virgin-islands_flag-solid": {
+        "value": "assets/icons/solid/flags/virgin-islands_flag.svg"
       },
       "voip-call-solid": {
         "value": "assets/icons/solid/voip-call.svg"
@@ -1918,12 +1954,6 @@
       "voip-receiving-solid": {
         "value": "assets/icons/solid/voip-receiving.svg"
       },
-      "vietnam_flag-solid": {
-        "value": "assets/icons/solid/flags/vietnam_flag.svg"
-      },
-      "virgin-islands_flag-solid": {
-        "value": "assets/icons/solid/flags/virgin-islands_flag.svg"
-      },
       "voip-solid": {
         "value": "assets/icons/solid/voip.svg"
       },
@@ -1938,15 +1968,6 @@
       },
       "whatsapp-solid": {
         "value": "assets/icons/solid/whatsapp.svg"
-      },
-      "toggle-solid": {
-        "value": "assets/icons/solid/toggle.svg"
-      },
-      "checkbox-solid": {
-        "value": "assets/icons/solid/checkbox.svg"
-      },
-      "radiobutton-solid": {
-        "value": "assets/icons/solid/radiobutton.svg"
       },
       "yemen_flag-solid": {
         "value": "assets/icons/solid/flags/yemen_flag.svg"

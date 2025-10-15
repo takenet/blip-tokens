@@ -43,6 +43,9 @@
       "appearance-outline": {
         "value": "assets/icons/outline/appearance.svg"
       },
+      "array-outline": {
+        "value": "assets/icons/outline/array.svg"
+      },
       "arrow-ball-down-outline": {
         "value": "assets/icons/outline/arrow-ball-down.svg"
       },
@@ -558,6 +561,9 @@
       },
       "notes-outline": {
         "value": "assets/icons/outline/notes.svg"
+      },
+      "object-outline": {
+        "value": "assets/icons/outline/object.svg"
       },
       "openfinance-outline": {
         "value": "assets/icons/outline/openfinance.svg"

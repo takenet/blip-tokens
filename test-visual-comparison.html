@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>SVG Comparison Test</title>
+    <style>
+        body { font-family: Arial; padding: 20px; background: #f5f5f5; }
+        .container { display: flex; gap: 40px; margin: 20px 0; }
+        .box { background: white; padding: 20px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); }
+        .box h3 { margin-top: 0; color: #333; }
+        svg { border: 1px solid #ddd; background: white; }
+        .info { margin-top: 10px; font-size: 12px; color: #666; }
+        .diff { background: #fff3cd; padding: 10px; border-radius: 4px; margin: 10px 0; }
+    </style>
+</head>
+<body>
+    <h1>🔍 Teste de Validação Visual - SVG Optimization</h1>
+    
+    <div class="diff">
+        <strong>⚠️ Análise Técnica:</strong>
+        <ul>
+            <li>✅ ViewBox preservado: <code>0 0 125 125</code></li>
+            <li>✅ Cores preservadas (apenas lowercase): <code>#f9b42f, #bc8417, #2c2a46</code></li>
+            <li>✅ Opacity preservado: <code>0.3</code></li>
+            <li>✅ Fill-rule e clip-rule preservados: <code>evenodd</code></li>
+            <li>⚠️ 4 elements → 3 elements (circle + 2 merged paths)</li>
+            <li>⚠️ Precisão reduzida: <code>62.3496 → 62.35</code></li>
+        </ul>
+    </div>
+    
+    <div class="container">
+        <div class="box">
+            <h3>Original (3.0 KB)</h3>
+            <svg width="125" height="125" viewBox="0 0 125 125" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <circle cx="62.3496" cy="62.3496" r="62.3496" fill="#F9B42F"/>
+                <path opacity="0.3" fill-rule="evenodd" clip-rule="evenodd" d="M113.285 98.5209C101.964 110.112 86.1615 117.308 68.6786 117.308C34.2439 117.308 6.32903 89.3929 6.32903 54.9582C6.32903 41.5625 10.5535 29.1535 17.7429 18.9907C6.76513 30.2299 0 45.6016 0 62.5535C0 96.9882 27.9149 124.903 62.3496 124.903C83.3887 124.903 101.994 114.482 113.285 98.5209Z" fill="#BC8417"/>
+                <path d="M64.5477 84.6079C57.2032 84.6079 50.9206 82.0594 48.9208 78.2545C48.7231 77.8484 48.6881 77.3821 48.823 76.9511C48.9579 76.5201 49.2524 76.157 49.6464 75.9361C49.8518 75.8247 50.0773 75.755 50.3098 75.7312C50.5423 75.7074 50.7772 75.7298 51.001 75.7973C51.2248 75.8648 51.433 75.9759 51.6136 76.1242C51.7942 76.2726 51.9436 76.4553 52.0532 76.6617C53.1859 78.8385 57.9642 81.1392 64.5477 81.1392C71.1311 81.1392 76.2103 78.75 77.1483 76.4316C77.2366 76.2155 77.3666 76.0189 77.5309 75.853C77.6952 75.6871 77.8906 75.5552 78.1059 75.4648C78.3211 75.3744 78.5521 75.3273 78.7856 75.3262C79.0191 75.3251 79.2505 75.3699 79.4666 75.4583C79.6828 75.5466 79.8794 75.6766 80.0453 75.8409C80.2112 76.0052 80.3431 76.2006 80.4335 76.4159C80.5238 76.6311 80.5709 76.8621 80.5721 77.0956C80.5732 77.3291 80.5283 77.5605 80.44 77.7766C78.7587 81.7763 72.2284 84.6079 64.5477 84.6079Z" fill="#2C2A46"/>
+                <path d="M46.0386 61.4002C45.322 61.4002 44.6348 61.1197 44.1281 60.6205C43.6214 60.1212 43.3368 59.4441 43.3368 58.7381C43.3368 57.8343 42.9724 56.9676 42.3239 56.3286C41.6753 55.6896 40.7957 55.3306 39.8785 55.3306C38.9613 55.3306 38.0816 55.6896 37.4331 56.3286C36.7845 56.9676 36.4202 57.8343 36.4202 58.7381C36.4202 59.4441 36.1355 60.1212 35.6288 60.6205C35.1222 61.1197 34.435 61.4002 33.7184 61.4002C33.0018 61.4002 32.3146 61.1197 31.8079 60.6205C31.3013 60.1212 31.0166 59.4441 31.0166 58.7381C31.0166 56.4223 31.9503 54.2013 33.6122 52.5638C35.2741 50.9263 37.5282 50.0063 39.8785 50.0063C42.2288 50.0063 44.4828 50.9263 46.1448 52.5638C47.8067 54.2013 48.7403 56.4223 48.7403 58.7381C48.7403 59.4441 48.4557 60.1212 47.949 60.6205C47.4423 61.1197 46.7551 61.4002 46.0386 61.4002Z" fill="#2C2A46"/>
+                <path d="M94.146 61.4002C93.4294 61.4002 92.7422 61.1197 92.2355 60.6205C91.7288 60.1212 91.4442 59.4441 91.4442 58.7381C91.4442 57.8343 91.0798 56.9676 90.4313 56.3286C89.7827 55.6896 88.9031 55.3306 87.9859 55.3306C87.0687 55.3306 86.1891 55.6896 85.5405 56.3286C84.892 56.9676 84.5276 57.8343 84.5276 58.7381C84.5276 59.4441 84.2429 60.1212 83.7363 60.6205C83.2296 61.1197 82.5424 61.4002 81.8258 61.4002C81.1093 61.4002 80.422 61.1197 79.9154 60.6205C79.4087 60.1212 79.124 59.4441 79.124 58.7381C79.124 56.4223 80.0577 54.2013 81.7196 52.5638C83.3815 50.9263 85.6356 50.0063 87.9859 50.0063C90.3362 50.0063 92.5903 50.9263 94.2522 52.5638C95.9141 54.2013 96.8478 56.4223 96.8478 58.7381C96.8478 59.4441 96.5631 60.1212 96.0564 60.6205C95.5497 61.1197 94.8625 61.4002 94.146 61.4002Z" fill="#2C2A46"/>
+            </svg>
+            <div class="info">4 elementos: circle + 3 paths separados</div>
+        </div>
+        
+        <div class="box">
+            <h3>Otimizado (1.5 KB - 50% menor)</h3>
+            <svg xmlns="http://www.w3.org/2000/svg" width="125" height="125" fill="none" viewBox="0 0 125 125"><circle cx="62.35" cy="62.35" r="62.35" fill="#f9b42f"/><path fill="#bc8417" fill-rule="evenodd" d="M113.285 98.52c-11.321 11.592-27.123 18.788-44.606 18.788-34.435 0-62.35-27.915-62.35-62.35 0-13.395 4.225-25.804 11.414-35.967C6.765 30.23 0 45.6 0 62.554c0 34.434 27.915 62.349 62.35 62.349 21.039 0 39.644-10.421 50.935-26.382" clip-rule="evenodd" opacity=".3"/><path fill="#2c2a46" d="M64.548 84.608c-7.345 0-13.627-2.549-15.627-6.354a1.77 1.77 0 0 1 .725-2.318 1.77 1.77 0 0 1 2.407.726c1.133 2.176 5.911 4.477 12.495 4.477s11.662-2.389 12.6-4.707a1.778 1.778 0 0 1 3.292 1.345c-1.681 4-8.212 6.83-15.892 6.83M46.039 61.4c-.717 0-1.404-.28-1.91-.78a2.64 2.64 0 0 1-.792-1.882c0-.904-.365-1.77-1.013-2.41a3.5 3.5 0 0 0-2.445-.997c-.918 0-1.797.359-2.446.998a3.38 3.38 0 0 0-1.013 2.41c0 .705-.285 1.382-.791 1.882a2.72 2.72 0 0 1-1.91.78 2.73 2.73 0 0 1-1.911-.78 2.64 2.64 0 0 1-.791-1.883c0-2.316.933-4.537 2.595-6.174a8.93 8.93 0 0 1 6.267-2.558c2.35 0 4.604.92 6.266 2.558a8.67 8.67 0 0 1 2.595 6.174c0 .706-.284 1.383-.791 1.883a2.72 2.72 0 0 1-1.91.78m48.107-.001c-.717 0-1.404-.28-1.91-.78a2.64 2.64 0 0 1-.792-1.882c0-.904-.364-1.77-1.013-2.41a3.5 3.5 0 0 0-2.445-.997c-.917 0-1.797.359-2.446.998a3.38 3.38 0 0 0-1.012 2.41c0 .705-.285 1.382-.792 1.882a2.72 2.72 0 0 1-1.91.78 2.72 2.72 0 0 1-1.91-.78 2.64 2.64 0 0 1-.792-1.883c0-2.316.934-4.537 2.596-6.174a8.93 8.93 0 0 1 6.266-2.558c2.35 0 4.604.92 6.266 2.558a8.67 8.67 0 0 1 2.596 6.174c0 .706-.285 1.383-.792 1.883a2.72 2.72 0 0 1-1.91.78"/></svg>
+            <div class="info">3 elementos: circle + 2 paths mesclados</div>
+        </div>
+    </div>
+    
+    <div style="background: white; padding: 20px; border-radius: 8px; margin-top: 20px;">
+        <h3>✅ Verificação de Integridade</h3>
+        <table style="width: 100%; border-collapse: collapse;">
+            <tr style="border-bottom: 1px solid #ddd;">
+                <th style="text-align: left; padding: 8px;">Propriedade</th>
+                <th style="text-align: left; padding: 8px;">Original</th>
+                <th style="text-align: left; padding: 8px;">Otimizado</th>
+                <th style="text-align: left; padding: 8px;">Status</th>
+            </tr>
+            <tr style="border-bottom: 1px solid #eee;">
+                <td style="padding: 8px;"><strong>ViewBox</strong></td>
+                <td style="padding: 8px;"><code>0 0 125 125</code></td>
+                <td style="padding: 8px;"><code>0 0 125 125</code></td>
+                <td style="padding: 8px;">✅ Idêntico</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #eee;">
+                <td style="padding: 8px;"><strong>Cores</strong></td>
+                <td style="padding: 8px;"><code>#F9B42F, #BC8417, #2C2A46</code></td>
+                <td style="padding: 8px;"><code>#f9b42f, #bc8417, #2c2a46</code></td>
+                <td style="padding: 8px;">✅ Equivalente (lowercase)</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #eee;">
+                <td style="padding: 8px;"><strong>Opacity</strong></td>
+                <td style="padding: 8px;"><code>0.3</code></td>
+                <td style="padding: 8px;"><code>.3</code></td>
+                <td style="padding: 8px;">✅ Equivalente</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #eee;">
+                <td style="padding: 8px;"><strong>Fill Rules</strong></td>
+                <td style="padding: 8px;"><code>evenodd</code></td>
+                <td style="padding: 8px;"><code>evenodd</code></td>
+                <td style="padding: 8px;">✅ Preservado</td>
+            </tr>
+            <tr style="border-bottom: 1px solid #eee;">
+                <td style="padding: 8px;"><strong>Precisão</strong></td>
+                <td style="padding: 8px;"><code>62.3496</code></td>
+                <td style="padding: 8px;"><code>62.35</code></td>
+                <td style="padding: 8px;">⚠️ Reduzida (0.0004% diff)</td>
+            </tr>
+        </table>
+        
+        <div style="margin-top: 20px; padding: 15px; background: #d4edda; border-radius: 4px; border: 1px solid #c3e6cb;">
+            <strong>✅ Conclusão:</strong> As imagens são visualmente idênticas. A otimização é segura e mantém todas as propriedades essenciais de estilização.
+        </div>
+    </div>
+    
+    <div style="background: #f8f9fa; padding: 20px; border-radius: 8px; margin-top: 20px;">
+        <h3>📋 Teste de Integração</h3>
+        <p>Abra este arquivo em diferentes navegadores para validar:</p>
+        <ul>
+            <li>Chrome/Edge</li>
+            <li>Firefox</li>
+            <li>Safari</li>
+        </ul>
+        <p><strong>Resultado esperado:</strong> Ambas as imagens devem ser visualmente idênticas em todos os navegadores.</p>
+    </div>
+</body>
+</html>

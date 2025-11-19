@@ -1,2 +1,3 @@
 build/
 node_modules/.backup-svgs-original/
+node_modules

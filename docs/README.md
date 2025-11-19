@@ -2,6 +2,8 @@
 
 Bem-vindo à documentação do projeto! Este diretório contém toda a documentação técnica, decisões arquiteturais e guias de uso.
 
+> 🚀 **[Executive Summary - SVG Optimization Project](./EXECUTIVE_SUMMARY.md)** - Resumo executivo completo do projeto de otimização
+
 ## 📁 Estrutura de Documentação
 
 ```

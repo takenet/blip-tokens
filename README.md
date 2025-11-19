@@ -1,6 +1,17 @@
 # blip-tokens
 Blip Design Tokens (BETA), refers to the attributes of the User Interface (UI) elements such as color, spacing, typeface, etc.
 
+## 📚 Documentation
+
+For comprehensive project documentation, including architecture decisions, guides, and technical reports, see:
+
+**[📖 Documentation Hub](./docs/README.md)**
+
+Quick Links:
+- [🚀 SVG Optimization Quick Start](./docs/guides/svg-optimization-quickstart.md)
+- [📊 Optimization Results](./docs/reports/svg-optimization-summary.md)
+- [🏛️ Architecture Decisions (ADRs)](./docs/adr/)
+
 ## Icons
 Icons are generated in svg, and in this process we convert to base64 keeping them all within a single JSON file.
 

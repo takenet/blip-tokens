@@ -10,7 +10,7 @@ For comprehensive project documentation, including architecture decisions, guide
 Quick Links:
 - [🚀 SVG Optimization Quick Start](./docs/guides/svg-optimization-quickstart.md)
 - [📊 Optimization Results](./docs/reports/svg-optimization-summary.md)
-- [🏛️ Architecture Decisions (ADRs)](./docs/adr/)
+- [🏛️ Architecture Decisions (ADs)](./docs/ad/)
 
 ## Icons
 Icons are generated in svg, and in this process we convert to base64 keeping them all within a single JSON file.

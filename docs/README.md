@@ -6,27 +6,27 @@ Bem-vindo à documentação do projeto! Este diretório contém toda a documenta
 
 ```
 docs/
-├── adr/                    # Architecture Decision Records
+├── ad/                     # Architecture Decisions
 ├── guides/                 # Guias de uso e implementação
 └── reports/               # Relatórios técnicos e análises
 ```
 
 ---
 
-## 🏛️ Architecture Decision Records (ADR)
+## 🏛️ Architecture Decisions (AD)
 
 Documentação de decisões arquiteturais importantes do projeto.
 
-### ADRs Disponíveis
+### ADs Disponíveis
 
-- **[ADR-0001: Adotar SVGO para Otimização de SVG](./adr/0001-adopt-svgo-for-svg-optimization.md)**
+- **[AD-001: Adotar SVGO para Otimização de SVG](./ad/001-adopt-svgo-for-svg-optimization.md)**
   - Status: ✅ Aceito (19/11/2025)
   - Decisão de usar SVGO para otimizar 1,216 assets SVG
   - Resultados: 9.36% de redução, zero perda de qualidade
 
-### O que é um ADR?
+### O que é um AD?
 
-Architecture Decision Records documentam decisões importantes de arquitetura, incluindo:
+Architecture Decisions documentam decisões importantes de arquitetura, incluindo:
 - **Contexto**: Problema que precisa ser resolvido
 - **Decisão**: Solução escolhida
 - **Consequências**: Impactos positivos e negativos
@@ -135,7 +135,7 @@ Ferramenta HTML para validação visual:
 
 | Se você quer... | Leia este documento |
 |----------------|---------------------|
-| Entender a decisão de otimizar SVGs | [ADR-0001](./adr/0001-adopt-svgo-for-svg-optimization.md) |
+| Entender a decisão de otimizar SVGs | [AD-001](./ad/001-adopt-svgo-for-svg-optimization.md) |
 | Começar a otimizar SVGs rapidamente | [Quick Start](./guides/svg-optimization-quickstart.md) |
 | Implementar otimização completa | [Guia Completo](./guides/svg-optimization-comprehensive.md) |
 | Ver métricas e ROI | [Sumário Executivo](./reports/svg-optimization-summary.md) |
@@ -148,10 +148,10 @@ Ferramenta HTML para validação visual:
 | Persona | Documentos Recomendados |
 |---------|-------------------------|
 | **Desenvolvedor Frontend** | Quick Start → Guia Completo |
-| **DevOps/SRE** | ADR-0001 → Guia Completo |
+| **DevOps/SRE** | AD-001 → Guia Completo |
 | **QA/Tester** | Relatório de Validação |
 | **Product Owner** | Sumário Executivo |
-| **Arquiteto de Software** | ADR-0001 → Relatório de Validação |
+| **Arquiteto de Software** | AD-001 → Relatório de Validação |
 | **Designer** | Sumário Executivo → Relatório de Validação |
 
 ---
@@ -170,7 +170,7 @@ graph TD
 ```
 
 1. **Contexto Geral**: Ler [Sumário Executivo](./reports/svg-optimization-summary.md)
-2. **Decisão Arquitetural**: Entender [ADR-0001](./adr/0001-adopt-svgo-for-svg-optimization.md)
+2. **Decisão Arquitetural**: Entender [AD-001](./ad/001-adopt-svgo-for-svg-optimization.md)
 3. **Implementação**: Seguir [Quick Start](./guides/svg-optimization-quickstart.md)
 4. **Aprofundamento**: Consultar [Guia Completo](./guides/svg-optimization-comprehensive.md) quando necessário
 
@@ -229,7 +229,6 @@ npm run analyze:svg
 - [SVGO Documentation](https://github.com/svg/svgo)
 - [SVG Specification](https://www.w3.org/TR/SVG2/)
 - [Web Performance Best Practices](https://web.dev/optimize-images/)
-- [ADR Guide](https://adr.github.io/)
 
 ### Artigos Relacionados
 
@@ -242,15 +241,15 @@ npm run analyze:svg
 
 ### Adicionando Nova Documentação
 
-1. **ADRs**: Numerar sequencialmente (0002, 0003, etc.)
+1. **ADs**: Numerar sequencialmente (002, 003, etc.)
 2. **Guias**: Adicionar em `guides/` com nome descritivo
 3. **Relatórios**: Adicionar em `reports/` com data no nome
 4. **Atualizar**: Este README.md com links
 
-### Template ADR
+### Template AD
 
 ```markdown
-# ADR XXXX: Título da Decisão
+# AD-XXX: Título da Decisão
 
 ## Status
 [PROPOSTO | ACEITO | REJEITADO | DEPRECIADO | SUBSTITUÍDO]
@@ -281,7 +280,7 @@ R: Comece pelo [Quick Start](./guides/svg-optimization-quickstart.md).
 R: Consulte o [Relatório de Validação](./reports/svg-validation-report.md).
 
 **P: Por que escolhemos SVGO?**  
-R: Leia o [ADR-0001](./adr/0001-adopt-svgo-for-svg-optimization.md).
+R: Leia o [AD-001](./ad/001-adopt-svgo-for-svg-optimization.md).
 
 ### Contato
 
@@ -295,7 +294,7 @@ Para dúvidas ou sugestões sobre a documentação:
 
 | Métrica | Valor |
 |---------|-------|
-| ADRs Ativos | 1 |
+| ADs Ativos | 1 |
 | Guias Disponíveis | 2 |
 | Relatórios | 5 |
 | Ferramentas Interativas | 1 |
@@ -306,7 +305,7 @@ Para dúvidas ou sugestões sobre a documentação:
 
 ## ✅ Checklist de Manutenção
 
-- [ ] Revisar ADRs a cada 6 meses
+- [ ] Revisar ADs a cada 6 meses
 - [ ] Atualizar guias quando houver mudanças no SVGO
 - [ ] Adicionar novos casos de uso conforme surgem
 - [ ] Manter exemplos e screenshots atualizados

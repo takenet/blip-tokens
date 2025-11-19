@@ -1,4 +1,4 @@
-# ADR 0001: Adotar SVGO para Otimização de Assets SVG
+# AD-001: Adotar SVGO para Otimização de Assets SVG ADR 0001: Adotar SVGO para Otimização de Assets SVG
 
 ## Status
 

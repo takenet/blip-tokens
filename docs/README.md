@@ -20,7 +20,7 @@ Documentação de decisões arquiteturais importantes do projeto.
 ### ADs Disponíveis
 
 - **[AD-001: Adotar SVGO para Otimização de SVG](./ad/001-adopt-svgo-for-svg-optimization.md)**
-  - Status: ✅ Aceito (19/11/2025)
+  - Status: 🔄 Em Revisão (19/11/2025)
   - Decisão de usar SVGO para otimizar 1,216 assets SVG
   - Resultados: 9.36% de redução, zero perda de qualidade
 

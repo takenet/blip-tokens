@@ -2,7 +2,7 @@
 
 ## Status
 
-✅ **ACEITO** - Implementado em 19/11/2025
+🔄 **EM REVISÃO** - Proposto em 19/11/2025
 
 ## Contexto
 

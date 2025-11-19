@@ -15,7 +15,8 @@
     "semantic-release": "semantic-release",
     "optimize:svg": "svgo assets/**/*.svg --config=svgo.config.js --quiet",
     "optimize:svg:check": "svgo assets/**/*.svg --config=svgo.config.js --dry-run",
-    "analyze:svg": "bash svg-analysis.sh"
+    "analyze:svg": "bash svg-analysis.sh",
+    "check:svg:size": "bash scripts/check-svg-size.sh"
   },
   "author": "",
   "license": "ISC",

@@ -316,8 +316,8 @@
       "edit-outline": {
         "value": "assets/icons/outline/edit.svg"
       },
-      "edit-optimize-outline": {
-        "value": "assets/icons/outline/edit-optimize.svg"
+      "edit-sparkle-ai-outline": {
+        "value": "assets/icons/outline/edit-sparkle-ai.svg"
       },
       "email-outline": {
         "value": "assets/icons/outline/email.svg"
@@ -472,6 +472,9 @@
       "home-outline": {
         "value": "assets/icons/outline/home.svg"
       },
+      "ideas-sparkle-ai-outline": {
+        "value": "assets/icons/outline/ideas-sparkle-ai.svg"
+      },
       "info-outline": {
         "value": "assets/icons/outline/info.svg"
       },
@@ -555,6 +558,9 @@
       },
       "message-talk-outline": {
         "value": "assets/icons/outline/message-talk.svg"
+      },
+      "message-sparkle-ai-outline": {
+        "value": "assets/icons/outline/message-sparkle-ai.svg"
       },
       "message-total-outline": {
         "value": "assets/icons/outline/message-total.svg"

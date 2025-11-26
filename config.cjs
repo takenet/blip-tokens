@@ -1,7 +1,8 @@
-const illustrations = require("./properties/assets/illustrations.json");
+const { asset: _asset } = require("./properties/assets/illustrations.json");
+const { execSync } = require('child_process');
 
 const buildIllustrations = () => {
-  const asset = illustrations.asset;
+  const asset = _asset;
 
   let response = [
     {
@@ -195,3 +196,12 @@ StyleDictionary.registerFormat({
 });
 
 StyleDictionary.buildAllPlatforms();
+
+// Generate icon type definitions after build
+console.log('\nGenerating icon type definitions...');
+try {
+  execSync('node scripts/generate_icon_types.js', { stdio: 'inherit' });
+} catch (error) {
+  console.error('Failed to generate icon types:', error);
+  process.exit(1);
+}

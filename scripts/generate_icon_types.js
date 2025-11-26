@@ -98,14 +98,17 @@ export const SolidIcons = ${JSON.stringify(solidIcons, null, 2)};
  */
 export const AllIcons = Array.from(new Set([...OutlineIcons, ...SolidIcons])).sort();
 
+const outlineIconsSet = new Set(OutlineIcons);
 /**
  * Check if an icon name exists in the outline set
  * @param {string} iconName - Icon name to check
  * @returns {boolean}
  */
 export function isOutlineIcon(iconName) {
-  return OutlineIcons.includes(iconName);
+  return outlineIconsSet.has(iconName);
 }
+
+const solidIconsSet = new Set(SolidIcons);
 
 /**
  * Check if an icon name exists in the solid set
@@ -113,8 +116,10 @@ export function isOutlineIcon(iconName) {
  * @returns {boolean}
  */
 export function isSolidIcon(iconName) {
-  return SolidIcons.includes(iconName);
+  return solidIconsSet.has(iconName);
 }
+
+const allIconsSet = new Set(AllIcons);
 
 /**
  * Check if an icon name exists in any set
@@ -122,7 +127,7 @@ export function isSolidIcon(iconName) {
  * @returns {boolean}
  */
 export function isValidIcon(iconName) {
-  return AllIcons.includes(iconName);
+  return allIconsSet.has(iconName);
 }
 `;
 

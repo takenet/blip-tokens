@@ -14,6 +14,16 @@ const buildPath = resolve(__dirname, '../build');
 const outputJsPath = join(buildPath, 'icons.js');
 const outputDtsPath = join(buildPath, 'icons.d.ts');
 
+const COLORS = {
+  RESET: '\x1b[0m',
+  BLUE: '\x1b[34m',
+  CYAN: '\x1b[36m',
+  GREEN: '\x1b[32m',
+  RED: '\x1b[31m',
+  BG_GREEN: '\x1b[42m',
+  BG_RED: '\x1b[41m',
+}
+
 /**
  * Recursively get all SVG files from a directory
  * @param {string} dirPath - Directory to scan
@@ -27,18 +37,17 @@ function getIconNames(dirPath) {
       return;
     }
 
-    const items = readdirSync(currentPath);
+    const items = readdirSync(currentPath, { withFileTypes: true });
 
     items.forEach(item => {
-      const fullPath = join(currentPath, item);
-      const stat = statSync(fullPath);
+      const fullPath = join(currentPath, item.name);
 
-      if (stat.isDirectory()) {
+      if (item.isDirectory()) {
         // Recursively traverse subdirectories
         traverse(fullPath);
-      } else if (item.endsWith('.svg')) {
+      } else if (item.isFile() && item.name.endsWith('.svg')) {
         // Extract filename without extension
-        const iconName = item.replace('.svg', '');
+        const iconName = item.name.replace('.svg', '');
         iconNames.push(iconName);
       }
     });
@@ -73,8 +82,9 @@ function generateUnionType(items) {
  * Generate JavaScript file with icon arrays. AllIcons is computed dynamically from OutlineIcons and SolidIcons.
  * @param {string[]} outlineIcons
  * @param {string[]} solidIcons
+ * @param {string[]} allIcons
  */
-function generateJavaScriptFile(outlineIcons, solidIcons) {
+function generateJavaScriptFile(outlineIcons, solidIcons, allIcons) {
   const content = `// Auto-generated file. Do not edit manually.
 // Generated from assets/icons directory structure
 
@@ -95,7 +105,7 @@ export const SolidIcons = ${JSON.stringify(solidIcons, null, 2)};
  * Computed dynamically to avoid duplication and reduce package size
  * @type {ReadonlyArray<string>}
  */
-export const AllIcons = Array.from(new Set([...OutlineIcons, ...SolidIcons])).sort();
+export const AllIcons = ${JSON.stringify(allIcons, null, 2)};
 
 const outlineIconsSet = new Set(OutlineIcons);
 /**
@@ -150,17 +160,17 @@ function generateTypeScriptFile(outlineIcons, solidIcons, allIcons) {
 /**
  * Array of all outline icon names (from assets/icons/outline)
  */
-export declare const OutlineIcons: readonly string[];
+export declare const OutlineIcons: readonly OutlineIcon[];
 
 /**
  * Array of all solid icon names (from assets/icons/solid)
  */
-export declare const SolidIcons: readonly string[];
+export declare const SolidIcons: readonly SolidIcon[];
 
 /**
  * Array of all unique icon names (union of outline and solid)
  */
-export declare const AllIcons: readonly string[];
+export declare const AllIcons: readonly IconName[];
 
 /**
  * Type representing all outline icon names
@@ -209,26 +219,26 @@ try {
     mkdirSync(buildPath, { recursive: true });
   }
 
-  console.log('\x1b[34m[Icon Types Generator]\x1b[0m Scanning filesystem...');
+  console.log(`${COLORS.BLUE}[Icon Types Generator]${COLORS.RESET} Scanning filesystem...`);
 
   // Get icon names from filesystem
   const outlineIcons = getIconNames(iconsOutlinePath);
   const solidIcons = getIconNames(iconsSolidPath);
   const allIcons = getUniqueIconNames(outlineIcons, solidIcons);
 
-  console.log(`\x1b[36m[✓]\x1b[0m Found ${outlineIcons.length} outline icons`);
-  console.log(`\x1b[36m[✓]\x1b[0m Found ${solidIcons.length} solid icons`);
-  console.log(`\x1b[36m[✓]\x1b[0m Total unique icons: ${allIcons.length}`);
+  console.log(`${COLORS.CYAN}[✓]${COLORS.RESET} Found ${outlineIcons.length} outline icons`);
+  console.log(`${COLORS.CYAN}[✓]${COLORS.RESET} Found ${solidIcons.length} solid icons`);
+  console.log(`${COLORS.CYAN}[✓]${COLORS.RESET} Total unique icons: ${allIcons.length}`);
 
   // Generate output files
-  generateJavaScriptFile(outlineIcons, solidIcons);
-  console.log(`\x1b[32m[✓]\x1b[0m Generated ${outputJsPath}`);
+  generateJavaScriptFile(outlineIcons, solidIcons, allIcons);
+  console.log(`${COLORS.GREEN}[✓]${COLORS.RESET} Generated ${outputJsPath}`);
 
   generateTypeScriptFile(outlineIcons, solidIcons, allIcons);
-  console.log(`\x1b[32m[✓]\x1b[0m Generated ${outputDtsPath}`);
+  console.log(`${COLORS.GREEN}[✓]${COLORS.RESET} Generated ${outputDtsPath}`);
 
-  console.log('\x1b[42m[Success]\x1b[0m Icon types generated successfully!');
+  console.log(`${COLORS.BG_GREEN}[Success]${COLORS.RESET} Icon types generated successfully!`);
 } catch (error) {
-  console.error('\x1b[41m[Error]\x1b[0m Failed to generate icon types:', error);
+  console.error(`${COLORS.BG_RED}[Error]${COLORS.RESET} Failed to generate icon types:`, error);
   process.exit(1);
 }

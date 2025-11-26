@@ -70,12 +70,11 @@ function generateUnionType(items) {
 }
 
 /**
- * Generate JavaScript file with icon arrays
+ * Generate JavaScript file with icon arrays. AllIcons is computed dynamically from OutlineIcons and SolidIcons.
  * @param {string[]} outlineIcons
  * @param {string[]} solidIcons
- * @param {string[]} allIcons
  */
-function generateJavaScriptFile(outlineIcons, solidIcons, allIcons) {
+function generateJavaScriptFile(outlineIcons, solidIcons) {
   const content = `// Auto-generated file. Do not edit manually.
 // Generated from assets/icons directory structure
 
@@ -222,7 +221,7 @@ try {
   console.log(`\x1b[36m[✓]\x1b[0m Total unique icons: ${allIcons.length}`);
 
   // Generate output files
-  generateJavaScriptFile(outlineIcons, solidIcons, allIcons);
+  generateJavaScriptFile(outlineIcons, solidIcons);
   console.log(`\x1b[32m[✓]\x1b[0m Generated ${outputJsPath}`);
 
   generateTypeScriptFile(outlineIcons, solidIcons, allIcons);

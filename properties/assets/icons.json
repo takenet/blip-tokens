@@ -79,9 +79,6 @@
       "arrow-up-outline": {
         "value": "assets/icons/outline/arrow-up.svg"
       },
-      "arrow_filter_table-outline": {
-        "valeu": "assets/icons/outline/arrow-filter-table.svg"
-      },
       "attach-outline": {
         "value": "assets/icons/outline/attach.svg"
       },
@@ -244,6 +241,24 @@
       "code-outline": {
         "value": "assets/icons/outline/code.svg"
       },
+      "code-match-outline": {
+        "value": "assets/icons/outline/code-match.svg"
+      },
+      "code-match-whole-word-outline": {
+        "value": "assets/icons/outline/code-match-whole-word.svg"
+      },
+      "code-preserve-case-outline": {
+        "value": "assets/icons/outline/code-preserve-case.svg"
+      },
+      "code-regex-outline": {
+        "value": "assets/icons/outline/code-regex.svg"
+      },
+      "code-replace-all-outline": {
+        "value": "assets/icons/outline/code-replace-all.svg"
+      },
+      "code-replace-outline": {
+        "value": "assets/icons/outline/code-replace.svg"
+      },
       "company-outline": {
         "value": "assets/icons/outline/company.svg"
       },
@@ -271,6 +286,9 @@
       "debug-outline": {
         "value": "assets/icons/outline/debug.svg"
       },
+      "debug-display-outline": {
+        "value": "assets/icons/outline/debug-display.svg"
+      },
       "delete-outline": {
         "value": "assets/icons/outline/delete.svg"
       },
@@ -294,6 +312,9 @@
       },
       "edit-outline": {
         "value": "assets/icons/outline/edit.svg"
+      },
+      "edit-sparkle-ai-outline": {
+        "value": "assets/icons/outline/edit-sparkle-ai.svg"
       },
       "email-outline": {
         "value": "assets/icons/outline/email.svg"
@@ -448,6 +469,9 @@
       "home-outline": {
         "value": "assets/icons/outline/home.svg"
       },
+      "ideas-sparkle-ai-outline": {
+        "value": "assets/icons/outline/ideas-sparkle-ai.svg"
+      },
       "info-outline": {
         "value": "assets/icons/outline/info.svg"
       },
@@ -531,6 +555,9 @@
       },
       "message-talk-outline": {
         "value": "assets/icons/outline/message-talk.svg"
+      },
+      "message-sparkle-ai-outline": {
+        "value": "assets/icons/outline/message-sparkle-ai.svg"
       },
       "message-total-outline": {
         "value": "assets/icons/outline/message-total.svg"

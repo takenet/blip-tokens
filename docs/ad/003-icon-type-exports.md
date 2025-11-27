@@ -62,7 +62,7 @@ if (isValidIcon("sparkle-ai")) {
 - Os nomes de ícones são extraídos dos nomes dos arquivos (sem a extensão `.svg`).
 - Ícones em subpastas (como `solid/flags/`) usam apenas o nome do arquivo.
 - Os nomes são ordenados alfabeticamente.
-- Os nomes são normalizados para minúsculas; espaços viram hífen e outros caracteres presentes no nome do arquivo também aparecem nos nomes exportados.
+- Os nomes são normalizados para minúsculas; espaços viram hífen. Todos os demais caracteres presentes no nome do arquivo (incluindo acentos, números e pontuação) são preservados nos nomes exportados, sem remoção ou substituição adicional.
 
 ## Benefícios
 - Segurança de tipos: o TypeScript bloqueia nomes inválidos em tempo de compilação.

@@ -1,6 +1,9 @@
 {
   "asset": {
     "icon": {
+      "svg-test-outline": {
+        "value": "assets/icons/outline/svg-test.svg"
+      },
       "123-outline": {
         "value": "assets/icons/outline/123.svg"
       },

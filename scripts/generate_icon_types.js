@@ -19,7 +19,6 @@ const COLORS = {
   BLUE: '\x1b[34m',
   CYAN: '\x1b[36m',
   GREEN: '\x1b[32m',
-  RED: '\x1b[31m',
   BG_GREEN: '\x1b[42m',
   BG_RED: '\x1b[41m',
 };

@@ -46,7 +46,7 @@ function getIconNames(dirPath) {
         traverse(fullPath);
       } else if (item.isFile() && item.name.endsWith('.svg')) {
         // Convert filename to icon name: remove .svg, replace spaces with hyphens, lowercase
-        const iconName = item.name.replace(/\.svg$/, '').replace(/\s/g, '-').toLowerCase();
+        const iconName = item.name.replace(/\.svg$/, '').replace(/\s|_/g, '-').toLowerCase();
         iconNames.push(iconName);
       }
     });

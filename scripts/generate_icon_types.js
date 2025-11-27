@@ -68,13 +68,18 @@ function getUniqueIconNames(outlineIcons, solidIcons) {
 }
 
 /**
- * Generate TypeScript union type from array of strings
+ * Generate TypeScript interface map from array of strings
+ * @param {string} interfaceName
  * @param {string[]} items
  * @returns {string}
  */
-function generateUnionType(items) {
-  if (items.length === 0) return 'never';
-  return items.map(item => JSON.stringify(item)).join(' | ');
+function generateInterface(interfaceName, items) {
+  if (items.length === 0) {
+    return `export interface ${interfaceName} {\n}\n`;
+  }
+
+  const entries = items.map(item => `  ${JSON.stringify(item)}: true;`).join('\n');
+  return `export interface ${interfaceName} {\n${entries}\n}\n`;
 }
 
 /**
@@ -149,9 +154,9 @@ export function isValidIcon(iconName) {
  * @param {string[]} allIcons
  */
 function generateTypeScriptFile(outlineIcons, solidIcons, allIcons) {
-  const outlineType = generateUnionType(outlineIcons);
-  const solidType = generateUnionType(solidIcons);
-  const allIconsType = generateUnionType(allIcons);
+  const outlineInterface = generateInterface('OutlineIconMap', outlineIcons);
+  const solidInterface = generateInterface('SolidIconMap', solidIcons);
+  const allIconsInterface = generateInterface('IconMap', allIcons);
 
   const content = `// Auto-generated file. Do not edit manually.
 // Generated from assets/icons directory structure
@@ -171,20 +176,26 @@ export declare const SolidIcons: readonly SolidIcon[];
  */
 export declare const AllIcons: readonly IconName[];
 
+${outlineInterface}
+
+${solidInterface}
+
+${allIconsInterface}
+
 /**
  * Type representing all outline icon names
  */
-export type OutlineIcon = ${outlineType};
+export type OutlineIcon = keyof OutlineIconMap;
 
 /**
  * Type representing all solid icon names
  */
-export type SolidIcon = ${solidType};
+export type SolidIcon = keyof SolidIconMap;
 
 /**
  * Type representing all unique icon names
  */
-export type IconName = ${allIconsType};
+export type IconName = keyof IconMap;
 
 /**
  * Check if an icon name exists in the outline set

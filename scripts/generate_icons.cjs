@@ -53,6 +53,8 @@ function getFilesNotIncluded(files) {
 }
 
 function includeIconsIntoFile(files) {
+  let modified = false;
+
   files.forEach((file) => {
 
     const result = keys.filter((iconName) => {
@@ -71,16 +73,22 @@ function includeIconsIntoFile(files) {
       
       iconsJson['asset']['icon'][keyName] = {
         value: file.path
-      }
-
-      iconsJson['asset']['icon'] = orderFile()
-
-      fs.writeFile(iconsJsonFileName, JSON.stringify(iconsJson, null, 2), function writeJSON(err) {
-        if (err) return console.log(err);
-      });
+      };
+      
+      modified = true;
     }
-  
-  })
+    
+  });
+
+  if(!modified) {
+    return;
+  }
+
+  iconsJson['asset']['icon'] = orderFile()
+
+  fs.writeFile(iconsJsonFileName, JSON.stringify(iconsJson, null, 2), function writeJSON(err) {
+    if (err) return console.log(err);
+  });
 }
 
 function orderFile() {

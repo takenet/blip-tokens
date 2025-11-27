@@ -1,5 +1,5 @@
 // Script to generate TypeScript icon type definitions from filesystem
-import { existsSync, readdirSync, statSync, writeFileSync, mkdirSync } from 'fs';
+import { existsSync, readdirSync, writeFileSync, mkdirSync } from 'fs';
 import { resolve, join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 
@@ -22,7 +22,7 @@ const COLORS = {
   RED: '\x1b[31m',
   BG_GREEN: '\x1b[42m',
   BG_RED: '\x1b[41m',
-}
+};
 
 /**
  * Recursively get all SVG files from a directory
@@ -46,8 +46,8 @@ function getIconNames(dirPath) {
         // Recursively traverse subdirectories
         traverse(fullPath);
       } else if (item.isFile() && item.name.endsWith('.svg')) {
-        // Extract filename without extension
-        const iconName = item.name.replace('.svg', '');
+        // Convert filename to icon name: remove .svg, replace spaces with hyphens, lowercase
+        const iconName = item.name.replace(/\.svg$/, '').replace(/\s/g, '-').toLowerCase();
         iconNames.push(iconName);
       }
     });
@@ -75,11 +75,11 @@ function getUniqueIconNames(outlineIcons, solidIcons) {
  */
 function generateUnionType(items) {
   if (items.length === 0) return 'never';
-  return items.map(item => `"${item}"`).join(' | ');
+  return items.map(item => JSON.stringify(item)).join(' | ');
 }
 
 /**
- * Generate JavaScript file with icon arrays. AllIcons is computed dynamically from OutlineIcons and SolidIcons.
+ * Generate JavaScript file with icon arrays. AllIcons is pre-computed from OutlineIcons and SolidIcons during the build process and serialized into the generated file.
  * @param {string[]} outlineIcons
  * @param {string[]} solidIcons
  * @param {string[]} allIcons
@@ -102,7 +102,7 @@ export const SolidIcons = ${JSON.stringify(solidIcons, null, 2)};
 
 /**
  * Array of all unique icon names (union of outline and solid)
- * Computed dynamically to avoid duplication and reduce package size
+ * Pre-computed at build time from OutlineIcons and SolidIcons to reduce runtime overhead while avoiding duplication.
  * @type {ReadonlyArray<string>}
  */
 export const AllIcons = ${JSON.stringify(allIcons, null, 2)};

@@ -151,7 +151,7 @@ const arrowIcons = searchIcons('arrow');
 3. **Always in Sync**: Icon names come directly from the filesystem, not JSON
 4. **No Duplicates**: Unique icon names guaranteed by the filesystem
 5. **Runtime Validation**: Helper functions for dynamic icon names
-6. **Optimized Bundle Size**: `AllIcons` is computed dynamically to avoid duplicating icon names (~45% smaller)
+6. **Optimized Bundle Size**: `AllIcons` is pre-computed during the build process to avoid duplicating icon names (~45% smaller)
 
 ## Icon Counts
 
@@ -164,4 +164,4 @@ const arrowIcons = searchIcons('arrow');
 - Icon names are extracted from filenames (without `.svg` extension)
 - For icons in subdirectories (like `solid/flags/`), only the filename is used
 - Icon names are sorted alphabetically
-- All icon names are lowercase with hyphens or underscores
+- Icon names are always normalized to lowercase, with spaces converted to hyphens. Any other characters present in the filename (such as numbers or other symbols) may also appear in the exported icon names.

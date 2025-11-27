@@ -3,12 +3,12 @@ const fs = require('fs');
 const readline = require('readline');
 const iconsFolder = '../assets/icons';
 const iconsJsonFileName = '../properties/assets/icons.json';
-let iconsJson
+let iconsJson;
 
 try {
   iconsJson = require(iconsJsonFileName);
 } catch (e) {
-  throw 'Invalid Icons Json File';
+  throw new Error('Invalid Icons Json File');
 }
 
 function getFilesFromFolder(path) {

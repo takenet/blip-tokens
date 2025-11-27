@@ -200,7 +200,7 @@ StyleDictionary.buildAllPlatforms();
 // Generate icon type definitions after build
 console.log('\nGenerating icon type definitions...');
 try {
-  execFileSync('node', [require('path').join(__dirname, 'scripts/generate_icon_types.js')], { stdio: 'inherit' });
+  execFileSync('node', [require('path').join(__dirname, 'scripts', 'generate_icon_types.js')], { stdio: 'inherit' });
 } catch (error) {
   console.error('Failed to generate icon types:', error);
   process.exit(1);

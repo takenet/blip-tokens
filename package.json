@@ -2,13 +2,21 @@
   "name": "blip-tokens",
   "version": "0.0.0-development",
   "description": "",
+  "type": "module",
   "main": "build/index.js",
+  "exports": {
+    ".": "./build/index.js",
+    "./icons": {
+      "types": "./build/icons.d.ts",
+      "default": "./build/icons.js"
+    }
+  },
   "files": [
     "build",
     "properties"
   ],
   "scripts": {
-    "build": "node_modules/.bin/style-dictionary build",
+    "build": "node_modules/.bin/style-dictionary build --config ./config.cjs",
     "clean": "rm -rf build",
     "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1",

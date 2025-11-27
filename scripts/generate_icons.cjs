@@ -3,12 +3,12 @@ const fs = require('fs');
 const readline = require('readline');
 const iconsFolder = '../assets/icons';
 const iconsJsonFileName = '../properties/assets/icons.json';
-let iconsJson
+let iconsJson;
 
 try {
   iconsJson = require(iconsJsonFileName);
 } catch (e) {
-  throw 'Invalid Icons Json File';
+  throw new Error('Invalid Icons Json File');
 }
 
 function getFilesFromFolder(path) {
@@ -53,6 +53,8 @@ function getFilesNotIncluded(files) {
 }
 
 function includeIconsIntoFile(files) {
+  let modified = false;
+
   files.forEach((file) => {
 
     const result = keys.filter((iconName) => {
@@ -71,16 +73,22 @@ function includeIconsIntoFile(files) {
       
       iconsJson['asset']['icon'][keyName] = {
         value: file.path
-      }
-
-      iconsJson['asset']['icon'] = orderFile()
-
-      fs.writeFile(iconsJsonFileName, JSON.stringify(iconsJson, null, 2), function writeJSON(err) {
-        if (err) return console.log(err);
-      });
+      };
+      
+      modified = true;
     }
-  
-  })
+    
+  });
+
+  if(!modified) {
+    return;
+  }
+
+  iconsJson['asset']['icon'] = orderFile()
+
+  fs.writeFile(iconsJsonFileName, JSON.stringify(iconsJson, null, 2), function writeJSON(err) {
+    if (err) return console.log(err);
+  });
 }
 
 function orderFile() {

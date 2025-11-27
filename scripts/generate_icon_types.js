@@ -225,6 +225,10 @@ try {
   const solidIcons = getIconNames(iconsSolidPath);
   const allIcons = getUniqueIconNames(outlineIcons, solidIcons);
 
+  if (allIcons.length === 0) {
+    console.error(`${COLORS.BG_RED}[Error]${COLORS.RESET} No icons found. Please ensure that the directories "${iconsOutlinePath}" and "${iconsSolidPath}" exist and contain icon files.`);
+    process.exit(1);
+  }
   console.log(`${COLORS.CYAN}[✓]${COLORS.RESET} Found ${outlineIcons.length} outline icons`);
   console.log(`${COLORS.CYAN}[✓]${COLORS.RESET} Found ${solidIcons.length} solid icons`);
   console.log(`${COLORS.CYAN}[✓]${COLORS.RESET} Total unique icons: ${allIcons.length}`);

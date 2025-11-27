@@ -153,3 +153,14 @@ function searchIcons(query: string) {
 const arrowIcons = searchIcons('arrow');
 // ["arrow-ball-down", "arrow-ball-left", "arrow-down", ...]
 ```
+
+## Changelog
+
+| Data | Versão | Mudança | Autor |
+|------|--------|---------|-------|
+| 2025-11-27 | 1.0 | Decisão inicial e implementação | Dev Team |
+
+---
+
+**Última Atualização**: 27 de Novembro de 2025  
+**Próxima Revisão**: 27 de Maio de 2026 (6 meses)

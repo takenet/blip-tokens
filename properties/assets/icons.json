@@ -1819,6 +1819,9 @@
       "sparkle-ai-solid": {
         "value": "assets/icons/solid/sparkle-ai.svg"
       },
+      "sparkle-ai-color-solid": {
+        "value": "assets/icons/solid/sparkle-ai-color.svg"
+      },
       "sri-lanka_flag-solid": {
         "value": "assets/icons/solid/flags/sri-lanka_flag.svg"
       },

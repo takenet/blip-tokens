@@ -439,6 +439,9 @@
       "folder-add-outline": {
         "value": "assets/icons/outline/folder-add.svg"
       },
+      "folder-open-outline": {
+        "value": "assets/icons/outline/folder-open.svg"
+      },
       "folder-outline": {
         "value": "assets/icons/outline/folder.svg"
       },
@@ -1296,6 +1299,9 @@
       },
       "folder-add-solid": {
         "value": "assets/icons/solid/folder-add.svg"
+      },
+      "folder-open-solid": {
+        "value": "assets/icons/solid/folder-open.svg"
       },
       "folder-save-solid": {
         "value": "assets/icons/solid/folder-save.svg"

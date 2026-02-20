@@ -436,6 +436,9 @@
       "filter-outline": {
         "value": "assets/icons/outline/filter.svg"
       },
+      "fire-outline": {
+        "value": "assets/icons/outline/fire.svg"
+      },
       "folder-add-outline": {
         "value": "assets/icons/outline/folder-add.svg"
       },

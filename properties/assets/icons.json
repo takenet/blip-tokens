@@ -241,14 +241,14 @@
       "cloud-outline": {
         "value": "assets/icons/outline/cloud.svg"
       },
-      "code-outline": {
-        "value": "assets/icons/outline/code.svg"
-      },
       "code-match-outline": {
         "value": "assets/icons/outline/code-match.svg"
       },
       "code-match-whole-word-outline": {
         "value": "assets/icons/outline/code-match-whole-word.svg"
+      },
+      "code-outline": {
+        "value": "assets/icons/outline/code.svg"
       },
       "code-preserve-case-outline": {
         "value": "assets/icons/outline/code-preserve-case.svg"
@@ -286,11 +286,11 @@
       "date-time-outline": {
         "value": "assets/icons/outline/date-time.svg"
       },
-      "debug-outline": {
-        "value": "assets/icons/outline/debug.svg"
-      },
       "debug-display-outline": {
         "value": "assets/icons/outline/debug-display.svg"
+      },
+      "debug-outline": {
+        "value": "assets/icons/outline/debug.svg"
       },
       "delete-outline": {
         "value": "assets/icons/outline/delete.svg"
@@ -439,8 +439,20 @@
       "filter-outline": {
         "value": "assets/icons/outline/filter.svg"
       },
+      "fire-outline": {
+        "value": "assets/icons/outline/fire.svg"
+      },
+      "folder-add-outline": {
+        "value": "assets/icons/outline/folder-add.svg"
+      },
+      "folder-open-outline": {
+        "value": "assets/icons/outline/folder-open.svg"
+      },
       "folder-outline": {
         "value": "assets/icons/outline/folder.svg"
+      },
+      "folder-save-outline": {
+        "value": "assets/icons/outline/folder-save.svg"
       },
       "gift-outline": {
         "value": "assets/icons/outline/gift.svg"
@@ -448,23 +460,23 @@
       "guide-outline": {
         "value": "assets/icons/outline/guide.svg"
       },
-      "h1-outline": {
-        "value": "assets/icons/outline/h1.svg"
+      "h-1-outline": {
+        "value": "assets/icons/outline/h-1.svg"
       },
-      "h2-outline": {
-        "value": "assets/icons/outline/h2.svg"
+      "h-2-outline": {
+        "value": "assets/icons/outline/h-2.svg"
       },
-      "h3-outline": {
-        "value": "assets/icons/outline/h3.svg"
+      "h-3-outline": {
+        "value": "assets/icons/outline/h-3.svg"
       },
-      "h4-outline": {
-        "value": "assets/icons/outline/h4.svg"
+      "h-4-outline": {
+        "value": "assets/icons/outline/h-4.svg"
       },
-      "h5-outline": {
-        "value": "assets/icons/outline/h5.svg"
+      "h-5-outline": {
+        "value": "assets/icons/outline/h-5.svg"
       },
-      "h6-outline": {
-        "value": "assets/icons/outline/h6.svg"
+      "h-6-outline": {
+        "value": "assets/icons/outline/h-6.svg"
       },
       "heart-outline": {
         "value": "assets/icons/outline/heart.svg"
@@ -501,6 +513,9 @@
       },
       "link-outline": {
         "value": "assets/icons/outline/link.svg"
+      },
+      "link-off-outline": {
+        "value": "assets/icons/outline/link-off.svg"
       },
       "list-outline": {
         "value": "assets/icons/outline/list.svg"
@@ -556,11 +571,11 @@
       "message-sent-outline": {
         "value": "assets/icons/outline/message-sent.svg"
       },
-      "message-talk-outline": {
-        "value": "assets/icons/outline/message-talk.svg"
-      },
       "message-sparkle-ai-outline": {
         "value": "assets/icons/outline/message-sparkle-ai.svg"
+      },
+      "message-talk-outline": {
+        "value": "assets/icons/outline/message-talk.svg"
       },
       "message-total-outline": {
         "value": "assets/icons/outline/message-total.svg"
@@ -615,6 +630,9 @@
       },
       "paint-outline": {
         "value": "assets/icons/outline/paint.svg"
+      },
+      "paperplane-add-outline": {
+        "value": "assets/icons/outline/paperplane-add.svg"
       },
       "paperplane-outline": {
         "value": "assets/icons/outline/paperplane.svg"
@@ -832,6 +850,9 @@
       "typing-outline": {
         "value": "assets/icons/outline/typing.svg"
       },
+      "unlink-outline": {
+        "value": "assets/icons/outline/unlink.svg"
+      },
       "undo-outline": {
         "value": "assets/icons/outline/undo.svg"
       },
@@ -859,8 +880,23 @@
       "user-engaged-outline": {
         "value": "assets/icons/outline/user-engaged.svg"
       },
+      "user-entry-outline": {
+        "value": "assets/icons/outline/user-entry.svg"
+      },
+      "user-exit-outline": {
+        "value": "assets/icons/outline/user-exit.svg"
+      },
       "user-favorite-outline": {
         "value": "assets/icons/outline/user-favorite.svg"
+      },
+      "user-lock-outline": {
+        "value": "assets/icons/outline/user-lock.svg"
+      },
+      "user-sso-outline": {
+        "value": "assets/icons/outline/user-sso.svg"
+      },
+      "user-woman-outline": {
+        "value": "assets/icons/outline/user-woman.svg"
       },
       "verified-outline": {
         "value": "assets/icons/outline/verified.svg"
@@ -1287,6 +1323,12 @@
       },
       "finland_flag-solid": {
         "value": "assets/icons/solid/flags/finland_flag.svg"
+      },
+      "folder-add-solid": {
+        "value": "assets/icons/solid/folder-add.svg"
+      },
+      "folder-open-solid": {
+        "value": "assets/icons/solid/folder-open.svg"
       },
       "folder-save-solid": {
         "value": "assets/icons/solid/folder-save.svg"
@@ -1809,6 +1851,9 @@
       },
       "sparkle-ai-solid": {
         "value": "assets/icons/solid/sparkle-ai.svg"
+      },
+      "sparkle-ai-color-solid": {
+        "value": "assets/icons/solid/sparkle-ai-color.svg"
       },
       "sri-lanka_flag-solid": {
         "value": "assets/icons/solid/flags/sri-lanka_flag.svg"

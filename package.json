@@ -20,13 +20,18 @@
     "clean": "rm -rf build",
     "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "optimize:svg": "svgo assets/**/*.svg --config=svgo.config.js --quiet",
+    "optimize:svg:check": "svgo assets/**/*.svg --config=svgo.config.js --dry-run",
+    "analyze:svg": "bash svg-analysis.sh",
+    "check:svg:size": "bash scripts/check-svg-size.sh"
   },
   "author": "",
   "license": "ISC",
   "devDependencies": {
     "semantic-release": "^21.0.2",
-    "style-dictionary": "^2.8.3"
+    "style-dictionary": "^2.8.3",
+    "svgo": "^4.0.0"
   },
   "repository": {
     "type": "git",

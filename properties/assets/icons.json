@@ -436,6 +436,9 @@
       "filter-outline": {
         "value": "assets/icons/outline/filter.svg"
       },
+      "fire-outline": {
+        "value": "assets/icons/outline/fire.svg"
+      },
       "folder-add-outline": {
         "value": "assets/icons/outline/folder-add.svg"
       },
@@ -507,6 +510,9 @@
       },
       "link-outline": {
         "value": "assets/icons/outline/link.svg"
+      },
+      "link-off-outline": {
+        "value": "assets/icons/outline/link-off.svg"
       },
       "list-outline": {
         "value": "assets/icons/outline/list.svg"
@@ -841,6 +847,9 @@
       "typing-outline": {
         "value": "assets/icons/outline/typing.svg"
       },
+      "unlink-outline": {
+        "value": "assets/icons/outline/unlink.svg"
+      },
       "undo-outline": {
         "value": "assets/icons/outline/undo.svg"
       },
@@ -868,8 +877,23 @@
       "user-engaged-outline": {
         "value": "assets/icons/outline/user-engaged.svg"
       },
+      "user-entry-outline": {
+        "value": "assets/icons/outline/user-entry.svg"
+      },
+      "user-exit-outline": {
+        "value": "assets/icons/outline/user-exit.svg"
+      },
       "user-favorite-outline": {
         "value": "assets/icons/outline/user-favorite.svg"
+      },
+      "user-lock-outline": {
+        "value": "assets/icons/outline/user-lock.svg"
+      },
+      "user-sso-outline": {
+        "value": "assets/icons/outline/user-sso.svg"
+      },
+      "user-woman-outline": {
+        "value": "assets/icons/outline/user-woman.svg"
       },
       "verified-outline": {
         "value": "assets/icons/outline/verified.svg"

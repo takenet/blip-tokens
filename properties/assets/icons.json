@@ -508,11 +508,11 @@
       "like-outline": {
         "value": "assets/icons/outline/like.svg"
       },
-      "link-outline": {
-        "value": "assets/icons/outline/link.svg"
-      },
       "link-off-outline": {
         "value": "assets/icons/outline/link-off.svg"
+      },
+      "link-outline": {
+        "value": "assets/icons/outline/link.svg"
       },
       "list-outline": {
         "value": "assets/icons/outline/list.svg"
@@ -847,11 +847,11 @@
       "typing-outline": {
         "value": "assets/icons/outline/typing.svg"
       },
-      "unlink-outline": {
-        "value": "assets/icons/outline/unlink.svg"
-      },
       "undo-outline": {
         "value": "assets/icons/outline/undo.svg"
+      },
+      "unlink-outline": {
+        "value": "assets/icons/outline/unlink.svg"
       },
       "unlock-outline": {
         "value": "assets/icons/outline/unlock.svg"
@@ -1846,11 +1846,11 @@
       "spain_flag-solid": {
         "value": "assets/icons/solid/flags/spain_flag.svg"
       },
-      "sparkle-ai-solid": {
-        "value": "assets/icons/solid/sparkle-ai.svg"
-      },
       "sparkle-ai-color-solid": {
         "value": "assets/icons/solid/sparkle-ai-color.svg"
+      },
+      "sparkle-ai-solid": {
+        "value": "assets/icons/solid/sparkle-ai.svg"
       },
       "sri-lanka_flag-solid": {
         "value": "assets/icons/solid/flags/sri-lanka_flag.svg"

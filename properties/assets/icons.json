@@ -1366,6 +1366,9 @@
       "gift-solid": {
         "value": "assets/icons/solid/gift.svg"
       },
+      "google-messages-solid": {
+        "value": "assets/icons/solid/google_messages.svg"
+      },
       "greece_flag-solid": {
         "value": "assets/icons/solid/flags/greece_flag.svg"
       },

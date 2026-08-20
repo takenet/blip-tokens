@@ -1440,6 +1440,11 @@
         "value": "assets/illustrations/brand/take-blip-white-vertical.svg"
       }
     },
+    "brand_blip-ballon-black-horizontal": {
+      "svg": {
+        "value": "assets/illustrations/brand/blip-ballon-black-horizontal.svg"
+      }
+    },
     "brand_blip-ballon-blue": {
       "svg": {
         "value": "assets/illustrations/brand/blip-ballon-blue.svg"

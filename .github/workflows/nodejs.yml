@@ -28,7 +28,7 @@ jobs:
         uses: cycjimmy/semantic-release-action@v6
         id: semantic
         with:
-          branch: master
+          branch: main
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           NODE_AUTH_TOKEN: ${{ secrets.BLIP_NPM_TOKEN }}

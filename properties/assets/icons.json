@@ -583,6 +583,9 @@
       "messenger-outline": {
         "value": "assets/icons/outline/messenger.svg"
       },
+      "meta-outline": {
+        "value": "assets/icons/outline/meta.svg"
+      },
       "monitoring-outline": {
         "value": "assets/icons/outline/monitoring.svg"
       },
